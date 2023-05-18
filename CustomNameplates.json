@@ -18,13 +18,18 @@
     },
     {
       "id": "nameplate0003",
-      "name": "It's Not A Bug, It's A Feature",
+      "name": "Not A Bug",
       "artist": "AlchlcDvl"
     },
     {
       "id": "nameplate0004",
-      "name": "It's Not A Bug, It's A Feature 2",
+      "name": "Not A Bug 2",
       "artist": "AlchlcDvl"
+    },
+    {
+      "id": "nameplate0005",
+      "name": "Crashed",
+      "artist": "XiezibanWrite"
     }
   ]
 }
