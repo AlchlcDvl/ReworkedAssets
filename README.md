@@ -1,4 +1,4 @@
-# ReworkedHats
-The place where has for the Town Of Us Reworked mod are stored
+# ReworkedAssets
+The place where assets for the Town Of Us Reworked mod are stored
 
-![LOGO](./Images/ReworkedHatsLOGO.png)
+![LOGO](./Images/ReworkedAssetsLOGO.png)

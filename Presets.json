@@ -1,0 +1,8 @@
+{
+  "presets":
+  [
+    { "id": "Chaos" },
+    { "id": "Casual" },
+    { "id": "Ranked" }
+  ]
+}

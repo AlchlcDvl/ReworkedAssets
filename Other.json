@@ -1,0 +1,7 @@
+{
+  "presets":
+  [
+    { "id": "Changelog" },
+    { "id": "Credits" }
+  ]
+}

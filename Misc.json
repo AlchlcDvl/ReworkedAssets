@@ -1,0 +1,17 @@
+{
+  "misc":
+  [
+    { "id": "Arrow" },
+    { "id": "AshPile" },
+    { "id": "Blocked" },
+    { "id": "Chat" },
+    { "id": "Darker" },
+    { "id": "FootprintLeft" },
+    { "id": "FootprintRight" },
+    { "id": "Lighter" },
+    { "id": "Overlay" },
+    { "id": "Range" },
+    { "id": "RoleCard" },
+    { "id": "TownOfUsReworkedBanner" }
+  ]
+}

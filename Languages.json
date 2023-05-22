@@ -1,0 +1,8 @@
+{
+  "presets":
+  [
+    { "id": "Chinese" },
+    { "id": "English" },
+    { "id": "Keys" }
+  ]
+}
