@@ -1,5 +1,5 @@
 {
-  "presets":
+  "portal":
   [
     { "id": "portal_000" },
     { "id": "portal_001" },

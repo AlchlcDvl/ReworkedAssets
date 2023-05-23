@@ -1,5 +1,5 @@
 {
-  "presets":
+  "other":
   [
     { "id": "Changelog" },
     { "id": "Credits" }

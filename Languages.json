@@ -1,5 +1,5 @@
 {
-  "presets":
+  "languages":
   [
     { "id": "Chinese" },
     { "id": "English" },
