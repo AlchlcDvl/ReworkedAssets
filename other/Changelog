@@ -1,0 +1,27 @@
+- New Role: Silencer [Syndicate (Disruption)]
+- Return: Time Lord and Time Master are back, and more vengeful then ever as the Time Keeper [Syndicate (Power)]!
+- Return: Neutral (Evil) roles now end the game again, but this is togglable
+- Addition: Added a credits button to the main menu
+- Finished: Role cards are now complete
+- Buff: Players with the Torch ability can now see the silhouette of invisible players
+- Buff: VIP dying will now create an arrow pointing towards the VIP's body
+- Buff: Thief can now guess players as killing roles to steal their roles (yes, I took the idea from The Other Roles)
+- Change: Collider's Inspector results are now Unseen rather than MovesAround
+- Recode: Medium has been recoded a little bit for better functionality
+- Recode: Shapeshifts have been recoded again along with appearances being handled even better than before
+- Improvement: Transport and Warp animation sizes now scale with the size of the teleported player
+- Improvement: Improved how arrows and map blips are handled
+- Improvement: Some parts were improved internally
+- Visual Fix: Fixed the intro messages being clipped off screen for some roles
+- Critical Fix: Fixed Giant and Dwarf crashing the game upon game start
+- Critical Fix: Fixed cosmetics not loading correctly
+- Bug Fix: Fixed Radar and Tiebreaker not being assigned
+- Bug Fix: Fixed custom arrows persisting when switching players using MCI
+- Bug Fix: Fixed only one player being shaken when blackmailed players are revealed
+- Role Fix: Fixed Glitch being unable to hack
+- Role Fix: Fixed Drunkard-Rebels not inverting players' controls
+- Role Fix: Fixed Drunkard inverting controls of players forever
+- Role Fix: Fixed winning Cannibals not showing up on the win screen
+- Role Fix: Guardian Angel, Bounty Hunter, Execuioner and Guesser can no longer get their Lover/Rival as their targets
+- Objectifier Fix: Fixed Syndicate defected Intruders being able to see the sabotage button
+- Objectifier Fix: Fixed Defectors not letting the games end properly
