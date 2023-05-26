@@ -159,8 +159,13 @@
     },
     {
       "id": "visor0031",
-      "name": "You.",
+      "name": "You",
       "artist": "Kara"
+    },
+    {
+      "id": "visor0032",
+      "name": "Static",
+      "artist": "Gun"
     }
   ]
 }
