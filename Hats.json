@@ -2188,8 +2188,15 @@
       "condition": "none"
     },
     {
+      "id": "standard0043",
       "name": "Sunflower",
       "artist": "Little Doo Doo",
+      "condition": "none"
+    },
+    {
+      "id": "hats0303",
+      "name": "Determination",
+      "artist": "Gun",
       "condition": "none"
     }
   ]
