@@ -1,7 +1,6 @@
 {
   "other":
   [
-    { "id": "Changelog" },
-    { "id": "Credits" }
+    { "id": "ModInfo" }
   ]
 }
