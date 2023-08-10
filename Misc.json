@@ -11,7 +11,9 @@
     { "id": "Lighter" },
     { "id": "Overlay" },
     { "id": "Range" },
-    { "id": "RoleCard" },
+    { "id": "Cursor" },
+    { "id": "Phone" },
+    { "id": "Plate" },
     { "id": "TownOfUsReworkedBanner" }
   ]
 }

@@ -1,8 +1,10 @@
 {
   "languages":
   [
-    { "id": "Chinese" },
-    { "id": "English" },
-    { "id": "Keys" }
+    {
+      "id": "test",
+      "english": "Test",
+      "chinese": "测试"
+    }
   ]
 }
