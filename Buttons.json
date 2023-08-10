@@ -114,7 +114,6 @@
     { "id": "GlobalPoison" },
     { "id": "Knight" },
     { "id": "MayorReveal" },
-    { "id": "Measure" },
     { "id": "MysticReveal" },
     { "id": "Neutralise" },
     { "id": "Plant" },
@@ -122,6 +121,8 @@
     { "id": "Scream" },
     { "id": "Silence" },
     { "id": "Wiki" },
+    { "id": "Seer" },
+    { "id": "RoleList" },
     { "id": "Warp" }
   ]
 }
