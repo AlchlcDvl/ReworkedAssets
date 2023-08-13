@@ -5,6 +5,5576 @@
       "id": "test",
       "english": "Test",
       "schinese": "测试"
+    },
+    {
+      "id": "Presets.Casual",
+      "english": "Casual",
+      "schinese": "测"
+    },
+    {
+      "id": "Presets.Chaos",
+      "english": "Chaos",
+      "schinese": "测"
+    },
+    {
+      "id": "Presets.Default",
+      "english": "Default",
+      "schinese": "测"
+    },
+    {
+      "id": "Presets.LastUsed",
+      "english": "Last Used",
+      "schinese": "测"
+    },
+    {
+      "id": "Presets.Ranked",
+      "english": "Ranked",
+      "schinese": "测"
+    },
+    {
+      "id": "Updates.Mod.Updating",
+      "english": "Updating %mod%\nPlease wait...",
+      "schinese": "测"
+    },
+    {
+      "id": "Updates.Mod.InProgress",
+      "english": "Update might already\nbe in progress",
+      "schinese": "测"
+    },
+    {
+      "id": "Updates.Mod.Manually",
+      "english": "Unable to auto-update\nPlease update manually",
+      "schinese": "测"
+    },
+    {
+      "id": "Updates.Mod.Success",
+      "english": "%mod%\nupdated successfully.\nPlease RESTART the game.",
+      "schinese": "测"
+    },
+    {
+      "id": "Updates.Mod.NoSuccess",
+      "english": "Update wasn't successful\nTry again later,\nor update manually.",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Watermelon",
+      "english": "Watermelon",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Chocolate",
+      "english": "Chocolate",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.SkyBlue",
+      "english": "Sky Blue",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Beige",
+      "english": "Beige",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Megenta",
+      "english": "Megenta",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Turquoise",
+      "english": "Turquoise",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Lilac",
+      "english": "Lilac",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Azure",
+      "english": "Azure",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Olive",
+      "english": "Olive",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Plum",
+      "english": "Plum",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Jungle",
+      "english": "Jungle",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Mint",
+      "english": "Mint",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Chartreuse",
+      "english": "Chartreuse",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Macau",
+      "english": "Macau",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Tawny",
+      "english": "Tawny",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Gold",
+      "english": "Gold",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Panda",
+      "english": "Panda",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Contrast",
+      "english": "Contrast",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Starlight",
+      "english": "Starlight",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Vantablack",
+      "english": "Vantablack",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Ice",
+      "english": "Ice",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Nougat",
+      "english": "Nougat",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Reversebow",
+      "english": "Reversebow",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Vibrance",
+      "english": "Vibrance",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Darkbow",
+      "english": "Darkbow",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Aberration",
+      "english": "Aberration",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Chroma",
+      "english": "Chroma",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Mantle",
+      "english": "Mantle",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Fire",
+      "english": "Fire",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Galaxy",
+      "english": "Galaxy",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Monochrome",
+      "english": "Monochrome",
+      "schinese": "测"
+    },
+    {
+      "id": "Colors.Rainbow",
+      "english": "Rainbow",
+      "schinese": "测"
+    },
+    {
+      "id": "Shade.Lighter",
+      "english": "Lighter",
+      "schinese": "测"
+    },
+    {
+      "id": "Shade.Darker",
+      "english": "Darker",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.CurrentPage",
+      "english": "Currently Viewing Page (%page%/9)",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page1",
+      "english": "\nGlobal",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page2",
+      "english": "\n<color=#8CFFFFFF>Crew</color>",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page3",
+      "english": "\n<color=#B3B3B3FF>Neutrals</color>",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page4",
+      "english": "\n<color=#FF0000FF>Intruders</color>",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page5",
+      "english": "\n<color=#008000FF>Syndicate</color>",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page6",
+      "english": "\n<color=#7F7F7FFF>Modifiers</color>",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page7",
+      "english": "\n<color=#DD585BFF>Objectifiers</color>",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page8",
+      "english": "\n<color=#FF9900FF>Abilities</color>",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Page9",
+      "english": "\nRole Lists",
+      "schinese": "测"
+    },
+    {
+      "id": "GameSettings.Instructions",
+      "english": "Press The Tab/Page Number/Backspace To Change Pages",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GameSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PlayerSpeed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GhostSpeed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InteractionDistance",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EmergencyButtonCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EmergencyButtonCooldown",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DiscussionTime",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VotingTime",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TaskbarUpdates",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConfirmEjects",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EjectionRevealsRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InitalCooldowns",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MeetingCooldowns",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ReportDistance",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChatCooldown",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChatCharacterLimit",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LobbySize",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GameModeSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GameMode",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.KOSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralsCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AddArsonist",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AddCryomaniac",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AddPlaguebearer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AARLSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnableUnqiues",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GameModifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhoCanVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AnonymousVoting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NoSkipping",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FirstKillShield",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhoSeeFirstKillShield",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FactionSeeRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Visualtasks",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NoNames",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Whispers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhispersAnnouncement",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AppearanceAnimation",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomSpawns",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VentTargetting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnableAbilities",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnableModifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnableObjectifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GameAnnouncementSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GameAnnouncements",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.QualityChanges",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DeadSeeEverything",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ParallelMedScans",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ObstructNames",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MapSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Map",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomMapSkeld",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomMapMira",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomMapPolus",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomMapAirship",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomMapSubmerged",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomMapLevelImpostor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AutoAdjustSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SmallMapHalfVision",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SmallMapDecreasedCooldown",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LargeMapIncreasedCooldown",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BetterSabotages",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ColorblindComms",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MeetingColorblind",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomMapdlekS",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NightVision",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EvilsIgnoreNV",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.OxySlow",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ReactorShake",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BetterSkeld",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SkeldVentImprovements",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BetterMira",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MiraHQVentImprovements",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BetterPolus",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PolusVentImprovements",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VitalsLab",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ColdTempDeathValley",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RandomMapSkeld",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WifiCharCourseSwap",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SeismicTimer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SpawnType",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BetterAirship",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MoveVitals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MoveFuel",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MoveDivert",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MoveAdmin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MoveElectrical",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MinDoorSwipeTime",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrashTimer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewAuditorRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MysticOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VampireHunterOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewInvestigativeRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CoronerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DetectiveOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InspectorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MediumOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.OperativeOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SeerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SheriffOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewKillingRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigilanteOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VeteranOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewProtectiveRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AltruistOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MedicOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewSovereignRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MayorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MonarchOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DictatorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewSupportRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChameleonOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EscortOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EngineerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RetributionistOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShifterOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TransporterOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewUtilityRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewmateOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralBenignRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AmnesiacOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuardianAngelOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SurvivorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ThiefOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralEvilRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ActorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BountyHunterOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CannibalOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExecutionerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuesserOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JesterOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TrollOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralHarbingerRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralKillingRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PlaguebearerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ArsonistOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CryomaniacOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GlitchOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JuggernautOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MurdererOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SerialKillerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WerewolfOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralNeophyteRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DraculaOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NecromancerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhispererOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JackalOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralProselyteRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PhantomOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderConcealing",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BlackmailerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CamouflagerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GrenadierOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JanitorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderDeceptionRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DisguiserOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MorphlingOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WraithOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderKillingRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AmbusherOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnforcerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderSupportRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConsigliereOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GodfatherOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConsortOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MinerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TeleporterOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderUtilityRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GhoulOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ImpostorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateDisruptionRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConcealerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DrunkardOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FramerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShapeshifterOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SilencerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateKillingRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BomberOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrusaderOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ColliderOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PoisonerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateSupportRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RebelOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.StalkerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WarperOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateUtilityRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BansheeOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AnarchistOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicatePowerRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SpellslingerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TimeKeeperOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Modifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AstralOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BaitOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CowardOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DiseasedOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DrunkOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Dwarfon",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GiantOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IndomitableOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ProfessionalOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShyOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VIPOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VolatileOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.YellerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Objectifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AlliedOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CorruptedOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DefectorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FanaticOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LinkedOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LoversOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MafiaOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.OverlordOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RivalsOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TaskmasterOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TraitorOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Abilities",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ButtonBarryOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewAssassinOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InsiderOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderAssassinOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MultitaskerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralAssassinOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NinjaOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PoliticianOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RadarOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RuthlessOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SwapperOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateAssassinOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TiebreakerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TorchOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UnderdogOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TunnelerOn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CommonTasks",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LongTasks",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShortTasks",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GhostTasksCountToWin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewVision",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewFlashlight",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrweMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewMin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewAuditorSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CAMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Mystic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMystic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MysticRevealCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewInvestigativeSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CIMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Coroner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCoroner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CoronerArrowDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CoronerReportRole",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CoronerReportName",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CoronerKillerNameTime",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CompareCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AutopsyCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Detective",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueDetective",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExamineCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RecentKill",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FootprintInterval",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FootprintDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AnonymousFootprint",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Inspector",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueInspector",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InspectCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Medium",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MediateCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMedium",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShowMediatePlayer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShowMediumToDead",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DeadRevealed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Seer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueSeer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SeerCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Operative",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueOperative",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BugCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MinAmountOfTimeInBug",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BugsRemoveOnNewRound",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxBugs",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BugRange",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MinAmountOfPlayersInBug",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhoSeesDead",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PreciseOperativeInfo",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Sheriff",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UnqieuSheriff",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InterrogateCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutEvilRed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutKillingRed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Tracker",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTracker",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UpdateInterval",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TrackCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ResetOnNewRound",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxTracks",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewKillingSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CKMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Veteran",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueVeteran",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AlertCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AlertDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxAlerts",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Vigilante",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueVigilante",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MisfireKillsInno",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiKillAgain",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RoundOneNoShot",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiNotifOptions",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiOptions",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShootCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxBullets",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewProtectiveSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CPMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Altruist",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueAltruist",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxRevives",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ReviveCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ReviveDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AltruistTargetBody",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Medic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMedic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShowShielded",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhoGetsNotification",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShieldBreaks",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewSovereignSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CSvMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Dictator",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueDictator",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RoundOneNoDictReveal",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DictateAfterVoting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DictatorButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Mayor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMayor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MayorVoteCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RoundOneNoMayorReveal",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MayorButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Monarch",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMonarch",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.KnightingCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RoundOneNoKnighting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.KnightCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.KnightVoteCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MonarchButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.KnightButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewSupportSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CSMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Chameleon",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueChameleon",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SwoopCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SwoopDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxSwoops",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Engineer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueEngineer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FixCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxFixes",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Escort",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueEscort",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EscortCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EscortDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Retributionist",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueRetributionist",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ReviveAfterVoting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxUses",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Shifter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueShifter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShiftCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShiftedBecomes",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Transporter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTransporter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TransportDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TransportCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TransSelf",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxTransports",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrewUtilitySettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Revealer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerTasksRemainingClicked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerTasksRemainingAlert",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerRevealsNeutrals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerRevealsCrew",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerRevealsRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerCanBeClickedBy",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralVision",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LightsAffectNeutrals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralFlashlight",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralMin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NoSolo",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AvoidNeutralKingmakers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralsVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralApocalypseSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Pestilence",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PestSpawn",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PlayersAlerted",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ObliterateCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PestVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralBenignSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NBMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiKillsNB",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Amnesiac",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueAmnesiac",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RememberArrows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RememberArrowDelay",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AmneVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AmneSwitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuardianAngel",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueGuardianAngel",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuardianAngelCanPickTargets",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ProtectCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ProtectDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ProtectKCReset",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxProtects",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShowProtect",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GATargetKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ProtectBeyondTheGrave",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GAKnowsTargetRole",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GAVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GASwitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueSurvivor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Survivor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VestCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VestDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VestKCReset",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxVests",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SurvVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SurvSwitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Thief",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueThief",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.StealCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ThiefSteals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ThiefCanGuess",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ThiefCanGuessAfterVoting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ThiefVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralEvilSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NEMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralEvilsEndGame",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Actor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueActor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ActorCanPickRole",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ActorButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ActorVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ActSwitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiKillsActor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BountyHunter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueBountyHunter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BountyHunterCanPickTargets",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuessCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BountyHunterGuesses",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BHVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiKillsBH",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Cannibal",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCannibal",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EatCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BodiesNeeded",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EatArrows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EatArrowDelay",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CannibalVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiKillsCannibal",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Executioner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueExecutioner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExecutionerCanPickTargets",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DoomCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxDooms",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExecutionerButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExeVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExeTargetKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExeSwitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExeEjectScreen",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExeKnowsTargetRole",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ExeCanWinBeyondDeath",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiKillsExecutioner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Guesser",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueGuesser",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuesserCanPickTargets",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuesserButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuessSwitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuessTargetKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MultipleGuesses",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxGuesses",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GuesserAfterVoting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiKillsGuesser",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Jester",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JesterButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueJester",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.HauntCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxHaunts",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JesterVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JestSwitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JestEjectScreen",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VigiKillsJester",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Troll",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTroll",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InteractCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TrollVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TrollSwitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralHarbingerSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NHMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Plaguebearer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniquePlaguebearer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InfectCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PBVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralKillingSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NKMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NKHasImpVision",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NKsKnow",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Arsonist",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueArsonist",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Douse",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IgniteCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ArsoLastKillerBoost",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ArsoIgniteAll",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ArsoCooldownsLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IgnitionCremates",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ArsoVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Cryomaniac",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCryomaniac",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CryoFreezeAll",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CryoLastKillerBoost",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CryoVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Glitch",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueGlitch",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MimicCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MimicDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.HackCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.HackDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutraliseCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GlitchVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Juggernaut",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueJuggernaut",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssaultCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssaultBonus",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JuggVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Murderer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMurderer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MurderCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MurdVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SerialKiller",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueSerialKiller",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BloodlustCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BloodlustDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.StabCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SKVentOptions",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Werewolf",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueWerewolf",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaulCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaulRadius",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WerewolfVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralNeophyteSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NNMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NNHasImpVision",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Dracula",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueDracula",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BiteCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DracVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AliveVampCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UndeadVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Jackal",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueJackal",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RecruitCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JackalVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RecruitVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Necromancer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueNecromancer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ResurrectCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ResurrectCdIncrease",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ResurrectCdIncreases",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxResurrections",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NecroKillCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NecroKillCdIncrease",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NecroKillCdIncreases",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxNecroKills",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NecroCooldownsLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NecromancerTargetBody",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ResurrectDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NecroVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ResurrectVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Whisperer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueWhisperer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhisperCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhisperCdIncreases",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhisperCdIncrease",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhisperRadius",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhisperRate",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhisperRateDecreases",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhisperRateDecrease",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhispVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PersuadedVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.NeutralProselyteSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Betrayer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BetrayCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BetrayerVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Phantom",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PhantomTasksRemaining",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PhantomPlayersAlerted",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderVision",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderFlashlight",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntKillCooldown",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntrudersVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntrudersCanSabotage",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GhostsCanSabotage",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderMin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderConcealingSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ICMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Blackmailer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BlackmailCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhispersNotPrivate",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BlackmailMates",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BMRevealed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueBlackmailer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Camouflager",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCamouflager",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CamouflageCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CamouflageDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CamoHideSize",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CamoHideSpeed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Grenadier",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueGrenadier",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FlashCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FlashDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FlashRadius",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GrenadierIndicators",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GrenadierVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Janitor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueJanitor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CleanCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JaniCooldownsLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SoloBoost",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DragCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DragModifier",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.JanitorVentOptions",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderDeceptionSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IDMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Disguiser",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueDisguiser",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DisguiseCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DisguiseDelay",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DisguiseDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MeasureCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DisgCooldownsLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DisguiseTarget",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Morphling",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMorphling",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MorphCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MorphDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SampleCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MorphCooldownsLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MorphlingVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Wraith",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueWraith",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InvisCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InvisDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WraithVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderKillingSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IKMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Ambusher",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueAmbusher",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AmbushCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AmbushDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AmbushMates",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Enforcer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueEnforcer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RivalsRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnforceCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnforceDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnforceDelay",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnforceRadius",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderSupportSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ISMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Consigliere",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueConsigliere",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InvestigateCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConsigInfo",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Consort",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueConsort",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConsortCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConsortDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Godfather",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueGodfather",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GFPromotionCdDecrease",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Miner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMiner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MineCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Teleporter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TeleportCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTeleporter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TeleMarkCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TeleCooldownsLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TeleVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IntruderUtilitySettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Ghoul",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GhoulMarkCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateVision",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateFlashlight",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChaosDriveMeetingCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CDKillCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AltImps",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GlobalDrive",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateMin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateDisruptionSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SDMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Concealer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueConcealer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConcealCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConcealDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ConcealMates",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Drunkard",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Framer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueFramer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FrameCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChaosDriveFrameRadius",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Shapeshifter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueShapeshifter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShapeshiftDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShapeshiftCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ShapeshiftMates",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Silencer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueSilencer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SilenceCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WhispersNotPrivateSilencer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SilenceMates",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateKillingSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SilenceRevealed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyKMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Bomber",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueBomber",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BombCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DetonateCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BombCooldownsLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BombsRemoveOnNewRound",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BombsDetonateOnMeetingStart",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BombRange",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChaosDriveBombRange",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BombKillsSyndicate",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Collider",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCollider",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CollideCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChargeCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChargeDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CollideRange",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CollideRangeIncrease",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChargeCooldownsLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CollideResetsCooldown",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Crusader",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCrusader",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrusadeCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ChaosDriveCrusadeRadius",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrusadeDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CrusadeMates",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Poisoner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniquePoisoner",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PoisonCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PoisonDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicatePowerSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SPMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Spellslinger",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueSpellslinger",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SpellCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SpellCdIncrease",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TimeKeeper",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTimeKeeper",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TimeCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TimeDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TimeFreezeImmunity",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TimeRewindImmunity",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateSupportSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SSuMax",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Rebel",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueRebel",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RebPromotionCdDecrease",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Stalker",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueStalker",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.StalkCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Warper",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueWarper",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WarpCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WarpDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.WarpSelf",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SyndicateUtilitySettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Anarchist",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AnarchKillCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Banshee",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ScreamCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ScreamDur",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ModifierSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxModifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MinModifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Astral",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueAstral",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Bait",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueBait",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BaitKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BaitMinDelay",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BaitMaxDelay",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Coward",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCoward",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Diseased",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueDiseased",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DiseasedKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DiseasedKillMultiplier",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Drunk",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueDrunk",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DrunkControlsSwap",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DrunkKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DrunkInterval",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Dwarf",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueDwarf",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DwarfSpeed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DwarfScale",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Giant",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueGiant",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GiantSpeed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.GiantScale",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Indomitable",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueIndomitable",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.IndomitableKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Professional",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueProfessional",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ProfessionalKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Shy",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueShy",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VIP",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueVIP",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VIPKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Volatile",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueVolatile",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VolatileInterval",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.VolatileKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Yeller",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueYeller",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AbilitySettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxAbilities",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MinAbilities",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Assassin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCrewAssassin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueNeutralAssassin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueIntruderAssassin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueSyndicateAssassin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinKills",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinMultiKill",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinGuessNeutralBenign",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinGuessNeutralEvil",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinGuessInvestigative",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinGuessPest",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinGuessModifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinGuessObjectifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinGuessAbilities",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AssassinateAfterVoting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ButtonBarry",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueButtonBarry",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ButtonCooldown",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Insider",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueInsider",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.InsiderKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Multitasker",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMultitasker",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Transparancy",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Ninja",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueNinja",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Politician",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniquePolitician",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PoliticianVoteBank",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PoliticianAnonymous",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.PoliticianButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Radar",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueRadar",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Ruthless",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueRuthless",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RuthlessKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Snitch",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueSnitch",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchSeesNeutrals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchSeesCrew",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchSeesRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchTasksRemaining",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchSeestargetsInMeeting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Swapper",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueSwapper",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SwapperButton",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SwapAfterVoting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SwapSelf",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Tiebreaker",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTiebreaker",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TiebreakerKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Torch",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTorch",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Tunneler",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTunneler",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TunnelerKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Underdog",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueUnderdog",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UnderdogKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UnderdogKillBonus",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UnderdogIncreasedKC",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.ObjectifierSettings",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MaxObjectifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MinObjectifiers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Allied",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueAllied",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AlliedFaction",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Corrupted",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueCorrupted",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CorruptCd",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.AllCorruptedWin",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.CorruptedVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Defector",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueDefector",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DefectorKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.DefectorFaction",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Fanatic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueFanatic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FanaticKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.FanaticColourSwap",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchSeesFanatic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerRevealsFanatic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Linked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueLinked",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LinkedChat",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LinkedRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Lovers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueLovers",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BothLoversDie",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LoversChat",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.LoversRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Mafia",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueMafia",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MafiaRoles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MafVent",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Overlord",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueOverlord",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.OverlordKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.OverlordMeetingWinCount",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Rivals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RivalsChat",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueRivals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Taskmaster",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTaskmaster",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TMTasksRemaining",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Traitor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.UniqueTraitor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TraitorKnows",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SnitchSeesTraitor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RevealerRevealsTraitor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.TraitorColourSwap",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Entry",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.Ban",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.RoleList",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.BanList",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "CustomOption.On",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "CustomOption.Off",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "TaskBarMode.Meeting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "TaskBarMode.Rounds",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "TaskBarMode.Invisible",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameMode.Classic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameMode.Custom",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameMode.Vanilla",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameMode.AllAny",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameMode.RoleList",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameMode.KillingOnly",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoCanVent.Everyone",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoCanVent.Default",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoCanVent.NoOne",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SkipButtonDisable.Never",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SkipButtonDisable.Emergency",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SkipButtonDisable.Always",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoSeesFirstKillShield.Everyone",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoSeesFirstKillShield.Shielded",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoSeesFirstKillShield.NoOne",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameAnnouncements.BanList",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameAnnouncements.Never",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameAnnouncements.Roles",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "GameAnnouncements.Faction",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Map.Skeld",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Map.MiraHQ",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Map.Polus",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Map.dlekS",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Map.Airship",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Map.Submerged",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Map.LevelImpostor",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Map.Random",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SpawnType.Normal",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SpawnType.Fixed",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SpawnType.Synchronised",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SpawnType.Meeting",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "MoveAdmin.Dont",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "MoveAdmin.Cockpit",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "MoveAdmin.MainHall",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "MoveElectrical.Dont",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "MoveElectrical.Vault",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "MoveElectrical.Electrical",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShowMediumToDead.No",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShowMediumToDead.Target",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShowMediumToDead.All",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DeadRevealed.Oldest",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DeadRevealed.Newest",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DeadRevealed.All",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DeadRevealed.Random",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoSeesDead.Nobody",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoSeesDead.Operative",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoSeesDead.NotOperative",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "WhoSeesDead.Everyone",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "VigiNotifOptions.Never",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "VigiNotifOptions.Flash",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "VigiNotifOptions.Message",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "VigiOptions.Immediately",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "VigiOptions.Pre",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "VigiOptions.Post",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShieldOptions.Nobody",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShieldOptions.Everyone",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShieldOptions.Shielded",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShieldOptions.Medic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShieldOptions.ShieldedAndMedic",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShiftedBecomes.Crewmate",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShiftedBecomes.Shifter",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "RevealerCanBeClickedBy.All",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "RevealerCanBeClickedBy.NonCrew",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "RevealerCanBeClickedBy.Evils",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "NoSolo.Never",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "NoSolo.SameNKs",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "NoSolo.AllNKs",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "NoSolo.AllNeutrals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShowProtect.Protected",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShowProtect.GA",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShowProtect.ProtectedAndGA",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShowProtect.Everyone",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ShowProtect.Nobody",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SKVentOptions.Always",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SKVentOptions.Bloodlust",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SKVentOptions.NoLust",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "SKVentOptions.Never",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "JanitorVentOptions.Never",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "JanitorVentOptions.Body",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "JanitorVentOptions.Bodyless",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "JanitorVentOptions.Always",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DisguiseTarget.Everyone",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DisguiseTarget.Intruders",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DisguiseTarget.NonIntruders",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ConsigInfo.Role",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "ConsigInfo.Faction",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "AlliedFaction.Random",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "AlliedFaction.Intruders",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "AlliedFaction.Syndicate",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "AlliedFaction.Crew",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DefectorFaction.Random",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DefectorFaction.OpposingEvil",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "DefectorFaction.Crew",
+      "english": "Test",
+      "schinese": "测"
     }
   ]
 }
