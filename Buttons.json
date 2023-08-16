@@ -123,6 +123,8 @@
     { "id": "Wiki" },
     { "id": "Seer" },
     { "id": "RoleList" },
+    { "id": "PlaceHit" },
+    { "id": "Pretend" },
     { "id": "Warp" }
   ]
 }
