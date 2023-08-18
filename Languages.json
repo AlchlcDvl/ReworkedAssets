@@ -238,8 +238,8 @@
     },
     {
       "id": "GameSettings.CurrentPage",
-      "english": "Currently Viewing Page (%page%/9)",
-      "schinese": "当前页数 (%page%/9)"
+      "english": "Currently Viewing Page (%page1%/%page2%)",
+      "schinese": "当前页数 (%page1%/%page2%)"
     },
     {
       "id": "GameSettings.Page1",
