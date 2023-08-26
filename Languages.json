@@ -243,48 +243,53 @@
     },
     {
       "id": "GameSettings.Page1",
-      "english": "\nGlobal",
-      "schinese": "\n全局"
+      "english": "Global",
+      "schinese": "全局"
     },
     {
       "id": "GameSettings.Page2",
-      "english": "\n<color=#8CFFFFFF>Crew</color>",
-      "schinese": "\n<color=#8CFFFFFF>船员阵营</color>"
+      "english": "<color=#8CFFFFFF>Crew</color>",
+      "schinese": "<color=#8CFFFFFF>船员阵营</color>"
     },
     {
       "id": "GameSettings.Page3",
-      "english": "\n<color=#B3B3B3FF>Neutrals</color>",
-      "schinese": "\n<color=#B3B3B3FF>独立阵营</color>"
+      "english": "<color=#B3B3B3FF>Neutrals</color>",
+      "schinese": "<color=#B3B3B3FF>独立阵营</color>"
     },
     {
       "id": "GameSettings.Page4",
-      "english": "\n<color=#FF0000FF>Intruders</color>",
-      "schinese": "\n<color=#FF0000FF>内鬼阵营</color>"
+      "english": "<color=#FF0000FF>Intruders</color>",
+      "schinese": "<color=#FF0000FF>内鬼阵营</color>"
     },
     {
       "id": "GameSettings.Page5",
-      "english": "\n<color=#008000FF>Syndicate</color>",
-      "schinese": "\n<color=#008000FF>暴乱阵营</color>"
+      "english": "<color=#008000FF>Syndicate</color>",
+      "schinese": "<color=#008000FF>暴乱阵营</color>"
     },
     {
       "id": "GameSettings.Page6",
-      "english": "\n<color=#7F7F7FFF>Modifiers</color>",
-      "schinese": "\n<color=#7F7F7FFF>附加职业</color>"
+      "english": "<color=#7F7F7FFF>Modifiers</color>",
+      "schinese": "<color=#7F7F7FFF>附加职业</color>"
     },
     {
       "id": "GameSettings.Page7",
-      "english": "\n<color=#DD585BFF>Objectifiers</color>",
-      "schinese": "\n<color=#DD585BFF>附属阵营</color>"
+      "english": "<color=#DD585BFF>Objectifiers</color>",
+      "schinese": "<color=#DD585BFF>附属阵营</color>"
     },
     {
       "id": "GameSettings.Page8",
-      "english": "\n<color=#FF9900FF>Abilities</color>",
-      "schinese": "\n<color=#FF9900FF>额外能力</color>"
+      "english": "<color=#FF9900FF>Abilities</color>",
+      "schinese": "<color=#FF9900FF>额外能力</color>"
     },
     {
       "id": "GameSettings.Page9",
-      "english": "\nRole Lists",
-      "schinese": "\n职业列表"
+      "english": "Role Lists",
+      "schinese": "职业列表"
+    },
+    {
+      "id": "GameSettings.Page10",
+      "english": "External Page",
+      "schinese": "Do Not Translate This, It Only Appears Internally"
     },
     {
       "id": "GameSettings.Instructions",
@@ -382,7 +387,7 @@
       "schinese": "游戏模式设置"
     },
     {
-      "id": "Generate.GameMode",
+      "id": "Generate.CurrentMode",
       "english": "Game Mode",
       "schinese": "游戏模式"
     },
@@ -487,7 +492,7 @@
       "schinese": "玩家随机出生"
     },
     {
-      "id": "Generate.VentTargetting",
+      "id": "Generate.VentTargeting",
       "english": "Players In Vents Can Be Targeted",
       "schinese": "管道内的玩家可以成为技能目标"
     },
@@ -637,12 +642,12 @@
       "schinese": "高级破坏设置"
     },
     {
-      "id": "Generate.ColorblindComms",
+      "id": "Generate.CamouflagedComms",
       "english": "Camouflaged Comms",
       "schinese": "通讯破坏附带隐蔽效果"
     },
     {
-      "id": "Generate.MeetingColorblind",
+      "id": "Generate.CamouflagedMeetings",
       "english": "Camouflaged Meetings",
       "schinese": "隐蔽效果在会议阶段也生效"
     },
@@ -677,17 +682,12 @@
       "schinese": "Better Skeld设置"
     },
     {
-      "id": "Generate.SkeldVentImprovements",
-      "english": "Improved Vent Layout",
-      "schinese": "优化管道网络布局"
-    },
-    {
       "id": "Generate.BetterMira",
       "english": "Better Mira HQ",
       "schinese": "Better Mira HQ设置"
     },
     {
-      "id": "Generate.MiraHQVentImprovements",
+      "id": "Generate.VentImprovements",
       "english": "Improved Vent Layout",
       "schinese": "优化管道网络布局"
     },
@@ -695,11 +695,6 @@
       "id": "Generate.BetterPolus",
       "english": "Better Polus",
       "schinese": "Better Polus设置"
-    },
-    {
-      "id": "Generate.PolusVentImprovements",
-      "english": "Improved Vent Layout",
-      "schinese": "优化管道网络布局"
     },
     {
       "id": "Generate.VitalsLab",
@@ -1183,327 +1178,327 @@
     },
     {
       "id": "Generate.SyndicateDisruptionRoles",
-      "english": "Test",
+      "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Disruption</color> <color=#FFD700FF>Roles</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.ConcealerOn",
-      "english": "Test",
+      "english": "<color=#C02525FF>Concealer</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.DrunkardOn",
-      "english": "Test",
+      "english": "<color=#FF7900FF>Drunkard</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.FramerOn",
-      "english": "Test",
+      "english": "<color=#00FFFFFF>Framer</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.ShapeshifterOn",
-      "english": "Test",
+      "english": "<color=#2DFF00FF>Shapeshifter</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SilencerOn",
-      "english": "Test",
+      "english": "<color=#AAB43EFF>Silencer</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SyndicateKillingRoles",
-      "english": "Test",
+      "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.BomberOn",
-      "english": "Test",
+      "english": "<color=#C9CC3FFF>Bomber</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.CrusaderOn",
-      "english": "Test",
+      "english": "<color=#DF7AE8FF>Crusader</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.ColliderOn",
-      "english": "Test",
+      "english": "<color=#B345FFFF>Collider</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.PoisonerOn",
-      "english": "Test",
+      "english": "<color=#B5004CFF>Poisoner</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SyndicateSupportRoles",
-      "english": "Test",
+      "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.RebelOn",
-      "english": "Test",
+      "english": "<color=#FFFCCEFF>Rebel</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.StalkerOn",
-      "english": "Test",
+      "english": "<color=#7E4D00FF>Stalker</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.WarperOn",
-      "english": "Test",
+      "english": "<color=#8C7140FF>Warper</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SyndicateUtilityRoles",
-      "english": "Test",
+      "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.BansheeOn",
-      "english": "Test",
+      "english": "<color=#E67E22FF>Banshee</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.AnarchistOn",
-      "english": "Test",
+      "english": "<color=#008000FF>Anarchist</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SyndicatePowerRoles",
-      "english": "Test",
+      "english": "color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Power</color> <color=#FFD700FF>Roles</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SpellslingerOn",
-      "english": "Test",
+      "english": "<color=#0028F5FF>Spellslinger</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.TimeKeeperOn",
-      "english": "Test",
+      "english": "<color=#3769FEFF>Time Keeper</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.Modifiers",
-      "english": "Test",
-      "schinese": "测"
+      "english": "<color=#7F7F7FFF>Modifiers</color>",
+      "schinese": "<color=#7F7F7FFF>附加职业</color>"
     },
     {
       "id": "Generate.AstralOn",
-      "english": "Test",
+      "english": "<color=#612BEFFF>Astral</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.BaitOn",
-      "english": "Test",
+      "english": "Te<color=#00B3B3FF>Bait</color>st",
       "schinese": "测"
     },
     {
       "id": "Generate.CowardOn",
-      "english": "Test",
+      "english": "<color=#456BA8FF>Coward</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.DiseasedOn",
-      "english": "Test",
+      "english": "<color=#374D1EFF>Diseased</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.DrunkOn",
-      "english": "Test",
+      "english": "<color=#758000FF>Drunk</color>",
       "schinese": "测"
     },
     {
-      "id": "Generate.Dwarfon",
-      "english": "Test",
+      "id": "Generate.DwarfOn",
+      "english": "<color=#FF8080FF>Dwarf</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.GiantOn",
-      "english": "Test",
+      "english": "<color=#FFB34DFF>Giant</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.IndomitableOn",
-      "english": "Test",
+      "english": "<color=#2DE5BEFF>Indomitable</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.ProfessionalOn",
-      "english": "Test",
+      "english": "<color=#860B7AFF>Professional</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.ShyOn",
-      "english": "Test",
+      "english": "<color=#1002C5FF>Shy</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.VIPOn",
-      "english": "Test",
+      "english": "<color=#DCEE85FF>VIP</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.VolatileOn",
-      "english": "Test",
+      "english": "<color=#FFA60AFF>Volatile</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.YellerOn",
-      "english": "Test",
+      "english": "<color=#F6AAB7FF>Yeller</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.Objectifiers",
-      "english": "Test",
+      "english": "<color=#DD585BFF>Objectifiers</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.AlliedOn",
-      "english": "Test",
+      "english": "<color=#4545A9FF>Allied</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.CorruptedOn",
-      "english": "Test",
+      "english": "<color=#4545FFFF>Corrupted</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.DefectorOn",
-      "english": "Test",
+      "english": "<color=#E1C849FF>Defector</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.FanaticOn",
-      "english": "Test",
+      "english": "<color=#678D36FF>Fanatic</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.LinkedOn",
-      "english": "Test",
+      "english": "<color=#FF351FFF>Linked</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.LoversOn",
-      "english": "Test",
+      "english": "<color=#FF66CCFF>Lovers</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.MafiaOn",
-      "english": "Test",
+      "english": "<color=#00EEFFFF>Mafia</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.OverlordOn",
-      "english": "Test",
+      "english": "<color=#008080FF>Overlord</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.RivalsOn",
-      "english": "Test",
+      "english": "<color=#3D2D2CFF>Rivals</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.TaskmasterOn",
-      "english": "Test",
+      "english": "<color=#ABABFFFF>Taskmaster</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.TraitorOn",
-      "english": "Test",
+      "english": "<color=#370D43FF>Traitor</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.Abilities",
-      "english": "Test",
+      "english": "color=#FF9900FF>Abilities</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.ButtonBarryOn",
-      "english": "Test",
+      "english": "<color=#E600FFFF>Button Barry</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.CrewAssassinOn",
-      "english": "Test",
+      "english": "<color=#8CFFFFFF>Crew</color> <color=#073763FF>Assassin</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.InsiderOn",
-      "english": "Test",
+      "english": "<color=#26FCFBFF>Insider</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.IntruderAssassinOn",
-      "english": "Test",
+      "english": "<color=#FF0000FF>Intruder</color> <color=#073763FF>Assassin</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.MultitaskerOn",
-      "english": "Test",
+      "english": "<color=#FF804DFF>Multitasker</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.NeutralAssassinOn",
-      "english": "Test",
+      "english": "<color=#B3B3B3FF>Neutral</color> <color=#073763FF>Assassin</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.NinjaOn",
-      "english": "Test",
+      "english": "<color=#A84300FF>Ninja</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.PoliticianOn",
-      "english": "Test",
+      "english": "<color=#CCA3CCFF>Politician</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.RadarOn",
-      "english": "Test",
+      "english": "<color=#FF0080FF>Radar</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.RuthlessOn",
-      "english": "Test",
+      "english": "<color=#2160DDFF>Ruthless</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SnitchOn",
-      "english": "Test",
+      "english": "<color=#D4AF37FF>Snitch</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SwapperOn",
-      "english": "Test",
+      "english": "<color=#66E666FF>Swapper</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.SyndicateAssassinOn",
-      "english": "Test",
+      "english": "<color=#008000FF>Syndicate</color> <color=#073763FF>Assassin</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.TiebreakerOn",
-      "english": "Test",
+      "english": "<color=#99E699FF>Tiebreaker</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.TorchOn",
-      "english": "Test",
+      "english": "<color=#FFFF99FF>Torch</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.UnderdogOn",
-      "english": "Test",
+      "english": "<color=#841A7FFF>Underdog</color>",
       "schinese": "测"
     },
     {
       "id": "Generate.TunnelerOn",
-      "english": "Test",
+      "english": "<color=#E91E63FF>Tunneler</color>",
       "schinese": "测"
     },
     {
@@ -3347,7 +3342,7 @@
       "schinese": "测"
     },
     {
-      "id": "Generate.IntKillCooldown",
+      "id": "Generate.IntKillCd",
       "english": "Test",
       "schinese": "测"
     },

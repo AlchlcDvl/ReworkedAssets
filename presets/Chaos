@@ -596,7 +596,7 @@ Interrogate Cooldown
 10
 <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> Show Evil
 True
-<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killings</color> Show Evil
+<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Show Evil
 True
 <color=#009900FF>Tracker</color> Is Unique
 False
@@ -616,7 +616,7 @@ Min Amount Of Time In Bug To Trigger
 0
 Bugs Are Removed Each Round
 True
-Bug Count
+Max Bugs
 15
 Bug Radius
 5
@@ -660,7 +660,7 @@ Revive Count
 14
 Revive Cooldown
 10
-<color=#660000FF>Altruist</color> Revive Duration
+Revive Duration
 1
 Target's Body Disappears On Beginning Of Revive
 True
