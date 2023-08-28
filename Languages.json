@@ -222,6 +222,11 @@
       "schinese": "单色"
     },
     {
+      "id": "Colors.Lava",
+      "english": "Lava",
+      "schinese": "单色"
+    },
+    {
       "id": "Colors.Rainbow",
       "english": "Rainbow",
       "schinese": "彩虹色"
@@ -5127,7 +5132,47 @@
       "schinese": "测"
     },
     {
-      "id": "CustomOption.On",
+      "id": "Generate.EnablePostmortals",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnableBanshee",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnableGhoul",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnablePhantom",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.EnableRevealer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SkeldO2Timer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.SkeldReactorTimer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MiraO2Timer",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
+      "id": "Generate.MiraReactorTimer",
       "english": "Test",
       "schinese": "测"
     },
