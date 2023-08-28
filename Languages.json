@@ -5177,6 +5177,11 @@
       "schinese": "测"
     },
     {
+      "id": "CustomOption.On",
+      "english": "Test",
+      "schinese": "测"
+    },
+    {
       "id": "CustomOption.Off",
       "english": "Test",
       "schinese": "测"
