@@ -192,8 +192,8 @@
       "schinese": "玄黑色"
     },
     {
-      "id": "Colors.Aberration",
-      "english": "Aberration",
+      "id": "Colors.Aberation",
+      "english": "Aberation",
       "schinese": "差色"
     },
     {
@@ -779,7 +779,7 @@
     {
       "id": "Generate.VampireHunterOn",
       "english": "<color=#C0C0C0FF>Vampire Hunter</color>",
-      "schinese": "<color=#C0C0C0FF>吸血鬼猎手</color>"
+      "schinese": "<color=#C0C0C0FF>猎魔人</color>"
     },
     {
       "id": "Generate.CrewInvestigativeRoles",
@@ -1584,7 +1584,7 @@
     {
       "id": "Generate.VampireHunter",
       "english": "<color=#C0C0C0FF>Vampire Hunter</color>",
-      "schinese": "<color=#C0C0C0FF>吸血鬼猎手</color>"
+      "schinese": "<color=#C0C0C0FF>猎魔人</color>"
     },
     {
       "id": "Generate.UniqueVampireHunter",
