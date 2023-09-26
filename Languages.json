@@ -1282,8 +1282,8 @@
       "schinese": "<color=#0028F5FF>咒术师</color>"
     },
     {
-      "id": "Generate.TimeKeeperOn",
-      "english": "<color=#3769FEFF>Time Keeper</color>",
+      "id": "Generate.TimekeeperOn",
+      "english": "<color=#3769FEFF>Timekeeper</color>",
       "schinese": "<color=#3769FEFF>司辰</color>"
     },
     {
@@ -1932,7 +1932,7 @@
       "schinese": "测"
     },
     {
-      "id": "Generate.CPMax",
+      "id": "Generate.CrPMax",
       "english": "Test",
       "schinese": "测"
     },
@@ -4217,12 +4217,12 @@
       "schinese": "测"
     },
     {
-      "id": "Generate.TimeKeeper",
-      "english": "<color=#3769FEFF>Time Keeper</color>",
+      "id": "Generate.Timekeeper",
+      "english": "<color=#3769FEFF>Timekeeper</color>",
       "schinese": "<color=#3769FEFF>司辰</color>"
     },
     {
-      "id": "Generate.UniqueTimeKeeper",
+      "id": "Generate.UniqueTimekeeper",
       "english": "Test",
       "schinese": "测"
     },
@@ -5757,7 +5757,7 @@
       "schinese": "测"
     },
     {
-      "id": "RoleList.CP",
+      "id": "RoleList.CrP",
       "english": "Test",
       "schinese": "测"
     },
