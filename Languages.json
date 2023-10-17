@@ -17,6 +17,11 @@
       "schinese": "潜艇"
     },
     {
+      "id": "Mod.LevelImpostor",
+      "english": "LevelImpostor",
+      "schinese": "潜艇"
+    },
+    {
       "id": "Presets.Casual",
       "english": "Casual",
       "schinese": "轻松"
@@ -43,27 +48,27 @@
     },
     {
       "id": "Updates.Mod.Updating",
-      "english": "Updating %mod%\nPlease wait...",
+      "english": "Downloading %mod%\nPlease wait...",
       "schinese": "正在更新%mod%\n请稍候..."
     },
     {
       "id": "Updates.Mod.InProgress",
-      "english": "Update might already\nbe in progress.",
+      "english": "Download might already\nbe in progress.",
       "schinese": "更新已在进行中。"
     },
     {
       "id": "Updates.Mod.Manually",
-      "english": "Unable to auto-update.\nPlease update manually.",
+      "english": "Unable to download.\nPlease update manually.",
       "schinese": "无法自动更新。\n请手动更新本模组。"
     },
     {
       "id": "Updates.Mod.Success",
-      "english": "%mod%\nupdated successfully.\nPlease RESTART the game.",
+      "english": "%mod%\ndownloaded successfully.\nPlease RESTART the game.",
       "schinese": "%mod%\n已成功更新。\n请重启游戏。"
     },
     {
       "id": "Updates.Mod.NoSuccess",
-      "english": "Update wasn't successful\nTry again later,\nor update manually.",
+      "english": "Download wasn't successful\nTry again later,\nor update manually.",
       "schinese": "更新失败。\n请稍后再试,\n或尝试手动更新。"
     },
     {
