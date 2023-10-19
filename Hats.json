@@ -14,20 +14,8 @@
       "condition": "none"
     },
     {
-      "id": "kara0004",
-      "name": "Stoned",
-      "artist": "Kara",
-      "condition": "none"
-    },
-    {
       "id": "kara0005",
       "name": "Folder",
-      "artist": "Kara",
-      "condition": "none"
-    },
-    {
-      "id": "kara0006",
-      "name": "GUB",
       "artist": "Kara",
       "condition": "none"
     },
@@ -260,20 +248,8 @@
       "condition": "none"
     },
     {
-      "id": "kara0046",
-      "name": "Computer-mate",
-      "artist": "Kara",
-      "condition": "none"
-    },
-    {
       "id": "kara0047",
       "name": "Impsockster",
-      "artist": "Kara",
-      "condition": "none"
-    },
-    {
-      "id": "kara0048",
-      "name": "uncle",
       "artist": "Kara",
       "condition": "none"
     },
@@ -284,20 +260,8 @@
       "condition": "none"
     },
     {
-      "id": "kara0050",
-      "name": "my reaction to that information",
-      "artist": "Kara",
-      "condition": "none"
-    },
-    {
       "id": "hats0000",
       "name": "annamaja",
-      "artist": "TheLastShaymin",
-      "condition": "none"
-    },
-    {
-      "id": "hats0001",
-      "name": "zylus",
       "artist": "TheLastShaymin",
       "condition": "none"
     },
@@ -958,12 +922,6 @@
       "condition": "none"
     },
     {
-      "id": "hats0128",
-      "name": "Big Shot",
-      "artist": "LayZ",
-      "condition": "none"
-    },
-    {
       "id": "hats0129",
       "name": "L",
       "artist": "LayZ",
@@ -1116,12 +1074,6 @@
     {
       "id": "hats0156",
       "name": "Gay-ny Day",
-      "artist": "Sugawara",
-      "condition": "none"
-    },
-    {
-      "id": "hats0159",
-      "name": "Disconnected",
       "artist": "Sugawara",
       "condition": "none"
     },
@@ -1338,12 +1290,6 @@
     {
       "id": "hats0199",
       "name": "Jerm",
-      "artist": "Ophidian",
-      "condition": "none"
-    },
-    {
-      "id": "hats0200",
-      "name": "Milky Joe",
       "artist": "Ophidian",
       "condition": "none"
     },
@@ -1762,12 +1708,6 @@
       "condition": "none"
     },
     {
-      "id": "hats0274",
-      "name": "Dell",
-      "artist": "Ophidian",
-      "condition": "none"
-    },
-    {
       "id": "hats0275",
       "name": "Gengar",
       "artist": "Ophidian",
@@ -1818,12 +1758,6 @@
     {
       "id": "hats0283",
       "name": "Nogla",
-      "artist": "Sarinjin",
-      "condition": "none"
-    },
-    {
-      "id": "hats0284",
-      "name": "Wildcat",
       "artist": "Sarinjin",
       "condition": "none"
     },
@@ -1930,20 +1864,8 @@
       "condition": "none"
     },
     {
-      "id": "hats0302",
-      "name": "Quonk Gun",
-      "artist": "Ophidian",
-      "condition": "none"
-    },
-    {
       "id": "misc0000",
       "name": "ZeroXFusionz",
-      "artist": "TheLastShaymin",
-      "condition": "none"
-    },
-    {
-      "id": "misc0002",
-      "name": "wrench_f",
       "artist": "TheLastShaymin",
       "condition": "none"
     },

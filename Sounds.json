@@ -1,6 +1,16 @@
 {
   "sounds":
   [
+    { "id": "BomberIntro" },
+    { "id": "CamouflagerIntro" },
+    { "id": "GlitchIntro" },
+    { "id": "JackalIntro" },
+    { "id": "MayorIntro" },
+    { "id": "SeerIntro" },
+    { "id": "TimekeeperIntro" },
+    { "id": "Blank" },
+    { "id": "WarperIntro" },
+    { "id": "WerewolfIntro" },
     { "id": "Blank" }
   ]
 }

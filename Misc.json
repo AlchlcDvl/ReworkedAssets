@@ -5,15 +5,14 @@
     { "id": "AshPile" },
     { "id": "Blocked" },
     { "id": "Chat" },
-    { "id": "Darker" },
     { "id": "FootprintLeft" },
     { "id": "FootprintRight" },
-    { "id": "Lighter" },
     { "id": "Overlay" },
     { "id": "Range" },
     { "id": "Cursor" },
     { "id": "Phone" },
     { "id": "Plate" },
+    { "id": "NightVision" },
     { "id": "Banner" }
   ]
 }

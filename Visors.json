@@ -176,6 +176,77 @@
       "id": "visor0034",
       "name": "Hi Moon",
       "artist": "Gun"
+    },
+    {
+      "id": "visor0035",
+      "name": "zylus",
+      "artist": "TheLastShaymin"
+    },
+    {
+      "id": "visor0036",
+      "name": "Big Shot",
+      "artist": "LayZ"
+    },
+    {
+      "id": "visor0037",
+      "name": "Disconnected",
+      "artist": "Sugawara"
+    },
+    {
+      "id": "visor0038",
+      "name": "Milky Joe",
+      "artist": "Ophidian"
+    },
+    {
+      "id": "visor0039",
+      "name": "Dell",
+      "artist": "Ophidian"
+    },
+    {
+      "id": "visor0040",
+      "name": "Wildcat",
+      "artist": "Sarinjin"
+    },
+    {
+      "id": "visor0041",
+      "name": "Quonk Gun",
+      "artist": "Ophidian"
+    },
+    {
+      "id": "visor0042",
+      "name": "Stoned",
+      "artist": "Kara",
+      "condition": "none"
+    },
+    {
+      "id": "visor0043",
+      "name": "GUB",
+      "artist": "Kara",
+      "condition": "none"
+    },
+    {
+      "id": "visor0044",
+      "name": "Computer-mate",
+      "artist": "Kara",
+      "condition": "none"
+    },
+    {
+      "id": "visor0045",
+      "name": "uncle",
+      "artist": "Kara",
+      "condition": "none"
+    },
+    {
+      "id": "visor0046",
+      "name": "my reaction to that information",
+      "artist": "Kara",
+      "condition": "none"
+    },
+    {
+      "id": "visor0047",
+      "name": "wrench_f",
+      "artist": "TheLastShaymin",
+      "condition": "none"
     }
   ]
 }
