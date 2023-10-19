@@ -215,38 +215,32 @@
     {
       "id": "visor0042",
       "name": "Stoned",
-      "artist": "Kara",
-      "condition": "none"
+      "artist": "Kara"
     },
     {
       "id": "visor0043",
       "name": "GUB",
-      "artist": "Kara",
-      "condition": "none"
+      "artist": "Kara"
     },
     {
       "id": "visor0044",
       "name": "Computer-mate",
-      "artist": "Kara",
-      "condition": "none"
+      "artist": "Kara"
     },
     {
       "id": "visor0045",
       "name": "uncle",
-      "artist": "Kara",
-      "condition": "none"
+      "artist": "Kara"
     },
     {
       "id": "visor0046",
       "name": "my reaction to that information",
-      "artist": "Kara",
-      "condition": "none"
+      "artist": "Kara"
     },
     {
       "id": "visor0047",
       "name": "wrench_f",
-      "artist": "TheLastShaymin",
-      "condition": "none"
+      "artist": "TheLastShaymin"
     }
   ]
 }
