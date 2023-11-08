@@ -10,7 +10,6 @@
     { "id": "TimekeeperIntro" },
     { "id": "Blank" },
     { "id": "WarperIntro" },
-    { "id": "WerewolfIntro" },
-    { "id": "Blank" }
+    { "id": "WerewolfIntro" }
   ]
 }
