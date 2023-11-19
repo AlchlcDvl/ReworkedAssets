@@ -268,8 +268,8 @@
     },
     {
       "id": "GameSettings.Page4",
-      "english": "<color=#FF0000FF>Intruders</color>",
-      "schinese": "<color=#FF0000FF>内鬼阵营</color>"
+      "english": "<color=#FF1919FF>Intruders</color>",
+      "schinese": "<color=#FF1919FF>内鬼阵营</color>"
     },
     {
       "id": "GameSettings.Page5",
@@ -1083,8 +1083,8 @@
     },
     {
       "id": "Generate.IntruderConcealing",
-      "english": "<color=#FF0000FF>Intruder</color> <color=#1D7CF2FF>Concealing</color> <color=#FFD700FF>Roles</color>",
-      "schinese": "<color=#1D7CF2FF>干扰型</color><color=#FF0000FF>内鬼</color><color=#FFD700FF>职业</color>"
+      "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Concealing</color> <color=#FFD700FF>Roles</color>",
+      "schinese": "<color=#1D7CF2FF>干扰型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
     },
     {
       "id": "Generate.BlackmailerOn",
@@ -1108,8 +1108,8 @@
     },
     {
       "id": "Generate.IntruderDeceptionRoles",
-      "english": "<color=#FF0000FF>Intruder</color> <color=#1D7CF2FF>Deception</color> <color=#FFD700FF>Roles</color>",
-      "schinese": "<color=#1D7CF2FF>伪装型</color><color=#FF0000FF>内鬼</color><color=#FFD700FF>职业</color>"
+      "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Deception</color> <color=#FFD700FF>Roles</color>",
+      "schinese": "<color=#1D7CF2FF>伪装型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
     },
     {
       "id": "Generate.DisguiserOn",
@@ -1128,8 +1128,8 @@
     },
     {
       "id": "Generate.IntruderKillingRoles",
-      "english": "<color=#FF0000FF>Intruder</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
-      "schinese": "<color=#1D7CF2FF>击杀型</color><color=#FF0000FF>内鬼</color><color=#FFD700FF>职业</color>"
+      "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
+      "schinese": "<color=#1D7CF2FF>击杀型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
     },
     {
       "id": "Generate.AmbusherOn",
@@ -1143,8 +1143,8 @@
     },
     {
       "id": "Generate.IntruderSupportRoles",
-      "english": "<color=#FF0000FF>Intruder</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
-      "schinese": "<color=#1D7CF2FF>辅助型</color><color=#FF0000FF>内鬼</color><color=#FFD700FF>职业</color>"
+      "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
+      "schinese": "<color=#1D7CF2FF>辅助型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
     },
     {
       "id": "Generate.ConsigliereOn",
@@ -1173,8 +1173,8 @@
     },
     {
       "id": "Generate.IntruderUtilityRoles",
-      "english": "<color=#FF0000FF>Intruder</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
-      "schinese": "<color=#1D7CF2FF>通用型</color><color=#FF0000FF>内鬼</color><color=#FFD700FF>职业</color>"
+      "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
+      "schinese": "<color=#1D7CF2FF>通用型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
     },
     {
       "id": "Generate.GhoulOn",
@@ -1183,8 +1183,8 @@
     },
     {
       "id": "Generate.ImpostorOn",
-      "english": "<color=#FF0000FF>Impostor</color>",
-      "schinese": "<color=#FF0000FF>内鬼</color>"
+      "english": "<color=#FF1919FF>Impostor</color>",
+      "schinese": "<color=#FF1919FF>内鬼</color>"
     },
     {
       "id": "Generate.SyndicateDisruptionRoles",
@@ -1443,8 +1443,8 @@
     },
     {
       "id": "Generate.IntruderAssassinOn",
-      "english": "<color=#FF0000FF>Intruder</color> <color=#073763FF>Assassin</color>",
-      "schinese": "<color=#073763FF>刺客</color><color=#FF0000FF>（内鬼阵营）</color>"
+      "english": "<color=#FF1919FF>Intruder</color> <color=#073763FF>Assassin</color>",
+      "schinese": "<color=#073763FF>刺客</color><color=#FF1919FF>（内鬼阵营）</color>"
     },
     {
       "id": "Generate.MultitaskerOn",
