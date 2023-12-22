@@ -123,7 +123,7 @@
     {
       "name": "Banana",
       "stringid": 2145,
-      "rgbmain": "1240, 231, 168",
+      "rgbmain": "240, 231, 168",
       "rbgshadow": "210, 188, 137",
       "overrideshadow": true,
       "lighter": true,
