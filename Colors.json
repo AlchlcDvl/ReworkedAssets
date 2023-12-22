@@ -5,7 +5,7 @@
       "name": "Red",
       "stringid": 346,
       "rgbmain": "198, 17, 17",
-      "rbgshadow": "122, 8, 56",
+      "rgbshadow": "122, 8, 56",
       "overrideshadow": true,
       "default": true
     },
@@ -13,7 +13,7 @@
       "name": "Blue",
       "stringid": 345,
       "rgbmain": "198, 17, 17",
-      "rbgshadow": "9, 21, 142",
+      "rgbshadow": "9, 21, 142",
       "overrideshadow": true,
       "default": true
     },
@@ -21,7 +21,7 @@
       "name": "Green",
       "stringid": 348,
       "rgbmain": "17, 128, 45",
-      "rbgshadow": "10, 77, 46",
+      "rgbshadow": "10, 77, 46",
       "overrideshadow": true,
       "default": true
     },
@@ -29,7 +29,7 @@
       "name": "Pink",
       "stringid": 349,
       "rgbmain": "238, 84, 187",
-      "rbgshadow": "172, 43, 174",
+      "rgbshadow": "172, 43, 174",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -38,7 +38,7 @@
       "name": "Orange",
       "stringid": 344,
       "rgbmain": "240, 125, 13",
-      "rbgshadow": "180, 62, 21",
+      "rgbshadow": "180, 62, 21",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -47,7 +47,7 @@
       "name": "Yellow",
       "stringid": 351,
       "rgbmain": "246, 246, 87",
-      "rbgshadow": "195, 136, 34",
+      "rgbshadow": "195, 136, 34",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -56,7 +56,7 @@
       "name": "Black",
       "stringid": 352,
       "rgbmain": "63, 71, 78",
-      "rbgshadow": "30, 31, 38",
+      "rgbshadow": "30, 31, 38",
       "overrideshadow": true,
       "default": true
     },
@@ -64,7 +64,7 @@
       "name": "White",
       "stringid": 350,
       "rgbmain": "215, 225, 241",
-      "rbgshadow": "132, 149, 192",
+      "rgbshadow": "132, 149, 192",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -73,7 +73,7 @@
       "name": "Purple",
       "stringid": 353,
       "rgbmain": "107, 47, 188",
-      "rbgshadow": "59, 23, 124",
+      "rgbshadow": "59, 23, 124",
       "overrideshadow": true,
       "default": true
     },
@@ -81,7 +81,7 @@
       "name": "Brown",
       "stringid": 347,
       "rgbmain": "113, 73, 30",
-      "rbgshadow": "94, 38, 21",
+      "rgbshadow": "94, 38, 21",
       "overrideshadow": true,
       "default": true
     },
@@ -89,7 +89,7 @@
       "name": "Cyan",
       "stringid": 354,
       "rgbmain": "56, 255, 221",
-      "rbgshadow": "36, 169, 191",
+      "rgbshadow": "36, 169, 191",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -98,7 +98,7 @@
       "name": "Lime",
       "stringid": 355,
       "rgbmain": "80, 240, 57",
-      "rbgshadow": "21, 168, 66",
+      "rgbshadow": "21, 168, 66",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -107,7 +107,7 @@
       "name": "Maroon",
       "stringid": 2143,
       "rgbmain": "95, 29, 46",
-      "rbgshadow": "65, 15, 26",
+      "rgbshadow": "65, 15, 26",
       "overrideshadow": true,
       "default": true
     },
@@ -115,7 +115,7 @@
       "name": "Rose",
       "stringid": 2144,
       "rgbmain": "236, 192, 211",
-      "rbgshadow": "222, 146, 179",
+      "rgbshadow": "222, 146, 179",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -124,7 +124,7 @@
       "name": "Banana",
       "stringid": 2145,
       "rgbmain": "240, 231, 168",
-      "rbgshadow": "210, 188, 137",
+      "rgbshadow": "210, 188, 137",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -133,7 +133,7 @@
       "name": "Grey",
       "stringid": 2146,
       "rgbmain": "117, 133, 147",
-      "rbgshadow": "70, 86, 100",
+      "rgbshadow": "70, 86, 100",
       "overrideshadow": true,
       "default": true
     },
@@ -141,7 +141,7 @@
       "name": "Tan",
       "stringid": 2147,
       "rgbmain": "145, 136, 119",
-      "rbgshadow": "81, 65, 62",
+      "rgbshadow": "81, 65, 62",
       "overrideshadow": true,
       "default": true
     },
@@ -149,7 +149,7 @@
       "name": "Coral",
       "stringid": 2154,
       "rgbmain": "215, 100, 100",
-      "rbgshadow": "180, 67, 98",
+      "rgbshadow": "180, 67, 98",
       "overrideshadow": true,
       "lighter": true,
       "default": true
@@ -157,112 +157,112 @@
     {
       "name": "Watermelon",
       "rgbmain": "168, 50, 62",
-      "rbgshadow": "101, 30, 37",
+      "rgbshadow": "101, 30, 37",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Chocolate",
       "rgbmain": "60, 48, 44",
-      "rbgshadow": "30, 24, 22",
+      "rgbshadow": "30, 24, 22",
       "overrideshadow": true
     },
     {
       "name": "Sky Blue",
       "rgbmain": "61, 129, 255",
-      "rbgshadow": "31, 65, 128",
+      "rgbshadow": "31, 65, 128",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Beige",
       "rgbmain": "240, 211, 165",
-      "rbgshadow": "120, 106, 83",
+      "rgbshadow": "120, 106, 83",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Magenta",
       "rgbmain": "255, 0, 127",
-      "rbgshadow": "191, 0, 95",
+      "rgbshadow": "191, 0, 95",
       "overrideshadow": true
     },
     {
       "name": "Turquois",
       "rgbmain": "61, 255, 181",
-      "rbgshadow": "31, 128, 91",
+      "rgbshadow": "31, 128, 91",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Lilac",
       "rgbmain": "186, 161, 255",
-      "rbgshadow": "93, 81, 128",
+      "rgbshadow": "93, 81, 128",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Olive",
       "rgbmain": "97, 114, 24",
-      "rbgshadow": "66, 91, 15",
+      "rgbshadow": "66, 91, 15",
       "overrideshadow": true
     },
     {
       "name": "Azure",
       "rgbmain": "1, 166, 255",
-      "rbgshadow": "17, 104, 151",
+      "rgbshadow": "17, 104, 151",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Plum",
       "rgbmain": "79, 0, 127",
-      "rbgshadow": "55, 0, 95",
+      "rgbshadow": "55, 0, 95",
       "overrideshadow": true
     },
     {
       "name": "Jungle",
       "rgbmain": "0, 47, 0",
-      "rbgshadow": "0, 23, 0",
+      "rgbshadow": "0, 23, 0",
       "overrideshadow": true
     },
     {
       "name": "Mint",
       "rgbmain": "151, 255, 151",
-      "rbgshadow": "109, 191, 109",
+      "rgbshadow": "109, 191, 109",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Chartreuse",
       "rgbmain": "207, 255, 0",
-      "rbgshadow": "143, 191, 61",
+      "rgbshadow": "143, 191, 61",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Macau",
       "rgbmain": "0, 97, 93",
-      "rbgshadow": "0, 65, 61",
+      "rgbshadow": "0, 65, 61",
       "overrideshadow": true
     },
     {
       "name": "Tawny",
       "rgbmain": "205, 63, 0",
-      "rbgshadow": "141, 31, 0",
+      "rgbshadow": "141, 31, 0",
       "overrideshadow": true
     },
     {
       "name": "Gold",
       "rgbmain": "255, 207, 0",
-      "rbgshadow": "191, 143, 0",
+      "rgbshadow": "191, 143, 0",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Panda",
       "rgbmain": "255, 255, 255",
-      "rbgshadow": "0, 0, 0",
+      "rgbshadow": "0, 0, 0",
       "overrideshadow": true,
       "lighter": true,
       "contrasting": true
@@ -270,27 +270,27 @@
     {
       "name": "Contrast",
       "rgbmain": "255, 0, 0",
-      "rbgshadow": "0, 0, 255",
+      "rgbshadow": "0, 0, 255",
       "overrideshadow": true,
       "contrasting": true
     },
     {
       "name": "Starlight",
       "rgbmain": "255, 255, 255",
-      "rbgshadow": "255, 255, 255",
+      "rgbshadow": "255, 255, 255",
       "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Vantablack",
       "rgbmain": "15, 15, 15",
-      "rbgshadow": "0, 0, 0",
+      "rgbshadow": "0, 0, 0",
       "overrideshadow": true
     },
     {
       "name": "Ice",
       "rgbmain": "251, 251, 255",
-      "rbgshadow": "112, 250, 241",
+      "rgbshadow": "112, 250, 241",
       "overrideshadow": true,
       "contrasting": true,
       "lighter": true
@@ -298,14 +298,14 @@
     {
       "name": "Nougat",
       "rgbmain": "160, 101, 56",
-      "rbgshadow": "115, 15, 78",
+      "rgbshadow": "115, 15, 78",
       "overrideshadow": true,
       "contrasting": true
     },
     {
       "name": "Lava",
       "rgbmain": "255, 255, 16",
-      "rbgshadow": "255, 0, 0",
+      "rgbshadow": "255, 0, 0",
       "overrideshadow": true,
       "contrasting": true,
       "lighter": true
