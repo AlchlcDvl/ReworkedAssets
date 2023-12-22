@@ -312,7 +312,7 @@
     },
     {
       "name": "Reversebow",
-      "hsbmain": "0,1,0.4,true;1;0,1,0.3,true",
+      "hsbmain": "0,1,0.3,true;1;0,1,0.3",
       "changing": true
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "Chroma",
-      "hsbmain": "0,1,0.4;0,1,0.6,true;0,1,0.9,true",
+      "hsbmain": "0,1,0.4;0,1,0.6,true;0,1,0.9",
       "lighter": true,
       "changing": true
     },
@@ -344,7 +344,7 @@
     },
     {
       "name": "Fire",
-      "hsbmain": "0,0.17,0.4,true;1;1",
+      "hsbmain": "0,0.17,0.4;1;1",
       "lighter": true,
       "changing": true
     },
@@ -362,7 +362,7 @@
     },
     {
       "name": "Rainbow",
-      "hsbmain": "0,1,0.3,true;1;1",
+      "hsbmain": "0,1,0.3;1;1",
       "lighter": true,
       "changing": true
     }
