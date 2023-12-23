@@ -312,57 +312,57 @@
     },
     {
       "name": "Reversebow",
-      "hsbmain": "0,1,0.3,true;1;0,1,0.3",
+      "hsbmain": "0, 1, 0.3, true; 1; 0, 1, 0.3",
       "changing": true
     },
     {
       "name": "Vibrance",
-      "hsbmain": "0.17,0.5,0.3,true;0.9,1,0.3;0.9,1,0.3,true",
+      "hsbmain": "0.17, 0.5, 0.3, true; 0.9, 1, 0.3; 0.9, 1, 0.3, true",
       "lighter": true,
       "changing": true
     },
     {
       "name": "Darkbow",
-      "hsbmain": "0,1,0.3;0.8;0.3",
+      "hsbmain": "0, 1, 0.3; 0.8; 0.3",
       "changing": true
     },
     {
       "name": "Aberration",
-      "hsbmain": "0,0.2,0.9;0.8,1,0.3,true;0.3",
+      "hsbmain": "0, 0.2, 0.9; 0.8, 1, 0.3, true; 0.3",
       "changing": true
     },
     {
       "name": "Chroma",
-      "hsbmain": "0,1,0.4;0,1,0.6,true;0,1,0.9",
+      "hsbmain": "0, 1, 0.4; 0, 1, 0.6, true; 0, 1, 0.9",
       "lighter": true,
       "changing": true
     },
     {
       "name": "Mantle",
-      "hsbmain": "0,1,0.3;0,1,0.9;0,0.8,0.5",
+      "hsbmain": "0, 1, 0.3; 0, 1, 0.9; 0, 0.8, 0.5",
       "changing": true
     },
     {
       "name": "Fire",
-      "hsbmain": "0,0.17,0.4;1;1",
+      "hsbmain": "0, 0.17, 0.4; 1; 1",
       "lighter": true,
       "changing": true
     },
     {
       "name": "Galaxy",
-      "hsbmain": "0.5,0.87,0.4;1;1",
+      "hsbmain": "0.5, 0.87, 0.4; 1; 1",
       "lighter": true,
       "changing": true
     },
     {
       "name": "Monochrome",
-      "hsbmain": "1;0;0,1,0.8",
+      "hsbmain": "1; 0; 0, 1, 0.8",
       "lighter": true,
       "changing": true
     },
     {
       "name": "Rainbow",
-      "hsbmain": "0,1,0.3;1;1",
+      "hsbmain": "0, 1, 0.3; 1; 1",
       "lighter": true,
       "changing": true
     }
