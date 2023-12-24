@@ -52,14 +52,14 @@
       "schinese": "正在更新%mod%\n请稍候..."
     },
     {
-      "id": "Updates.Mod.InProgress",
-      "english": "Download might already\nbe in progress.",
-      "schinese": "更新已在进行中。"
-    },
-    {
       "id": "Updates.Mod.Manually",
       "english": "Unable to download.\nPlease update manually.",
       "schinese": "无法自动更新。\n请手动更新本模组。"
+    },
+    {
+      "id": "Updates.Mod.Copying",
+      "english": "%mod%\ndownloaded.\nCopying file...",
+      "schinese": "测试"
     },
     {
       "id": "Updates.Mod.Success",
