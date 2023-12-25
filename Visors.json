@@ -246,6 +246,91 @@
       "id": "visor0048",
       "name": "A Knoife!",
       "artist": "Sugawara"
+    },
+    {
+      "id": "visor0049",
+      "name": "Inmouth",
+      "artist": "Rum"
+    },
+    {
+      "id": "visor0050",
+      "name": "Teeth",
+      "artist": "Rum"
+    },
+    {
+      "id": "visor0051",
+      "name": "Tongue",
+      "artist": "Rum"
+    },
+    {
+      "id": "visor0052",
+      "name": "Boar",
+      "artist": "Pigoletto"
+    },
+    {
+      "id": "visor0053",
+      "name": "Loweye",
+      "artist": "Ophidian"
+    },
+    {
+      "id": "visor0054",
+      "name": "toast",
+      "artist": ""
+    },
+    {
+      "id": "visor0055",
+      "name": "peter",
+      "artist": ""
+    },
+    {
+      "id": "visor0056",
+      "name": "miyoung",
+      "artist": ""
+    },
+    {
+      "id": "visor0057",
+      "name": "lily",
+      "artist": ""
+    },
+    {
+      "id": "visor0058",
+      "name": "dream",
+      "artist": ""
+    },
+    {
+      "id": "visor0059",
+      "name": "skull",
+      "artist": "acron"
+    },
+    {
+      "id": "visor0060",
+      "name": "penguinface_front",
+      "artist": ""
+    },
+    {
+      "id": "visor0061",
+      "name": "buffyhelmet",
+      "artist": ""
+    },
+    {
+      "id": "visor0062",
+      "name": "buffyarms",
+      "artist": ""
+    },
+    {
+      "id": "visor0063",
+      "name": "bestcrewmate",
+      "artist": ""
+    },
+    {
+      "id": "visor0064",
+      "name": "ash",
+      "artist": ""
+    },
+    {
+      "id": "visor0065",
+      "name": "Toast",
+      "artist": ""
     }
   ]
 }
