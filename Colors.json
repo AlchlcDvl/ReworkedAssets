@@ -6,7 +6,6 @@
       "stringid": 346,
       "rgbmain": "198, 17, 17",
       "rgbshadow": "122, 8, 56",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -14,7 +13,6 @@
       "stringid": 345,
       "rgbmain": "19, 46, 210",
       "rgbshadow": "9, 21, 142",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -22,7 +20,6 @@
       "stringid": 348,
       "rgbmain": "17, 128, 45",
       "rgbshadow": "10, 77, 46",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -30,7 +27,6 @@
       "stringid": 349,
       "rgbmain": "238, 84, 187",
       "rgbshadow": "172, 43, 174",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -39,7 +35,6 @@
       "stringid": 344,
       "rgbmain": "240, 125, 13",
       "rgbshadow": "180, 62, 21",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -48,7 +43,6 @@
       "stringid": 351,
       "rgbmain": "246, 246, 87",
       "rgbshadow": "195, 136, 34",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -57,7 +51,6 @@
       "stringid": 352,
       "rgbmain": "63, 71, 78",
       "rgbshadow": "30, 31, 38",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -65,7 +58,6 @@
       "stringid": 350,
       "rgbmain": "215, 225, 241",
       "rgbshadow": "132, 149, 192",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -74,7 +66,6 @@
       "stringid": 353,
       "rgbmain": "107, 47, 188",
       "rgbshadow": "59, 23, 124",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -82,7 +73,6 @@
       "stringid": 347,
       "rgbmain": "113, 73, 30",
       "rgbshadow": "94, 38, 21",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -90,7 +80,6 @@
       "stringid": 354,
       "rgbmain": "56, 255, 221",
       "rgbshadow": "36, 169, 191",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -99,7 +88,6 @@
       "stringid": 355,
       "rgbmain": "80, 240, 57",
       "rgbshadow": "21, 168, 66",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -108,7 +96,6 @@
       "stringid": 2143,
       "rgbmain": "95, 29, 46",
       "rgbshadow": "65, 15, 26",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -116,7 +103,6 @@
       "stringid": 2144,
       "rgbmain": "236, 192, 211",
       "rgbshadow": "222, 146, 179",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -125,7 +111,6 @@
       "stringid": 2145,
       "rgbmain": "240, 231, 168",
       "rgbshadow": "210, 188, 137",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -134,7 +119,6 @@
       "stringid": 2146,
       "rgbmain": "117, 133, 147",
       "rgbshadow": "70, 86, 100",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -142,7 +126,6 @@
       "stringid": 2147,
       "rgbmain": "145, 136, 119",
       "rgbshadow": "81, 65, 62",
-      "overrideshadow": true,
       "default": true
     },
     {
@@ -150,7 +133,6 @@
       "stringid": 2154,
       "rgbmain": "215, 100, 100",
       "rgbshadow": "180, 67, 98",
-      "overrideshadow": true,
       "lighter": true,
       "default": true
     },
@@ -158,7 +140,6 @@
       "name": "Watermelon",
       "rgbmain": "168, 50, 62",
       "rgbshadow": "101, 30, 37",
-      "overrideshadow": true,
       "lighter": true
     },
     {
@@ -171,14 +152,12 @@
       "name": "SkyBlue",
       "rgbmain": "61, 129, 255",
       "rgbshadow": "31, 65, 128",
-      "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Beige",
       "rgbmain": "240, 211, 165",
       "rgbshadow": "120, 106, 83",
-      "overrideshadow": true,
       "lighter": true
     },
     {
@@ -191,14 +170,12 @@
       "name": "Turquoise",
       "rgbmain": "61, 255, 181",
       "rgbshadow": "31, 128, 91",
-      "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Lilac",
       "rgbmain": "186, 161, 255",
       "rgbshadow": "93, 81, 128",
-      "overrideshadow": true,
       "lighter": true
     },
     {
@@ -211,7 +188,6 @@
       "name": "Azure",
       "rgbmain": "1, 166, 255",
       "rgbshadow": "17, 104, 151",
-      "overrideshadow": true,
       "lighter": true
     },
     {
@@ -230,14 +206,12 @@
       "name": "Mint",
       "rgbmain": "151, 255, 151",
       "rgbshadow": "109, 191, 109",
-      "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Chartreuse",
       "rgbmain": "207, 255, 0",
       "rgbshadow": "143, 191, 61",
-      "overrideshadow": true,
       "lighter": true
     },
     {
@@ -256,14 +230,12 @@
       "name": "Gold",
       "rgbmain": "255, 207, 0",
       "rgbshadow": "191, 143, 0",
-      "overrideshadow": true,
       "lighter": true
     },
     {
       "name": "Panda",
       "rgbmain": "255, 255, 255",
       "rgbshadow": "0, 0, 0",
-      "overrideshadow": true,
       "lighter": true,
       "contrasting": true
     },
@@ -271,14 +243,12 @@
       "name": "Contrast",
       "rgbmain": "255, 0, 0",
       "rgbshadow": "0, 0, 255",
-      "overrideshadow": true,
       "contrasting": true
     },
     {
       "name": "Starlight",
       "rgbmain": "255, 255, 255",
       "rgbshadow": "255, 255, 255",
-      "overrideshadow": true,
       "lighter": true
     },
     {
@@ -291,7 +261,6 @@
       "name": "Ice",
       "rgbmain": "251, 251, 255",
       "rgbshadow": "112, 250, 241",
-      "overrideshadow": true,
       "contrasting": true,
       "lighter": true
     },
@@ -299,72 +268,60 @@
       "name": "Nougat",
       "rgbmain": "160, 101, 56",
       "rgbshadow": "115, 15, 78",
-      "overrideshadow": true,
       "contrasting": true
     },
     {
       "name": "Lava",
       "rgbmain": "255, 255, 16",
       "rgbshadow": "255, 0, 0",
-      "overrideshadow": true,
       "contrasting": true,
       "lighter": true
     },
     {
       "name": "Reversebow",
-      "hsbmain": "0, 1, 0.3, true; 1; 0, 1, 0.3",
-      "changing": true
+      "hsbmain": "0, 1, 0.3, true; 1; 0, 1, 0.3"
     },
     {
       "name": "Vibrance",
       "hsbmain": "0.17, 0.5, 0.3, true; 0.9, 1, 0.3; 0.9, 1, 0.3, true",
-      "lighter": true,
-      "changing": true
+      "lighter": true
     },
     {
       "name": "Darkbow",
-      "hsbmain": "0, 1, 0.3; 0.8; 0.3",
-      "changing": true
+      "hsbmain": "0, 1, 0.3; 0.8; 0.3"
     },
     {
       "name": "Aberration",
-      "hsbmain": "0, 0.2, 0.9; 0.8, 1, 0.3, true; 0.3",
-      "changing": true
+      "hsbmain": "0, 0.2, 0.9; 0.8, 1, 0.3, true; 0.3"
     },
     {
       "name": "Chroma",
       "hsbmain": "0, 1, 0.4; 0, 1, 0.6, true; 0, 1, 0.9",
-      "lighter": true,
-      "changing": true
+      "lighter": true
     },
     {
       "name": "Mantle",
-      "hsbmain": "0, 1, 0.3; 0, 1, 0.9; 0, 0.8, 0.5",
-      "changing": true
+      "hsbmain": "0, 1, 0.3; 0, 1, 0.9; 0, 0.8, 0.5"
     },
     {
       "name": "Fire",
       "hsbmain": "0, 0.17, 0.4; 1; 1",
-      "lighter": true,
-      "changing": true
+      "lighter": true
     },
     {
       "name": "Galaxy",
       "hsbmain": "0.5, 0.87, 0.4; 1; 1",
-      "lighter": true,
-      "changing": true
+      "lighter": true
     },
     {
       "name": "Monochrome",
       "hsbmain": "1; 0; 0, 1, 0.8",
-      "lighter": true,
-      "changing": true
+      "lighter": true
     },
     {
       "name": "Rainbow",
       "hsbmain": "0, 1, 0.3; 1; 1",
-      "lighter": true,
-      "changing": true
+      "lighter": true
     }
   ]
 }
