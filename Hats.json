@@ -1844,23 +1844,8 @@
       "artist": "Ophidian"
     },
     {
-      "id": "hats0318",
-      "name": "Inmouth",
-      "artist": "Rum"
-    },
-    {
-      "id": "hats0319",
-      "name": "Teeth",
-      "artist": "Rum"
-    },
-    {
       "id": "hats0320",
       "name": "Thing",
-      "artist": "Rum"
-    },
-    {
-      "id": "hats0321",
-      "name": "Tongue",
       "artist": "Rum"
     },
     {
@@ -1949,11 +1934,6 @@
       "artist": "Ophidian"
     },
     {
-      "id": "hats0339",
-      "name": "Boar",
-      "artist": "Pigoletto"
-    },
-    {
       "id": "hats0340",
       "name": "Creepy Doll",
       "artist": "Pigoletto"
@@ -1991,11 +1971,6 @@
     {
       "id": "hats0347",
       "name": "Jerry",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0348",
-      "name": "Loweye",
       "artist": "Ophidian"
     },
     {
@@ -2044,16 +2019,6 @@
       "artist": ""
     },
     {
-      "id": "misc0002",
-      "name": "wrench_f",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0005",
-      "name": "toast",
-      "artist": ""
-    },
-    {
       "id": "misc0006",
       "name": "syntrocity",
       "artist": ""
@@ -2069,16 +2034,6 @@
       "artist": ""
     },
     {
-      "id": "misc0014",
-      "name": "peter",
-      "artist": ""
-    },
-    {
-      "id": "misc0016",
-      "name": "miyoung",
-      "artist": ""
-    },
-    {
       "id": "misc0017",
       "name": "mika",
       "artist": ""
@@ -2086,21 +2041,6 @@
     {
       "id": "misc0018",
       "name": "ludwig",
-      "artist": ""
-    },
-    {
-      "id": "misc0019",
-      "name": "lily",
-      "artist": ""
-    },
-    {
-      "id": "misc0023",
-      "name": "dream",
-      "artist": ""
-    },
-    {
-      "id": "misc0024",
-      "name": "corpse",
       "artist": ""
     },
     {
@@ -2219,11 +2159,6 @@
       "artist": ""
     },
     {
-      "id": "standard0008",
-      "name": "penguinface_front",
-      "artist": ""
-    },
-    {
       "id": "standard0010",
       "name": "masayoshi",
       "artist": ""
@@ -2254,11 +2189,6 @@
       "artist": ""
     },
     {
-      "id": "standard0026",
-      "name": "buffyarms",
-      "artist": ""
-    },
-    {
       "id": "standard0027",
       "name": "buffy",
       "artist": ""
@@ -2267,21 +2197,6 @@
       "id": "standard0031",
       "name": "bird",
       "artist": ""
-    },
-    {
-      "id": "standard0033",
-      "name": "bestcrewmate",
-      "artist": ""
-    },
-    {
-      "id": "standard0037",
-      "name": "ash",
-      "artist": ""
-    },
-    {
-      "id": "standard0044",
-      "name": "Juicebox",
-      "artist": "Little Doo Doo"
     }
   ]
 }
