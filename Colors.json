@@ -145,8 +145,7 @@
     {
       "name": "Chocolate",
       "rgbmain": "60, 48, 44",
-      "rgbshadow": "30, 24, 22",
-      "overrideshadow": true
+      "rgbshadow": "30, 24, 22"
     },
     {
       "name": "SkyBlue",
@@ -163,8 +162,7 @@
     {
       "name": "Magenta",
       "rgbmain": "255, 0, 127",
-      "rgbshadow": "191, 0, 95",
-      "overrideshadow": true
+      "rgbshadow": "191, 0, 95"
     },
     {
       "name": "Turquoise",
@@ -181,8 +179,7 @@
     {
       "name": "Olive",
       "rgbmain": "97, 114, 24",
-      "rgbshadow": "66, 91, 15",
-      "overrideshadow": true
+      "rgbshadow": "66, 91, 15"
     },
     {
       "name": "Azure",
@@ -193,14 +190,12 @@
     {
       "name": "Plum",
       "rgbmain": "79, 0, 127",
-      "rgbshadow": "55, 0, 95",
-      "overrideshadow": true
+      "rgbshadow": "55, 0, 95"
     },
     {
       "name": "Jungle",
       "rgbmain": "0, 47, 0",
-      "rgbshadow": "0, 23, 0",
-      "overrideshadow": true
+      "rgbshadow": "0, 23, 0"
     },
     {
       "name": "Mint",
@@ -217,14 +212,12 @@
     {
       "name": "Macau",
       "rgbmain": "0, 97, 93",
-      "rgbshadow": "0, 65, 61",
-      "overrideshadow": true
+      "rgbshadow": "0, 65, 61"
     },
     {
       "name": "Tawny",
       "rgbmain": "205, 63, 0",
-      "rgbshadow": "141, 31, 0",
-      "overrideshadow": true
+      "rgbshadow": "141, 31, 0"
     },
     {
       "name": "Gold",
@@ -237,13 +230,15 @@
       "rgbmain": "255, 255, 255",
       "rgbshadow": "0, 0, 0",
       "lighter": true,
-      "contrasting": true
+      "contrasting": true,
+      "title": "Constrasting"
     },
     {
       "name": "Contrast",
       "rgbmain": "255, 0, 0",
       "rgbshadow": "0, 0, 255",
-      "contrasting": true
+      "contrasting": true,
+      "title": "Constrast"
     },
     {
       "name": "Starlight",
@@ -254,74 +249,86 @@
     {
       "name": "Vantablack",
       "rgbmain": "15, 15, 15",
-      "rgbshadow": "0, 0, 0",
-      "overrideshadow": true
+      "rgbshadow": "0, 0, 0"
     },
     {
       "name": "Ice",
       "rgbmain": "251, 251, 255",
       "rgbshadow": "112, 250, 241",
       "contrasting": true,
-      "lighter": true
+      "lighter": true,
+      "title": "Constrast"
     },
     {
       "name": "Nougat",
       "rgbmain": "160, 101, 56",
       "rgbshadow": "115, 15, 78",
-      "contrasting": true
+      "contrasting": true,
+      "title": "Constrast"
     },
     {
       "name": "Lava",
       "rgbmain": "255, 255, 16",
       "rgbshadow": "255, 0, 0",
       "contrasting": true,
-      "lighter": true
+      "lighter": true,
+      "title": "Constrast"
     },
     {
       "name": "Reversebow",
-      "hsbmain": "0, 1, 0.3, true; 1; 0, 1, 0.3"
+      "hsbmain": "0, 1, 0.3, true; 1; 0, 1, 0.3",
+      "title": "Everchanging"
     },
     {
       "name": "Vibrance",
       "hsbmain": "0.17, 0.5, 0.3, true; 0.9, 1, 0.3; 0.9, 1, 0.3, true",
-      "lighter": true
+      "lighter": true,
+      "title": "Everchanging"
     },
     {
       "name": "Darkbow",
-      "hsbmain": "0, 1, 0.3; 0.8; 0.3"
+      "hsbmain": "0, 1, 0.3; 0.8; 0.3",
+      "title": "Everchanging"
     },
     {
       "name": "Aberration",
-      "hsbmain": "0, 0.2, 0.9; 0.8, 1, 0.3, true; 0.3"
+      "hsbmain": "0, 0.2, 0.9; 0.8, 1, 0.3, true; 0.3",
+      "title": "Everchanging"
     },
     {
       "name": "Chroma",
       "hsbmain": "0, 1, 0.4; 0, 1, 0.6, true; 0, 1, 0.9",
-      "lighter": true
+      "lighter": true,
+      "title": "Everchanging"
     },
     {
       "name": "Mantle",
-      "hsbmain": "0, 1, 0.3; 0, 1, 0.9; 0, 0.8, 0.5"
+      "hsbmain": "0, 1, 0.3; 0, 1, 0.9; 0, 0.8, 0.5",
+      "title": "Everchanging"
     },
     {
       "name": "Fire",
       "hsbmain": "0, 0.17, 0.4; 1; 1",
-      "lighter": true
+      "lighter": true,
+      "title": "Everchanging"
     },
     {
       "name": "Galaxy",
       "hsbmain": "0.5, 0.87, 0.4; 1; 1",
-      "lighter": true
+      "lighter": true,
+      "title": "Everchanging"
     },
     {
       "name": "Monochrome",
       "hsbmain": "1; 0; 0, 1, 0.8",
-      "lighter": true
+      "lighter": true,
+      "title": "Everchanging"
     },
     {
       "name": "Rainbow",
       "hsbmain": "0, 1, 0.3; 1; 1",
-      "lighter": true
+      "lighter": true,
+      "title": "Everchanging"
     }
   ]
 }
