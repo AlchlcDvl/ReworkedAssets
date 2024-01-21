@@ -125,6 +125,12 @@
     { "id": "IntruderSabotage" },
     { "id": "UpdateReworked" },
     { "id": "UpdateSubmerged" },
+    { "id": "Doom" },
+    { "id": "DownloadLevelImpostor" },
+    { "id": "MetalVentBomb" },
+    { "id": "PlantPlant" },
+    { "id": "PlantVentBomb" },
+    { "id": "PolusVentBomb" },
     { "id": "Warp" }
   ]
 }
