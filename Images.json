@@ -37,7 +37,6 @@
     { "id": "Neutral" },
     { "id": "NeutralVent" },
     { "id": "Objectifiers" },
-    { "id": "Placeholder" },
     { "id": "Plus" },
     { "id": "Poison" },
     { "id": "Promote" },
@@ -131,6 +130,17 @@
     { "id": "PlantPlant" },
     { "id": "PlantVentBomb" },
     { "id": "PolusVentBomb" },
-    { "id": "Warp" }
+    { "id": "Warp" },
+    { "id": "Arrow" },
+    { "id": "AshPile" },
+    { "id": "Blocked" },
+    { "id": "Chat" },
+    { "id": "FootprintLeft" },
+    { "id": "FootprintRight" },
+    { "id": "Overlay" },
+    { "id": "Range" },
+    { "id": "Phone" },
+    { "id": "Plate" },
+    { "id": "NightVision" }
   ]
 }
