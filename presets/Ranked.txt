@@ -1376,9 +1376,9 @@ Ability Cooldown Bonus
 0.25
 <color=#0028F5FF>Spellslinger</color> Is Unique
 False
-Spell Cooldown
+Spellbind Cooldown
 10
-Spell Cooldown Increases By
+Spellbind Cooldown Increases By
 5
 Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Supporters</color>
 1
