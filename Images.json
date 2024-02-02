@@ -20,7 +20,6 @@
     { "id": "Guess" },
     { "id": "Hack" },
     { "id": "Haunt" },
-    { "id": "Help" },
     { "id": "Interrogate" },
     { "id": "IntruderKill" },
     { "id": "Intruders" },
@@ -141,6 +140,7 @@
     { "id": "Range" },
     { "id": "Phone" },
     { "id": "Plate" },
+    { "id": "Client" },
     { "id": "NightVision" }
   ]
 }
