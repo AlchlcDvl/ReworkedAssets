@@ -302,6 +302,11 @@
       "schinese": "Do Not Translate This, It Only Appears Internally"
     },
     {
+      "id": "GameSettings.Page11",
+      "english": "External Page",
+      "schinese": "Do Not Translate This, It Only Appears Internally"
+    },
+    {
       "id": "GameSettings.Instructions",
       "english": "Press Tab/Backspace/The Page Number To Change Pages",
       "schinese": "按Tab键/页码对应数字键/回格键来翻页"
