@@ -2013,53 +2013,43 @@
   },
   {
     "id": "misc0001",
-    "name": "Zemo",
-    "artist": ""
+    "name": "Zemo"
   },
   {
     "id": "misc0006",
-    "name": "syntrocity",
-    "artist": ""
+    "name": "syntrocity"
   },
   {
     "id": "misc0012",
-    "name": "rae",
-    "artist": ""
+    "name": "rae"
   },
   {
     "id": "misc0013",
-    "name": "poki",
-    "artist": ""
+    "name": "poki"
   },
   {
     "id": "misc0017",
-    "name": "mika",
-    "artist": ""
+    "name": "mika"
   },
   {
     "id": "misc0018",
-    "name": "ludwig",
-    "artist": ""
+    "name": "ludwig"
   },
   {
     "id": "misc0025",
-    "name": "carrot",
-    "artist": ""
+    "name": "carrot"
   },
   {
     "id": "misc0026",
-    "name": "bingus",
-    "artist": ""
+    "name": "bingus"
   },
   {
     "id": "misc0027",
-    "name": "bimbus",
-    "artist": ""
+    "name": "bimbus"
   },
   {
     "id": "misc0028",
-    "name": "aria",
-    "artist": ""
+    "name": "aria"
   },
   {
     "id": "myhats0000",
@@ -2138,33 +2128,27 @@
   },
   {
     "id": "standard0000",
-    "name": "wendy",
-    "artist": ""
+    "name": "wendy"
   },
   {
     "id": "standard0005",
-    "name": "rollups",
-    "artist": ""
+    "name": "rollups"
   },
   {
     "id": "standard0007",
-    "name": "pepe",
-    "artist": ""
+    "name": "pepe"
   },
   {
     "id": "standard0010",
-    "name": "masayoshi",
-    "artist": ""
+    "name": "masayoshi"
   },
   {
     "id": "standard0013",
-    "name": "jodi",
-    "artist": ""
+    "name": "jodi"
   },
   {
     "id": "standard0016",
-    "name": "",
-    "artist": ""
+    "name": ""
   },
   {
     "id": "standard0018",
@@ -2178,17 +2162,14 @@
   },
   {
     "id": "standard0023",
-    "name": "couve",
-    "artist": ""
+    "name": "couve"
   },
   {
     "id": "standard0027",
-    "name": "buffy",
-    "artist": ""
+    "name": "buffy"
   },
   {
     "id": "standard0031",
-    "name": "bird",
-    "artist": ""
+    "name": "bird"
   }
 ]
