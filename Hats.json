@@ -1,2197 +1,2194 @@
-{
-  "hats":
-  [
-    {
-      "id": "kara0001",
-      "name": "Pipe",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0002",
-      "name": "Very Expensive",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0005",
-      "name": "Folder",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0007",
-      "name": "kara lore",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0008",
-      "name": "Inner bean",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0009",
-      "name": "Wave the Trans Flag in the sunset",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0010",
-      "name": "Money Circle",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0011",
-      "name": "Realest Epicest Face in all the lands of Epicness made by Kara (Not Face Reveal), Produced by Karaesthetic. Sponsored by Det",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0012",
-      "name": "Magnifying Glass Tilted Right",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0013",
-      "name": "Recycle-mate",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0014",
-      "name": "Retro Book",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0015",
-      "name": "Retro camera",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0016",
-      "name": "Retro Wings",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0017",
-      "name": "Caught in Retro 32 bits",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0018",
-      "name": "Retro Shady",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0019",
-      "name": "TEH EPIK RUBBR DUCKIE!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0020",
-      "name": "Pocket Kara",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0021",
-      "name": "Secrets Revealed",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0022",
-      "name": "Pizza!",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0023",
-      "name": "Tomorrow is another day",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0024",
-      "name": "Triangle Buddy",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0025",
-      "name": "Triangle Buddy 2",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0026",
-      "name": "Triangle Buddy 3",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0027",
-      "name": "Milk with Ice",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0028",
-      "name": "Saltiest Bean in The West",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0029",
-      "name": "Snowgraved",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0030",
-      "name": "RGB BEAN *LIMITED EDITION*",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0031",
-      "name": "Crewmate.exe",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0032",
-      "name": "Cheesed",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0033",
-      "name": "Cool Face",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0034",
-      "name": "yeah",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0035",
-      "name": "Crewmate Pop-up",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0036",
-      "name": "The good :)",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0038",
-      "name": "BLUE LOBSTER",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0039",
-      "name": "Bucket",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0040",
-      "name": "Blahaj",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0041",
-      "name": "Creature",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0042",
-      "name": "Clown",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0043",
-      "name": "The Guys",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0044",
-      "name": "Crewmate Stew",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0045",
-      "name": "REEEEEEEEEEEEEEEEED",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0047",
-      "name": "Impsockster",
-      "artist": "Kara"
-    },
-    {
-      "id": "kara0049",
-      "name": "fat",
-      "artist": "Kara"
-    },
-    {
-      "id": "hats0000",
-      "name": "annamaja",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0002",
-      "name": "anniefuschia",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0005",
-      "name": " asexual",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0006",
-      "name": "ash_1",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0007",
-      "name": "ash_1 Flipped",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0009",
-      "name": "ben",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0010",
-      "name": "besty",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0011",
-      "name": "bisexual",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0012",
-      "name": "bloody",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0013",
-      "name": "boba",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0014",
-      "name": "breeh",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0015",
-      "name": "brittzey",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0016",
-      "name": "cheesy",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0017",
-      "name": "chilledchaos",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0018",
-      "name": "clara",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0019",
-      "name": "dawko",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0020",
-      "name": "dizzilulu",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0021",
-      "name": "duncan",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0022",
-      "name": "dyto",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0023",
-      "name": "ellum",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0024",
-      "name": "falcone_1",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0025",
-      "name": "freyzplayz",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0026",
-      "name": "garbage",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0027",
-      "name": "gay",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0028",
-      "name": "glitch",
-      "artist": "PhasmoFireGod"
-    },
-    {
-      "id": "hats0029",
-      "name": "harrie",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0030",
-      "name": "jamobo",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0033",
-      "name": "justjames",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0034",
-      "name": "kara",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "hats0035",
-      "name": "mama",
-      "artist": "PhasmoFireGod"
-    },
-    {
-      "id": "hats0036",
-      "name": "kay",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0037",
-      "name": "lawhoo",
-      "artist": "LaWhooligan"
-    },
-    {
-      "id": "hats0038",
-      "name": "lewis",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0039",
-      "name": "lexiemarie",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0040",
-      "name": "mindy",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "hats0041",
-      "name": "nerdout",
-      "artist": "Taamoy"
-    },
-    {
-      "id": "hats0042",
-      "name": "nilesy",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0043",
-      "name": "nonbinary",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0044",
-      "name": "ozza",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "hats0045",
-      "name": "pansexual",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0046",
-      "name": "pastaroni",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "hats0047",
-      "name": "ped",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0048",
-      "name": "phoebe",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0049",
-      "name": "ravs",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0050",
-      "name": "razzbowski",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0051",
-      "name": "rhythian",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0052",
-      "name": "shubble",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0053",
-      "name": "sips",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0054",
-      "name": "stumpy",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0055",
-      "name": "toby",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0056",
-      "name": "tomcraven",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0057",
-      "name": "trans_1",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0058",
-      "name": "trans_2",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0059",
-      "name": "trans_3",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0060",
-      "name": "trans_4",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0061",
-      "name": "vikram_1",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0062",
-      "name": "vikram_2",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0063",
-      "name": "wolfabelle",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0064",
-      "name": "zeroyalviking",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0065",
-      "name": "falcone",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0066",
-      "name": "pinkee",
-      "artist": "PhasmoFireGod"
-    },
-    {
-      "id": "hats0067",
-      "name": "racoon",
-      "artist": "PhasmoFireGod"
-    },
-    {
-      "id": "hats0068",
-      "name": "firegod",
-      "artist": "PhasmoFireGod"
-    },
-    {
-      "id": "hats0069",
-      "name": "slushie",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0070",
-      "name": "dad",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0075",
-      "name": "fox",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0076",
-      "name": "frog",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0077",
-      "name": "pig",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0078",
-      "name": "owl",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0086",
-      "name": "BTW",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0087",
-      "name": "Flower Fedora",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0088",
-      "name": "Gigawolf",
-      "artist": "Sugawara",
-      "adaptive": true,
-      "nobounce": false
-    },
-    {
-      "id": "hats0089",
-      "name": "Good Aura",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0090",
-      "name": "Guardian Angel",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0091",
-      "name": "Horned Angel",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0092",
-      "name": "Kartodk Evil",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0093",
-      "name": "Kartodk Sus",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0094",
-      "name": "Lavish",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0095",
-      "name": "Lie-canthrope",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0098",
-      "name": "Rico's Navy",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0099",
-      "name": "Sav Beanie",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0100",
-      "name": "Sparkles!",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0101",
-      "name": "Specs n' Antlers",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0102",
-      "name": "Stylish Witch",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0103",
-      "name": "Tropic Beach",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0104",
-      "name": "ash_2",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0105",
-      "name": "blood_bourne_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0106",
-      "name": "goku_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0107",
-      "name": "queenie_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0108",
-      "name": "tissue_box_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0109",
-      "name": "your_mom_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0110",
-      "name": "mantis_shrimpling_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0111",
-      "name": "luffy_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0112",
-      "name": "carnage_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0113",
-      "name": "stebon_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0114",
-      "name": "harley_quinn_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0115",
-      "name": "weasel_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0116",
-      "name": "dino_egg_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0117",
-      "name": "skater_girl_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0118",
-      "name": "sims_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0119",
-      "name": "shrimp_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0120",
-      "name": "pepe_hat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0121",
-      "name": "dwarf",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0122",
-      "name": "rooster",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0123",
-      "name": "monster",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0124",
-      "name": "Cyreni's Pony",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0125",
-      "name": "Oreos",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0126",
-      "name": "Soyciety",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0127",
-      "name": "Tsedtacle",
-      "artist": "Tsed"
-    },
-    {
-      "id": "hats0129",
-      "name": "L",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0130",
-      "name": "Menacing",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0131",
-      "name": "No U",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0132",
-      "name": "Okey",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0134",
-      "name": "Squid",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0135",
-      "name": "Wimpy Kid",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0136",
-      "name": "Cros Style",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0137",
-      "name": "Novasauros",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0138",
-      "name": "Peppercorny",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0139",
-      "name": "Rainy Day",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0140",
-      "name": "Scarf Gang",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0141",
-      "name": "So Devilish",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0142",
-      "name": "Huntress",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0143",
-      "name": "You're so Salty!",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0144",
-      "name": "LayZFox",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0146",
-      "name": "X-Ray",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0147",
-      "name": "Pap",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0148",
-      "name": "Cocoa",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0149",
-      "name": "Doused",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0150",
-      "name": "Fluffy Boi",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0151",
-      "name": "Hot Saucy",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0152",
-      "name": "ImPAWstor",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0153",
-      "name": "MMMM",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0154",
-      "name": "Bad Aura",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0155",
-      "name": "Dunce",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0156",
-      "name": "Gay-ny Day",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0160",
-      "name": "Lunch",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0161",
-      "name": "Peace Never!",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0163",
-      "name": "Book Of Sus",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0164",
-      "name": "Caramilk",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0165",
-      "name": "DJSmiles",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0167",
-      "name": "HoliGhost",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0168",
-      "name": "ImpTongue",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0169",
-      "name": "Jessie",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0170",
-      "name": "L",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0171",
-      "name": "Paws",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0172",
-      "name": "Potterhead",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0173",
-      "name": "Lil Swift",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0174",
-      "name": "Sableye",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0176",
-      "name": "Steampunk",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0177",
-      "name": "Steampunk Look",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0178",
-      "name": "Sushub",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0179",
-      "name": "Susotion",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0180",
-      "name": "Bee",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0181",
-      "name": "T-Rex",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0182",
-      "name": "Maid",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0184",
-      "name": "Ellum",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0185",
-      "name": "Koji Maid",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0186",
-      "name": "jeremy",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0187",
-      "name": "kDoolz",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0188",
-      "name": "tenma",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0189",
-      "name": "jukebox",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0190",
-      "name": "PK Fire",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0191",
-      "name": "Termy Boi",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0192",
-      "name": "Tippy",
-      "artist": "LayZ"
-    },
-    {
-      "id": "hats0193",
-      "name": "Akatsuki",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0194",
-      "name": "Bearded Grizzly",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0195",
-      "name": "Dumbdog",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0196",
-      "name": "Eyeball",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0197",
-      "name": "Friday Night Funkin 1",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0198",
-      "name": "Friday Night Funkin 2",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0199",
-      "name": "Jerm",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0202",
-      "name": "Pink",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0204",
-      "name": "Zombie",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0205",
-      "name": "Iron Man",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0206",
-      "name": "Thanos",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0207",
-      "name": "Side Arms",
-      "artist": "Ghost_ejims"
-    },
-    {
-      "id": "hats0208",
-      "name": "Kara 2",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "hats0209",
-      "name": "Bergmeister",
-      "artist": "Bergmeister"
-    },
-    {
-      "id": "hats0210",
-      "name": "Chrome",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0211",
-      "name": "Dabi",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0212",
-      "name": "James",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0213",
-      "name": "Meowth",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0214",
-      "name": "Mudkip",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0215",
-      "name": "Patrick Jenner",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0216",
-      "name": "Ravenclaw",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0217",
-      "name": "Taxi",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0218",
-      "name": "The Witcher",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0219",
-      "name": "Blue Dream",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0220",
-      "name": "BrittanyP95 Treasure",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0221",
-      "name": "Chibiusa",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0222",
-      "name": "Cynda",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0223",
-      "name": "Chicky Tenders",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0224",
-      "name": "Chicky Tenders Sauce",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0226",
-      "name": "Detective",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0227",
-      "name": "Fairy",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0228",
-      "name": "FengPJ",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0229",
-      "name": "Freckled Phenom",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0230",
-      "name": "Golden Boi",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0231",
-      "name": "Hold My Beer",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0233",
-      "name": "Kate",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0234",
-      "name": "Lil Too Much",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0235",
-      "name": "Liv Chipz Periodt",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0236",
-      "name": "Mac Vibes",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0237",
-      "name": "McRib",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0238",
-      "name": "Nurse",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0239",
-      "name": "Periodt",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0240",
-      "name": "Petty Perkins",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0241",
-      "name": "Pilborg It Me",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0242",
-      "name": "Sailor Steve",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0243",
-      "name": "Sweetroll",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0244",
-      "name": "Taste The Rainbow",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0245",
-      "name": "Tux",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0246",
-      "name": "Undead Marah",
-      "artist": "Sweetrolled"
-    },
-    {
-      "id": "hats0247",
-      "name": "Kn0vis",
-      "artist": "Sugawara"
-    },
-    {
-      "id": "hats0248",
-      "name": "Anya",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0249",
-      "name": "Pizza",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0250",
-      "name": "Gaara",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0251",
-      "name": "Hinata",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0252",
-      "name": "MartiMoo",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0253",
-      "name": "Roman",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0254",
-      "name": "Purple Shark",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0255",
-      "name": "Umbreon",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0256",
-      "name": "Virgil",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0257",
-      "name": "Side Arms 2",
-      "artist": "Ghost_ejims"
-    },
-    {
-      "id": "hats0258",
-      "name": "Rawbuhbuh",
-      "artist": "NightRaiderTea"
-    },
-    {
-      "id": "hats0259",
-      "name": "HeyMcGurk",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0260",
-      "name": "Tuskspicious",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0261",
-      "name": "Bunnies",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0262",
-      "name": "Mushroom",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0263",
-      "name": "Red Panda",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0264",
-      "name": "Wizard",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0265",
-      "name": "Courtilly",
-      "artist": "Sarinjin"
-    },
-    {
-      "id": "hats0266",
-      "name": "Mods",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0267",
-      "name": "NoiBat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0268",
-      "name": "Piss Bucket",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0269",
-      "name": "Zavvygamer",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0270",
-      "name": "Bill Cipher",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0271",
-      "name": "Blossom",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0272",
-      "name": "Bubbles",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0273",
-      "name": "Buttercup",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0275",
-      "name": "Gengar",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0276",
-      "name": "Grumpy Cat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0277",
-      "name": "Ksmac3",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0278",
-      "name": "Pennywise",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0279",
-      "name": "Redneck",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0280",
-      "name": "Red Body",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0281",
-      "name": "Pink Body",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0282",
-      "name": "Yellow Body",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0283",
-      "name": "Nogla",
-      "artist": "Sarinjin"
-    },
-    {
-      "id": "hats0285",
-      "name": "Olive Kruzadar",
-      "artist": "Sarinjin"
-    },
-    {
-      "id": "hats0286",
-      "name": "Red Kruzadar",
-      "artist": "Sarinjin"
-    },
-    {
-      "id": "hats0287",
-      "name": "Koala",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0288",
-      "name": "Raptor",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0289",
-      "name": "Kangaroo",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0290",
-      "name": "HeckMuffins",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0291",
-      "name": "HecksAmphy",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0292",
-      "name": "Ophidian",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0293",
-      "name": "Rikiisnotaferet",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0294",
-      "name": "SpiceRat",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0295",
-      "name": "Spicesjolt",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0296",
-      "name": "RicKafe",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0297",
-      "name": "Caracupcake",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0298",
-      "name": "Cosmicara",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0299",
-      "name": "Crabcake",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0300",
-      "name": "McMayhem",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0301",
-      "name": "MissJersey",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "misc0000",
-      "name": "ZeroXFusionz",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0003",
-      "name": "vince_foot_front",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "misc0004",
-      "name": "vince_front",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "misc0007",
-      "name": "stitch",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0008",
-      "name": "shrek",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0009",
-      "name": "revmeerkat_front",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0010",
-      "name": "reenyy",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0011",
-      "name": "rayc",
-      "artist": "tori#1277"
-    },
-    {
-      "id": "misc0015",
-      "name": "Paule_front",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "misc0020",
-      "name": "groot",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0021",
-      "name": "gorillaphent_f",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0022",
-      "name": "gh00stie_f",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "myhats0016",
-      "name": "raflp",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0001",
-      "name": "waffle",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0002",
-      "name": "Voteme",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0003",
-      "name": "squirrel",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0004",
-      "name": "shiki",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0006",
-      "name": "rocky",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0009",
-      "name": "pancakes",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0011",
-      "name": "leah",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0012",
-      "name": "kris",
-      "artist": "tori#1277"
-    },
-    {
-      "id": "standard0014",
-      "name": "jerm",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0015",
-      "name": "janet",
-      "artist": "tori#1277"
-    },
-    {
-      "id": "standard0017",
-      "name": "hafu",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0018",
-      "name": "giacomo",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0019",
-      "name": "Frog redesign (original by Ressnie)",
-      "artist": "Little Doo Doo"
-    },
-    {
-      "id": "standard0020",
-      "name": "frenchtoast",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0022",
-      "name": "crunchy",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0024",
-      "name": "charizard",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0028",
-      "name": "brizzyears",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0029",
-      "name": "br00d",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0030",
-      "name": "blaustoise",
-      "artist": "tori#1277"
-    },
-    {
-      "id": "standard0032",
-      "name": "birb",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0034",
-      "name": "basetrade_3",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0035",
-      "name": "basetrade_2",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0036",
-      "name": "basetrade_1",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0038",
-      "name": "_hat",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0039",
-      "name": "Snapper",
-      "artist": "Little Doo Doo"
-    },
-    {
-      "id": "standard0040",
-      "name": "Slippy",
-      "artist": "Little Doo Doo"
-    },
-    {
-      "id": "standard0041",
-      "name": "Frog",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0042",
-      "name": "Jessie Monkey",
-      "artist": "Little Doo Doo"
-    },
-    {
-      "id": "standard0043",
-      "name": "Sunflower",
-      "artist": "Little Doo Doo"
-    },
-    {
-      "id": "hats0303",
-      "name": "Determination",
-      "artist": "Gun"
-    },
-    {
-      "id": "hats0304",
-      "name": "LI",
-      "artist": "Gun"
-    },
-    {
-      "id": "hats0356",
-      "name": "SlackATK",
-      "artist": "Sarinjin"
-    },
-    {
-      "id": "hats0357",
-      "name": "AstasApple",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0305",
-      "name": "CaptainStoppy",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0306",
-      "name": "Casper",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0307",
-      "name": "DawnsHotMama",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0308",
-      "name": "DSCGluttony",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0309",
-      "name": "FairysBlueFox",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0310",
-      "name": "Japanda",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0311",
-      "name": "Lanaboo",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0312",
-      "name": "Panda Pride",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0313",
-      "name": "Shiny Psyduck",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0314",
-      "name": "Snorlax",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0315",
-      "name": "Tessany Beauty",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0316",
-      "name": "Xallysahoney",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0317",
-      "name": "Shmuelzy",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0320",
-      "name": "Thing",
-      "artist": "Rum"
-    },
-    {
-      "id": "hats0322",
-      "name": "Xeno",
-      "artist": "Rum"
-    },
-    {
-      "id": "hats0323",
-      "name": "Side Arms 2 alt",
-      "artist": "Ghost_ejims"
-    },
-    {
-      "id": "hats0324",
-      "name": "Basedkm",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0325",
-      "name": "CaspersGrovyle",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0326",
-      "name": "CowboyMav",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0327",
-      "name": "DigDuck",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0328",
-      "name": "DougDimadome",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0329",
-      "name": "JapandasSkitty",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0330",
-      "name": "Magikarp",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0331",
-      "name": "Nidoking",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0332",
-      "name": "QuirtysPolywhirl",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0333",
-      "name": "Salamence",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0334",
-      "name": "WolvsMimikyu",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0335",
-      "name": "CoriKasarak",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0336",
-      "name": "Jigglypuff",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0337",
-      "name": "KojiSkunk",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0338",
-      "name": "Wailord",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0340",
-      "name": "Creepy Doll",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0341",
-      "name": "Raven",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0342",
-      "name": "Trenchcoat",
-      "artist": "Pigoletto"
-    },
-    {
-      "id": "hats0343",
-      "name": "Blaziken",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0344",
-      "name": "Carriemello",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0345",
-      "name": "FBI Monkey",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0346",
-      "name": "GooseTroop",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0347",
-      "name": "Jerry",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0349",
-      "name": "Lucas",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0350",
-      "name": "NewHeckMuffins",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0351",
-      "name": "OogieBoogie",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0352",
-      "name": "RikisFerret",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0353",
-      "name": "Tinkerbell",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0354",
-      "name": "Troubella",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "hats0355",
-      "name": "Valak",
-      "artist": "Ophidian"
-    },
-    {
-      "id": "misc0000",
-      "name": "ZeroXFusionz",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "misc0001",
-      "name": "Zemo",
-      "artist": ""
-    },
-    {
-      "id": "misc0006",
-      "name": "syntrocity",
-      "artist": ""
-    },
-    {
-      "id": "misc0012",
-      "name": "rae",
-      "artist": ""
-    },
-    {
-      "id": "misc0013",
-      "name": "poki",
-      "artist": ""
-    },
-    {
-      "id": "misc0017",
-      "name": "mika",
-      "artist": ""
-    },
-    {
-      "id": "misc0018",
-      "name": "ludwig",
-      "artist": ""
-    },
-    {
-      "id": "misc0025",
-      "name": "carrot",
-      "artist": ""
-    },
-    {
-      "id": "misc0026",
-      "name": "bingus",
-      "artist": ""
-    },
-    {
-      "id": "misc0027",
-      "name": "bimbus",
-      "artist": ""
-    },
-    {
-      "id": "misc0028",
-      "name": "aria",
-      "artist": ""
-    },
-    {
-      "id": "myhats0000",
-      "name": "pot",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0001",
-      "name": "box",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0002",
-      "name": "eye",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0003",
-      "name": "fundy",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0004",
-      "name": "sykkuno",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0005",
-      "name": "5up",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0006",
-      "name": "crumb",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0007",
-      "name": "sussy",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0008",
-      "name": "penguin",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0009",
-      "name": "dolphin",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0011",
-      "name": "croissant",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0012",
-      "name": "platypus",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0013",
-      "name": "vines",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0014",
-      "name": "5up scarf",
-      "artist": "acron"
-    },
-    {
-      "id": "myhats0015",
-      "name": "baby",
-      "artist": "acron"
-    },
-    {
-      "id": "standard0000",
-      "name": "wendy",
-      "artist": ""
-    },
-    {
-      "id": "standard0005",
-      "name": "rollups",
-      "artist": ""
-    },
-    {
-      "id": "standard0007",
-      "name": "pepe",
-      "artist": ""
-    },
-    {
-      "id": "standard0010",
-      "name": "masayoshi",
-      "artist": ""
-    },
-    {
-      "id": "standard0013",
-      "name": "jodi",
-      "artist": ""
-    },
-    {
-      "id": "standard0016",
-      "name": "",
-      "artist": ""
-    },
-    {
-      "id": "standard0018",
-      "name": "giacomo",
-      "artist": "TheLastShaymin"
-    },
-    {
-      "id": "standard0020",
-      "name": "frenchtoast",
-      "artist": "Ressnie"
-    },
-    {
-      "id": "standard0023",
-      "name": "couve",
-      "artist": ""
-    },
-    {
-      "id": "standard0027",
-      "name": "buffy",
-      "artist": ""
-    },
-    {
-      "id": "standard0031",
-      "name": "bird",
-      "artist": ""
-    }
-  ]
-}
+[
+  {
+    "id": "kara0001",
+    "name": "Pipe",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0002",
+    "name": "Very Expensive",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0005",
+    "name": "Folder",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0007",
+    "name": "kara lore",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0008",
+    "name": "Inner bean",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0009",
+    "name": "Wave the Trans Flag in the sunset",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0010",
+    "name": "Money Circle",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0011",
+    "name": "Realest Epicest Face in all the lands of Epicness made by Kara (Not Face Reveal), Produced by Karaesthetic. Sponsored by Det",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0012",
+    "name": "Magnifying Glass Tilted Right",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0013",
+    "name": "Recycle-mate",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0014",
+    "name": "Retro Book",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0015",
+    "name": "Retro camera",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0016",
+    "name": "Retro Wings",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0017",
+    "name": "Caught in Retro 32 bits",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0018",
+    "name": "Retro Shady",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0019",
+    "name": "TEH EPIK RUBBR DUCKIE!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0020",
+    "name": "Pocket Kara",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0021",
+    "name": "Secrets Revealed",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0022",
+    "name": "Pizza!",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0023",
+    "name": "Tomorrow is another day",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0024",
+    "name": "Triangle Buddy",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0025",
+    "name": "Triangle Buddy 2",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0026",
+    "name": "Triangle Buddy 3",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0027",
+    "name": "Milk with Ice",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0028",
+    "name": "Saltiest Bean in The West",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0029",
+    "name": "Snowgraved",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0030",
+    "name": "RGB BEAN *LIMITED EDITION*",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0031",
+    "name": "Crewmate.exe",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0032",
+    "name": "Cheesed",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0033",
+    "name": "Cool Face",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0034",
+    "name": "yeah",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0035",
+    "name": "Crewmate Pop-up",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0036",
+    "name": "The good :)",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0038",
+    "name": "BLUE LOBSTER",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0039",
+    "name": "Bucket",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0040",
+    "name": "Blahaj",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0041",
+    "name": "Creature",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0042",
+    "name": "Clown",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0043",
+    "name": "The Guys",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0044",
+    "name": "Crewmate Stew",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0045",
+    "name": "REEEEEEEEEEEEEEEEED",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0047",
+    "name": "Impsockster",
+    "artist": "Kara"
+  },
+  {
+    "id": "kara0049",
+    "name": "fat",
+    "artist": "Kara"
+  },
+  {
+    "id": "hats0000",
+    "name": "annamaja",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0002",
+    "name": "anniefuschia",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0005",
+    "name": " asexual",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0006",
+    "name": "ash_1",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0007",
+    "name": "ash_1 Flipped",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0009",
+    "name": "ben",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0010",
+    "name": "besty",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0011",
+    "name": "bisexual",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0012",
+    "name": "bloody",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0013",
+    "name": "boba",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0014",
+    "name": "breeh",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0015",
+    "name": "brittzey",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0016",
+    "name": "cheesy",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0017",
+    "name": "chilledchaos",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0018",
+    "name": "clara",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0019",
+    "name": "dawko",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0020",
+    "name": "dizzilulu",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0021",
+    "name": "duncan",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0022",
+    "name": "dyto",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0023",
+    "name": "ellum",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0024",
+    "name": "falcone_1",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0025",
+    "name": "freyzplayz",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0026",
+    "name": "garbage",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0027",
+    "name": "gay",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0028",
+    "name": "glitch",
+    "artist": "PhasmoFireGod"
+  },
+  {
+    "id": "hats0029",
+    "name": "harrie",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0030",
+    "name": "jamobo",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0033",
+    "name": "justjames",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0034",
+    "name": "kara",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "hats0035",
+    "name": "mama",
+    "artist": "PhasmoFireGod"
+  },
+  {
+    "id": "hats0036",
+    "name": "kay",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0037",
+    "name": "lawhoo",
+    "artist": "LaWhooligan"
+  },
+  {
+    "id": "hats0038",
+    "name": "lewis",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0039",
+    "name": "lexiemarie",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0040",
+    "name": "mindy",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "hats0041",
+    "name": "nerdout",
+    "artist": "Taamoy"
+  },
+  {
+    "id": "hats0042",
+    "name": "nilesy",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0043",
+    "name": "nonbinary",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0044",
+    "name": "ozza",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "hats0045",
+    "name": "pansexual",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0046",
+    "name": "pastaroni",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "hats0047",
+    "name": "ped",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0048",
+    "name": "phoebe",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0049",
+    "name": "ravs",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0050",
+    "name": "razzbowski",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0051",
+    "name": "rhythian",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0052",
+    "name": "shubble",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0053",
+    "name": "sips",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0054",
+    "name": "stumpy",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0055",
+    "name": "toby",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0056",
+    "name": "tomcraven",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0057",
+    "name": "trans_1",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0058",
+    "name": "trans_2",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0059",
+    "name": "trans_3",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0060",
+    "name": "trans_4",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0061",
+    "name": "vikram_1",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0062",
+    "name": "vikram_2",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0063",
+    "name": "wolfabelle",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0064",
+    "name": "zeroyalviking",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0065",
+    "name": "falcone",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0066",
+    "name": "pinkee",
+    "artist": "PhasmoFireGod"
+  },
+  {
+    "id": "hats0067",
+    "name": "racoon",
+    "artist": "PhasmoFireGod"
+  },
+  {
+    "id": "hats0068",
+    "name": "firegod",
+    "artist": "PhasmoFireGod"
+  },
+  {
+    "id": "hats0069",
+    "name": "slushie",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0070",
+    "name": "dad",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0075",
+    "name": "fox",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0076",
+    "name": "frog",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0077",
+    "name": "pig",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0078",
+    "name": "owl",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0086",
+    "name": "BTW",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0087",
+    "name": "Flower Fedora",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0088",
+    "name": "Gigawolf",
+    "artist": "Sugawara",
+    "adaptive": true,
+    "nobounce": false
+  },
+  {
+    "id": "hats0089",
+    "name": "Good Aura",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0090",
+    "name": "Guardian Angel",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0091",
+    "name": "Horned Angel",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0092",
+    "name": "Kartodk Evil",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0093",
+    "name": "Kartodk Sus",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0094",
+    "name": "Lavish",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0095",
+    "name": "Lie-canthrope",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0098",
+    "name": "Rico's Navy",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0099",
+    "name": "Sav Beanie",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0100",
+    "name": "Sparkles!",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0101",
+    "name": "Specs n' Antlers",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0102",
+    "name": "Stylish Witch",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0103",
+    "name": "Tropic Beach",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0104",
+    "name": "ash_2",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0105",
+    "name": "blood_bourne_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0106",
+    "name": "goku_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0107",
+    "name": "queenie_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0108",
+    "name": "tissue_box_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0109",
+    "name": "your_mom_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0110",
+    "name": "mantis_shrimpling_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0111",
+    "name": "luffy_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0112",
+    "name": "carnage_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0113",
+    "name": "stebon_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0114",
+    "name": "harley_quinn_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0115",
+    "name": "weasel_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0116",
+    "name": "dino_egg_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0117",
+    "name": "skater_girl_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0118",
+    "name": "sims_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0119",
+    "name": "shrimp_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0120",
+    "name": "pepe_hat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0121",
+    "name": "dwarf",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0122",
+    "name": "rooster",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0123",
+    "name": "monster",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0124",
+    "name": "Cyreni's Pony",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0125",
+    "name": "Oreos",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0126",
+    "name": "Soyciety",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0127",
+    "name": "Tsedtacle",
+    "artist": "Tsed"
+  },
+  {
+    "id": "hats0129",
+    "name": "L",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0130",
+    "name": "Menacing",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0131",
+    "name": "No U",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0132",
+    "name": "Okey",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0134",
+    "name": "Squid",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0135",
+    "name": "Wimpy Kid",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0136",
+    "name": "Cros Style",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0137",
+    "name": "Novasauros",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0138",
+    "name": "Peppercorny",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0139",
+    "name": "Rainy Day",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0140",
+    "name": "Scarf Gang",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0141",
+    "name": "So Devilish",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0142",
+    "name": "Huntress",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0143",
+    "name": "You're so Salty!",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0144",
+    "name": "LayZFox",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0146",
+    "name": "X-Ray",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0147",
+    "name": "Pap",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0148",
+    "name": "Cocoa",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0149",
+    "name": "Doused",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0150",
+    "name": "Fluffy Boi",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0151",
+    "name": "Hot Saucy",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0152",
+    "name": "ImPAWstor",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0153",
+    "name": "MMMM",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0154",
+    "name": "Bad Aura",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0155",
+    "name": "Dunce",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0156",
+    "name": "Gay-ny Day",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0160",
+    "name": "Lunch",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0161",
+    "name": "Peace Never!",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0163",
+    "name": "Book Of Sus",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0164",
+    "name": "Caramilk",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0165",
+    "name": "DJSmiles",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0167",
+    "name": "HoliGhost",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0168",
+    "name": "ImpTongue",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0169",
+    "name": "Jessie",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0170",
+    "name": "L",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0171",
+    "name": "Paws",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0172",
+    "name": "Potterhead",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0173",
+    "name": "Lil Swift",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0174",
+    "name": "Sableye",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0176",
+    "name": "Steampunk",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0177",
+    "name": "Steampunk Look",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0178",
+    "name": "Sushub",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0179",
+    "name": "Susotion",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0180",
+    "name": "Bee",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0181",
+    "name": "T-Rex",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0182",
+    "name": "Maid",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0184",
+    "name": "Ellum",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0185",
+    "name": "Koji Maid",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0186",
+    "name": "jeremy",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0187",
+    "name": "kDoolz",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0188",
+    "name": "tenma",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0189",
+    "name": "jukebox",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0190",
+    "name": "PK Fire",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0191",
+    "name": "Termy Boi",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0192",
+    "name": "Tippy",
+    "artist": "LayZ"
+  },
+  {
+    "id": "hats0193",
+    "name": "Akatsuki",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0194",
+    "name": "Bearded Grizzly",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0195",
+    "name": "Dumbdog",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0196",
+    "name": "Eyeball",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0197",
+    "name": "Friday Night Funkin 1",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0198",
+    "name": "Friday Night Funkin 2",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0199",
+    "name": "Jerm",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0202",
+    "name": "Pink",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0204",
+    "name": "Zombie",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0205",
+    "name": "Iron Man",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0206",
+    "name": "Thanos",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0207",
+    "name": "Side Arms",
+    "artist": "Ghost_ejims"
+  },
+  {
+    "id": "hats0208",
+    "name": "Kara 2",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "hats0209",
+    "name": "Bergmeister",
+    "artist": "Bergmeister"
+  },
+  {
+    "id": "hats0210",
+    "name": "Chrome",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0211",
+    "name": "Dabi",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0212",
+    "name": "James",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0213",
+    "name": "Meowth",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0214",
+    "name": "Mudkip",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0215",
+    "name": "Patrick Jenner",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0216",
+    "name": "Ravenclaw",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0217",
+    "name": "Taxi",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0218",
+    "name": "The Witcher",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0219",
+    "name": "Blue Dream",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0220",
+    "name": "BrittanyP95 Treasure",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0221",
+    "name": "Chibiusa",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0222",
+    "name": "Cynda",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0223",
+    "name": "Chicky Tenders",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0224",
+    "name": "Chicky Tenders Sauce",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0226",
+    "name": "Detective",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0227",
+    "name": "Fairy",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0228",
+    "name": "FengPJ",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0229",
+    "name": "Freckled Phenom",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0230",
+    "name": "Golden Boi",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0231",
+    "name": "Hold My Beer",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0233",
+    "name": "Kate",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0234",
+    "name": "Lil Too Much",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0235",
+    "name": "Liv Chipz Periodt",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0236",
+    "name": "Mac Vibes",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0237",
+    "name": "McRib",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0238",
+    "name": "Nurse",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0239",
+    "name": "Periodt",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0240",
+    "name": "Petty Perkins",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0241",
+    "name": "Pilborg It Me",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0242",
+    "name": "Sailor Steve",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0243",
+    "name": "Sweetroll",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0244",
+    "name": "Taste The Rainbow",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0245",
+    "name": "Tux",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0246",
+    "name": "Undead Marah",
+    "artist": "Sweetrolled"
+  },
+  {
+    "id": "hats0247",
+    "name": "Kn0vis",
+    "artist": "Sugawara"
+  },
+  {
+    "id": "hats0248",
+    "name": "Anya",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0249",
+    "name": "Pizza",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0250",
+    "name": "Gaara",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0251",
+    "name": "Hinata",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0252",
+    "name": "MartiMoo",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0253",
+    "name": "Roman",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0254",
+    "name": "Purple Shark",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0255",
+    "name": "Umbreon",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0256",
+    "name": "Virgil",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0257",
+    "name": "Side Arms 2",
+    "artist": "Ghost_ejims"
+  },
+  {
+    "id": "hats0258",
+    "name": "Rawbuhbuh",
+    "artist": "NightRaiderTea"
+  },
+  {
+    "id": "hats0259",
+    "name": "HeyMcGurk",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0260",
+    "name": "Tuskspicious",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0261",
+    "name": "Bunnies",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0262",
+    "name": "Mushroom",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0263",
+    "name": "Red Panda",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0264",
+    "name": "Wizard",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0265",
+    "name": "Courtilly",
+    "artist": "Sarinjin"
+  },
+  {
+    "id": "hats0266",
+    "name": "Mods",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0267",
+    "name": "NoiBat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0268",
+    "name": "Piss Bucket",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0269",
+    "name": "Zavvygamer",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0270",
+    "name": "Bill Cipher",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0271",
+    "name": "Blossom",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0272",
+    "name": "Bubbles",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0273",
+    "name": "Buttercup",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0275",
+    "name": "Gengar",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0276",
+    "name": "Grumpy Cat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0277",
+    "name": "Ksmac3",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0278",
+    "name": "Pennywise",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0279",
+    "name": "Redneck",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0280",
+    "name": "Red Body",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0281",
+    "name": "Pink Body",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0282",
+    "name": "Yellow Body",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0283",
+    "name": "Nogla",
+    "artist": "Sarinjin"
+  },
+  {
+    "id": "hats0285",
+    "name": "Olive Kruzadar",
+    "artist": "Sarinjin"
+  },
+  {
+    "id": "hats0286",
+    "name": "Red Kruzadar",
+    "artist": "Sarinjin"
+  },
+  {
+    "id": "hats0287",
+    "name": "Koala",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0288",
+    "name": "Raptor",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0289",
+    "name": "Kangaroo",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0290",
+    "name": "HeckMuffins",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0291",
+    "name": "HecksAmphy",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0292",
+    "name": "Ophidian",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0293",
+    "name": "Rikiisnotaferet",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0294",
+    "name": "SpiceRat",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0295",
+    "name": "Spicesjolt",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0296",
+    "name": "RicKafe",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0297",
+    "name": "Caracupcake",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0298",
+    "name": "Cosmicara",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0299",
+    "name": "Crabcake",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0300",
+    "name": "McMayhem",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0301",
+    "name": "MissJersey",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "misc0000",
+    "name": "ZeroXFusionz",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "misc0003",
+    "name": "vince_foot_front",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "misc0004",
+    "name": "vince_front",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "misc0007",
+    "name": "stitch",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "misc0008",
+    "name": "shrek",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "misc0009",
+    "name": "revmeerkat_front",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "misc0010",
+    "name": "reenyy",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "misc0011",
+    "name": "rayc",
+    "artist": "tori#1277"
+  },
+  {
+    "id": "misc0015",
+    "name": "Paule_front",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "misc0020",
+    "name": "groot",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "misc0021",
+    "name": "gorillaphent_f",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "misc0022",
+    "name": "gh00stie_f",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "myhats0016",
+    "name": "raflp",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0001",
+    "name": "waffle",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0002",
+    "name": "Voteme",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0003",
+    "name": "squirrel",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0004",
+    "name": "shiki",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0006",
+    "name": "rocky",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0009",
+    "name": "pancakes",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0011",
+    "name": "leah",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0012",
+    "name": "kris",
+    "artist": "tori#1277"
+  },
+  {
+    "id": "standard0014",
+    "name": "jerm",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0015",
+    "name": "janet",
+    "artist": "tori#1277"
+  },
+  {
+    "id": "standard0017",
+    "name": "hafu",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0018",
+    "name": "giacomo",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0019",
+    "name": "Frog redesign (original by Ressnie)",
+    "artist": "Little Doo Doo"
+  },
+  {
+    "id": "standard0020",
+    "name": "frenchtoast",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0022",
+    "name": "crunchy",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0024",
+    "name": "charizard",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0028",
+    "name": "brizzyears",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0029",
+    "name": "br00d",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0030",
+    "name": "blaustoise",
+    "artist": "tori#1277"
+  },
+  {
+    "id": "standard0032",
+    "name": "birb",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0034",
+    "name": "basetrade_3",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0035",
+    "name": "basetrade_2",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0036",
+    "name": "basetrade_1",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0038",
+    "name": "_hat",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0039",
+    "name": "Snapper",
+    "artist": "Little Doo Doo"
+  },
+  {
+    "id": "standard0040",
+    "name": "Slippy",
+    "artist": "Little Doo Doo"
+  },
+  {
+    "id": "standard0041",
+    "name": "Frog",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0042",
+    "name": "Jessie Monkey",
+    "artist": "Little Doo Doo"
+  },
+  {
+    "id": "standard0043",
+    "name": "Sunflower",
+    "artist": "Little Doo Doo"
+  },
+  {
+    "id": "hats0303",
+    "name": "Determination",
+    "artist": "Gun"
+  },
+  {
+    "id": "hats0304",
+    "name": "LI",
+    "artist": "Gun"
+  },
+  {
+    "id": "hats0356",
+    "name": "SlackATK",
+    "artist": "Sarinjin"
+  },
+  {
+    "id": "hats0357",
+    "name": "AstasApple",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0305",
+    "name": "CaptainStoppy",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0306",
+    "name": "Casper",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0307",
+    "name": "DawnsHotMama",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0308",
+    "name": "DSCGluttony",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0309",
+    "name": "FairysBlueFox",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0310",
+    "name": "Japanda",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0311",
+    "name": "Lanaboo",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0312",
+    "name": "Panda Pride",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0313",
+    "name": "Shiny Psyduck",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0314",
+    "name": "Snorlax",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0315",
+    "name": "Tessany Beauty",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0316",
+    "name": "Xallysahoney",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0317",
+    "name": "Shmuelzy",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0320",
+    "name": "Thing",
+    "artist": "Rum"
+  },
+  {
+    "id": "hats0322",
+    "name": "Xeno",
+    "artist": "Rum"
+  },
+  {
+    "id": "hats0323",
+    "name": "Side Arms 2 alt",
+    "artist": "Ghost_ejims"
+  },
+  {
+    "id": "hats0324",
+    "name": "Basedkm",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0325",
+    "name": "CaspersGrovyle",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0326",
+    "name": "CowboyMav",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0327",
+    "name": "DigDuck",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0328",
+    "name": "DougDimadome",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0329",
+    "name": "JapandasSkitty",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0330",
+    "name": "Magikarp",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0331",
+    "name": "Nidoking",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0332",
+    "name": "QuirtysPolywhirl",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0333",
+    "name": "Salamence",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0334",
+    "name": "WolvsMimikyu",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0335",
+    "name": "CoriKasarak",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0336",
+    "name": "Jigglypuff",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0337",
+    "name": "KojiSkunk",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0338",
+    "name": "Wailord",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0340",
+    "name": "Creepy Doll",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0341",
+    "name": "Raven",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0342",
+    "name": "Trenchcoat",
+    "artist": "Pigoletto"
+  },
+  {
+    "id": "hats0343",
+    "name": "Blaziken",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0344",
+    "name": "Carriemello",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0345",
+    "name": "FBI Monkey",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0346",
+    "name": "GooseTroop",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0347",
+    "name": "Jerry",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0349",
+    "name": "Lucas",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0350",
+    "name": "NewHeckMuffins",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0351",
+    "name": "OogieBoogie",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0352",
+    "name": "RikisFerret",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0353",
+    "name": "Tinkerbell",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0354",
+    "name": "Troubella",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "hats0355",
+    "name": "Valak",
+    "artist": "Ophidian"
+  },
+  {
+    "id": "misc0000",
+    "name": "ZeroXFusionz",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "misc0001",
+    "name": "Zemo",
+    "artist": ""
+  },
+  {
+    "id": "misc0006",
+    "name": "syntrocity",
+    "artist": ""
+  },
+  {
+    "id": "misc0012",
+    "name": "rae",
+    "artist": ""
+  },
+  {
+    "id": "misc0013",
+    "name": "poki",
+    "artist": ""
+  },
+  {
+    "id": "misc0017",
+    "name": "mika",
+    "artist": ""
+  },
+  {
+    "id": "misc0018",
+    "name": "ludwig",
+    "artist": ""
+  },
+  {
+    "id": "misc0025",
+    "name": "carrot",
+    "artist": ""
+  },
+  {
+    "id": "misc0026",
+    "name": "bingus",
+    "artist": ""
+  },
+  {
+    "id": "misc0027",
+    "name": "bimbus",
+    "artist": ""
+  },
+  {
+    "id": "misc0028",
+    "name": "aria",
+    "artist": ""
+  },
+  {
+    "id": "myhats0000",
+    "name": "pot",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0001",
+    "name": "box",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0002",
+    "name": "eye",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0003",
+    "name": "fundy",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0004",
+    "name": "sykkuno",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0005",
+    "name": "5up",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0006",
+    "name": "crumb",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0007",
+    "name": "sussy",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0008",
+    "name": "penguin",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0009",
+    "name": "dolphin",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0011",
+    "name": "croissant",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0012",
+    "name": "platypus",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0013",
+    "name": "vines",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0014",
+    "name": "5up scarf",
+    "artist": "acron"
+  },
+  {
+    "id": "myhats0015",
+    "name": "baby",
+    "artist": "acron"
+  },
+  {
+    "id": "standard0000",
+    "name": "wendy",
+    "artist": ""
+  },
+  {
+    "id": "standard0005",
+    "name": "rollups",
+    "artist": ""
+  },
+  {
+    "id": "standard0007",
+    "name": "pepe",
+    "artist": ""
+  },
+  {
+    "id": "standard0010",
+    "name": "masayoshi",
+    "artist": ""
+  },
+  {
+    "id": "standard0013",
+    "name": "jodi",
+    "artist": ""
+  },
+  {
+    "id": "standard0016",
+    "name": "",
+    "artist": ""
+  },
+  {
+    "id": "standard0018",
+    "name": "giacomo",
+    "artist": "TheLastShaymin"
+  },
+  {
+    "id": "standard0020",
+    "name": "frenchtoast",
+    "artist": "Ressnie"
+  },
+  {
+    "id": "standard0023",
+    "name": "couve",
+    "artist": ""
+  },
+  {
+    "id": "standard0027",
+    "name": "buffy",
+    "artist": ""
+  },
+  {
+    "id": "standard0031",
+    "name": "bird",
+    "artist": ""
+  }
+]

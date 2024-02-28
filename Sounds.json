@@ -1,14 +1,11 @@
-{
-  "sounds":
-  [
-    { "id": "BomberIntro" },
-    { "id": "CamouflagerIntro" },
-    { "id": "GlitchIntro" },
-    { "id": "JackalIntro" },
-    { "id": "MayorIntro" },
-    { "id": "SeerIntro" },
-    { "id": "TimekeeperIntro" },
-    { "id": "WarperIntro" },
-    { "id": "WerewolfIntro" }
-  ]
-}
+[
+  { "id": "BomberIntro" },
+  { "id": "CamouflagerIntro" },
+  { "id": "GlitchIntro" },
+  { "id": "JackalIntro" },
+  { "id": "MayorIntro" },
+  { "id": "SeerIntro" },
+  { "id": "TimekeeperIntro" },
+  { "id": "WarperIntro" },
+  { "id": "WerewolfIntro" }
+]
