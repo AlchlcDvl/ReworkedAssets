@@ -2,330 +2,248 @@
   {
     "name": "Red",
     "stringid": 346,
-    "rgbmain": "198, 17, 17",
-    "rgbshadow": "122, 8, 56",
     "default": true
   },
   {
     "name": "Blue",
     "stringid": 345,
-    "rgbmain": "19, 46, 210",
-    "rgbshadow": "9, 21, 142",
     "default": true
   },
   {
     "name": "Green",
     "stringid": 348,
-    "rgbmain": "17, 128, 45",
-    "rgbshadow": "10, 77, 46",
     "default": true
   },
   {
     "name": "Pink",
     "stringid": 349,
-    "rgbmain": "238, 84, 187",
-    "rgbshadow": "172, 43, 174",
     "lighter": true,
     "default": true
   },
   {
     "name": "Orange",
     "stringid": 344,
-    "rgbmain": "240, 125, 13",
-    "rgbshadow": "180, 62, 21",
     "lighter": true,
     "default": true
   },
   {
     "name": "Yellow",
     "stringid": 351,
-    "rgbmain": "246, 246, 87",
-    "rgbshadow": "195, 136, 34",
     "lighter": true,
     "default": true
   },
   {
     "name": "Black",
     "stringid": 352,
-    "rgbmain": "63, 71, 78",
-    "rgbshadow": "30, 31, 38",
     "default": true
   },
   {
     "name": "White",
     "stringid": 350,
-    "rgbmain": "215, 225, 241",
-    "rgbshadow": "132, 149, 192",
     "lighter": true,
     "default": true
   },
   {
     "name": "Purple",
     "stringid": 353,
-    "rgbmain": "107, 47, 188",
-    "rgbshadow": "59, 23, 124",
     "default": true
   },
   {
     "name": "Brown",
     "stringid": 347,
-    "rgbmain": "113, 73, 30",
-    "rgbshadow": "94, 38, 21",
     "default": true
   },
   {
     "name": "Cyan",
     "stringid": 354,
-    "rgbmain": "56, 255, 221",
-    "rgbshadow": "36, 169, 191",
     "lighter": true,
     "default": true
   },
   {
     "name": "Lime",
     "stringid": 355,
-    "rgbmain": "80, 240, 57",
-    "rgbshadow": "21, 168, 66",
     "lighter": true,
     "default": true
   },
   {
     "name": "Maroon",
     "stringid": 2143,
-    "rgbmain": "95, 29, 46",
-    "rgbshadow": "65, 15, 26",
     "default": true
   },
   {
     "name": "Rose",
     "stringid": 2144,
-    "rgbmain": "236, 192, 211",
-    "rgbshadow": "222, 146, 179",
     "lighter": true,
     "default": true
   },
   {
     "name": "Banana",
     "stringid": 2145,
-    "rgbmain": "240, 231, 168",
-    "rgbshadow": "210, 188, 137",
     "lighter": true,
     "default": true
   },
   {
     "name": "Grey",
     "stringid": 2146,
-    "rgbmain": "117, 133, 147",
-    "rgbshadow": "70, 86, 100",
     "default": true
   },
   {
     "name": "Tan",
     "stringid": 2147,
-    "rgbmain": "145, 136, 119",
-    "rgbshadow": "81, 65, 62",
     "default": true
   },
   {
     "name": "Coral",
     "stringid": 2154,
-    "rgbmain": "215, 100, 100",
-    "rgbshadow": "180, 67, 98",
     "lighter": true,
     "default": true
   },
   {
     "name": "Watermelon",
-    "rgbmain": "168, 50, 62",
-    "rgbshadow": "101, 30, 37",
     "lighter": true
   },
   {
-    "name": "Chocolate",
-    "rgbmain": "60, 48, 44",
-    "rgbshadow": "30, 24, 22"
+    "name": "Chocolate"
   },
   {
     "name": "SkyBlue",
-    "rgbmain": "61, 129, 255",
-    "rgbshadow": "31, 65, 128",
     "lighter": true
   },
   {
     "name": "Beige",
-    "rgbmain": "240, 211, 165",
-    "rgbshadow": "120, 106, 83",
     "lighter": true
   },
   {
-    "name": "Magenta",
-    "rgbmain": "255, 0, 127",
-    "rgbshadow": "191, 0, 95"
+    "name": "Magenta"
   },
   {
     "name": "Turquoise",
-    "rgbmain": "61, 255, 181",
-    "rgbshadow": "31, 128, 91",
     "lighter": true
   },
   {
     "name": "Lilac",
-    "rgbmain": "186, 161, 255",
-    "rgbshadow": "93, 81, 128",
     "lighter": true
   },
   {
-    "name": "Olive",
-    "rgbmain": "97, 114, 24",
-    "rgbshadow": "66, 91, 15"
+    "name": "Olive"
   },
   {
     "name": "Azure",
-    "rgbmain": "1, 166, 255",
-    "rgbshadow": "17, 104, 151",
     "lighter": true
   },
   {
-    "name": "Plum",
-    "rgbmain": "79, 0, 127",
-    "rgbshadow": "55, 0, 95"
+    "name": "Plum"
   },
   {
-    "name": "Jungle",
-    "rgbmain": "0, 47, 0",
-    "rgbshadow": "0, 23, 0"
+    "name": "Jungle"
   },
   {
     "name": "Mint",
-    "rgbmain": "151, 255, 151",
-    "rgbshadow": "109, 191, 109",
     "lighter": true
   },
   {
     "name": "Chartreuse",
-    "rgbmain": "207, 255, 0",
-    "rgbshadow": "143, 191, 61",
     "lighter": true
   },
   {
-    "name": "Macau",
-    "rgbmain": "0, 97, 93",
-    "rgbshadow": "0, 65, 61"
+    "name": "Macau"
   },
   {
-    "name": "Tawny",
-    "rgbmain": "205, 63, 0",
-    "rgbshadow": "141, 31, 0"
+    "name": "Tawny"
   },
   {
     "name": "Gold",
-    "rgbmain": "255, 207, 0",
-    "rgbshadow": "191, 143, 0",
     "lighter": true
   },
   {
     "name": "Panda",
-    "rgbmain": "255, 255, 255",
-    "rgbshadow": "0, 0, 0",
     "lighter": true,
     "contrasting": true,
-    "title": "Constrasting"
+    "title": "Constrast"
   },
   {
     "name": "Contrast",
-    "rgbmain": "255, 0, 0",
-    "rgbshadow": "0, 0, 255",
     "contrasting": true,
     "title": "Constrast"
   },
   {
     "name": "Starlight",
-    "rgbmain": "255, 255, 255",
-    "rgbshadow": "255, 255, 255",
     "lighter": true
   },
   {
-    "name": "Vantablack",
-    "rgbmain": "15, 15, 15",
-    "rgbshadow": "0, 0, 0"
+    "name": "Vantablack"
   },
   {
     "name": "Ice",
-    "rgbmain": "251, 251, 255",
-    "rgbshadow": "112, 250, 241",
     "contrasting": true,
     "lighter": true,
     "title": "Constrast"
   },
   {
     "name": "Nougat",
-    "rgbmain": "160, 101, 56",
-    "rgbshadow": "115, 15, 78",
     "contrasting": true,
     "title": "Constrast"
   },
   {
     "name": "Lava",
-    "rgbmain": "255, 255, 16",
-    "rgbshadow": "255, 0, 0",
     "contrasting": true,
     "lighter": true,
     "title": "Constrast"
   },
   {
     "name": "Reversebow",
-    "hsbmain": "0, 1, 0.3, true; 1; 0, 1, 0.3",
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Vibrance",
-    "hsbmain": "0.17, 0.5, 0.3, true; 0.9, 1, 0.3; 0.9, 1, 0.3, true",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Darkbow",
-    "hsbmain": "0, 1, 0.3; 0.8; 0.3",
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Aberration",
-    "hsbmain": "0, 0.2, 0.9; 0.8, 1, 0.3, true; 0.3",
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Chroma",
-    "hsbmain": "0, 1, 0.4; 0, 1, 0.6, true; 0, 1, 0.9",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Mantle",
-    "hsbmain": "0, 1, 0.3; 0, 1, 0.9; 0, 0.8, 0.5",
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Fire",
-    "hsbmain": "0, 0.17, 0.4; 1; 1",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Galaxy",
-    "hsbmain": "0.5, 0.87, 0.4; 1; 1",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Monochrome",
-    "hsbmain": "1; 0; 0, 1, 0.8",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Rainbow",
-    "hsbmain": "0, 1, 0.3; 1; 1",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   }
 ]
