@@ -138,5 +138,6 @@
   { "id": "Phone" },
   { "id": "Plate" },
   { "id": "Client" },
+  { "id": "Blank" },
   { "id": "NightVision" }
 ]
