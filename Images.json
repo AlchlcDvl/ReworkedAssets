@@ -139,5 +139,7 @@
   { "id": "Plate" },
   { "id": "Client" },
   { "id": "Blank" },
+  { "id": "Dleks" },
+  { "id": "Random" },
   { "id": "NightVision" }
 ]
