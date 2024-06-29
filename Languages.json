@@ -310,4912 +310,5012 @@
     "schinese": "按Tab键/页码对应数字键/回格键来翻页"
   },
   {
-    "id": "Generate.GameSettings",
+    "id": "CustomOption.GameSettings",
     "english": "Game Settings",
     "schinese": "基础设置"
   },
   {
-    "id": "Generate.PlayerSpeed",
+    "id": "CustomOption.PlayerSpeed",
     "english": "Player Speed",
     "schinese": "玩家速度"
   },
   {
-    "id": "Generate.GhostSpeed",
+    "id": "CustomOption.GhostSpeed",
     "english": "Ghost Speed",
     "schinese": "鬼魂速度"
   },
   {
-    "id": "Generate.InteractionDistance",
+    "id": "CustomOption.InteractionDistance",
     "english": "Interaction Distance",
     "schinese": "交互距离"
   },
   {
-    "id": "Generate.EmergencyButtonCount",
+    "id": "CustomOption.EmergencyButtonCount",
     "english": "Emergency Button Count",
     "schinese": "紧急会议次数"
   },
   {
-    "id": "Generate.EmergencyButtonCooldown",
+    "id": "CustomOption.EmergencyButtonCooldown",
     "english": "Emergency Button Cooldown",
     "schinese": "紧急会议冷却"
   },
   {
-    "id": "Generate.DiscussionTime",
+    "id": "CustomOption.DiscussionTime",
     "english": "Discussion Time",
     "schinese": "会议阶段讨论时间"
   },
   {
-    "id": "Generate.VotingTime",
+    "id": "CustomOption.VotingTime",
     "english": "Voting Time",
     "schinese": "会议阶段投票时间"
   },
   {
-    "id": "Generate.TaskbarUpdates",
+    "id": "CustomOption.TaskbarUpdates",
     "english": "Taskbar Updates",
     "schinese": "任务进度更新频率"
   },
   {
-    "id": "Generate.ConfirmEjects",
+    "id": "CustomOption.ConfirmEjects",
     "english": "Confirm Ejects",
     "schinese": "放逐确认"
   },
   {
-    "id": "Generate.EjectionRevealsRoles",
+    "id": "CustomOption.EjectionRevealsRoles",
     "english": "Ejection Reveals <color=#FFD700FF>Roles</color>",
     "schinese": "显示被放逐玩家的<color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.InitalCooldowns",
+    "id": "CustomOption.EnableInitalCds",
+    "english": "Enable Game Start Cooldowns",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.InitalCooldowns",
     "english": "Game Start Cooldowns",
     "schinese": "游戏开始后冷却"
   },
   {
-    "id": "Generate.MeetingCooldowns",
+    "id": "CustomOption.EnableMeetingCds",
+    "english": "Enable Meeting End Cooldowns",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.MeetingCooldowns",
     "english": "Meeting End Cooldowns",
     "schinese": "会议阶段结束后冷却"
   },
   {
-    "id": "Generate.ReportDistance",
+    "id": "CustomOption.EnableFailCds",
+    "english": "Enable Ability Failure Cooldowns",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.EnableInitalCds",
+    "english": "Ability Failure Cooldowns",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ReportDistance",
     "english": "Player Report Distance",
     "schinese": "最大报告距离"
   },
   {
-    "id": "Generate.ChatCooldown",
+    "id": "CustomOption.ChatCooldown",
     "english": "Chat Cooldown",
     "schinese": "聊天冷却"
   },
   {
-    "id": "Generate.ChatCharacterLimit",
+    "id": "CustomOption.ChatCharacterLimit",
     "english": "Chat Character Limit",
     "schinese": "聊天字数限制"
   },
   {
-    "id": "Generate.LobbySize",
+    "id": "CustomOption.LobbySize",
     "english": "Lobby Size",
     "schinese": "玩家上限"
   },
   {
-    "id": "Generate.GameModeSettings",
+    "id": "CustomOption.GameModeSettings",
     "english": "Game Mode Settings",
     "schinese": "游戏模式设置"
   },
   {
-    "id": "Generate.CurrentMode",
+    "id": "CustomOption.CurrentMode",
     "english": "Game Mode",
     "schinese": "游戏模式"
   },
   {
-    "id": "Generate.KOSettings",
-    "english": "Killing Only Settings",
+    "id": "CustomOption.CurrentMode.Classic",
+    "english": "<color=#C02A2CFF>Classic</color>",
+    "schinese": "游戏模式"
+  },
+  {
+    "id": "CustomOption.CurrentMode.AllAny",
+    "english": "<color=#CBD542FF>All Any</color>",
+    "schinese": "游戏模式"
+  },
+  {
+    "id": "CustomOption.CurrentMode.KillingOnly",
+    "english": "<color=#06E00CFF>Killing Only</color>",
+    "schinese": "游戏模式"
+  },
+  {
+    "id": "CustomOption.CurrentMode.RoleList",
+    "english": "<color=#FA1C79FF>Role List</color>",
+    "schinese": "游戏模式"
+  },
+  {
+    "id": "CustomOption.CurrentMode.HideAndSeek",
+    "english": "<color=#7500AFFF>Hide And Seek</color>",
+    "schinese": "游戏模式"
+  },
+  {
+    "id": "CustomOption.CurrentMode.TaskRace",
+    "english": "<color=#1E49CFFF>Task Race</color>",
+    "schinese": "游戏模式"
+  },
+  {
+    "id": "CustomOption.CurrentMode.Custom",
+    "english": "<color=#E6956AFF>Custom</color>",
+    "schinese": "游戏模式"
+  },
+  {
+    "id": "CustomOption.CurrentMode.Vanilla",
+    "english": "Vanilla",
+    "schinese": "游戏模式"
+  },
+  {
+    "id": "CustomOption.ClassCustSettings",
+    "english": "<color=#C02A2CFF>Classic</color>/<color=#E6956AFF>Custom</color> Settings",
     "schinese": "全击杀模式设置"
   },
   {
-    "id": "Generate.NeutralsCount",
+    "id": "CustomOption.IgnoreAlignmentCaps",
+    "english": "Ignore <color=#1D7CF2FF>Alignment</color> Caps",
+    "schinese": "全击杀模式设置"
+  },
+  {
+    "id": "CustomOption.IgnoreFactionCaps",
+    "english": "Ignore <color=#00E66DFF>Faction</color> Caps",
+    "schinese": "全击杀模式设置"
+  },
+  {
+    "id": "CustomOption.IgnoreLayerCaps",
+    "english": "Ignore Non-<color=#FFD700FF>Role</color> Caps",
+    "schinese": "全击杀模式设置"
+  },
+  {
+    "id": "CustomOption.KOSettings",
+    "english": "<color=#06E00CFF>Killing Only</color> Settings",
+    "schinese": "全击杀模式设置"
+  },
+  {
+    "id": "CustomOption.NeutralsCount",
     "english": "<color=#B3B3B3FF>Neutrals</color> Count",
     "schinese": "<color=#B3B3B3FF>独立阵营</color>玩家数"
   },
   {
-    "id": "Generate.AddArsonist",
+    "id": "CustomOption.AddArsonist",
     "english": "Add <color=#EE7600FF>Arsonist</color>",
     "schinese": "添加<color=#EE7600FF>纵火狂</color>"
   },
   {
-    "id": "Generate.AddCryomaniac",
+    "id": "CustomOption.AddCryomaniac",
     "english": "Add <color=#642DEAFF>Cryomaniac</color>",
     "schinese": "添加<color=#642DEAFF>冰冻狂</color>"
   },
   {
-    "id": "Generate.AddPlaguebearer",
+    "id": "CustomOption.AddPlaguebearer",
     "english": "Add <color=#CFFE61FF>Plaguebearer</color>",
     "schinese": "添加<color=#CFFE61FF>瘟疫之源</color>"
   },
   {
-    "id": "Generate.AARLSettings",
-    "english": "All Any/Role List Settings",
+    "id": "CustomOption.AARLSettings",
+    "english": "<color=#CBD542FF>All Any</color>/<color=#FA1C79FF>Role List</color> Settings",
     "schinese": "全随机/列表随机模式设置"
   },
   {
-    "id": "Generate.EnableUnqiues",
+    "id": "CustomOption.EnableUnqiues",
     "english": "Enable Uniques",
     "schinese": "检测职业唯一性"
   },
   {
-    "id": "Generate.GameModifiers",
+    "id": "CustomOption.GameModifiers",
     "english": "Game Modifiers",
     "schinese": "更多设置"
   },
   {
-    "id": "Generate.WhoCanVent",
+    "id": "CustomOption.WhoCanVent",
     "english": "Serial Venters",
     "schinese": "允许使用管道的玩家"
   },
   {
-    "id": "Generate.AnonymousVoting",
+    "id": "CustomOption.AnonymousVoting",
     "english": "Anonymous Voting",
     "schinese": "匿名投票"
   },
   {
-    "id": "Generate.NoSkipping",
+    "id": "CustomOption.AnonymousVoting.Enabled",
+    "english": "Grey",
+    "schinese": "匿名投票"
+  },
+  {
+    "id": "CustomOption.AnonymousVoting.Disabled",
+    "english": "Disabled",
+    "schinese": "匿名投票"
+  },
+  {
+    "id": "CustomOption.AnonymousVoting.NonPolitician",
+    "english": "Non-<color=#CCA3CCFF>Politicians</color> Only",
+    "schinese": "匿名投票"
+  },
+  {
+    "id": "CustomOption.AnonymousVoting.PoliticianOnly",
+    "english": "<color=#CCA3CCFF>Politician</color> Only",
+    "schinese": "匿名投票"
+  },
+  {
+    "id": "CustomOption.AnonymousVoting.NotVisible",
+    "english": "Not Visible",
+    "schinese": "匿名投票"
+  },
+  {
+    "id": "CustomOption.NoSkipping",
     "english": "No Skipping",
     "schinese": "禁止弃票"
   },
   {
-    "id": "Generate.FirstKillShield",
+    "id": "CustomOption.FirstKillShield",
     "english": "First Kill Shield",
     "schinese": "首杀保护"
   },
   {
-    "id": "Generate.WhoSeeFirstKillShield",
+    "id": "CustomOption.WhoSeeFirstKillShield",
     "english": "Who Sees First Kill Shield",
     "schinese": "可以确认首杀保护的玩家"
   },
   {
-    "id": "Generate.FactionSeeRoles",
+    "id": "CustomOption.FactionSeeRoles",
     "english": "Factioned Evils See The <color=#FFD700FF>Roles</color> Of Their Team",
     "schinese": "不止一名玩家的邪恶阵营可以互相确认<color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.Visualtasks",
+    "id": "CustomOption.Visualtasks",
     "english": "Visual Tasks",
     "schinese": "视觉性任务"
   },
   {
-    "id": "Generate.NoNames",
+    "id": "CustomOption.NoNames",
     "english": "No Player Names",
     "schinese": "不显示玩家昵称"
   },
   {
-    "id": "Generate.Whispers",
+    "id": "CustomOption.Whispers",
     "english": "Whispering",
     "schinese": "启用悄悄话"
   },
   {
-    "id": "Generate.WhispersAnnouncement",
+    "id": "CustomOption.WhispersAnnouncement",
     "english": "Everyone Is Alerted To Whispers",
     "schinese": "所有玩家都会确认说悄悄话的玩家"
   },
   {
-    "id": "Generate.AppearanceAnimation",
+    "id": "CustomOption.AppearanceAnimation",
     "english": "Kill Animations Show Modified Player",
     "schinese": "击杀动画是否显示改变外表的凶手"
   },
   {
-    "id": "Generate.RandomSpawns",
+    "id": "CustomOption.RandomSpawns",
     "english": "Random Player Spawns",
     "schinese": "玩家随机出生"
   },
   {
-    "id": "Generate.VentTargeting",
+    "id": "CustomOption.VentTargeting",
     "english": "Players In Vents Can Be Targeted",
     "schinese": "管道内的玩家可以成为技能目标"
   },
   {
-    "id": "Generate.EnableAbilities",
+    "id": "CustomOption.EnableAbilities",
     "english": "Enable <color=#FF9900FF>Abilities</color>",
     "schinese": "启用<color=#FF9900FF>额外能力</color>"
   },
   {
-    "id": "Generate.EnableModifiers",
+    "id": "CustomOption.EnableModifiers",
     "english": "Enable <color=#7F7F7FFF>Modifiers</color>",
     "schinese": "启用<color=#7F7F7FFF>附加职业</color>"
   },
   {
-    "id": "Generate.EnableObjectifiers",
+    "id": "CustomOption.EnableObjectifiers",
     "english": "Enable <color=#DD585BFF>Objectifiers</color>",
     "schinese": "启用<color=#DD585BFF>附属阵营</color>"
   },
   {
-    "id": "Generate.GameAnnouncementSettings",
+    "id": "CustomOption.GameAnnouncementSettings",
     "english": "Game Announcement Settings",
     "schinese": "游戏内公开信息设置"
   },
   {
-    "id": "Generate.GameAnnouncements",
+    "id": "CustomOption.GameAnnouncements",
     "english": "Enable Game Announcements",
     "schinese": "启用公开信息"
   },
   {
-    "id": "Generate.LocationReports",
+    "id": "CustomOption.LocationReports",
     "english": "Reported Body's Location Is Announced",
     "schinese": "公开尸体位置"
   },
   {
-    "id": "Generate.RoleFactionReports",
+    "id": "CustomOption.RoleFactionReports",
     "english": "Every Body's <color=#FFD700FF>Role</color>/<color=#00E66DFF>Faction</color> Is Announced",
     "schinese": "公开死亡玩家<color=#FFD700FF>职业</color>/<color=#00E66DFF>阵营</color>"
   },
   {
-    "id": "Generate.KillerReports",
+    "id": "CustomOption.KillerReports",
     "english": "Every Body's Killer's <color=#FFD700FF>Role</color>/<color=#00E66DFF>Faction</color> Is Announced",
     "schinese": "公开杀害死亡玩家凶手的<color=#FFD700FF>职业</color>/<color=#00E66DFF>阵营</color>"
   },
   {
-    "id": "Generate.QualityChanges",
+    "id": "CustomOption.QualityChanges",
     "english": "Quality Changes",
     "schinese": "次要设置"
   },
   {
-    "id": "Generate.DeadSeeEverything",
+    "id": "CustomOption.DeadSeeEverything",
     "english": "Dead Can See Everything",
     "schinese": "死亡玩家可确认所有信息"
   },
   {
-    "id": "Generate.ParallelMedScans",
+    "id": "CustomOption.ParallelMedScans",
     "english": "Parallel Medbay Scans",
     "schinese": "允许同时进行扫描"
   },
   {
-    "id": "Generate.ObstructNames",
+    "id": "CustomOption.ObstructNames",
     "english": "Hide Obstructed Player Names",
     "schinese": "隐藏视野外的玩家昵称"
   },
   {
-    "id": "Generate.MapSettings",
+    "id": "CustomOption.MapSettings",
     "english": "Map Settings",
     "schinese": "地图设置"
   },
   {
-    "id": "Generate.Map",
-    "english": "Map",
-    "schinese": "地图"
-  },
-  {
-    "id": "Generate.RandomMapSkeld",
+    "id": "CustomOption.RandomMapSkeld",
     "english": "Skeld Chance",
     "schinese": "游玩Skeld概率"
   },
   {
-    "id": "Generate.RandomMapMira",
+    "id": "CustomOption.RandomMapMira",
     "english": "Mira HQ Chance",
     "schinese": "游玩Mira HQ概率"
   },
   {
-    "id": "Generate.RandomMapPolus",
+    "id": "CustomOption.RandomMapPolus",
     "english": "Polus Chance",
     "schinese": "游玩Polus概率"
   },
   {
-    "id": "Generate.RandomMapAirship",
+    "id": "CustomOption.RandomMapAirship",
     "english": "Airship Chance",
     "schinese": "游玩Airship概率"
   },
   {
-    "id": "Generate.RandomMapSubmerged",
+    "id": "CustomOption.RandomMapSubmerged",
     "english": "Submerged Chance",
     "schinese": "游玩Submerged概率"
   },
   {
-    "id": "Generate.RandomMapLevelImpostor",
+    "id": "CustomOption.RandomMapLevelImpostor",
     "english": "Level Impostor Chance",
     "schinese": "游玩Level Impostor自制地图概率"
   },
   {
-    "id": "Generate.AutoAdjustSettings",
+    "id": "CustomOption.AutoAdjustSettings",
     "english": "Auto Adjust Settings",
     "schinese": "地图预设自动调整设置"
   },
   {
-    "id": "Generate.SmallMapHalfVision",
+    "id": "CustomOption.SmallMapHalfVision",
     "english": "Half Vision On Small Maps",
     "schinese": "小型地图视野减半"
   },
   {
-    "id": "Generate.SmallMapDecreasedCooldown",
+    "id": "CustomOption.SmallMapDecreasedCooldown",
     "english": "Small Maps Decreased Cooldowns",
     "schinese": "小型地图冷却减少"
   },
   {
-    "id": "Generate.LargeMapIncreasedCooldown",
+    "id": "CustomOption.LargeMapIncreasedCooldown",
     "english": "Large Maps Increased Cooldowns",
     "schinese": "大型地图冷却增加"
   },
   {
-    "id": "Generate.SmallMapIncreasedShortTasks",
+    "id": "CustomOption.SmallMapIncreasedShortTasks",
     "english": "Small Maps Increased Short Tasks",
     "schinese": "小型地图短任务增加"
   },
   {
-    "id": "Generate.SmallMapIncreasedLongTasks",
+    "id": "CustomOption.SmallMapIncreasedLongTasks",
     "english": "Small Maps Increased Long Tasks",
     "schinese": "小型地图长任务增加"
   },
   {
-    "id": "Generate.LargeMapDecreasedShortTasks",
+    "id": "CustomOption.LargeMapDecreasedShortTasks",
     "english": "Large Maps Decreased Short Tasks",
     "schinese": "大型地图短任务减少"
   },
   {
-    "id": "Generate.LargeMapDecreasedLongTasks",
+    "id": "CustomOption.LargeMapDecreasedLongTasks",
     "english": "Large Maps Decreased Long Tasks",
     "schinese": "大型地图长任务减少"
   },
   {
-    "id": "Generate.BetterSabotages",
+    "id": "CustomOption.BetterSabotages",
     "english": "Better Sabotages",
     "schinese": "高级破坏设置"
   },
   {
-    "id": "Generate.CamouflagedComms",
+    "id": "CustomOption.CamouflagedComms",
     "english": "Camouflaged Comms",
     "schinese": "通讯破坏附带隐蔽效果"
   },
   {
-    "id": "Generate.CamouflagedMeetings",
+    "id": "CustomOption.CamouflagedMeetings",
     "english": "Camouflaged Meetings",
     "schinese": "隐蔽效果在会议阶段也生效"
   },
   {
-    "id": "Generate.RandomMapdlekS",
+    "id": "CustomOption.RandomMapdlekS",
     "english": "dlekS Chance",
     "schinese": "游玩dlekS概率"
   },
   {
-    "id": "Generate.NightVision",
+    "id": "CustomOption.NightVision",
     "english": "Night Vision Cameras",
     "schinese": "监控画面启用夜视效果"
   },
   {
-    "id": "Generate.EvilsIgnoreNV",
+    "id": "CustomOption.EvilsIgnoreNV",
     "english": "Evils Ignore Night Vision",
     "schinese": "邪恶阵营玩家无视夜视效果"
   },
   {
-    "id": "Generate.OxySlow",
+    "id": "CustomOption.OxySlow",
     "english": "Oxygen Sabotage Slows Down Players",
     "schinese": "氧气破坏减慢玩家速度"
   },
   {
-    "id": "Generate.ReactorShake",
+    "id": "CustomOption.ReactorShake",
     "english": "Reactor Sabotage Shakes The Screen By",
     "schinese": "反应堆破坏会使屏幕晃动"
   },
   {
-    "id": "Generate.BetterSkeld",
+    "id": "CustomOption.BetterSkeld",
     "english": "Better Skeld",
     "schinese": "Better Skeld设置"
   },
   {
-    "id": "Generate.BetterMira",
+    "id": "CustomOption.BetterMira",
     "english": "Better Mira HQ",
     "schinese": "Better Mira HQ设置"
   },
   {
-    "id": "Generate.VentImprovements",
+    "id": "CustomOption.VentImprovements",
     "english": "Improved Vent Layout",
     "schinese": "优化管道网络布局"
   },
   {
-    "id": "Generate.BetterPolus",
+    "id": "CustomOption.BetterPolus",
     "english": "Better Polus",
     "schinese": "Better Polus设置"
   },
   {
-    "id": "Generate.VitalsLab",
+    "id": "CustomOption.VitalsLab",
     "english": "Vitals Moved To Lab",
     "schinese": "将生命监测装置移动到实验室"
   },
   {
-    "id": "Generate.ColdTempDeathValley",
+    "id": "CustomOption.ColdTempDeathValley",
     "english": "Cold Temp Moved To Death Valley",
     "schinese": "将记录温度任务（低温）移动到外部"
   },
   {
-    "id": "Generate.WifiCharCourseSwap",
+    "id": "CustomOption.WifiCharCourseSwap",
     "english": "Reboot Wifi And Chart Course Swapped",
     "schinese": "交换重启WIFI任务与标出航线任务的位置"
   },
   {
-    "id": "Generate.SeismicTimer",
+    "id": "CustomOption.SeismicTimer",
     "english": "Seimic Stabliser Malfunction Countdown",
     "schinese": "重置抗震稳定器倒计时"
   },
   {
-    "id": "Generate.SpawnType",
+    "id": "CustomOption.SpawnType",
     "english": "Spawn Type",
     "schinese": "玩家出生点规则"
   },
   {
-    "id": "Generate.BetterAirship",
+    "id": "CustomOption.BetterAirship",
     "english": "Better Airship",
     "schinese": "Better Airship设置"
   },
   {
-    "id": "Generate.MoveVitals",
+    "id": "CustomOption.MoveVitals",
     "english": "Move Vitals",
     "schinese": "移动生命监测装置"
   },
   {
-    "id": "Generate.MoveFuel",
+    "id": "CustomOption.MoveFuel",
     "english": "Move Fuel",
     "schinese": "移动添加燃料任务"
   },
   {
-    "id": "Generate.MoveDivert",
+    "id": "CustomOption.MoveDivert",
     "english": "Move Divert Power",
     "schinese": "移动电力转移任务"
   },
   {
-    "id": "Generate.MoveAdmin",
+    "id": "CustomOption.MoveAdmin",
     "english": "Move Admin Table",
     "schinese": "移动管理地图"
   },
   {
-    "id": "Generate.MoveElectrical",
+    "id": "CustomOption.MoveElectrical",
     "english": "Move Electrical Outlet",
     "schinese": "移动配电室出口"
   },
   {
-    "id": "Generate.MinDoorSwipeTime",
+    "id": "CustomOption.MinDoorSwipeTime",
     "english": "Min Time For Door Swipe",
     "schinese": "开门刷卡最短时间"
   },
   {
-    "id": "Generate.CrashTimer",
+    "id": "CustomOption.CrashTimer",
     "english": "Heli Crash Countdown",
     "schinese": "避开撞毁路线倒计时"
   },
   {
-    "id": "Generate.CrewAuditorRoles",
+    "id": "CustomOption.CrewAuditorRoles",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditor</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>审判型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.MysticOn",
+    "id": "CustomOption.MysticOn",
     "english": "<color=#708EEFFF>Mystic</color>",
     "schinese": "<color=#708EEFFF>祭司</color>"
   },
   {
-    "id": "Generate.VampireHunterOn",
+    "id": "CustomOption.VampireHunterOn",
     "english": "<color=#C0C0C0FF>Vampire Hunter</color>",
     "schinese": "<color=#C0C0C0FF>猎魔人</color>"
   },
   {
-    "id": "Generate.CrewInvestigativeRoles",
+    "id": "CustomOption.CrewInvestigativeRoles",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Investigative</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>情报型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.CoronerOn",
+    "id": "CustomOption.CoronerOn",
     "english": "<color=#4D99E6FF>Coroner</color>",
     "schinese": "<color=#4D99E6FF>验尸官</color>"
   },
   {
-    "id": "Generate.DetectiveOn",
+    "id": "CustomOption.DetectiveOn",
     "english": "<color=#4D4DFFFF>Detective</color>",
     "schinese": "<color=#4D4DFFFF>侦探</color>"
   },
   {
-    "id": "Generate.InspectorOn",
+    "id": "CustomOption.InspectorOn",
     "english": "<color=#7E3C64FF>Inspector</color>",
     "schinese": "<color=#7E3C64FF>占卜师</color>"
   },
   {
-    "id": "Generate.MediumOn",
+    "id": "CustomOption.MediumOn",
     "english": "<color=#A680FFFF>Medium</color>",
     "schinese": "<color=#A680FFFF>招魂师</color>"
   },
   {
-    "id": "Generate.OperativeOn",
+    "id": "CustomOption.OperativeOn",
     "english": "<color=#A7D1B3FF>Operative</color>",
     "schinese": "<color=#A7D1B3FF>特工</color>"
   },
   {
-    "id": "Generate.SeerOn",
+    "id": "CustomOption.SeerOn",
     "english": "<color=#71368AFF>Seer</color>",
     "schinese": "<color=#71368AFF>圣徒</color>"
   },
   {
-    "id": "Generate.SheriffOn",
+    "id": "CustomOption.SheriffOn",
     "english": "<color=#FFCC80FF>Sheriff</color>",
     "schinese": "<color=#FFCC80FF>预言家</color>"
   },
   {
-    "id": "Generate.TrackerOn",
+    "id": "CustomOption.TrackerOn",
     "english": "<color=#009900FF>Tracker</color>",
     "schinese": "<color=#009900FF>追踪者</color>"
   },
   {
-    "id": "Generate.CrewKillingRoles",
+    "id": "CustomOption.CrewKillingRoles",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>击杀型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.VigilanteOn",
+    "id": "CustomOption.VigilanteOn",
     "english": "<color=#FFFF00FF>Vigilante</color>",
     "schinese": "<color=#FFFF00FF>警长</color>"
   },
   {
-    "id": "Generate.VeteranOn",
+    "id": "CustomOption.VeteranOn",
     "english": "<color=#998040FF>Veteran</color>",
     "schinese": "<color=#998040FF>老兵</color>"
   },
   {
-    "id": "Generate.CrewProtectiveRoles",
+    "id": "CustomOption.CrewProtectiveRoles",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Protective</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>保护型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.AltruistOn",
+    "id": "CustomOption.AltruistOn",
     "english": "<color=#660000FF>Altruist</color>",
     "schinese": "<color=#660000FF>殉道者</color>"
   },
   {
-    "id": "Generate.MedicOn",
+    "id": "CustomOption.MedicOn",
     "english": "<color=#006600FF>Medic</color>",
     "schinese": "<color=#006600FF>医生</color>"
   },
   {
-    "id": "Generate.CrewSovereignRoles",
+    "id": "CustomOption.CrewSovereignRoles",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Sovereign</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>强权型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.MayorOn",
+    "id": "CustomOption.MayorOn",
     "english": "<color=#704FA8FF>Mayor</color>",
     "schinese": "<color=#704FA8FF>市长</color>"
   },
   {
-    "id": "Generate.MonarchOn",
+    "id": "CustomOption.MonarchOn",
     "english": "<color=#FF004EFF>Monarch</color>",
     "schinese": "<color=#FF004EFF>大君主</color>"
   },
   {
-    "id": "Generate.DictatorOn",
+    "id": "CustomOption.DictatorOn",
     "english": "<color=#00CB97FF>Dictator</color>",
     "schinese": "<color=#00CB97FF>独裁者</color>"
   },
   {
-    "id": "Generate.CrewSupportRoles",
+    "id": "CustomOption.CrewSupportRoles",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>辅助型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.ChameleonOn",
+    "id": "CustomOption.ChameleonOn",
     "english": "<color=#5411F8FF>Chameleon</color>",
     "schinese": "<color=#5411F8FF>变色龙</color>"
   },
   {
-    "id": "Generate.EscortOn",
+    "id": "CustomOption.EscortOn",
     "english": "<color=#803333FF>Escort</color>",
     "schinese": "<color=#803333FF>卫兵</color>"
   },
   {
-    "id": "Generate.EngineerOn",
+    "id": "CustomOption.EngineerOn",
     "english": "<color=#FFA60AFF>Engineer</color>",
     "schinese": "<color=#FFA60AFF>工程师</color>"
   },
   {
-    "id": "Generate.RetributionistOn",
+    "id": "CustomOption.RetributionistOn",
     "english": "<color=#8D0F8CFF>Retributionist</color>",
     "schinese": "<color=#8D0F8CFF>效颦者</color>"
   },
   {
-    "id": "Generate.ShifterOn",
+    "id": "CustomOption.ShifterOn",
     "english": "<color=#DF851FFF>Shifter</color>",
     "schinese": "<color=#DF851FFF>交换师</color>"
   },
   {
-    "id": "Generate.TransporterOn",
+    "id": "CustomOption.TransporterOn",
     "english": "<color=#00EEFFFF>Transporter</color>",
     "schinese": "<color=#00EEFFFF>传送师</color>"
   },
   {
-    "id": "Generate.CrewUtilityRoles",
+    "id": "CustomOption.CrewUtilityRoles",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>通用型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.RevealerOn",
+    "id": "CustomOption.RevealerOn",
     "english": "<color=#D3D3D3FF>Revealer</color>",
     "schinese": "<color=#D3D3D3FF>冤魂</color>"
   },
   {
-    "id": "Generate.CrewmateOn",
+    "id": "CustomOption.CrewmateOn",
     "english": "<color=#8CFFFFFF>Crewmate</color>",
     "schinese": "<color=#8CFFFFFF>船员</color>"
   },
   {
-    "id": "Generate.NeutralBenignRoles",
+    "id": "CustomOption.NeutralBenignRoles",
     "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benign</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>友好型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.AmnesiacOn",
+    "id": "CustomOption.AmnesiacOn",
     "english": "<color=#22FFFFFF>Amnesiac</color>",
     "schinese": "<color=#22FFFFFF>失忆者</color>"
   },
   {
-    "id": "Generate.GuardianAngelOn",
+    "id": "CustomOption.GuardianAngelOn",
     "english": "<color=#FFFFFFFF>Guardian Angel</color>",
     "schinese": "<color=#FFFFFFFF>守护天使</color>"
   },
   {
-    "id": "Generate.SurvivorOn",
+    "id": "CustomOption.SurvivorOn",
     "english": "<color=#DDDD00FF>Survivor</color>",
     "schinese": "<color=#DDDD00FF>幸存者</color>"
   },
   {
-    "id": "Generate.ThiefOn",
+    "id": "CustomOption.ThiefOn",
     "english": "<color=#80FF00FF>Thief</color>",
     "schinese": "<color=#80FF00FF>身份窃贼</color>"
   },
   {
-    "id": "Generate.NeutralEvilRoles",
+    "id": "CustomOption.NeutralEvilRoles",
     "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evil</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>邪恶型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.ActorOn",
+    "id": "CustomOption.ActorOn",
     "english": "<color=#00ACC2FF>Actor</color>",
     "schinese": "<color=#00ACC2FF>演员</color>"
   },
   {
-    "id": "Generate.BountyHunterOn",
+    "id": "CustomOption.BountyHunterOn",
     "english": "<color=#B51E39FF>Bounty Hunter</color>",
     "schinese": "<color=#B51E39FF>赏金猎人</color>"
   },
   {
-    "id": "Generate.CannibalOn",
+    "id": "CustomOption.CannibalOn",
     "english": "<color=#8C4005FF>Cannibal</color>",
     "schinese": "<color=#8C4005FF>秃鹫</color>"
   },
   {
-    "id": "Generate.ExecutionerOn",
+    "id": "CustomOption.ExecutionerOn",
     "english": "<color=#CCCCCCFF>Executioner</color>",
     "schinese": "<color=#CCCCCCFF>处刑者</color>"
   },
   {
-    "id": "Generate.GuesserOn",
+    "id": "CustomOption.GuesserOn",
     "english": "<color=#EEE5BEFF>Guesser</color>",
     "schinese": "<color=#EEE5BEFF>暗杀兵</color>"
   },
   {
-    "id": "Generate.JesterOn",
+    "id": "CustomOption.JesterOn",
     "english": "<color=#F7B3DAFF>Jester</color>",
     "schinese": "<color=#F7B3DAFF>小丑</color>"
   },
   {
-    "id": "Generate.TrollOn",
+    "id": "CustomOption.TrollOn",
     "english": "<color=#678D36FF>Troll</color>",
     "schinese": "<color=#678D36FF>挑衅者</color>"
   },
   {
-    "id": "Generate.NeutralHarbingerRoles",
+    "id": "CustomOption.NeutralHarbingerRoles",
     "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Harbinger</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>灾兆型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.NeutralKillingRoles",
+    "id": "CustomOption.NeutralKillingRoles",
     "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>击杀型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.PlaguebearerOn",
+    "id": "CustomOption.PlaguebearerOn",
     "english": "<color=#CFFE61FF>Plaguebearer</color>",
     "schinese": "<color=#CFFE61FF>瘟疫之源</color>"
   },
   {
-    "id": "Generate.ArsonistOn",
+    "id": "CustomOption.ArsonistOn",
     "english": "<color=#EE7600FF>Arsonist</color>",
     "schinese": "<color=#EE7600FF>纵火狂</color>"
   },
   {
-    "id": "Generate.CryomaniacOn",
+    "id": "CustomOption.CryomaniacOn",
     "english": "<color=#642DEAFF>Cryomaniac</color>",
     "schinese": "<color=#642DEAFF>冰冻狂</color>"
   },
   {
-    "id": "Generate.GlitchOn",
+    "id": "CustomOption.GlitchOn",
     "english": "<color=#00FF00FF>Glitch</color>",
     "schinese": "<color=#00FF00FF>混沌</color>"
   },
   {
-    "id": "Generate.JuggernautOn",
+    "id": "CustomOption.JuggernautOn",
     "english": "<color=#A12B56FF>Juggernaut</color>",
     "schinese": "<color=#A12B56FF>天启</color>"
   },
   {
-    "id": "Generate.MurdererOn",
+    "id": "CustomOption.MurdererOn",
     "english": "<color=#6F7BEAFF>Murderer</color>",
     "schinese": "<color=#6F7BEAFF>杀人犯</color>"
   },
   {
-    "id": "Generate.SerialKillerOn",
+    "id": "CustomOption.SerialKillerOn",
     "english": "<color=#336EFFFF>Serial Killer</color>",
     "schinese": "<color=#336EFFFF>月下狼人</color>"
   },
   {
-    "id": "Generate.WerewolfOn",
+    "id": "CustomOption.WerewolfOn",
     "english": "<color=#9F703AFF>Werewolf</color>",
     "schinese": "<color=#9F703AFF>血狼</color>"
   },
   {
-    "id": "Generate.NeutralNeophyteRoles",
+    "id": "CustomOption.NeutralNeophyteRoles",
     "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophyte</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>宗派型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.DraculaOn",
+    "id": "CustomOption.DraculaOn",
     "english": "<color=#AC8A00FF>Dracula</color>",
     "schinese": "<color=#AC8A00FF>吸血魔</color>"
   },
   {
-    "id": "Generate.NecromancerOn",
+    "id": "CustomOption.NecromancerOn",
     "english": "<color=#BF5FFFFF>Necromancer</color>",
     "schinese": "<color=#BF5FFFFF>死灵巫师</color>"
   },
   {
-    "id": "Generate.WhispererOn",
+    "id": "CustomOption.WhispererOn",
     "english": "<color=#2D6AA5FF>Whisperer</color>",
     "schinese": "<color=#2D6AA5FF>传教士</color>"
   },
   {
-    "id": "Generate.JackalOn",
+    "id": "CustomOption.JackalOn",
     "english": "<color=#45076AFF>Jackal</color>",
     "schinese": "<color=#45076AFF>黑老大</color>"
   },
   {
-    "id": "Generate.NeutralProselyteRoles",
+    "id": "CustomOption.NeutralProselyteRoles",
     "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Proselyte</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>亡灵型</color>"
   },
   {
-    "id": "Generate.PhantomOn",
+    "id": "CustomOption.PhantomOn",
     "english": "<color=#662962FF>Phantom</color>",
     "schinese": "<color=#662962FF>幻影</color>"
   },
   {
-    "id": "Generate.IntruderConcealing",
+    "id": "CustomOption.IntruderConcealing",
     "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Concealing</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>干扰型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.BlackmailerOn",
+    "id": "CustomOption.BlackmailerOn",
     "english": "<color=#02A752FF>Blackmailer</color>",
     "schinese": "<color=#02A752FF>勒索者</color>"
   },
   {
-    "id": "Generate.CamouflagerOn",
+    "id": "CustomOption.CamouflagerOn",
     "english": "<color=#378AC0FF>Camouflager</color>",
     "schinese": "<color=#378AC0FF>隐蔽者</color>"
   },
   {
-    "id": "Generate.GrenadierOn",
+    "id": "CustomOption.GrenadierOn",
     "english": "<color=#85AA5BFF>Grenadier</color>",
     "schinese": "<color=#85AA5BFF>掷弹兵</color>"
   },
   {
-    "id": "Generate.JanitorOn",
+    "id": "CustomOption.JanitorOn",
     "english": "<color=#2647A2FF>Janitor</color>",
     "schinese": "<color=#2647A2FF>清理者</color>"
   },
   {
-    "id": "Generate.IntruderDeceptionRoles",
+    "id": "CustomOption.IntruderDeceptionRoles",
     "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Deception</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>伪装型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.DisguiserOn",
+    "id": "CustomOption.DisguiserOn",
     "english": "<color=#40B4FFFF>Disguiser</color>",
     "schinese": "<color=#40B4FFFF>画皮师</color>"
   },
   {
-    "id": "Generate.MorphlingOn",
+    "id": "CustomOption.MorphlingOn",
     "english": "<color=#BB45B0FF>Morphling</color>",
     "schinese": "<color=#BB45B0FF>化形者</color>"
   },
   {
-    "id": "Generate.WraithOn",
+    "id": "CustomOption.WraithOn",
     "english": "<color=#5C4F75FF>Wraith</color>",
     "schinese": "<color=#5C4F75FF>隐身人</color>"
   },
   {
-    "id": "Generate.IntruderKillingRoles",
+    "id": "CustomOption.IntruderKillingRoles",
     "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>击杀型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.AmbusherOn",
+    "id": "CustomOption.AmbusherOn",
     "english": "<color=#2BD29CFF>Ambusher</color>",
     "schinese": "<color=#2BD29CFF>伏击兵</color>"
   },
   {
-    "id": "Generate.EnforcerOn",
+    "id": "CustomOption.EnforcerOn",
     "english": "<color=#005643FF>Enforcer</color>",
     "schinese": "<color=#005643FF>恐怖分子</color>"
   },
   {
-    "id": "Generate.IntruderSupportRoles",
+    "id": "CustomOption.IntruderSupportRoles",
     "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>辅助型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.ConsigliereOn",
+    "id": "CustomOption.ConsigliereOn",
     "english": "<color=#FFFF99FF>Consigliere</color>",
     "schinese": "<color=#FFFF99FF>参谋长</color>"
   },
   {
-    "id": "Generate.GodfatherOn",
+    "id": "CustomOption.GodfatherOn",
     "english": "<color=#801780FF>Consort</color>",
     "schinese": "<color=#801780FF>拦截者</color>"
   },
   {
-    "id": "Generate.ConsortOn",
+    "id": "CustomOption.ConsortOn",
     "english": "<color=#404C08FF>Godfather</color>",
     "schinese": "<color=#404C08FF>教父</color>"
   },
   {
-    "id": "Generate.MinerOn",
+    "id": "CustomOption.MinerOn",
     "english": "<color=#AA7632FF>Miner</color>",
     "schinese": "<color=#AA7632FF>管道工</color>"
   },
   {
-    "id": "Generate.TeleporterOn",
+    "id": "CustomOption.TeleporterOn",
     "english": "<color=#939593FF>Teleporter</color>",
     "schinese": "<color=#939593FF>逃逸者</color>"
   },
   {
-    "id": "Generate.IntruderUtilityRoles",
+    "id": "CustomOption.IntruderUtilityRoles",
     "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>通用型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.GhoulOn",
+    "id": "CustomOption.GhoulOn",
     "english": "<color=#F1C40FFF>Ghoul</color>",
     "schinese": "<color=#F1C40FFF>索命鬼</color>"
   },
   {
-    "id": "Generate.ImpostorOn",
+    "id": "CustomOption.ImpostorOn",
     "english": "<color=#FF1919FF>Impostor</color>",
     "schinese": "<color=#FF1919FF>内鬼</color>"
   },
   {
-    "id": "Generate.SyndicateDisruptionRoles",
+    "id": "CustomOption.SyndicateDisruptionRoles",
     "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Disruption</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>干扰型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.ConcealerOn",
+    "id": "CustomOption.ConcealerOn",
     "english": "<color=#C02525FF>Concealer</color>",
     "schinese": "<color=#C02525FF>神隐者</color>"
   },
   {
-    "id": "Generate.DrunkardOn",
+    "id": "CustomOption.DrunkardOn",
     "english": "<color=#FF7900FF>Drunkard</color>",
     "schinese": "<color=#FF7900FF>酒贩子</color>"
   },
   {
-    "id": "Generate.FramerOn",
+    "id": "CustomOption.FramerOn",
     "english": "<color=#00FFFFFF>Framer</color>",
     "schinese": "<color=#00FFFFFF>伪证师</color>"
   },
   {
-    "id": "Generate.ShapeshifterOn",
+    "id": "CustomOption.ShapeshifterOn",
     "english": "<color=#2DFF00FF>Shapeshifter</color>",
     "schinese": "<color=#2DFF00FF>千面妖师</color>"
   },
   {
-    "id": "Generate.SilencerOn",
+    "id": "CustomOption.SilencerOn",
     "english": "<color=#AAB43EFF>Silencer</color>",
     "schinese": "<color=#AAB43EFF>沉默法师</color>"
   },
   {
-    "id": "Generate.SyndicateKillingRoles",
+    "id": "CustomOption.SyndicateKillingRoles",
     "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>击杀型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.BomberOn",
+    "id": "CustomOption.BomberOn",
     "english": "<color=#C9CC3FFF>Bomber</color>",
     "schinese": "<color=#C9CC3FFF>爆破手</color>"
   },
   {
-    "id": "Generate.CrusaderOn",
+    "id": "CustomOption.CrusaderOn",
     "english": "<color=#DF7AE8FF>Crusader</color>",
     "schinese": "<color=#DF7AE8FF>十字军</color>"
   },
   {
-    "id": "Generate.ColliderOn",
+    "id": "CustomOption.ColliderOn",
     "english": "<color=#B345FFFF>Collider</color>",
     "schinese": "<color=#B345FFFF>阴阳师</color>"
   },
   {
-    "id": "Generate.PoisonerOn",
+    "id": "CustomOption.PoisonerOn",
     "english": "<color=#B5004CFF>Poisoner</color>",
     "schinese": "<color=#B5004CFF>毒师</color>"
   },
   {
-    "id": "Generate.SyndicateSupportRoles",
+    "id": "CustomOption.SyndicateSupportRoles",
     "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>辅助型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.RebelOn",
+    "id": "CustomOption.RebelOn",
     "english": "<color=#FFFCCEFF>Rebel</color>",
     "schinese": "<color=#FFFCCEFF>暴乱头目</color>"
   },
   {
-    "id": "Generate.StalkerOn",
+    "id": "CustomOption.StalkerOn",
     "english": "<color=#7E4D00FF>Stalker</color>",
     "schinese": "<color=#7E4D00FF>追猎者</color>"
   },
   {
-    "id": "Generate.WarperOn",
+    "id": "CustomOption.WarperOn",
     "english": "<color=#8C7140FF>Warper</color>",
     "schinese": "<color=#8C7140FF>念动使</color>"
   },
   {
-    "id": "Generate.SyndicateUtilityRoles",
+    "id": "CustomOption.SyndicateUtilityRoles",
     "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>通用型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.BansheeOn",
+    "id": "CustomOption.BansheeOn",
     "english": "<color=#E67E22FF>Banshee</color>",
     "schinese": "<color=#E67E22FF>报丧女妖</color>"
   },
   {
-    "id": "Generate.AnarchistOn",
+    "id": "CustomOption.AnarchistOn",
     "english": "<color=#008000FF>Anarchist</color>",
     "schinese": "<color=#008000FF>暴徒</color>"
   },
   {
-    "id": "Generate.SyndicatePowerRoles",
+    "id": "CustomOption.SyndicatePowerRoles",
     "english": "color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Power</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>超能型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "Generate.SpellslingerOn",
+    "id": "CustomOption.SpellslingerOn",
     "english": "<color=#0028F5FF>Spellslinger</color>",
     "schinese": "<color=#0028F5FF>咒术师</color>"
   },
   {
-    "id": "Generate.TimekeeperOn",
+    "id": "CustomOption.TimekeeperOn",
     "english": "<color=#3769FEFF>Timekeeper</color>",
     "schinese": "<color=#3769FEFF>司辰</color>"
   },
   {
-    "id": "Generate.Modifiers",
+    "id": "CustomOption.Modifiers",
     "english": "<color=#7F7F7FFF>Modifiers</color>",
     "schinese": "<color=#7F7F7FFF>附加职业</color>"
   },
   {
-    "id": "Generate.AstralOn",
+    "id": "CustomOption.AstralOn",
     "english": "<color=#612BEFFF>Astral</color>",
     "schinese": "<color=#612BEFFF>通讯兵</color>"
   },
   {
-    "id": "Generate.BaitOn",
+    "id": "CustomOption.BaitOn",
     "english": "<color=#00B3B3FF>Bait</color>",
     "schinese": "<color=#00B3B3FF>诱饵</color>"
   },
   {
-    "id": "Generate.CowardOn",
+    "id": "CustomOption.CowardOn",
     "english": "<color=#456BA8FF>Coward</color>",
     "schinese": "<color=#456BA8FF>胆小鬼</color>"
   },
   {
-    "id": "Generate.DiseasedOn",
+    "id": "CustomOption.DiseasedOn",
     "english": "<color=#374D1EFF>Diseased</color>",
     "schinese": "<color=#374D1EFF>病人</color>"
   },
   {
-    "id": "Generate.DrunkOn",
+    "id": "CustomOption.DrunkOn",
     "english": "<color=#758000FF>Drunk</color>",
     "schinese": "<color=#758000FF>酒鬼</color>"
   },
   {
-    "id": "Generate.DwarfOn",
+    "id": "CustomOption.DwarfOn",
     "english": "<color=#FF8080FF>Dwarf</color>",
     "schinese": "<color=#FF8080FF>小飞侠</color>"
   },
   {
-    "id": "Generate.GiantOn",
+    "id": "CustomOption.GiantOn",
     "english": "<color=#FFB34DFF>Giant</color>",
     "schinese": "<color=#FFB34DFF>巨人</color>"
   },
   {
-    "id": "Generate.IndomitableOn",
+    "id": "CustomOption.IndomitableOn",
     "english": "<color=#2DE5BEFF>Indomitable</color>",
     "schinese": "<color=#2DE5BEFF>无畏</color>"
   },
   {
-    "id": "Generate.ProfessionalOn",
+    "id": "CustomOption.ProfessionalOn",
     "english": "<color=#860B7AFF>Professional</color>",
     "schinese": "<color=#860B7AFF>专业刺客</color>"
   },
   {
-    "id": "Generate.ShyOn",
+    "id": "CustomOption.ShyOn",
     "english": "<color=#1002C5FF>Shy</color>",
     "schinese": "<color=#1002C5FF>社恐</color>"
   },
   {
-    "id": "Generate.VIPOn",
+    "id": "CustomOption.VIPOn",
     "english": "<color=#DCEE85FF>VIP</color>",
     "schinese": "<color=#DCEE85FF>网红</color>"
   },
   {
-    "id": "Generate.VolatileOn",
+    "id": "CustomOption.VolatileOn",
     "english": "<color=#FFA60AFF>Volatile</color>",
     "schinese": "<color=#FFA60AFF>精神病</color>"
   },
   {
-    "id": "Generate.YellerOn",
+    "id": "CustomOption.YellerOn",
     "english": "<color=#F6AAB7FF>Yeller</color>",
     "schinese": "<color=#F6AAB7FF>广播员</color>"
   },
   {
-    "id": "Generate.Objectifiers",
+    "id": "CustomOption.Objectifiers",
     "english": "<color=#DD585BFF>Objectifiers</color>",
     "schinese": "<color=#DD585BFF>附属阵营</color>"
   },
   {
-    "id": "Generate.AlliedOn",
+    "id": "CustomOption.AlliedOn",
     "english": "<color=#4545A9FF>Allied</color>",
     "schinese": "<color=#4545A9FF>佣兵</color>"
   },
   {
-    "id": "Generate.CorruptedOn",
+    "id": "CustomOption.CorruptedOn",
     "english": "<color=#4545FFFF>Corrupted</color>",
     "schinese": "<color=#4545FFFF>腐坏</color>"
   },
   {
-    "id": "Generate.DefectorOn",
+    "id": "CustomOption.DefectorOn",
     "english": "<color=#E1C849FF>Defector</color>",
     "schinese": "<color=#E1C849FF>降兵</color>"
   },
   {
-    "id": "Generate.FanaticOn",
+    "id": "CustomOption.FanaticOn",
     "english": "<color=#678D36FF>Fanatic</color>",
     "schinese": "<color=#678D36FF>狂信徒</color>"
   },
   {
-    "id": "Generate.LinkedOn",
+    "id": "CustomOption.LinkedOn",
     "english": "<color=#FF351FFF>Linked</color>",
     "schinese": "<color=#FF351FFF>盟友</color>"
   },
   {
-    "id": "Generate.LoversOn",
+    "id": "CustomOption.LoversOn",
     "english": "<color=#FF66CCFF>Lovers</color>",
     "schinese": "<color=#FF66CCFF>恋人</color>"
   },
   {
-    "id": "Generate.MafiaOn",
+    "id": "CustomOption.MafiaOn",
     "english": "<color=#00EEFFFF>Mafia</color>",
     "schinese": "<color=#00EEFFFF>黑帮</color>"
   },
   {
-    "id": "Generate.OverlordOn",
+    "id": "CustomOption.OverlordOn",
     "english": "<color=#008080FF>Overlord</color>",
     "schinese": "<color=#008080FF>霸王</color>"
   },
   {
-    "id": "Generate.RivalsOn",
+    "id": "CustomOption.RivalsOn",
     "english": "<color=#3D2D2CFF>Rivals</color>",
     "schinese": "<color=#3D2D2CFF>冤家</color>"
   },
   {
-    "id": "Generate.TaskmasterOn",
+    "id": "CustomOption.TaskmasterOn",
     "english": "<color=#ABABFFFF>Taskmaster</color>",
     "schinese": "<color=#ABABFFFF>工作狂</color>"
   },
   {
-    "id": "Generate.TraitorOn",
+    "id": "CustomOption.TraitorOn",
     "english": "<color=#370D43FF>Traitor</color>",
     "schinese": "<color=#370D43FF>叛徒</color>"
   },
   {
-    "id": "Generate.Abilities",
+    "id": "CustomOption.Abilities",
     "english": "color=#FF9900FF>Abilities</color>",
     "schinese": "color=#FF9900FF>额外能力</color>"
   },
   {
-    "id": "Generate.ButtonBarryOn",
+    "id": "CustomOption.ButtonBarryOn",
     "english": "<color=#E600FFFF>Button Barry</color>",
     "schinese": "<color=#E600FFFF>执钮人</color>"
   },
   {
-    "id": "Generate.CrewAssassinOn",
+    "id": "CustomOption.CrewAssassinOn",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#073763FF>Assassin</color>",
     "schinese": "<color=#073763FF>刺客</color><color=#8CFFFFFF>（船员阵营）</color>"
   },
   {
-    "id": "Generate.InsiderOn",
+    "id": "CustomOption.InsiderOn",
     "english": "<color=#26FCFBFF>Insider</color>",
     "schinese": "<color=#26FCFBFF>唱票人</color>"
   },
   {
-    "id": "Generate.IntruderAssassinOn",
+    "id": "CustomOption.IntruderAssassinOn",
     "english": "<color=#FF1919FF>Intruder</color> <color=#073763FF>Assassin</color>",
     "schinese": "<color=#073763FF>刺客</color><color=#FF1919FF>（内鬼阵营）</color>"
   },
   {
-    "id": "Generate.MultitaskerOn",
+    "id": "CustomOption.MultitaskerOn",
     "english": "<color=#FF804DFF>Multitasker</color>",
     "schinese": "<color=#FF804DFF>多线程</color>"
   },
   {
-    "id": "Generate.NeutralAssassinOn",
+    "id": "CustomOption.NeutralAssassinOn",
     "english": "<color=#B3B3B3FF>Neutral</color> <color=#073763FF>Assassin</color>",
     "schinese": "<color=#073763FF>刺客</color><color=#B3B3B3FF>（独立阵营）</color>"
   },
   {
-    "id": "Generate.NinjaOn",
+    "id": "CustomOption.NinjaOn",
     "english": "<color=#A84300FF>Ninja</color>",
     "schinese": "<color=#A84300FF>枪手</color>"
   },
   {
-    "id": "Generate.PoliticianOn",
+    "id": "CustomOption.PoliticianOn",
     "english": "<color=#CCA3CCFF>Politician</color>",
     "schinese": "<color=#CCA3CCFF>政治家</color>"
   },
   {
-    "id": "Generate.RadarOn",
+    "id": "CustomOption.RadarOn",
     "english": "<color=#FF0080FF>Radar</color>",
     "schinese": "<color=#FF0080FF>雷达</color>"
   },
   {
-    "id": "Generate.RuthlessOn",
+    "id": "CustomOption.RuthlessOn",
     "english": "<color=#2160DDFF>Ruthless</color>",
     "schinese": "<color=#2160DDFF>杀人魔</color>"
   },
   {
-    "id": "Generate.SnitchOn",
+    "id": "CustomOption.SnitchOn",
     "english": "<color=#D4AF37FF>Snitch</color>",
     "schinese": "<color=#D4AF37FF>告密者</color>"
   },
   {
-    "id": "Generate.SwapperOn",
+    "id": "CustomOption.SwapperOn",
     "english": "<color=#66E666FF>Swapper</color>",
     "schinese": "<color=#66E666FF>换票师</color>"
   },
   {
-    "id": "Generate.SyndicateAssassinOn",
+    "id": "CustomOption.SyndicateAssassinOn",
     "english": "<color=#008000FF>Syndicate</color> <color=#073763FF>Assassin</color>",
     "schinese": "<color=#073763FF>刺客</color><color=#008000FF>（暴乱阵营）</color>"
   },
   {
-    "id": "Generate.TiebreakerOn",
+    "id": "CustomOption.TiebreakerOn",
     "english": "<color=#99E699FF>Tiebreaker</color>",
     "schinese": "<color=#99E699FF>破平者</color>"
   },
   {
-    "id": "Generate.TorchOn",
+    "id": "CustomOption.TorchOn",
     "english": "<color=#FFFF99FF>Torch</color>",
     "schinese": "<color=#FFFF99FF>火炬</color>"
   },
   {
-    "id": "Generate.UnderdogOn",
+    "id": "CustomOption.UnderdogOn",
     "english": "<color=#841A7FFF>Underdog</color>",
     "schinese": "<color=#841A7FFF>潜伏者</color>"
   },
   {
-    "id": "Generate.TunnelerOn",
+    "id": "CustomOption.TunnelerOn",
     "english": "<color=#E91E63FF>Tunneler</color>",
     "schinese": "<color=#E91E63FF>隧道工</color>"
   },
   {
-    "id": "Generate.CrewSettings",
+    "id": "CustomOption.CrewSettings",
     "english": "<color=#8CFFFFFF>Crew</color> Settings",
     "schinese": "测"
   },
   {
-    "id": "Generate.CommonTasks",
+    "id": "CustomOption.CommonTasks",
     "english": "Common Tasks",
     "schinese": "测"
   },
   {
-    "id": "Generate.LongTasks",
+    "id": "CustomOption.LongTasks",
     "english": "Long Tasks",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShortTasks",
+    "id": "CustomOption.ShortTasks",
     "english": "Short Tasks",
     "schinese": "测"
   },
   {
-    "id": "Generate.GhostTasksCountToWin",
+    "id": "CustomOption.GhostTasksCountToWin",
     "english": "<color=#8CFFFFFF>Crew</color> Ghost Tasks Count To Win",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewVision",
+    "id": "CustomOption.CrewVision",
     "english": "<color=#8CFFFFFF>Crew</color> Vision",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewFlashlight",
+    "id": "CustomOption.CrewFlashlight",
     "english": "<color=#8CFFFFFF>Crew</color> Uses A Flashlight",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewVent",
+    "id": "CustomOption.CrewVent",
     "english": "<color=#8CFFFFFF>Crew</color> Can Vent",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewMax",
+    "id": "CustomOption.CrewMax",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewMin",
+    "id": "CustomOption.CrewMin",
     "english": "Min <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>",
     "schinese": "测"
   },
   {
-    "id": "Generate.CASettings",
+    "id": "CustomOption.CASettings",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditor</color> Settings",
     "schinese": "测"
   },
   {
-    "id": "Generate.CAMax",
+    "id": "CustomOption.CAMax",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditors</color>",
     "schinese": "测"
   },
   {
-    "id": "Generate.Mystic",
+    "id": "CustomOption.Mystic",
     "english": "<color=#708EEFFF>Mystic</color>",
     "schinese": "<color=#708EEFFF>祭司</color>"
   },
   {
-    "id": "Generate.UniqueMystic",
+    "id": "CustomOption.UniqueMystic",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MysticRevealCd",
+    "id": "CustomOption.MysticRevealCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VampireHunter",
+    "id": "CustomOption.VampireHunter",
     "english": "<color=#C0C0C0FF>Vampire Hunter</color>",
     "schinese": "<color=#C0C0C0FF>猎魔人</color>"
   },
   {
-    "id": "Generate.UniqueVampireHunter",
+    "id": "CustomOption.UniqueVampireHunter",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.StakeCd",
+    "id": "CustomOption.StakeCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewInvestigativeSettings",
+    "id": "CustomOption.CrewInvestigativeSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CIMax",
+    "id": "CustomOption.CIMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Coroner",
+    "id": "CustomOption.Coroner",
     "english": "<color=#4D99E6FF>Coroner</color>",
     "schinese": "<color=#4D99E6FF>验尸官</color>"
   },
   {
-    "id": "Generate.UniqueCoroner",
+    "id": "CustomOption.UniqueCoroner",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CoronerArrowDur",
+    "id": "CustomOption.CoronerArrowDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CoronerReportRole",
+    "id": "CustomOption.CoronerReportRole",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CoronerReportName",
+    "id": "CustomOption.CoronerReportName",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CoronerKillerNameTime",
+    "id": "CustomOption.CoronerKillerNameTime",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CompareCd",
+    "id": "CustomOption.CompareCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AutopsyCd",
+    "id": "CustomOption.AutopsyCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Detective",
+    "id": "CustomOption.Detective",
     "english": "<color=#4D4DFFFF>Detective</color>",
     "schinese": "<color=#4D4DFFFF>侦探</color>"
   },
   {
-    "id": "Generate.UniqueDetective",
+    "id": "CustomOption.UniqueDetective",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExamineCd",
+    "id": "CustomOption.ExamineCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RecentKill",
+    "id": "CustomOption.RecentKill",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FootprintInterval",
+    "id": "CustomOption.FootprintInterval",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FootprintDur",
+    "id": "CustomOption.FootprintDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AnonymousFootprint",
+    "id": "CustomOption.AnonymousFootprint",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Inspector",
+    "id": "CustomOption.Inspector",
     "english": "<color=#7E3C64FF>Inspector</color>",
     "schinese": "<color=#7E3C64FF>占卜师</color>"
   },
   {
-    "id": "Generate.UniqueInspector",
+    "id": "CustomOption.UniqueInspector",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.InspectCd",
+    "id": "CustomOption.InspectCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Medium",
+    "id": "CustomOption.Medium",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MediateCd",
+    "id": "CustomOption.MediateCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueMedium",
+    "id": "CustomOption.UniqueMedium",
     "english": "<color=#A680FFFF>Medium</color>",
     "schinese": "<color=#A680FFFF>招魂师</color>"
   },
   {
-    "id": "Generate.ShowMediatePlayer",
+    "id": "CustomOption.ShowMediatePlayer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShowMediumToDead",
+    "id": "CustomOption.ShowMediumToDead",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DeadRevealed",
+    "id": "CustomOption.DeadRevealed",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Seer",
+    "id": "CustomOption.Seer",
     "english": "<color=#71368AFF>Seer</color>",
     "schinese": "<color=#71368AFF>圣徒</color>"
   },
   {
-    "id": "Generate.UniqueSeer",
+    "id": "CustomOption.UniqueSeer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SeerCd",
+    "id": "CustomOption.SeerCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Operative",
+    "id": "CustomOption.Operative",
     "english": "<color=#A7D1B3FF>Operative</color>",
     "schinese": "<color=#A7D1B3FF>特工</color>"
   },
   {
-    "id": "Generate.UniqueOperative",
+    "id": "CustomOption.UniqueOperative",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BugCd",
+    "id": "CustomOption.BugCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MinAmountOfTimeInBug",
+    "id": "CustomOption.MinAmountOfTimeInBug",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BugsRemoveOnNewRound",
+    "id": "CustomOption.BugsRemoveOnNewRound",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxBugs",
+    "id": "CustomOption.MaxBugs",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BugRange",
+    "id": "CustomOption.BugRange",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MinAmountOfPlayersInBug",
+    "id": "CustomOption.MinAmountOfPlayersInBug",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhoSeesDead",
+    "id": "CustomOption.WhoSeesDead",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PreciseOperativeInfo",
+    "id": "CustomOption.PreciseOperativeInfo",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Sheriff",
+    "id": "CustomOption.Sheriff",
     "english": "<color=#FFCC80FF>Sheriff</color>",
     "schinese": "<color=#FFCC80FF>预言家</color>"
   },
   {
-    "id": "Generate.UniqueSheriff",
+    "id": "CustomOption.UniqueSheriff",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.InterrogateCd",
+    "id": "CustomOption.InterrogateCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutEvilRed",
+    "id": "CustomOption.NeutEvilRed",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutKillingRed",
+    "id": "CustomOption.NeutKillingRed",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Tracker",
+    "id": "CustomOption.Tracker",
     "english": "<color=#009900FF>Tracker</color>",
     "schinese": "<color=#009900FF>追踪者</color>"
   },
   {
-    "id": "Generate.UniqueTracker",
+    "id": "CustomOption.UniqueTracker",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UpdateInterval",
+    "id": "CustomOption.UpdateInterval",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TrackCd",
+    "id": "CustomOption.TrackCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ResetOnNewRound",
+    "id": "CustomOption.ResetOnNewRound",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxTracks",
+    "id": "CustomOption.MaxTracks",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewKillingSettings",
+    "id": "CustomOption.CrewKillingSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CKMax",
+    "id": "CustomOption.CKMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Veteran",
+    "id": "CustomOption.Veteran",
     "english": "<color=#FFFF00FF>Vigilante</color>",
     "schinese": "<color=#FFFF00FF>警长</color>"
   },
   {
-    "id": "Generate.UniqueVeteran",
+    "id": "CustomOption.UniqueVeteran",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AlertCd",
+    "id": "CustomOption.AlertCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AlertDur",
+    "id": "CustomOption.AlertDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxAlerts",
+    "id": "CustomOption.MaxAlerts",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Vigilante",
+    "id": "CustomOption.Vigilante",
     "english": "<color=#998040FF>Veteran</color>",
     "schinese": "<color=#998040FF>老兵</color>"
   },
   {
-    "id": "Generate.UniqueVigilante",
+    "id": "CustomOption.UniqueVigilante",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MisfireKillsInno",
+    "id": "CustomOption.MisfireKillsInno",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiKillAgain",
+    "id": "CustomOption.VigiKillAgain",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RoundOneNoShot",
+    "id": "CustomOption.RoundOneNoShot",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiNotifOptions",
+    "id": "CustomOption.VigiNotifOptions",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiOptions",
+    "id": "CustomOption.VigiOptions",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShootCd",
+    "id": "CustomOption.ShootCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxBullets",
+    "id": "CustomOption.MaxBullets",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewProtectiveSettings",
+    "id": "CustomOption.CrewProtectiveSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrPMax",
+    "id": "CustomOption.CrPMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Altruist",
+    "id": "CustomOption.Altruist",
     "english": "<color=#660000FF>Altruist</color>",
     "schinese": "<color=#660000FF>殉道者</color>"
   },
   {
-    "id": "Generate.UniqueAltruist",
+    "id": "CustomOption.UniqueAltruist",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxRevives",
+    "id": "CustomOption.MaxRevives",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ReviveCd",
+    "id": "CustomOption.ReviveCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ReviveDur",
+    "id": "CustomOption.ReviveDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AltruistTargetBody",
+    "id": "CustomOption.AltruistTargetBody",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Medic",
+    "id": "CustomOption.Medic",
     "english": "<color=#006600FF>Medic</color>",
     "schinese": "<color=#006600FF>医生</color>"
   },
   {
-    "id": "Generate.UniqueMedic",
+    "id": "CustomOption.UniqueMedic",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShowShielded",
+    "id": "CustomOption.ShowShielded",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhoGetsNotification",
+    "id": "CustomOption.WhoGetsNotification",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShieldBreaks",
+    "id": "CustomOption.ShieldBreaks",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewSovereignSettings",
+    "id": "CustomOption.CrewSovereignSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CSvMax",
+    "id": "CustomOption.CSvMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Dictator",
+    "id": "CustomOption.Dictator",
     "english": "<color=#00CB97FF>Dictator</color>",
     "schinese": "<color=#00CB97FF>独裁者</color>"
   },
   {
-    "id": "Generate.UniqueDictator",
+    "id": "CustomOption.UniqueDictator",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RoundOneNoDictReveal",
+    "id": "CustomOption.RoundOneNoDictReveal",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DictateAfterVoting",
+    "id": "CustomOption.DictateAfterVoting",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DictatorButton",
+    "id": "CustomOption.DictatorButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Mayor",
+    "id": "CustomOption.Mayor",
     "english": "<color=#704FA8FF>Mayor</color>",
     "schinese": "<color=#704FA8FF>市长</color>"
   },
   {
-    "id": "Generate.UniqueMayor",
+    "id": "CustomOption.UniqueMayor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MayorVoteCount",
+    "id": "CustomOption.MayorVoteCount",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RoundOneNoMayorReveal",
+    "id": "CustomOption.RoundOneNoMayorReveal",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MayorButton",
+    "id": "CustomOption.MayorButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Monarch",
+    "id": "CustomOption.Monarch",
     "english": "<color=#FF004EFF>Monarch</color>",
     "schinese": "<color=#FF004EFF>大君主</color>"
   },
   {
-    "id": "Generate.UniqueMonarch",
+    "id": "CustomOption.UniqueMonarch",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.KnightingCd",
+    "id": "CustomOption.KnightingCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RoundOneNoKnighting",
+    "id": "CustomOption.RoundOneNoKnighting",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.KnightCount",
+    "id": "CustomOption.KnightCount",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.KnightVoteCount",
+    "id": "CustomOption.KnightVoteCount",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MonarchButton",
+    "id": "CustomOption.MonarchButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.KnightButton",
+    "id": "CustomOption.KnightButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewSupportSettings",
+    "id": "CustomOption.CrewSupportSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CSMax",
+    "id": "CustomOption.CSMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Chameleon",
+    "id": "CustomOption.Chameleon",
     "english": "<color=#5411F8FF>Chameleon</color>",
     "schinese": "<color=#5411F8FF>变色龙</color>"
   },
   {
-    "id": "Generate.UniqueChameleon",
+    "id": "CustomOption.UniqueChameleon",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SwoopCd",
+    "id": "CustomOption.SwoopCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SwoopDur",
+    "id": "CustomOption.SwoopDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxSwoops",
+    "id": "CustomOption.MaxSwoops",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Engineer",
+    "id": "CustomOption.Engineer",
     "english": "<color=#FFA60AFF>Engineer</color>",
     "schinese": "<color=#FFA60AFF>工程师</color>"
   },
   {
-    "id": "Generate.UniqueEngineer",
+    "id": "CustomOption.UniqueEngineer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FixCd",
+    "id": "CustomOption.FixCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxFixes",
+    "id": "CustomOption.MaxFixes",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Escort",
+    "id": "CustomOption.Escort",
     "english": "<color=#803333FF>Escort</color>",
     "schinese": "<color=#803333FF>卫兵</color>"
   },
   {
-    "id": "Generate.UniqueEscort",
+    "id": "CustomOption.UniqueEscort",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EscortCd",
+    "id": "CustomOption.EscortCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EscortDur",
+    "id": "CustomOption.EscortDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Retributionist",
+    "id": "CustomOption.Retributionist",
     "english": "<color=#8D0F8CFF>Retributionist</color>",
     "schinese": "<color=#8D0F8CFF>效颦者</color>"
   },
   {
-    "id": "Generate.UniqueRetributionist",
+    "id": "CustomOption.UniqueRetributionist",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ReviveAfterVoting",
+    "id": "CustomOption.ReviveAfterVoting",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxUses",
+    "id": "CustomOption.MaxUses",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Shifter",
+    "id": "CustomOption.Shifter",
     "english": "<color=#DF851FFF>Shifter</color>",
     "schinese": "<color=#DF851FFF>交换师</color>"
   },
   {
-    "id": "Generate.UniqueShifter",
+    "id": "CustomOption.UniqueShifter",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShiftCd",
+    "id": "CustomOption.ShiftCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShiftedBecomes",
+    "id": "CustomOption.ShiftedBecomes",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Transporter",
+    "id": "CustomOption.Transporter",
     "english": "<color=#00EEFFFF>Transporter</color>",
     "schinese": "<color=#00EEFFFF>传送师</color>"
   },
   {
-    "id": "Generate.UniqueTransporter",
+    "id": "CustomOption.UniqueTransporter",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TransportDur",
+    "id": "CustomOption.TransportDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TransportCd",
+    "id": "CustomOption.TransportCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TransSelf",
+    "id": "CustomOption.TransSelf",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxTransports",
+    "id": "CustomOption.MaxTransports",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrewUtilitySettings",
+    "id": "CustomOption.CrewUtilitySettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Revealer",
+    "id": "CustomOption.Revealer",
     "english": "<color=#D3D3D3FF>Revealer</color>",
     "schinese": "<color=#D3D3D3FF>冤魂</color>"
   },
   {
-    "id": "Generate.RevealerTasksRemainingClicked",
+    "id": "CustomOption.RevealerTasksRemainingClicked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RevealerTasksRemainingAlert",
+    "id": "CustomOption.RevealerTasksRemainingAlert",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RevealerRevealsNeutrals",
+    "id": "CustomOption.RevealerRevealsNeutrals",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RevealerRevealsCrew",
+    "id": "CustomOption.RevealerRevealsCrew",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RevealerRevealsRoles",
+    "id": "CustomOption.RevealerRevealsRoles",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RevealerCanBeClickedBy",
+    "id": "CustomOption.RevealerCanBeClickedBy",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralSettings",
+    "id": "CustomOption.NeutralSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralVision",
+    "id": "CustomOption.NeutralVision",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.LightsAffectNeutrals",
+    "id": "CustomOption.LightsAffectNeutrals",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralFlashlight",
+    "id": "CustomOption.NeutralFlashlight",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralMax",
+    "id": "CustomOption.NeutralMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralMin",
+    "id": "CustomOption.NeutralMin",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NoSolo",
+    "id": "CustomOption.NoSolo",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AvoidNeutralKingmakers",
+    "id": "CustomOption.AvoidNeutralKingmakers",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralsVent",
+    "id": "CustomOption.NeutralsVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralApocalypseSettings",
+    "id": "CustomOption.NeutralApocalypseSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Pestilence",
+    "id": "CustomOption.Pestilence",
     "english": "<color=#424242FF>Pestilence</color>",
     "schinese": "测"
   },
   {
-    "id": "Generate.PestSpawn",
+    "id": "CustomOption.PestSpawn",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PlayersAlerted",
+    "id": "CustomOption.PlayersAlerted",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ObliterateCd",
+    "id": "CustomOption.ObliterateCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PestVent",
+    "id": "CustomOption.PestVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralBenignSettings",
+    "id": "CustomOption.NeutralBenignSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NBMax",
+    "id": "CustomOption.NBMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiKillsNB",
+    "id": "CustomOption.VigiKillsNB",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Amnesiac",
+    "id": "CustomOption.Amnesiac",
     "english": "<color=#22FFFFFF>Amnesiac</color>",
     "schinese": "<color=#22FFFFFF>失忆者</color>"
   },
   {
-    "id": "Generate.UniqueAmnesiac",
+    "id": "CustomOption.UniqueAmnesiac",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RememberArrows",
+    "id": "CustomOption.RememberArrows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RememberArrowDelay",
+    "id": "CustomOption.RememberArrowDelay",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AmneVent",
+    "id": "CustomOption.AmneVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AmneSwitchVent",
+    "id": "CustomOption.AmneSwitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GuardianAngel",
+    "id": "CustomOption.GuardianAngel",
     "english": "<color=#FFFFFFFF>Guardian Angel</color>",
     "schinese": "<color=#FFFFFFFF>守护天使</color>"
   },
   {
-    "id": "Generate.UniqueGuardianAngel",
+    "id": "CustomOption.UniqueGuardianAngel",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GuardianAngelCanPickTargets",
+    "id": "CustomOption.GuardianAngelCanPickTargets",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ProtectCd",
+    "id": "CustomOption.ProtectCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ProtectDur",
+    "id": "CustomOption.ProtectDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ProtectKCReset",
+    "id": "CustomOption.ProtectKCReset",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxProtects",
+    "id": "CustomOption.MaxProtects",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShowProtect",
+    "id": "CustomOption.ShowProtect",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GATargetKnows",
+    "id": "CustomOption.GATargetKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ProtectBeyondTheGrave",
+    "id": "CustomOption.ProtectBeyondTheGrave",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GAKnowsTargetRole",
+    "id": "CustomOption.GAKnowsTargetRole",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GAVent",
+    "id": "CustomOption.GAVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GASwitchVent",
+    "id": "CustomOption.GASwitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueSurvivor",
+    "id": "CustomOption.UniqueSurvivor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Survivor",
+    "id": "CustomOption.Survivor",
     "english": "<color=#DDDD00FF>Survivor</color>",
     "schinese": "<color=#DDDD00FF>幸存者</color>"
   },
   {
-    "id": "Generate.VestCd",
+    "id": "CustomOption.VestCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VestDur",
+    "id": "CustomOption.VestDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VestKCReset",
+    "id": "CustomOption.VestKCReset",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxVests",
+    "id": "CustomOption.MaxVests",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SurvVent",
+    "id": "CustomOption.SurvVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SurvSwitchVent",
+    "id": "CustomOption.SurvSwitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Thief",
+    "id": "CustomOption.Thief",
     "english": "<color=#80FF00FF>Thief</color>",
     "schinese": "<color=#80FF00FF>身份窃贼</color>"
   },
   {
-    "id": "Generate.UniqueThief",
+    "id": "CustomOption.UniqueThief",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.StealCd",
+    "id": "CustomOption.StealCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ThiefSteals",
+    "id": "CustomOption.ThiefSteals",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ThiefCanGuess",
+    "id": "CustomOption.ThiefCanGuess",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ThiefCanGuessAfterVoting",
+    "id": "CustomOption.ThiefCanGuessAfterVoting",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ThiefVent",
+    "id": "CustomOption.ThiefVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralEvilSettings",
+    "id": "CustomOption.NeutralEvilSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NEMax",
+    "id": "CustomOption.NEMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralEvilsEndGame",
+    "id": "CustomOption.NeutralEvilsEndGame",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Actor",
+    "id": "CustomOption.Actor",
     "english": "<color=#00ACC2FF>Actor</color>",
     "schinese": "<color=#00ACC2FF>演员</color>"
   },
   {
-    "id": "Generate.UniqueActor",
+    "id": "CustomOption.UniqueActor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ActorCanPickRole",
+    "id": "CustomOption.ActorCanPickRole",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ActorButton",
+    "id": "CustomOption.ActorButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ActorVent",
+    "id": "CustomOption.ActorVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ActSwitchVent",
+    "id": "CustomOption.ActSwitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiKillsActor",
+    "id": "CustomOption.VigiKillsActor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BountyHunter",
+    "id": "CustomOption.BountyHunter",
     "english": "<color=#B51E39FF>Bounty Hunter</color>",
     "schinese": "<color=#B51E39FF>赏金猎人</color>"
   },
   {
-    "id": "Generate.UniqueBountyHunter",
+    "id": "CustomOption.UniqueBountyHunter",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BountyHunterCanPickTargets",
+    "id": "CustomOption.BountyHunterCanPickTargets",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GuessCd",
+    "id": "CustomOption.GuessCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BountyHunterGuesses",
+    "id": "CustomOption.BountyHunterGuesses",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BHVent",
+    "id": "CustomOption.BHVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiKillsBH",
+    "id": "CustomOption.VigiKillsBH",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Cannibal",
+    "id": "CustomOption.Cannibal",
     "english": "<color=#8C4005FF>Cannibal</color>",
     "schinese": "<color=#8C4005FF>秃鹫</color>"
   },
   {
-    "id": "Generate.UniqueCannibal",
+    "id": "CustomOption.UniqueCannibal",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EatCd",
+    "id": "CustomOption.EatCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BodiesNeeded",
+    "id": "CustomOption.BodiesNeeded",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EatArrows",
+    "id": "CustomOption.EatArrows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EatArrowDelay",
+    "id": "CustomOption.EatArrowDelay",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CannibalVent",
+    "id": "CustomOption.CannibalVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiKillsCannibal",
+    "id": "CustomOption.VigiKillsCannibal",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Executioner",
+    "id": "CustomOption.Executioner",
     "english": "<color=#CCCCCCFF>Executioner</color>",
     "schinese": "<color=#CCCCCCFF>处刑者</color>"
   },
   {
-    "id": "Generate.UniqueExecutioner",
+    "id": "CustomOption.UniqueExecutioner",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExecutionerCanPickTargets",
+    "id": "CustomOption.ExecutionerCanPickTargets",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DoomCd",
+    "id": "CustomOption.DoomCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxDooms",
+    "id": "CustomOption.MaxDooms",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExecutionerButton",
+    "id": "CustomOption.ExecutionerButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExeVent",
+    "id": "CustomOption.ExeVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExeTargetKnows",
+    "id": "CustomOption.ExeTargetKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExeSwitchVent",
+    "id": "CustomOption.ExeSwitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExeEjectScreen",
+    "id": "CustomOption.ExeEjectScreen",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExeKnowsTargetRole",
+    "id": "CustomOption.ExeKnowsTargetRole",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ExeCanWinBeyondDeath",
+    "id": "CustomOption.ExeCanWinBeyondDeath",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiKillsExecutioner",
+    "id": "CustomOption.VigiKillsExecutioner",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Guesser",
+    "id": "CustomOption.Guesser",
     "english": "<color=#EEE5BEFF>Guesser</color>",
     "schinese": "<color=#EEE5BEFF>暗杀兵</color>"
   },
   {
-    "id": "Generate.UniqueGuesser",
+    "id": "CustomOption.UniqueGuesser",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GuesserCanPickTargets",
+    "id": "CustomOption.GuesserCanPickTargets",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GuesserButton",
+    "id": "CustomOption.GuesserButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GuessSwitchVent",
+    "id": "CustomOption.GuessSwitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GuessTargetKnows",
+    "id": "CustomOption.GuessTargetKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MultipleGuesses",
+    "id": "CustomOption.MultipleGuesses",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxGuesses",
+    "id": "CustomOption.MaxGuesses",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GuesserAfterVoting",
+    "id": "CustomOption.GuesserAfterVoting",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiKillsGuesser",
+    "id": "CustomOption.VigiKillsGuesser",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Jester",
+    "id": "CustomOption.Jester",
     "english": "<color=#F7B3DAFF>Jester</color>",
     "schinese": "<color=#F7B3DAFF>小丑</color>"
   },
   {
-    "id": "Generate.JesterButton",
+    "id": "CustomOption.JesterButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueJester",
+    "id": "CustomOption.UniqueJester",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.HauntCd",
+    "id": "CustomOption.HauntCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxHaunts",
+    "id": "CustomOption.MaxHaunts",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.JesterVent",
+    "id": "CustomOption.JesterVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.JestSwitchVent",
+    "id": "CustomOption.JestSwitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.JestEjectScreen",
+    "id": "CustomOption.JestEjectScreen",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VigiKillsJester",
+    "id": "CustomOption.VigiKillsJester",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Troll",
+    "id": "CustomOption.Troll",
     "english": "<color=#678D36FF>Troll</color>",
     "schinese": "<color=#678D36FF>挑衅者</color>"
   },
   {
-    "id": "Generate.UniqueTroll",
+    "id": "CustomOption.UniqueTroll",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.InteractCd",
+    "id": "CustomOption.InteractCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TrollVent",
+    "id": "CustomOption.TrollVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TrollSwitchVent",
+    "id": "CustomOption.TrollSwitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralHarbingerSettings",
+    "id": "CustomOption.NeutralHarbingerSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NHMax",
+    "id": "CustomOption.NHMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Plaguebearer",
+    "id": "CustomOption.Plaguebearer",
     "english": "<color=#CFFE61FF>Plaguebearer</color>",
     "schinese": "<color=#CFFE61FF>瘟疫之源</color>"
   },
   {
-    "id": "Generate.UniquePlaguebearer",
+    "id": "CustomOption.UniquePlaguebearer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.InfectCd",
+    "id": "CustomOption.InfectCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PBVent",
+    "id": "CustomOption.PBVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralKillingSettings",
+    "id": "CustomOption.NeutralKillingSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NKMax",
+    "id": "CustomOption.NKMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NKHasImpVision",
+    "id": "CustomOption.NKHasImpVision",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NKsKnow",
+    "id": "CustomOption.NKsKnow",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Arsonist",
+    "id": "CustomOption.Arsonist",
     "english": "<color=#EE7600FF>Arsonist</color>",
     "schinese": "<color=#EE7600FF>纵火狂</color>"
   },
   {
-    "id": "Generate.UniqueArsonist",
+    "id": "CustomOption.UniqueArsonist",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Douse",
+    "id": "CustomOption.Douse",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IgniteCd",
+    "id": "CustomOption.IgniteCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ArsoLastKillerBoost",
+    "id": "CustomOption.ArsoLastKillerBoost",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ArsoIgniteAll",
+    "id": "CustomOption.ArsoIgniteAll",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ArsoCooldownsLinked",
+    "id": "CustomOption.ArsoCooldownsLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IgnitionCremates",
+    "id": "CustomOption.IgnitionCremates",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ArsoVent",
+    "id": "CustomOption.ArsoVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Cryomaniac",
+    "id": "CustomOption.Cryomaniac",
     "english": "<color=#642DEAFF>Cryomaniac</color>",
     "schinese": "<color=#642DEAFF>冰冻狂</color>"
   },
   {
-    "id": "Generate.UniqueCryomaniac",
+    "id": "CustomOption.UniqueCryomaniac",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CryoFreezeAll",
+    "id": "CustomOption.CryoFreezeAll",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CryoLastKillerBoost",
+    "id": "CustomOption.CryoLastKillerBoost",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CryoVent",
+    "id": "CustomOption.CryoVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Glitch",
+    "id": "CustomOption.Glitch",
     "english": "<color=#00FF00FF>Glitch</color>",
     "schinese": "<color=#00FF00FF>混沌</color>"
   },
   {
-    "id": "Generate.UniqueGlitch",
+    "id": "CustomOption.UniqueGlitch",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MimicCd",
+    "id": "CustomOption.MimicCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MimicDur",
+    "id": "CustomOption.MimicDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.HackCd",
+    "id": "CustomOption.HackCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.HackDur",
+    "id": "CustomOption.HackDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutraliseCd",
+    "id": "CustomOption.NeutraliseCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GlitchVent",
+    "id": "CustomOption.GlitchVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Juggernaut",
+    "id": "CustomOption.Juggernaut",
     "english": "<color=#A12B56FF>Juggernaut</color>",
     "schinese": "<color=#A12B56FF>天启</color>"
   },
   {
-    "id": "Generate.UniqueJuggernaut",
+    "id": "CustomOption.UniqueJuggernaut",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssaultCd",
+    "id": "CustomOption.AssaultCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssaultBonus",
+    "id": "CustomOption.AssaultBonus",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.JuggVent",
+    "id": "CustomOption.JuggVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Murderer",
+    "id": "CustomOption.Murderer",
     "english": "<color=#6F7BEAFF>Murderer</color>",
     "schinese": "<color=#6F7BEAFF>杀人犯</color>"
   },
   {
-    "id": "Generate.UniqueMurderer",
+    "id": "CustomOption.UniqueMurderer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MurderCd",
+    "id": "CustomOption.MurderCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MurdVent",
+    "id": "CustomOption.MurdVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SerialKiller",
+    "id": "CustomOption.SerialKiller",
     "english": "<color=#336EFFFF>Serial Killer</color>",
     "schinese": "<color=#336EFFFF>月下狼人</color>"
   },
   {
-    "id": "Generate.UniqueSerialKiller",
+    "id": "CustomOption.UniqueSerialKiller",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BloodlustCd",
+    "id": "CustomOption.BloodlustCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BloodlustDur",
+    "id": "CustomOption.BloodlustDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.StabCd",
+    "id": "CustomOption.StabCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SKVentOptions",
+    "id": "CustomOption.SKVentOptions",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Werewolf",
+    "id": "CustomOption.Werewolf",
     "english": "<color=#9F703AFF>Werewolf</color>",
     "schinese": "<color=#9F703AFF>血狼</color>"
   },
   {
-    "id": "Generate.UniqueWerewolf",
+    "id": "CustomOption.UniqueWerewolf",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaulCd",
+    "id": "CustomOption.MaulCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaulRadius",
+    "id": "CustomOption.MaulRadius",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WerewolfVent",
+    "id": "CustomOption.WerewolfVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralNeophyteSettings",
+    "id": "CustomOption.NeutralNeophyteSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NNMax",
+    "id": "CustomOption.NNMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NNHasImpVision",
+    "id": "CustomOption.NNHasImpVision",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Dracula",
+    "id": "CustomOption.Dracula",
     "english": "<color=#AC8A00FF>Dracula</color>",
     "schinese": "<color=#AC8A00FF>吸血魔</color>"
   },
   {
-    "id": "Generate.UniqueDracula",
+    "id": "CustomOption.UniqueDracula",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BiteCd",
+    "id": "CustomOption.BiteCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DracVent",
+    "id": "CustomOption.DracVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AliveVampCount",
+    "id": "CustomOption.AliveVampCount",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UndeadVent",
+    "id": "CustomOption.UndeadVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Jackal",
+    "id": "CustomOption.Jackal",
     "english": "<color=#45076AFF>Jackal</color>",
     "schinese": "<color=#45076AFF>黑老大</color>"
   },
   {
-    "id": "Generate.UniqueJackal",
+    "id": "CustomOption.UniqueJackal",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RecruitCd",
+    "id": "CustomOption.RecruitCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.JackalVent",
+    "id": "CustomOption.JackalVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RecruitVent",
+    "id": "CustomOption.RecruitVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Necromancer",
+    "id": "CustomOption.Necromancer",
     "english": "<color=#BF5FFFFF>Necromancer</color>",
     "schinese": "<color=#BF5FFFFF>死灵巫师</color>"
   },
   {
-    "id": "Generate.UniqueNecromancer",
+    "id": "CustomOption.UniqueNecromancer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ResurrectCd",
+    "id": "CustomOption.ResurrectCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ResurrectCdIncrease",
+    "id": "CustomOption.ResurrectCdIncrease",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ResurrectCdIncreases",
+    "id": "CustomOption.ResurrectCdIncreases",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxResurrections",
+    "id": "CustomOption.MaxResurrections",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NecroKillCd",
+    "id": "CustomOption.NecroKillCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NecroKillCdIncrease",
+    "id": "CustomOption.NecroKillCdIncrease",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NecroKillCdIncreases",
+    "id": "CustomOption.NecroKillCdIncreases",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxNecroKills",
+    "id": "CustomOption.MaxNecroKills",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NecroCooldownsLinked",
+    "id": "CustomOption.NecroCooldownsLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NecromancerTargetBody",
+    "id": "CustomOption.NecromancerTargetBody",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ResurrectDur",
+    "id": "CustomOption.ResurrectDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NecroVent",
+    "id": "CustomOption.NecroVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ResurrectVent",
+    "id": "CustomOption.ResurrectVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Whisperer",
+    "id": "CustomOption.Whisperer",
     "english": "<color=#2D6AA5FF>Whisperer</color>",
     "schinese": "<color=#2D6AA5FF>传教士</color>"
   },
   {
-    "id": "Generate.UniqueWhisperer",
+    "id": "CustomOption.UniqueWhisperer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhisperCd",
+    "id": "CustomOption.WhisperCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhisperCdIncreases",
+    "id": "CustomOption.WhisperCdIncreases",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhisperCdIncrease",
+    "id": "CustomOption.WhisperCdIncrease",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhisperRadius",
+    "id": "CustomOption.WhisperRadius",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhisperRate",
+    "id": "CustomOption.WhisperRate",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhisperRateDecreases",
+    "id": "CustomOption.WhisperRateDecreases",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhisperRateDecrease",
+    "id": "CustomOption.WhisperRateDecrease",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhispVent",
+    "id": "CustomOption.WhispVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PersuadedVent",
+    "id": "CustomOption.PersuadedVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.NeutralProselyteSettings",
+    "id": "CustomOption.NeutralProselyteSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Betrayer",
+    "id": "CustomOption.Betrayer",
     "english": "<color=#11806AFF>Betrayer</color>",
     "schinese": "测"
   },
   {
-    "id": "Generate.BetrayCd",
+    "id": "CustomOption.BetrayCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BetrayerVent",
+    "id": "CustomOption.BetrayerVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Phantom",
+    "id": "CustomOption.Phantom",
     "english": "<color=#662962FF>Phantom</color>",
     "schinese": "<color=#662962FF>幻影</color>"
   },
   {
-    "id": "Generate.PhantomTasksRemaining",
+    "id": "CustomOption.PhantomTasksRemaining",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PhantomPlayersAlerted",
+    "id": "CustomOption.PhantomPlayersAlerted",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderSettings",
+    "id": "CustomOption.IntruderSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderCount",
+    "id": "CustomOption.IntruderCount",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderVision",
+    "id": "CustomOption.IntruderVision",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderFlashlight",
+    "id": "CustomOption.IntruderFlashlight",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntKillCd",
+    "id": "CustomOption.IntKillCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntrudersVent",
+    "id": "CustomOption.IntrudersVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntrudersCanSabotage",
+    "id": "CustomOption.IntrudersCanSabotage",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GhostsCanSabotage",
+    "id": "CustomOption.GhostsCanSabotage",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderMax",
+    "id": "CustomOption.IntruderMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderMin",
+    "id": "CustomOption.IntruderMin",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderConcealingSettings",
+    "id": "CustomOption.IntruderConcealingSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ICMax",
+    "id": "CustomOption.ICMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Blackmailer",
+    "id": "CustomOption.Blackmailer",
     "english": "<color=#02A752FF>Blackmailer</color>",
     "schinese": "<color=#02A752FF>勒索者</color>"
   },
   {
-    "id": "Generate.BlackmailCd",
+    "id": "CustomOption.BlackmailCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WhispersNotPrivate",
+    "id": "CustomOption.WhispersNotPrivate",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BlackmailMates",
+    "id": "CustomOption.BlackmailMates",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BMRevealed",
+    "id": "CustomOption.BMRevealed",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueBlackmailer",
+    "id": "CustomOption.UniqueBlackmailer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Camouflager",
+    "id": "CustomOption.Camouflager",
     "english": "<color=#378AC0FF>Camouflager</color>",
     "schinese": "<color=#378AC0FF>隐蔽者</color>"
   },
   {
-    "id": "Generate.UniqueCamouflager",
+    "id": "CustomOption.UniqueCamouflager",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CamouflageCd",
+    "id": "CustomOption.CamouflageCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CamouflageDur",
+    "id": "CustomOption.CamouflageDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CamoHideSize",
+    "id": "CustomOption.CamoHideSize",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CamoHideSpeed",
+    "id": "CustomOption.CamoHideSpeed",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Grenadier",
+    "id": "CustomOption.Grenadier",
     "english": "<color=#85AA5BFF>Grenadier</color>",
     "schinese": "<color=#85AA5BFF>掷弹兵</color>"
   },
   {
-    "id": "Generate.UniqueGrenadier",
+    "id": "CustomOption.UniqueGrenadier",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FlashCd",
+    "id": "CustomOption.FlashCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FlashDur",
+    "id": "CustomOption.FlashDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FlashRadius",
+    "id": "CustomOption.FlashRadius",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GrenadierIndicators",
+    "id": "CustomOption.GrenadierIndicators",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GrenadierVent",
+    "id": "CustomOption.GrenadierVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Janitor",
+    "id": "CustomOption.Janitor",
     "english": "<color=#2647A2FF>Janitor</color>",
     "schinese": "<color=#2647A2FF>清理者</color>"
   },
   {
-    "id": "Generate.UniqueJanitor",
+    "id": "CustomOption.UniqueJanitor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CleanCd",
+    "id": "CustomOption.CleanCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.JaniCooldownsLinked",
+    "id": "CustomOption.JaniCooldownsLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SoloBoost",
+    "id": "CustomOption.SoloBoost",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DragCd",
+    "id": "CustomOption.DragCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DragModifier",
+    "id": "CustomOption.DragModifier",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.JanitorVentOptions",
+    "id": "CustomOption.JanitorVentOptions",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderDeceptionSettings",
+    "id": "CustomOption.IntruderDeceptionSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IDMax",
+    "id": "CustomOption.IDMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Disguiser",
+    "id": "CustomOption.Disguiser",
     "english": "<color=#40B4FFFF>Disguiser</color>",
     "schinese": "<color=#40B4FFFF>画皮师</color>"
   },
   {
-    "id": "Generate.UniqueDisguiser",
+    "id": "CustomOption.UniqueDisguiser",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DisguiseCd",
+    "id": "CustomOption.DisguiseCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DisguiseDelay",
+    "id": "CustomOption.DisguiseDelay",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DisguiseDur",
+    "id": "CustomOption.DisguiseDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MeasureCd",
+    "id": "CustomOption.MeasureCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DisgCooldownsLinked",
+    "id": "CustomOption.DisgCooldownsLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DisguiseTarget",
+    "id": "CustomOption.DisguiseTarget",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Morphling",
+    "id": "CustomOption.Morphling",
     "english": "<color=#BB45B0FF>Morphling</color>",
     "schinese": "<color=#BB45B0FF>化形者</color>"
   },
   {
-    "id": "Generate.UniqueMorphling",
+    "id": "CustomOption.UniqueMorphling",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MorphCd",
+    "id": "CustomOption.MorphCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MorphDur",
+    "id": "CustomOption.MorphDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SampleCd",
+    "id": "CustomOption.SampleCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MorphCooldownsLinked",
+    "id": "CustomOption.MorphCooldownsLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MorphlingVent",
+    "id": "CustomOption.MorphlingVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Wraith",
+    "id": "CustomOption.Wraith",
     "english": "<color=#5C4F75FF>Wraith</color>",
     "schinese": "<color=#5C4F75FF>隐身人</color>"
   },
   {
-    "id": "Generate.UniqueWraith",
+    "id": "CustomOption.UniqueWraith",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.InvisCd",
+    "id": "CustomOption.InvisCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.InvisDur",
+    "id": "CustomOption.InvisDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WraithVent",
+    "id": "CustomOption.WraithVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderKillingSettings",
+    "id": "CustomOption.IntruderKillingSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IKMax",
+    "id": "CustomOption.IKMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Ambusher",
+    "id": "CustomOption.Ambusher",
     "english": "<color=#2BD29CFF>Ambusher</color>",
     "schinese": "<color=#2BD29CFF>伏击兵</color>"
   },
   {
-    "id": "Generate.UniqueAmbusher",
+    "id": "CustomOption.UniqueAmbusher",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AmbushCd",
+    "id": "CustomOption.AmbushCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AmbushDur",
+    "id": "CustomOption.AmbushDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AmbushMates",
+    "id": "CustomOption.AmbushMates",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Enforcer",
+    "id": "CustomOption.Enforcer",
     "english": "<color=#005643FF>Enforcer</color>",
     "schinese": "<color=#005643FF>恐怖分子</color>"
   },
   {
-    "id": "Generate.UniqueEnforcer",
+    "id": "CustomOption.UniqueEnforcer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RivalsRoles",
+    "id": "CustomOption.RivalsRoles",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnforceCd",
+    "id": "CustomOption.EnforceCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnforceDur",
+    "id": "CustomOption.EnforceDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnforceDelay",
+    "id": "CustomOption.EnforceDelay",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnforceRadius",
+    "id": "CustomOption.EnforceRadius",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderSupportSettings",
+    "id": "CustomOption.IntruderSupportSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ISMax",
+    "id": "CustomOption.ISMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Consigliere",
+    "id": "CustomOption.Consigliere",
     "english": "<color=#FFFF99FF>Consigliere</color>",
     "schinese": "<color=#FFFF99FF>参谋长</color>"
   },
   {
-    "id": "Generate.UniqueConsigliere",
+    "id": "CustomOption.UniqueConsigliere",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.InvestigateCd",
+    "id": "CustomOption.InvestigateCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConsigInfo",
+    "id": "CustomOption.ConsigInfo",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Consort",
+    "id": "CustomOption.Consort",
     "english": "<color=#801780FF>Consort</color>",
     "schinese": "<color=#801780FF>拦截者</color>"
   },
   {
-    "id": "Generate.UniqueConsort",
+    "id": "CustomOption.UniqueConsort",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConsortCd",
+    "id": "CustomOption.ConsortCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConsortDur",
+    "id": "CustomOption.ConsortDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Godfather",
+    "id": "CustomOption.Godfather",
     "english": "<color=#404C08FF>Godfather</color>",
     "schinese": "<color=#404C08FF>教父</color>"
   },
   {
-    "id": "Generate.UniqueGodfather",
+    "id": "CustomOption.UniqueGodfather",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GFPromotionCdDecrease",
+    "id": "CustomOption.GFPromotionCdDecrease",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Miner",
+    "id": "CustomOption.Miner",
     "english": "<color=#AA7632FF>Miner</color>",
     "schinese": "<color=#AA7632FF>管道工</color>"
   },
   {
-    "id": "Generate.UniqueMiner",
+    "id": "CustomOption.UniqueMiner",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MineCd",
+    "id": "CustomOption.MineCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Teleporter",
+    "id": "CustomOption.Teleporter",
     "english": "<color=#939593FF>Teleporter</color>",
     "schinese": "<color=#939593FF>逃逸者</color>"
   },
   {
-    "id": "Generate.TeleportCd",
+    "id": "CustomOption.TeleportCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueTeleporter",
+    "id": "CustomOption.UniqueTeleporter",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TeleMarkCd",
+    "id": "CustomOption.TeleMarkCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TeleCooldownsLinked",
+    "id": "CustomOption.TeleCooldownsLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TeleVent",
+    "id": "CustomOption.TeleVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IntruderUtilitySettings",
+    "id": "CustomOption.IntruderUtilitySettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Ghoul",
+    "id": "CustomOption.Ghoul",
     "english": "<color=#F1C40FFF>Ghoul</color>",
     "schinese": "<color=#F1C40FFF>索命鬼</color>"
   },
   {
-    "id": "Generate.GhoulMarkCd",
+    "id": "CustomOption.GhoulMarkCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateSettings",
+    "id": "CustomOption.SyndicateSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateCount",
+    "id": "CustomOption.SyndicateCount",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateVision",
+    "id": "CustomOption.SyndicateVision",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateFlashlight",
+    "id": "CustomOption.SyndicateFlashlight",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ChaosDriveMeetingCount",
+    "id": "CustomOption.ChaosDriveMeetingCount",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CDKillCd",
+    "id": "CustomOption.CDKillCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateVent",
+    "id": "CustomOption.SyndicateVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AltImps",
+    "id": "CustomOption.AltImps",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GlobalDrive",
+    "id": "CustomOption.GlobalDrive",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateMax",
+    "id": "CustomOption.SyndicateMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateMin",
+    "id": "CustomOption.SyndicateMin",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateDisruptionSettings",
+    "id": "CustomOption.SyndicateDisruptionSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SDMax",
+    "id": "CustomOption.SDMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Concealer",
+    "id": "CustomOption.Concealer",
     "english": "<color=#C02525FF>Concealer</color>",
     "schinese": "<color=#C02525FF>神隐者</color>"
   },
   {
-    "id": "Generate.UniqueConcealer",
+    "id": "CustomOption.UniqueConcealer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConcealCd",
+    "id": "CustomOption.ConcealCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConcealDur",
+    "id": "CustomOption.ConcealDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConcealMates",
+    "id": "CustomOption.ConcealMates",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Drunkard",
+    "id": "CustomOption.Drunkard",
     "english": "<color=#FF7900FF>Drunkard</color>",
     "schinese": "<color=#FF7900FF>酒贩子</color>"
   },
   {
-    "id": "Generate.UniqueDrunkard",
+    "id": "CustomOption.UniqueDrunkard",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConfuseCd",
+    "id": "CustomOption.ConfuseCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConfuseDur",
+    "id": "CustomOption.ConfuseDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ConfuseImmunity",
+    "id": "CustomOption.ConfuseImmunity",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Framer",
+    "id": "CustomOption.Framer",
     "english": "<color=#00FFFFFF>Framer</color>",
     "schinese": "<color=#00FFFFFF>伪证师</color>"
   },
   {
-    "id": "Generate.UniqueFramer",
+    "id": "CustomOption.UniqueFramer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FrameCd",
+    "id": "CustomOption.FrameCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ChaosDriveFrameRadius",
+    "id": "CustomOption.ChaosDriveFrameRadius",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Shapeshifter",
+    "id": "CustomOption.Shapeshifter",
     "english": "<color=#2DFF00FF>Shapeshifter</color>",
     "schinese": "<color=#2DFF00FF>千面妖师</color>"
   },
   {
-    "id": "Generate.UniqueShapeshifter",
+    "id": "CustomOption.UniqueShapeshifter",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShapeshiftDur",
+    "id": "CustomOption.ShapeshiftDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShapeshiftCd",
+    "id": "CustomOption.ShapeshiftCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ShapeshiftMates",
+    "id": "CustomOption.ShapeshiftMates",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Silencer",
+    "id": "CustomOption.Silencer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueSilencer",
+    "id": "CustomOption.UniqueSilencer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SilenceCd",
+    "id": "CustomOption.SilenceCd",
     "english": "<color=#AAB43EFF>Silencer</color>",
     "schinese": "<color=#AAB43EFF>沉默法师</color>"
   },
   {
-    "id": "Generate.WhispersNotPrivateSilencer",
+    "id": "CustomOption.WhispersNotPrivateSilencer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SilenceMates",
+    "id": "CustomOption.SilenceMates",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateKillingSettings",
+    "id": "CustomOption.SyndicateKillingSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SilenceRevealed",
+    "id": "CustomOption.SilenceRevealed",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyKMax",
+    "id": "CustomOption.SyKMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Bomber",
+    "id": "CustomOption.Bomber",
     "english": "<color=#C9CC3FFF>Bomber</color>",
     "schinese": "<color=#C9CC3FFF>爆破手</color>"
   },
   {
-    "id": "Generate.UniqueBomber",
+    "id": "CustomOption.UniqueBomber",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BombCd",
+    "id": "CustomOption.BombCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DetonateCd",
+    "id": "CustomOption.DetonateCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BombCooldownsLinked",
+    "id": "CustomOption.BombCooldownsLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BombsRemoveOnNewRound",
+    "id": "CustomOption.BombsRemoveOnNewRound",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BombsDetonateOnMeetingStart",
+    "id": "CustomOption.BombsDetonateOnMeetingStart",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BombRange",
+    "id": "CustomOption.BombRange",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ChaosDriveBombRange",
+    "id": "CustomOption.ChaosDriveBombRange",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BombKillsSyndicate",
+    "id": "CustomOption.BombKillsSyndicate",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Collider",
+    "id": "CustomOption.Collider",
     "english": "<color=#B345FFFF>Collider</color>",
     "schinese": "<color=#B345FFFF>阴阳师</color>"
   },
   {
-    "id": "Generate.UniqueCollider",
+    "id": "CustomOption.UniqueCollider",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CollideCd",
+    "id": "CustomOption.CollideCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ChargeCd",
+    "id": "CustomOption.ChargeCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ChargeDur",
+    "id": "CustomOption.ChargeDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CollideRange",
+    "id": "CustomOption.CollideRange",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CollideRangeIncrease",
+    "id": "CustomOption.CollideRangeIncrease",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ChargeCooldownsLinked",
+    "id": "CustomOption.ChargeCooldownsLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CollideResetsCooldown",
+    "id": "CustomOption.CollideResetsCooldown",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Crusader",
+    "id": "CustomOption.Crusader",
     "english": "<color=#DF7AE8FF>Crusader</color>",
     "schinese": "<color=#DF7AE8FF>十字军</color>"
   },
   {
-    "id": "Generate.UniqueCrusader",
+    "id": "CustomOption.UniqueCrusader",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrusadeCd",
+    "id": "CustomOption.CrusadeCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ChaosDriveCrusadeRadius",
+    "id": "CustomOption.ChaosDriveCrusadeRadius",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrusadeDur",
+    "id": "CustomOption.CrusadeDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CrusadeMates",
+    "id": "CustomOption.CrusadeMates",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Poisoner",
+    "id": "CustomOption.Poisoner",
     "english": "<color=#B5004CFF>Poisoner</color>",
     "schinese": "<color=#B5004CFF>毒师</color>"
   },
   {
-    "id": "Generate.UniquePoisoner",
+    "id": "CustomOption.UniquePoisoner",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PoisonCd",
+    "id": "CustomOption.PoisonCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PoisonDur",
+    "id": "CustomOption.PoisonDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicatePowerSettings",
+    "id": "CustomOption.SyndicatePowerSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SPMax",
+    "id": "CustomOption.SPMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Spellslinger",
+    "id": "CustomOption.Spellslinger",
     "english": "<color=#0028F5FF>Spellslinger</color>",
     "schinese": "<color=#0028F5FF>咒术师</color>"
   },
   {
-    "id": "Generate.UniqueSpellslinger",
+    "id": "CustomOption.UniqueSpellslinger",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SpellCd",
+    "id": "CustomOption.SpellCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SpellCdIncrease",
+    "id": "CustomOption.SpellCdIncrease",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Timekeeper",
+    "id": "CustomOption.Timekeeper",
     "english": "<color=#3769FEFF>Timekeeper</color>",
     "schinese": "<color=#3769FEFF>司辰</color>"
   },
   {
-    "id": "Generate.UniqueTimekeeper",
+    "id": "CustomOption.UniqueTimekeeper",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TimeCd",
+    "id": "CustomOption.TimeCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TimeDur",
+    "id": "CustomOption.TimeDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TimeFreezeImmunity",
+    "id": "CustomOption.TimeFreezeImmunity",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TimeRewindImmunity",
+    "id": "CustomOption.TimeRewindImmunity",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateSupportSettings",
+    "id": "CustomOption.SyndicateSupportSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SSuMax",
+    "id": "CustomOption.SSuMax",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Rebel",
+    "id": "CustomOption.Rebel",
     "english": "<color=#FFFCCEFF>Rebel</color>",
     "schinese": "<color=#FFFCCEFF>暴乱头目</color>"
   },
   {
-    "id": "Generate.UniqueRebel",
+    "id": "CustomOption.UniqueRebel",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RebPromotionCdDecrease",
+    "id": "CustomOption.RebPromotionCdDecrease",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Stalker",
+    "id": "CustomOption.Stalker",
     "english": "<color=#7E4D00FF>Stalker</color>",
     "schinese": "<color=#7E4D00FF>追猎者</color>"
   },
   {
-    "id": "Generate.UniqueStalker",
+    "id": "CustomOption.UniqueStalker",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.StalkCd",
+    "id": "CustomOption.StalkCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Warper",
+    "id": "CustomOption.Warper",
     "english": "<color=#8C7140FF>Warper</color>",
     "schinese": "<color=#8C7140FF>念动使</color>"
   },
   {
-    "id": "Generate.UniqueWarper",
+    "id": "CustomOption.UniqueWarper",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WarpCd",
+    "id": "CustomOption.WarpCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WarpDur",
+    "id": "CustomOption.WarpDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.WarpSelf",
+    "id": "CustomOption.WarpSelf",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SyndicateUtilitySettings",
+    "id": "CustomOption.SyndicateUtilitySettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Anarchist",
+    "id": "CustomOption.Anarchist",
     "english": "<color=#008000FF>Anarchist</color>",
     "schinese": "<color=#008000FF>暴徒</color>"
   },
   {
-    "id": "Generate.AnarchKillCd",
+    "id": "CustomOption.AnarchKillCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Banshee",
+    "id": "CustomOption.Banshee",
     "english": "<color=#E67E22FF>Banshee</color>",
     "schinese": "<color=#E67E22FF>报丧女妖</color>"
   },
   {
-    "id": "Generate.ScreamCd",
+    "id": "CustomOption.ScreamCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ScreamDur",
+    "id": "CustomOption.ScreamDur",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ModifierSettings",
+    "id": "CustomOption.ModifierSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxModifiers",
+    "id": "CustomOption.MaxModifiers",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MinModifiers",
+    "id": "CustomOption.MinModifiers",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Astral",
+    "id": "CustomOption.Astral",
     "english": "<color=#612BEFFF>Astral</color>",
     "schinese": "<color=#612BEFFF>通讯兵</color>"
   },
   {
-    "id": "Generate.UniqueAstral",
+    "id": "CustomOption.UniqueAstral",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Bait",
+    "id": "CustomOption.Bait",
     "english": "<color=#00B3B3FF>Bait</color>",
     "schinese": "<color=#00B3B3FF>诱饵</color>"
   },
   {
-    "id": "Generate.UniqueBait",
+    "id": "CustomOption.UniqueBait",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BaitKnows",
+    "id": "CustomOption.BaitKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BaitMinDelay",
+    "id": "CustomOption.BaitMinDelay",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BaitMaxDelay",
+    "id": "CustomOption.BaitMaxDelay",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Coward",
+    "id": "CustomOption.Coward",
     "english": "<color=#456BA8FF>Coward</color>",
     "schinese": "<color=#456BA8FF>胆小鬼</color>"
   },
   {
-    "id": "Generate.UniqueCoward",
+    "id": "CustomOption.UniqueCoward",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Diseased",
+    "id": "CustomOption.Diseased",
     "english": "<color=#374D1EFF>Diseased</color>",
     "schinese": "<color=#374D1EFF>病人</color>"
   },
   {
-    "id": "Generate.UniqueDiseased",
+    "id": "CustomOption.UniqueDiseased",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DiseasedKnows",
+    "id": "CustomOption.DiseasedKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DiseasedKillMultiplier",
+    "id": "CustomOption.DiseasedKillMultiplier",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Drunk",
+    "id": "CustomOption.Drunk",
     "english": "<color=#758000FF>Drunk</color>",
     "schinese": "<color=#758000FF>酒鬼</color>"
   },
   {
-    "id": "Generate.UniqueDrunk",
+    "id": "CustomOption.UniqueDrunk",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DrunkControlsSwap",
+    "id": "CustomOption.DrunkControlsSwap",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DrunkKnows",
+    "id": "CustomOption.DrunkKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DrunkInterval",
+    "id": "CustomOption.DrunkInterval",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Dwarf",
+    "id": "CustomOption.Dwarf",
     "english": "<color=#FF8080FF>Dwarf</color>",
     "schinese": "<color=#FF8080FF>小飞侠</color>"
   },
   {
-    "id": "Generate.UniqueDwarf",
+    "id": "CustomOption.UniqueDwarf",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DwarfSpeed",
+    "id": "CustomOption.DwarfSpeed",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DwarfScale",
+    "id": "CustomOption.DwarfScale",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Giant",
+    "id": "CustomOption.Giant",
     "english": "<color=#FFB34DFF>Giant</color>",
     "schinese": "<color=#FFB34DFF>巨人</color>"
   },
   {
-    "id": "Generate.UniqueGiant",
+    "id": "CustomOption.UniqueGiant",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GiantSpeed",
+    "id": "CustomOption.GiantSpeed",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.GiantScale",
+    "id": "CustomOption.GiantScale",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Indomitable",
+    "id": "CustomOption.Indomitable",
     "english": "<color=#2DE5BEFF>Indomitable</color>",
     "schinese": "<color=#2DE5BEFF>无畏</color>"
   },
   {
-    "id": "Generate.UniqueIndomitable",
+    "id": "CustomOption.UniqueIndomitable",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.IndomitableKnows",
+    "id": "CustomOption.IndomitableKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Professional",
+    "id": "CustomOption.Professional",
     "english": "<color=#860B7AFF>Professional</color>",
     "schinese": "<color=#860B7AFF>专业刺客</color>"
   },
   {
-    "id": "Generate.UniqueProfessional",
+    "id": "CustomOption.UniqueProfessional",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ProfessionalKnows",
+    "id": "CustomOption.ProfessionalKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Shy",
+    "id": "CustomOption.Shy",
     "english": "<color=#1002C5FF>Shy</color>",
     "schinese": "<color=#1002C5FF>社恐</color>"
   },
   {
-    "id": "Generate.UniqueShy",
+    "id": "CustomOption.UniqueShy",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VIP",
+    "id": "CustomOption.VIP",
     "english": "<color=#DCEE85FF>VIP</color>",
     "schinese": "<color=#DCEE85FF>网红</color>"
   },
   {
-    "id": "Generate.UniqueVIP",
+    "id": "CustomOption.UniqueVIP",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VIPKnows",
+    "id": "CustomOption.VIPKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Volatile",
+    "id": "CustomOption.Volatile",
     "english": "<color=#FFA60AFF>Volatile</color>",
     "schinese": "<color=#FFA60AFF>精神病</color>"
   },
   {
-    "id": "Generate.UniqueVolatile",
+    "id": "CustomOption.UniqueVolatile",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VolatileInterval",
+    "id": "CustomOption.VolatileInterval",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.VolatileKnows",
+    "id": "CustomOption.VolatileKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Yeller",
+    "id": "CustomOption.Yeller",
     "english": "<color=#F6AAB7FF>Yeller</color>",
     "schinese": "<color=#F6AAB7FF>广播员</color>"
   },
   {
-    "id": "Generate.UniqueYeller",
+    "id": "CustomOption.UniqueYeller",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AbilitySettings",
+    "id": "CustomOption.AbilitySettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxAbilities",
+    "id": "CustomOption.MaxAbilities",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MinAbilities",
+    "id": "CustomOption.MinAbilities",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Assassin",
+    "id": "CustomOption.Assassin",
     "english": "<color=#073763FF>Assassin</color>",
     "schinese": "<color=#073763FF>刺客</color>"
   },
   {
-    "id": "Generate.UniqueCrewAssassin",
+    "id": "CustomOption.UniqueCrewAssassin",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueNeutralAssassin",
+    "id": "CustomOption.UniqueNeutralAssassin",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueIntruderAssassin",
+    "id": "CustomOption.UniqueIntruderAssassin",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueSyndicateAssassin",
+    "id": "CustomOption.UniqueSyndicateAssassin",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinKills",
+    "id": "CustomOption.AssassinKills",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinMultiKill",
+    "id": "CustomOption.AssassinMultiKill",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinGuessNeutralBenign",
+    "id": "CustomOption.AssassinGuessNeutralBenign",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinGuessNeutralEvil",
+    "id": "CustomOption.AssassinGuessNeutralEvil",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinGuessInvestigative",
+    "id": "CustomOption.AssassinGuessInvestigative",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinGuessPest",
+    "id": "CustomOption.AssassinGuessPest",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinGuessModifiers",
+    "id": "CustomOption.AssassinGuessModifiers",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinGuessObjectifiers",
+    "id": "CustomOption.AssassinGuessObjectifiers",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinGuessAbilities",
+    "id": "CustomOption.AssassinGuessAbilities",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AssassinateAfterVoting",
+    "id": "CustomOption.AssassinateAfterVoting",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ButtonBarry",
+    "id": "CustomOption.ButtonBarry",
     "english": "<color=#E600FFFF>Button Barry</color>",
     "schinese": "<color=#E600FFFF>执钮人</color>"
   },
   {
-    "id": "Generate.UniqueButtonBarry",
+    "id": "CustomOption.UniqueButtonBarry",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ButtonCooldown",
+    "id": "CustomOption.ButtonCooldown",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Insider",
+    "id": "CustomOption.Insider",
     "english": "<color=#26FCFBFF>Insider</color>",
     "schinese": "<color=#26FCFBFF>唱票人</color>"
   },
   {
-    "id": "Generate.UniqueInsider",
+    "id": "CustomOption.UniqueInsider",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.InsiderKnows",
+    "id": "CustomOption.InsiderKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Multitasker",
+    "id": "CustomOption.Multitasker",
     "english": "<color=#FF804DFF>Multitasker</color>",
     "schinese": "<color=#FF804DFF>多线程</color>"
   },
   {
-    "id": "Generate.UniqueMultitasker",
+    "id": "CustomOption.UniqueMultitasker",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Transparancy",
+    "id": "CustomOption.Transparancy",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Ninja",
+    "id": "CustomOption.Ninja",
     "english": "<color=#A84300FF>Ninja</color>",
     "schinese": "<color=#A84300FF>枪手</color>"
   },
   {
-    "id": "Generate.UniqueNinja",
+    "id": "CustomOption.UniqueNinja",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Politician",
+    "id": "CustomOption.Politician",
     "english": "<color=#CCA3CCFF>Politician</color>",
     "schinese": "<color=#CCA3CCFF>政治家</color>"
   },
   {
-    "id": "Generate.UniquePolitician",
+    "id": "CustomOption.UniquePolitician",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PoliticianVoteBank",
+    "id": "CustomOption.PoliticianVoteBank",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PoliticianAnonymous",
+    "id": "CustomOption.PoliticianAnonymous",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.PoliticianButton",
+    "id": "CustomOption.PoliticianButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Radar",
+    "id": "CustomOption.Radar",
     "english": "<color=#FF0080FF>Radar</color>",
     "schinese": "<color=#FF0080FF>雷达</color>"
   },
   {
-    "id": "Generate.UniqueRadar",
+    "id": "CustomOption.UniqueRadar",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Ruthless",
+    "id": "CustomOption.Ruthless",
     "english": "<color=#2160DDFF>Ruthless</color>",
     "schinese": "<color=#2160DDFF>杀人魔</color>"
   },
   {
-    "id": "Generate.UniqueRuthless",
+    "id": "CustomOption.UniqueRuthless",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RuthlessKnows",
+    "id": "CustomOption.RuthlessKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Snitch",
+    "id": "CustomOption.Snitch",
     "english": "<color=#D4AF37FF>Snitch</color>",
     "schinese": "<color=#D4AF37FF>告密者</color>"
   },
   {
-    "id": "Generate.UniqueSnitch",
+    "id": "CustomOption.UniqueSnitch",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SnitchKnows",
+    "id": "CustomOption.SnitchKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SnitchSeesNeutrals",
+    "id": "CustomOption.SnitchSeesNeutrals",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SnitchSeesCrew",
+    "id": "CustomOption.SnitchSeesCrew",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SnitchSeesRoles",
+    "id": "CustomOption.SnitchSeesRoles",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SnitchTasksRemaining",
+    "id": "CustomOption.SnitchTasksRemaining",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SnitchSeestargetsInMeeting",
+    "id": "CustomOption.SnitchSeestargetsInMeeting",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Swapper",
+    "id": "CustomOption.Swapper",
     "english": "<color=#66E666FF>Swapper</color>",
     "schinese": "<color=#66E666FF>换票师</color>"
   },
   {
-    "id": "Generate.UniqueSwapper",
+    "id": "CustomOption.UniqueSwapper",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SwapperButton",
+    "id": "CustomOption.SwapperButton",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SwapAfterVoting",
+    "id": "CustomOption.SwapAfterVoting",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SwapSelf",
+    "id": "CustomOption.SwapSelf",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Tiebreaker",
+    "id": "CustomOption.Tiebreaker",
     "english": "<color=#99E699FF>Tiebreaker</color>",
     "schinese": "<color=#99E699FF>破平者</color>"
   },
   {
-    "id": "Generate.UniqueTiebreaker",
+    "id": "CustomOption.UniqueTiebreaker",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TiebreakerKnows",
+    "id": "CustomOption.TiebreakerKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Torch",
+    "id": "CustomOption.Torch",
     "english": "<color=#FFFF99FF>Torch</color>",
     "schinese": "<color=#FFFF99FF>火炬</color>"
   },
   {
-    "id": "Generate.UniqueTorch",
+    "id": "CustomOption.UniqueTorch",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Tunneler",
+    "id": "CustomOption.Tunneler",
     "english": "<color=#E91E63FF>Tunneler</color>",
     "schinese": "<color=#E91E63FF>隧道工</color>"
   },
   {
-    "id": "Generate.UniqueTunneler",
+    "id": "CustomOption.UniqueTunneler",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TunnelerKnows",
+    "id": "CustomOption.TunnelerKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Underdog",
+    "id": "CustomOption.Underdog",
     "english": "<color=#841A7FFF>Underdog</color>",
     "schinese": "<color=#841A7FFF>潜伏者</color>"
   },
   {
-    "id": "Generate.UniqueUnderdog",
+    "id": "CustomOption.UniqueUnderdog",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UnderdogKnows",
+    "id": "CustomOption.UnderdogKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UnderdogKillBonus",
+    "id": "CustomOption.UnderdogKillBonus",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UnderdogIncreasedKC",
+    "id": "CustomOption.UnderdogIncreasedKC",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.ObjectifierSettings",
+    "id": "CustomOption.ObjectifierSettings",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MaxObjectifiers",
+    "id": "CustomOption.MaxObjectifiers",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MinObjectifiers",
+    "id": "CustomOption.MinObjectifiers",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Allied",
+    "id": "CustomOption.Allied",
     "english": "<color=#4545A9FF>Allied</color>",
     "schinese": "<color=#4545A9FF>佣兵</color>"
   },
   {
-    "id": "Generate.UniqueAllied",
+    "id": "CustomOption.UniqueAllied",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AlliedFaction",
+    "id": "CustomOption.AlliedFaction",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Corrupted",
+    "id": "CustomOption.Corrupted",
     "english": "<color=#4545FFFF>Corrupted</color>",
     "schinese": "<color=#4545FFFF>腐坏</color>"
   },
   {
-    "id": "Generate.UniqueCorrupted",
+    "id": "CustomOption.UniqueCorrupted",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CorruptCd",
+    "id": "CustomOption.CorruptCd",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.AllCorruptedWin",
+    "id": "CustomOption.AllCorruptedWin",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.CorruptedVent",
+    "id": "CustomOption.CorruptedVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Defector",
+    "id": "CustomOption.Defector",
     "english": "<color=#E1C849FF>Defector</color>",
     "schinese": "<color=#E1C849FF>降兵</color>"
   },
   {
-    "id": "Generate.UniqueDefector",
+    "id": "CustomOption.UniqueDefector",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DefectorKnows",
+    "id": "CustomOption.DefectorKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.DefectorFaction",
+    "id": "CustomOption.DefectorFaction",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Fanatic",
+    "id": "CustomOption.Fanatic",
     "english": "<color=#678D36FF>Fanatic</color>",
     "schinese": "<color=#678D36FF>狂信徒</color>"
   },
   {
-    "id": "Generate.UniqueFanatic",
+    "id": "CustomOption.UniqueFanatic",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FanaticKnows",
+    "id": "CustomOption.FanaticKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.FanaticColourSwap",
+    "id": "CustomOption.FanaticColourSwap",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SnitchSeesFanatic",
+    "id": "CustomOption.SnitchSeesFanatic",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RevealerRevealsFanatic",
+    "id": "CustomOption.RevealerRevealsFanatic",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Linked",
+    "id": "CustomOption.Linked",
     "english": "<color=#FF351FFF>Linked</color>",
     "schinese": "<color=#FF351FFF>盟友</color>"
   },
   {
-    "id": "Generate.UniqueLinked",
+    "id": "CustomOption.UniqueLinked",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.LinkedChat",
+    "id": "CustomOption.LinkedChat",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.LinkedRoles",
+    "id": "CustomOption.LinkedRoles",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Lovers",
+    "id": "CustomOption.Lovers",
     "english": "<color=#FF66CCFF>Lovers</color>",
     "schinese": "<color=#FF66CCFF>恋人</color>"
   },
   {
-    "id": "Generate.UniqueLovers",
+    "id": "CustomOption.UniqueLovers",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BothLoversDie",
+    "id": "CustomOption.BothLoversDie",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.LoversChat",
+    "id": "CustomOption.LoversChat",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.LoversRoles",
+    "id": "CustomOption.LoversRoles",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Mafia",
+    "id": "CustomOption.Mafia",
     "english": "<color=#00EEFFFF>Mafia</color>",
     "schinese": "<color=#00EEFFFF>黑帮</color>"
   },
   {
-    "id": "Generate.UniqueMafia",
+    "id": "CustomOption.UniqueMafia",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MafiaRoles",
+    "id": "CustomOption.MafiaRoles",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MafVent",
+    "id": "CustomOption.MafVent",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Overlord",
+    "id": "CustomOption.Overlord",
     "english": "<color=#008080FF>Overlord</color>",
     "schinese": "<color=#008080FF>霸王</color>"
   },
   {
-    "id": "Generate.UniqueOverlord",
+    "id": "CustomOption.UniqueOverlord",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.OverlordKnows",
+    "id": "CustomOption.OverlordKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.OverlordMeetingWinCount",
+    "id": "CustomOption.OverlordMeetingWinCount",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Rivals",
+    "id": "CustomOption.Rivals",
     "english": "<color=#3D2D2CFF>Rivals</color>",
     "schinese": "<color=#3D2D2CFF>冤家</color>"
   },
   {
-    "id": "Generate.RivalsChat",
+    "id": "CustomOption.RivalsChat",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.UniqueRivals",
+    "id": "CustomOption.UniqueRivals",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Taskmaster",
+    "id": "CustomOption.Taskmaster",
     "english": "<color=#ABABFFFF>Taskmaster</color>",
     "schinese": "<color=#ABABFFFF>工作狂</color>"
   },
   {
-    "id": "Generate.UniqueTaskmaster",
+    "id": "CustomOption.UniqueTaskmaster",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TMTasksRemaining",
+    "id": "CustomOption.TMTasksRemaining",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Traitor",
+    "id": "CustomOption.Traitor",
     "english": "<color=#370D43FF>Traitor</color>",
     "schinese": "<color=#370D43FF>叛徒</color>"
   },
   {
-    "id": "Generate.UniqueTraitor",
+    "id": "CustomOption.UniqueTraitor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TraitorKnows",
+    "id": "CustomOption.TraitorKnows",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SnitchSeesTraitor",
+    "id": "CustomOption.SnitchSeesTraitor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RevealerRevealsTraitor",
+    "id": "CustomOption.RevealerRevealsTraitor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.TraitorColourSwap",
+    "id": "CustomOption.TraitorColourSwap",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Entry",
+    "id": "CustomOption.Entry",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.Ban",
+    "id": "CustomOption.Ban",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.RoleList",
+    "id": "CustomOption.RoleList",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BanList",
+    "id": "CustomOption.BanList",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnablePostmortals",
+    "id": "CustomOption.EnablePostmortals",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnableBanshee",
+    "id": "CustomOption.EnableBanshee",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnableGhoul",
+    "id": "CustomOption.EnableGhoul",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnablePhantom",
+    "id": "CustomOption.EnablePhantom",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.EnableRevealer",
+    "id": "CustomOption.EnableRevealer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SkeldO2Timer",
+    "id": "CustomOption.SkeldO2Timer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.SkeldReactorTimer",
+    "id": "CustomOption.SkeldReactorTimer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MiraO2Timer",
+    "id": "CustomOption.MiraO2Timer",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.MiraReactorTimer",
+    "id": "CustomOption.MiraReactorTimer",
     "english": "Test",
     "schinese": "测"
   },
@@ -5710,23 +5810,193 @@
     "schinese": "测"
   },
   {
-    "id": "Generate.FreeBans",
+    "id": "CustomOption.FreeBans",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BanCrewmate",
+    "id": "CustomOption.BanCrewmate",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BanImpostor",
+    "id": "CustomOption.BanImpostor",
     "english": "Test",
     "schinese": "测"
   },
   {
-    "id": "Generate.BanAnarchist",
+    "id": "CustomOption.BanAnarchist",
     "english": "Test",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.ClientOptions",
+    "english": "Client Settings",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.LighterDarker",
+    "english": "Lighter Darker Colors",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.WhiteNameplates",
+    "english": "White Nameplates",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.NoLevels",
+    "english": "No Levels",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.CustomCrewColors",
+    "english": "Custom Crew Colors",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.CustomNeutColors",
+    "english": "Custom Neutral Colors",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.CustomIntColors",
+    "english": "Custom Intruder Colors",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.CustomSynColors",
+    "english": "Custom Syndicate Colors",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.CustomModColors",
+    "english": "Custom Modifier Colors",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.CustomObjColors",
+    "english": "Custom Objectifier Colors",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.CustomAbColors",
+    "english": "Custom Ability Colors",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.CustomEjects",
+    "english": "Custom Ejects",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.OptimisationMode",
+    "english": "Optimisation Mode",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HideOtherGhosts",
+    "english": "Hide Other Ghosts",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HnSSettings",
+    "english": "<color=#7500AFFF>Hide And Seek</color> Settings",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HnSMode",
+    "english": "<color=#7500AFFF>Hide And Seek</color> Game Type",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HnSMode.Classic",
+    "english": "Classic",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HnSMode.Infection",
+    "english": "Infection",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HnSShortTasks",
+    "english": "<color=#7500AFFF>Hide And Seek</color> Short Tasks",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HnSCommonTasks",
+    "english": "<color=#7500AFFF>Hide And Seek</color> Common Tasks",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HnSLongTasks",
+    "english": "<color=#7500AFFF>Hide And Seek</color> Long Tasks",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HunterCount",
+    "english": "<color=#FF004EFF>Hunter</color> Count",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HuntCd",
+    "english": "Hunt Cooldown",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.StartTime",
+    "english": "Start Time",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HunterVent",
+    "english": "<color=#FF004EFF>Hunter</color> Can Vent",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HunterVision",
+    "english": "<color=#FF004EFF>Hunter</color> Vision",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HuntedVision",
+    "english": "<color=#1F51FFFF>Hunted</color> Vision",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HunterSpeedModifier",
+    "english": "<color=#FF004EFF>Hunter</color> Speed Modifier",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HunterFlashlight",
+    "english": "<color=#FF004EFF>Hunter</color> Use A Flashlight",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HuntedFlashlight",
+    "english": "<color=#1F51FFFF>Hunted</color> Use A Flashlight",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.HuntedChat",
+    "english": "<color=#1F51FFFF>Hunted</color> Can Chat",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.TRSettings",
+    "english": "<color=#1E49CFFF>Task Race</color> Settings",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.TRShortTasks",
+    "english": "<color=#1E49CFFF>Task Race</color> Short Tasks",
+    "schinese": "测"
+  },
+  {
+    "id": "CustomOption.TRCommonTasks",
+    "english": "<color=#1E49CFFF>Task Race</color> Common Tasks",
     "schinese": "测"
   },
   {

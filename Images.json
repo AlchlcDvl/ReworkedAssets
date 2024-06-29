@@ -144,5 +144,8 @@
   { "id": "RandomMapIcon" },
   { "id": "DleksMapIcon" },
   { "id": "DleksBackground" },
+  { "id": "DleksLobby" },
+  { "id": "RandomMapBackground" },
+  { "id": "RandomMapLobby" },
   { "id": "NightVision" }
 ]
