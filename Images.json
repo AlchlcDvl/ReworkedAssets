@@ -142,5 +142,7 @@
   { "id": "Dleks" },
   { "id": "Random" },
   { "id": "RandomMapIcon" },
+  { "id": "DleksMapIcon" },
+  { "id": "DleksBackground" },
   { "id": "NightVision" }
 ]
