@@ -380,12 +380,12 @@
     "schinese": "显示被放逐玩家的<color=#FFD700FF>职业</color>"
   },
   {
-    "id": "CustomOption.EnableInitalCds",
+    "id": "CustomOption.EnableInitialCds",
     "english": "Enable Game Start Cooldowns",
     "schinese": ""
   },
   {
-    "id": "CustomOption.InitalCooldowns",
+    "id": "CustomOption.InitialCooldowns",
     "english": "Game Start Cooldowns",
     "schinese": "游戏开始后冷却"
   },
@@ -405,7 +405,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.EnableInitalCds",
+    "id": "CustomOption.FailCooldowns",
     "english": "Ability Failure Cooldowns",
     "schinese": ""
   },
@@ -435,47 +435,47 @@
     "schinese": "游戏模式设置"
   },
   {
-    "id": "CustomOption.CurrentMode",
+    "id": "CustomOption.GameMode",
     "english": "Game Mode",
     "schinese": "游戏模式"
   },
   {
-    "id": "CustomOption.CurrentMode.Classic",
+    "id": "CustomOption.GameMode.Classic",
     "english": "<color=#C02A2CFF>Classic</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.CurrentMode.AllAny",
+    "id": "CustomOption.GameMode.AllAny",
     "english": "<color=#CBD542FF>All Any</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.CurrentMode.KillingOnly",
+    "id": "CustomOption.GameMode.KillingOnly",
     "english": "<color=#06E00CFF>Killing Only</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.CurrentMode.RoleList",
+    "id": "CustomOption.GameMode.RoleList",
     "english": "<color=#FA1C79FF>Role List</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.CurrentMode.HideAndSeek",
+    "id": "CustomOption.GameMode.HideAndSeek",
     "english": "<color=#7500AFFF>Hide And Seek</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.CurrentMode.TaskRace",
+    "id": "CustomOption.GameMode.TaskRace",
     "english": "<color=#1E49CFFF>Task Race</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.CurrentMode.Custom",
+    "id": "CustomOption.GameMode.Custom",
     "english": "<color=#E6956AFF>Custom</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.CurrentMode.Vanilla",
+    "id": "CustomOption.GameMode.Vanilla",
     "english": "Vanilla",
     "schinese": ""
   },
@@ -530,7 +530,7 @@
     "schinese": "全随机/列表随机模式设置"
   },
   {
-    "id": "CustomOption.EnableUnqiues",
+    "id": "CustomOption.EnableUniques",
     "english": "Enable Uniques",
     "schinese": "检测职业唯一性"
   },
