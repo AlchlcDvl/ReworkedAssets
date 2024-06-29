@@ -350,9 +350,24 @@
     "schinese": "会议阶段投票时间"
   },
   {
-    "id": "CustomOption.TaskbarUpdates",
+    "id": "CustomOption.TaskBar",
     "english": "Taskbar Updates",
     "schinese": "任务进度更新频率"
+  },
+  {
+    "id": "CustomOption.TaskBar.Normal",
+    "english": "Normal",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.TaskBar.MeetingOnly",
+    "english": "Meeting Only",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.TaskBar.Invisible",
+    "english": "Invisible",
+    "schinese": "任务进度新频率"
   },
   {
     "id": "CustomOption.ConfirmEjects",
@@ -427,42 +442,42 @@
   {
     "id": "CustomOption.CurrentMode.Classic",
     "english": "<color=#C02A2CFF>Classic</color>",
-    "schinese": "游戏模式"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CurrentMode.AllAny",
     "english": "<color=#CBD542FF>All Any</color>",
-    "schinese": "游戏模式"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CurrentMode.KillingOnly",
     "english": "<color=#06E00CFF>Killing Only</color>",
-    "schinese": "游戏模式"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CurrentMode.RoleList",
     "english": "<color=#FA1C79FF>Role List</color>",
-    "schinese": "游戏模式"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CurrentMode.HideAndSeek",
     "english": "<color=#7500AFFF>Hide And Seek</color>",
-    "schinese": "游戏模式"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CurrentMode.TaskRace",
     "english": "<color=#1E49CFFF>Task Race</color>",
-    "schinese": "游戏模式"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CurrentMode.Custom",
     "english": "<color=#E6956AFF>Custom</color>",
-    "schinese": "游戏模式"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CurrentMode.Vanilla",
     "english": "Vanilla",
-    "schinese": "游戏模式"
+    "schinese": ""
   },
   {
     "id": "CustomOption.ClassCustSettings",
@@ -528,6 +543,21 @@
     "id": "CustomOption.WhoCanVent",
     "english": "Serial Venters",
     "schinese": "允许使用管道的玩家"
+  },
+  {
+    "id": "CustomOption.WhoCanVent.Everyone",
+    "english": "Everyone",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.WhoCanVent.Default",
+    "english": "Default",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.WhoCanVent.NoOne",
+    "english": "No One",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AnonymousVoting",
