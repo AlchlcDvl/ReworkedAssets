@@ -17,7 +17,7 @@
   {
     "id": "Mod.LevelImpostor",
     "english": "LevelImpostor",
-    "schinese": "测试"
+    "schinese": ""
   },
   {
     "id": "Presets.Casual",
@@ -57,7 +57,7 @@
   {
     "id": "Updates.Mod.Copying",
     "english": "%mod%\ndownloaded.\nCopying file...",
-    "schinese": "测试"
+    "schinese": ""
   },
   {
     "id": "Updates.Mod.Success",
@@ -532,7 +532,7 @@
   {
     "id": "CustomOption.EnableUniques",
     "english": "Enable Uniques",
-    "schinese": "检测职业唯一性"
+    "schinese": "检职业唯一性"
   },
   {
     "id": "CustomOption.GameModifiers",
@@ -593,6 +593,21 @@
     "id": "CustomOption.NoSkipping",
     "english": "No Skipping",
     "schinese": "禁止弃票"
+  },
+  {
+    "id": "CustomOption.NoSkipping.No",
+    "english": "Never",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.NoSkipping.Emergency",
+    "english": "Emergency",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.NoSkipping.Always",
+    "english": "Always",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FirstKillShield",
@@ -842,7 +857,7 @@
   {
     "id": "CustomOption.VitalsLab",
     "english": "Vitals Moved To Lab",
-    "schinese": "将生命监测装置移动到实验室"
+    "schinese": "将生命监装置移动到实验室"
   },
   {
     "id": "CustomOption.ColdTempDeathValley",
@@ -872,7 +887,7 @@
   {
     "id": "CustomOption.MoveVitals",
     "english": "Move Vitals",
-    "schinese": "移动生命监测装置"
+    "schinese": "移动生命监装置"
   },
   {
     "id": "CustomOption.MoveFuel",
@@ -1647,62 +1662,62 @@
   {
     "id": "CustomOption.CrewSettings",
     "english": "<color=#8CFFFFFF>Crew</color> Settings",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CommonTasks",
     "english": "Common Tasks",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.LongTasks",
     "english": "Long Tasks",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShortTasks",
     "english": "Short Tasks",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.GhostTasksCountToWin",
     "english": "<color=#8CFFFFFF>Crew</color> Ghost Tasks Count To Win",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewVision",
     "english": "<color=#8CFFFFFF>Crew</color> Vision",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewFlashlight",
     "english": "<color=#8CFFFFFF>Crew</color> Uses A Flashlight",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewVent",
     "english": "<color=#8CFFFFFF>Crew</color> Can Vent",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewMax",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewMin",
     "english": "Min <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CASettings",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditor</color> Settings",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CAMax",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditors</color>",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.Mystic",
@@ -1711,13 +1726,13 @@
   },
   {
     "id": "CustomOption.UniqueMystic",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MysticRevealCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VampireHunter",
@@ -1726,23 +1741,23 @@
   },
   {
     "id": "CustomOption.UniqueVampireHunter",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.StakeCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewInvestigativeSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CIMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Coroner",
@@ -1751,38 +1766,38 @@
   },
   {
     "id": "CustomOption.UniqueCoroner",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CoronerArrowDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CoronerReportRole",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CoronerReportName",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CoronerKillerNameTime",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CompareCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AutopsyCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Detective",
@@ -1791,33 +1806,33 @@
   },
   {
     "id": "CustomOption.UniqueDetective",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExamineCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RecentKill",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FootprintInterval",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FootprintDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AnonymousFootprint",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Inspector",
@@ -1826,23 +1841,23 @@
   },
   {
     "id": "CustomOption.UniqueInspector",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InspectCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Medium",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MediateCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueMedium",
@@ -1851,18 +1866,18 @@
   },
   {
     "id": "CustomOption.ShowMediatePlayer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShowMediumToDead",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DeadRevealed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Seer",
@@ -1871,13 +1886,13 @@
   },
   {
     "id": "CustomOption.UniqueSeer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SeerCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Operative",
@@ -1886,48 +1901,48 @@
   },
   {
     "id": "CustomOption.UniqueOperative",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BugCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MinAmountOfTimeInBug",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BugsRemoveOnNewRound",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxBugs",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BugRange",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MinAmountOfPlayersInBug",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhoSeesDead",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PreciseOperativeInfo",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Sheriff",
@@ -1936,23 +1951,23 @@
   },
   {
     "id": "CustomOption.UniqueSheriff",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InterrogateCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutEvilRed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutKillingRed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Tracker",
@@ -1961,38 +1976,38 @@
   },
   {
     "id": "CustomOption.UniqueTracker",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UpdateInterval",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TrackCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ResetOnNewRound",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxTracks",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewKillingSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CKMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Veteran",
@@ -2001,23 +2016,23 @@
   },
   {
     "id": "CustomOption.UniqueVeteran",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AlertCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AlertDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxAlerts",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Vigilante",
@@ -2026,53 +2041,53 @@
   },
   {
     "id": "CustomOption.UniqueVigilante",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MisfireKillsInno",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillAgain",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoShot",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiNotifOptions",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiOptions",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShootCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxBullets",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewProtectiveSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrPMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Altruist",
@@ -2081,28 +2096,28 @@
   },
   {
     "id": "CustomOption.UniqueAltruist",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxRevives",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ReviveCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ReviveDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AltruistTargetBody",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Medic",
@@ -2111,33 +2126,33 @@
   },
   {
     "id": "CustomOption.UniqueMedic",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShowShielded",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhoGetsNotification",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShieldBreaks",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewSovereignSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CSvMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Dictator",
@@ -2146,23 +2161,23 @@
   },
   {
     "id": "CustomOption.UniqueDictator",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoDictReveal",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DictateAfterVoting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DictatorButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Mayor",
@@ -2171,23 +2186,23 @@
   },
   {
     "id": "CustomOption.UniqueMayor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MayorVoteCount",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoMayorReveal",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MayorButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Monarch",
@@ -2196,48 +2211,48 @@
   },
   {
     "id": "CustomOption.UniqueMonarch",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.KnightingCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoKnighting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.KnightCount",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.KnightVoteCount",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MonarchButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.KnightButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewSupportSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CSMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Chameleon",
@@ -2246,23 +2261,23 @@
   },
   {
     "id": "CustomOption.UniqueChameleon",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SwoopCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SwoopDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxSwoops",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Engineer",
@@ -2271,18 +2286,18 @@
   },
   {
     "id": "CustomOption.UniqueEngineer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FixCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxFixes",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Escort",
@@ -2291,18 +2306,18 @@
   },
   {
     "id": "CustomOption.UniqueEscort",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EscortCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EscortDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Retributionist",
@@ -2311,18 +2326,18 @@
   },
   {
     "id": "CustomOption.UniqueRetributionist",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ReviveAfterVoting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxUses",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Shifter",
@@ -2331,18 +2346,18 @@
   },
   {
     "id": "CustomOption.UniqueShifter",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShiftCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShiftedBecomes",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Transporter",
@@ -2351,33 +2366,33 @@
   },
   {
     "id": "CustomOption.UniqueTransporter",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TransportDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TransportCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TransSelf",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxTransports",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewUtilitySettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Revealer",
@@ -2386,123 +2401,123 @@
   },
   {
     "id": "CustomOption.RevealerTasksRemainingClicked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RevealerTasksRemainingAlert",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsNeutrals",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsCrew",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsRoles",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RevealerCanBeClickedBy",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralVision",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.LightsAffectNeutrals",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralFlashlight",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralMin",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NoSolo",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AvoidNeutralKingmakers",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralsVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralApocalypseSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Pestilence",
     "english": "<color=#424242FF>Pestilence</color>",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.PestSpawn",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PlayersAlerted",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ObliterateCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PestVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralBenignSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NBMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillsNB",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Amnesiac",
@@ -2511,28 +2526,28 @@
   },
   {
     "id": "CustomOption.UniqueAmnesiac",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RememberArrows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RememberArrowDelay",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AmneVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AmneSwitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GuardianAngel",
@@ -2541,68 +2556,68 @@
   },
   {
     "id": "CustomOption.UniqueGuardianAngel",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GuardianAngelCanPickTargets",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ProtectCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ProtectDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ProtectKCReset",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxProtects",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShowProtect",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GATargetKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ProtectBeyondTheGrave",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GAKnowsTargetRole",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GAVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GASwitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueSurvivor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Survivor",
@@ -2611,33 +2626,33 @@
   },
   {
     "id": "CustomOption.VestCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VestDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VestKCReset",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxVests",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SurvVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SurvSwitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Thief",
@@ -2646,48 +2661,48 @@
   },
   {
     "id": "CustomOption.UniqueThief",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.StealCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ThiefSteals",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ThiefCanGuess",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ThiefCanGuessAfterVoting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ThiefVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralEvilSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NEMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralEvilsEndGame",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Actor",
@@ -2696,33 +2711,33 @@
   },
   {
     "id": "CustomOption.UniqueActor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ActorCanPickRole",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ActorButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ActorVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ActSwitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillsActor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BountyHunter",
@@ -2731,33 +2746,33 @@
   },
   {
     "id": "CustomOption.UniqueBountyHunter",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BountyHunterCanPickTargets",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GuessCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BountyHunterGuesses",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BHVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillsBH",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Cannibal",
@@ -2766,38 +2781,38 @@
   },
   {
     "id": "CustomOption.UniqueCannibal",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EatCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BodiesNeeded",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EatArrows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EatArrowDelay",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CannibalVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillsCannibal",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Executioner",
@@ -2806,63 +2821,63 @@
   },
   {
     "id": "CustomOption.UniqueExecutioner",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExecutionerCanPickTargets",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DoomCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxDooms",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExecutionerButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExeVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExeTargetKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExeSwitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExeEjectScreen",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExeKnowsTargetRole",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ExeCanWinBeyondDeath",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillsExecutioner",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Guesser",
@@ -2871,48 +2886,48 @@
   },
   {
     "id": "CustomOption.UniqueGuesser",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GuesserCanPickTargets",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GuesserButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GuessSwitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GuessTargetKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MultipleGuesses",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxGuesses",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GuesserAfterVoting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillsGuesser",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Jester",
@@ -2921,43 +2936,43 @@
   },
   {
     "id": "CustomOption.JesterButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueJester",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.HauntCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxHaunts",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.JesterVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.JestSwitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.JestEjectScreen",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillsJester",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Troll",
@@ -2966,33 +2981,33 @@
   },
   {
     "id": "CustomOption.UniqueTroll",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InteractCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TrollVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TrollSwitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralHarbingerSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NHMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Plaguebearer",
@@ -3001,38 +3016,38 @@
   },
   {
     "id": "CustomOption.UniquePlaguebearer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InfectCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PBVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralKillingSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NKMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NKHasImpVision",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NKsKnow",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Arsonist",
@@ -3041,43 +3056,43 @@
   },
   {
     "id": "CustomOption.UniqueArsonist",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Douse",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IgniteCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ArsoLastKillerBoost",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ArsoIgniteAll",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ArsoCooldownsLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IgnitionCremates",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ArsoVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Cryomaniac",
@@ -3086,23 +3101,23 @@
   },
   {
     "id": "CustomOption.UniqueCryomaniac",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CryoFreezeAll",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CryoLastKillerBoost",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CryoVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Glitch",
@@ -3111,38 +3126,38 @@
   },
   {
     "id": "CustomOption.UniqueGlitch",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MimicCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MimicDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.HackCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.HackDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutraliseCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GlitchVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Juggernaut",
@@ -3151,23 +3166,23 @@
   },
   {
     "id": "CustomOption.UniqueJuggernaut",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssaultCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssaultBonus",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.JuggVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Murderer",
@@ -3176,18 +3191,18 @@
   },
   {
     "id": "CustomOption.UniqueMurderer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MurderCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MurdVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SerialKiller",
@@ -3196,28 +3211,28 @@
   },
   {
     "id": "CustomOption.UniqueSerialKiller",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BloodlustCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BloodlustDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.StabCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SKVentOptions",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Werewolf",
@@ -3226,38 +3241,38 @@
   },
   {
     "id": "CustomOption.UniqueWerewolf",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaulCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaulRadius",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WerewolfVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralNeophyteSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NNMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NNHasImpVision",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Dracula",
@@ -3266,28 +3281,28 @@
   },
   {
     "id": "CustomOption.UniqueDracula",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BiteCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DracVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AliveVampCount",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UndeadVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Jackal",
@@ -3296,23 +3311,23 @@
   },
   {
     "id": "CustomOption.UniqueJackal",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RecruitCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.JackalVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RecruitVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Necromancer",
@@ -3321,73 +3336,73 @@
   },
   {
     "id": "CustomOption.UniqueNecromancer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectCdIncrease",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectCdIncreases",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxResurrections",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NecroKillCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NecroKillCdIncrease",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NecroKillCdIncreases",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxNecroKills",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NecroCooldownsLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NecromancerTargetBody",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NecroVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Whisperer",
@@ -3396,73 +3411,73 @@
   },
   {
     "id": "CustomOption.UniqueWhisperer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhisperCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhisperCdIncreases",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhisperCdIncrease",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhisperRadius",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhisperRate",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhisperRateDecreases",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhisperRateDecrease",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhispVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PersuadedVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.NeutralProselyteSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Betrayer",
     "english": "<color=#11806AFF>Betrayer</color>",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.BetrayCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BetrayerVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Phantom",
@@ -3471,73 +3486,73 @@
   },
   {
     "id": "CustomOption.PhantomTasksRemaining",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PhantomPlayersAlerted",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderCount",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderVision",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderFlashlight",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntKillCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntrudersVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntrudersCanSabotage",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GhostsCanSabotage",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderMin",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderConcealingSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ICMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Blackmailer",
@@ -3546,28 +3561,28 @@
   },
   {
     "id": "CustomOption.BlackmailCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhispersNotPrivate",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BlackmailMates",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BMRevealed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueBlackmailer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Camouflager",
@@ -3576,28 +3591,28 @@
   },
   {
     "id": "CustomOption.UniqueCamouflager",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CamouflageCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CamouflageDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CamoHideSize",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CamoHideSpeed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Grenadier",
@@ -3606,33 +3621,33 @@
   },
   {
     "id": "CustomOption.UniqueGrenadier",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FlashCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FlashDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FlashRadius",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GrenadierIndicators",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GrenadierVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Janitor",
@@ -3641,48 +3656,48 @@
   },
   {
     "id": "CustomOption.UniqueJanitor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CleanCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.JaniCooldownsLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SoloBoost",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DragCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DragModifier",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.JanitorVentOptions",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderDeceptionSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IDMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Disguiser",
@@ -3691,38 +3706,38 @@
   },
   {
     "id": "CustomOption.UniqueDisguiser",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DisguiseCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DisguiseDelay",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DisguiseDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MeasureCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DisgCooldownsLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DisguiseTarget",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Morphling",
@@ -3731,33 +3746,33 @@
   },
   {
     "id": "CustomOption.UniqueMorphling",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MorphCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MorphDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SampleCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MorphCooldownsLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MorphlingVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Wraith",
@@ -3766,33 +3781,33 @@
   },
   {
     "id": "CustomOption.UniqueWraith",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InvisCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InvisDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WraithVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderKillingSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IKMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Ambusher",
@@ -3801,23 +3816,23 @@
   },
   {
     "id": "CustomOption.UniqueAmbusher",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AmbushCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AmbushDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AmbushMates",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Enforcer",
@@ -3826,43 +3841,43 @@
   },
   {
     "id": "CustomOption.UniqueEnforcer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RivalsRoles",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnforceCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnforceDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnforceDelay",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnforceRadius",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderSupportSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ISMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Consigliere",
@@ -3871,18 +3886,18 @@
   },
   {
     "id": "CustomOption.UniqueConsigliere",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InvestigateCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConsigInfo",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Consort",
@@ -3891,18 +3906,18 @@
   },
   {
     "id": "CustomOption.UniqueConsort",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConsortCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConsortDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Godfather",
@@ -3911,13 +3926,13 @@
   },
   {
     "id": "CustomOption.UniqueGodfather",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GFPromotionCdDecrease",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Miner",
@@ -3926,13 +3941,13 @@
   },
   {
     "id": "CustomOption.UniqueMiner",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MineCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Teleporter",
@@ -3941,33 +3956,33 @@
   },
   {
     "id": "CustomOption.TeleportCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueTeleporter",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TeleMarkCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TeleCooldownsLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TeleVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderUtilitySettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Ghoul",
@@ -3976,73 +3991,73 @@
   },
   {
     "id": "CustomOption.GhoulMarkCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateCount",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateVision",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateFlashlight",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ChaosDriveMeetingCount",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CDKillCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AltImps",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GlobalDrive",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateMin",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateDisruptionSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SDMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Concealer",
@@ -4051,23 +4066,23 @@
   },
   {
     "id": "CustomOption.UniqueConcealer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConcealCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConcealDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConcealMates",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Drunkard",
@@ -4076,23 +4091,23 @@
   },
   {
     "id": "CustomOption.UniqueDrunkard",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConfuseCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConfuseDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ConfuseImmunity",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Framer",
@@ -4101,18 +4116,18 @@
   },
   {
     "id": "CustomOption.UniqueFramer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FrameCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ChaosDriveFrameRadius",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Shapeshifter",
@@ -4121,33 +4136,33 @@
   },
   {
     "id": "CustomOption.UniqueShapeshifter",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShapeshiftDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShapeshiftCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ShapeshiftMates",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Silencer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueSilencer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SilenceCd",
@@ -4156,28 +4171,28 @@
   },
   {
     "id": "CustomOption.WhispersNotPrivateSilencer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SilenceMates",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateKillingSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SilenceRevealed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyKMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Bomber",
@@ -4186,48 +4201,48 @@
   },
   {
     "id": "CustomOption.UniqueBomber",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BombCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DetonateCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BombCooldownsLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BombsRemoveOnNewRound",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BombsDetonateOnMeetingStart",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BombRange",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ChaosDriveBombRange",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BombKillsSyndicate",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Collider",
@@ -4236,43 +4251,43 @@
   },
   {
     "id": "CustomOption.UniqueCollider",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CollideCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ChargeCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ChargeDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CollideRange",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CollideRangeIncrease",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ChargeCooldownsLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CollideResetsCooldown",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Crusader",
@@ -4281,28 +4296,28 @@
   },
   {
     "id": "CustomOption.UniqueCrusader",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrusadeCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ChaosDriveCrusadeRadius",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrusadeDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrusadeMates",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Poisoner",
@@ -4311,28 +4326,28 @@
   },
   {
     "id": "CustomOption.UniquePoisoner",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PoisonCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PoisonDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicatePowerSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SPMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Spellslinger",
@@ -4341,18 +4356,18 @@
   },
   {
     "id": "CustomOption.UniqueSpellslinger",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SpellCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SpellCdIncrease",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Timekeeper",
@@ -4361,38 +4376,38 @@
   },
   {
     "id": "CustomOption.UniqueTimekeeper",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TimeCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TimeDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TimeFreezeImmunity",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TimeRewindImmunity",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateSupportSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SSuMax",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Rebel",
@@ -4401,13 +4416,13 @@
   },
   {
     "id": "CustomOption.UniqueRebel",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RebPromotionCdDecrease",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Stalker",
@@ -4416,13 +4431,13 @@
   },
   {
     "id": "CustomOption.UniqueStalker",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.StalkCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Warper",
@@ -4431,28 +4446,28 @@
   },
   {
     "id": "CustomOption.UniqueWarper",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WarpCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WarpDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WarpSelf",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateUtilitySettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Anarchist",
@@ -4461,8 +4476,8 @@
   },
   {
     "id": "CustomOption.AnarchKillCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Banshee",
@@ -4471,28 +4486,28 @@
   },
   {
     "id": "CustomOption.ScreamCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ScreamDur",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ModifierSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxModifiers",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MinModifiers",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Astral",
@@ -4501,8 +4516,8 @@
   },
   {
     "id": "CustomOption.UniqueAstral",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Bait",
@@ -4511,23 +4526,23 @@
   },
   {
     "id": "CustomOption.UniqueBait",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BaitKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BaitMinDelay",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BaitMaxDelay",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Coward",
@@ -4536,8 +4551,8 @@
   },
   {
     "id": "CustomOption.UniqueCoward",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Diseased",
@@ -4546,18 +4561,18 @@
   },
   {
     "id": "CustomOption.UniqueDiseased",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DiseasedKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DiseasedKillMultiplier",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Drunk",
@@ -4566,23 +4581,23 @@
   },
   {
     "id": "CustomOption.UniqueDrunk",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DrunkControlsSwap",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DrunkKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DrunkInterval",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Dwarf",
@@ -4591,18 +4606,18 @@
   },
   {
     "id": "CustomOption.UniqueDwarf",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DwarfSpeed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DwarfScale",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Giant",
@@ -4611,18 +4626,18 @@
   },
   {
     "id": "CustomOption.UniqueGiant",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GiantSpeed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GiantScale",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Indomitable",
@@ -4631,13 +4646,13 @@
   },
   {
     "id": "CustomOption.UniqueIndomitable",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IndomitableKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Professional",
@@ -4646,13 +4661,13 @@
   },
   {
     "id": "CustomOption.UniqueProfessional",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ProfessionalKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Shy",
@@ -4661,8 +4676,8 @@
   },
   {
     "id": "CustomOption.UniqueShy",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VIP",
@@ -4671,13 +4686,13 @@
   },
   {
     "id": "CustomOption.UniqueVIP",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VIPKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Volatile",
@@ -4686,18 +4701,18 @@
   },
   {
     "id": "CustomOption.UniqueVolatile",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VolatileInterval",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VolatileKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Yeller",
@@ -4706,23 +4721,23 @@
   },
   {
     "id": "CustomOption.UniqueYeller",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AbilitySettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxAbilities",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MinAbilities",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Assassin",
@@ -4731,73 +4746,73 @@
   },
   {
     "id": "CustomOption.UniqueCrewAssassin",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueNeutralAssassin",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueIntruderAssassin",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueSyndicateAssassin",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinKills",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinMultiKill",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessNeutralBenign",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessNeutralEvil",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessInvestigative",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessPest",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessModifiers",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessObjectifiers",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessAbilities",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AssassinateAfterVoting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ButtonBarry",
@@ -4806,13 +4821,13 @@
   },
   {
     "id": "CustomOption.UniqueButtonBarry",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ButtonCooldown",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Insider",
@@ -4821,13 +4836,13 @@
   },
   {
     "id": "CustomOption.UniqueInsider",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InsiderKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Multitasker",
@@ -4836,13 +4851,13 @@
   },
   {
     "id": "CustomOption.UniqueMultitasker",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Transparancy",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Ninja",
@@ -4851,8 +4866,8 @@
   },
   {
     "id": "CustomOption.UniqueNinja",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Politician",
@@ -4861,23 +4876,23 @@
   },
   {
     "id": "CustomOption.UniquePolitician",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PoliticianVoteBank",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PoliticianAnonymous",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.PoliticianButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Radar",
@@ -4886,8 +4901,8 @@
   },
   {
     "id": "CustomOption.UniqueRadar",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Ruthless",
@@ -4896,13 +4911,13 @@
   },
   {
     "id": "CustomOption.UniqueRuthless",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RuthlessKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Snitch",
@@ -4911,38 +4926,38 @@
   },
   {
     "id": "CustomOption.UniqueSnitch",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SnitchKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesNeutrals",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesCrew",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesRoles",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SnitchTasksRemaining",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeestargetsInMeeting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Swapper",
@@ -4951,23 +4966,23 @@
   },
   {
     "id": "CustomOption.UniqueSwapper",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SwapperButton",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SwapAfterVoting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SwapSelf",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Tiebreaker",
@@ -4976,13 +4991,13 @@
   },
   {
     "id": "CustomOption.UniqueTiebreaker",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TiebreakerKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Torch",
@@ -4991,8 +5006,8 @@
   },
   {
     "id": "CustomOption.UniqueTorch",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Tunneler",
@@ -5001,13 +5016,13 @@
   },
   {
     "id": "CustomOption.UniqueTunneler",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TunnelerKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Underdog",
@@ -5016,38 +5031,38 @@
   },
   {
     "id": "CustomOption.UniqueUnderdog",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UnderdogKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UnderdogKillBonus",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UnderdogIncreasedKC",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ObjectifierSettings",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MaxObjectifiers",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MinObjectifiers",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Allied",
@@ -5056,13 +5071,13 @@
   },
   {
     "id": "CustomOption.UniqueAllied",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AlliedFaction",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Corrupted",
@@ -5071,23 +5086,23 @@
   },
   {
     "id": "CustomOption.UniqueCorrupted",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CorruptCd",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.AllCorruptedWin",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CorruptedVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Defector",
@@ -5096,18 +5111,18 @@
   },
   {
     "id": "CustomOption.UniqueDefector",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DefectorKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.DefectorFaction",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Fanatic",
@@ -5116,28 +5131,28 @@
   },
   {
     "id": "CustomOption.UniqueFanatic",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FanaticKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FanaticColourSwap",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesFanatic",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsFanatic",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Linked",
@@ -5146,18 +5161,18 @@
   },
   {
     "id": "CustomOption.UniqueLinked",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.LinkedChat",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.LinkedRoles",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Lovers",
@@ -5166,23 +5181,23 @@
   },
   {
     "id": "CustomOption.UniqueLovers",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BothLoversDie",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.LoversChat",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.LoversRoles",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Mafia",
@@ -5191,18 +5206,18 @@
   },
   {
     "id": "CustomOption.UniqueMafia",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MafiaRoles",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MafVent",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Overlord",
@@ -5211,18 +5226,18 @@
   },
   {
     "id": "CustomOption.UniqueOverlord",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.OverlordKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.OverlordMeetingWinCount",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Rivals",
@@ -5231,13 +5246,13 @@
   },
   {
     "id": "CustomOption.RivalsChat",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.UniqueRivals",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Taskmaster",
@@ -5246,13 +5261,13 @@
   },
   {
     "id": "CustomOption.UniqueTaskmaster",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TMTasksRemaining",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Traitor",
@@ -5261,942 +5276,942 @@
   },
   {
     "id": "CustomOption.UniqueTraitor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TraitorKnows",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesTraitor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsTraitor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.TraitorColourSwap",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Entry",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Ban",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.RoleList",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BanList",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnablePostmortals",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnableBanshee",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnableGhoul",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnablePhantom",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.EnableRevealer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SkeldO2Timer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.SkeldReactorTimer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MiraO2Timer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MiraReactorTimer",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.On",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Off",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "TaskBarMode.Meeting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "TaskBarMode.Rounds",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "TaskBarMode.Invisible",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameMode.Classic",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameMode.Custom",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameMode.Vanilla",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameMode.AllAny",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameMode.RoleList",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameMode.KillingOnly",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoCanVent.Everyone",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoCanVent.Default",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoCanVent.NoOne",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SkipButtonDisable.Never",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SkipButtonDisable.Emergency",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SkipButtonDisable.Always",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoSeesFirstKillShield.Everyone",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoSeesFirstKillShield.Shielded",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoSeesFirstKillShield.NoOne",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameAnnouncements.BanList",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameAnnouncements.Never",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameAnnouncements.Roles",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "GameAnnouncements.Faction",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Map.Skeld",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Map.MiraHQ",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Map.Polus",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Map.dlekS",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Map.Airship",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Map.Submerged",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Map.LevelImpostor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Map.Random",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SpawnType.Normal",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SpawnType.Fixed",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SpawnType.Synchronised",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SpawnType.Meeting",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "MoveAdmin.Dont",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "MoveAdmin.Cockpit",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "MoveAdmin.MainHall",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "MoveElectrical.Dont",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "MoveElectrical.Vault",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "MoveElectrical.Electrical",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShowMediumToDead.No",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShowMediumToDead.Target",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShowMediumToDead.All",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DeadRevealed.Oldest",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DeadRevealed.Newest",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DeadRevealed.All",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DeadRevealed.Random",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoSeesDead.Nobody",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoSeesDead.Operative",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoSeesDead.NotOperative",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "WhoSeesDead.Everyone",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "VigiNotifOptions.Never",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "VigiNotifOptions.Flash",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "VigiNotifOptions.Message",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "VigiOptions.Immediately",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "VigiOptions.Pre",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "VigiOptions.Post",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShieldOptions.Nobody",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShieldOptions.Everyone",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShieldOptions.Shielded",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShieldOptions.Medic",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShieldOptions.ShieldedAndMedic",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShiftedBecomes.Crewmate",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShiftedBecomes.Shifter",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RevealerCanBeClickedBy.All",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RevealerCanBeClickedBy.NonCrew",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RevealerCanBeClickedBy.Evils",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "NoSolo.Never",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "NoSolo.SameNKs",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "NoSolo.AllNKs",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "NoSolo.AllNeutrals",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShowProtect.Protected",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShowProtect.GA",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShowProtect.ProtectedAndGA",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShowProtect.Everyone",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ShowProtect.Nobody",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SKVentOptions.Always",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SKVentOptions.Bloodlust",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SKVentOptions.NoLust",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "SKVentOptions.Never",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "JanitorVentOptions.Never",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "JanitorVentOptions.Body",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "JanitorVentOptions.Bodyless",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "JanitorVentOptions.Always",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DisguiseTarget.Everyone",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DisguiseTarget.Intruders",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DisguiseTarget.NonIntruders",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ConsigInfo.Role",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "ConsigInfo.Faction",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "AlliedFaction.Random",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "AlliedFaction.Intruders",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "AlliedFaction.Syndicate",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "AlliedFaction.Crew",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DefectorFaction.Random",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DefectorFaction.OpposingEvil",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "DefectorFaction.Crew",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.FreeBans",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BanCrewmate",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BanImpostor",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BanAnarchist",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "CustomOption.ClientOptions",
     "english": "Client Settings",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.LighterDarker",
     "english": "Lighter Darker Colors",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.WhiteNameplates",
     "english": "White Nameplates",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.NoLevels",
     "english": "No Levels",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CustomCrewColors",
     "english": "Custom Crew Colors",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CustomNeutColors",
     "english": "Custom Neutral Colors",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CustomIntColors",
     "english": "Custom Intruder Colors",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CustomSynColors",
     "english": "Custom Syndicate Colors",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CustomModColors",
     "english": "Custom Modifier Colors",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CustomObjColors",
     "english": "Custom Objectifier Colors",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CustomAbColors",
     "english": "Custom Ability Colors",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.CustomEjects",
     "english": "Custom Ejects",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.OptimisationMode",
     "english": "Optimisation Mode",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HideOtherGhosts",
     "english": "Hide Other Ghosts",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HnSSettings",
     "english": "<color=#7500AFFF>Hide And Seek</color> Settings",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HnSMode",
     "english": "<color=#7500AFFF>Hide And Seek</color> Game Type",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HnSMode.Classic",
     "english": "Classic",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HnSMode.Infection",
     "english": "Infection",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HnSShortTasks",
     "english": "<color=#7500AFFF>Hide And Seek</color> Short Tasks",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HnSCommonTasks",
     "english": "<color=#7500AFFF>Hide And Seek</color> Common Tasks",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HnSLongTasks",
     "english": "<color=#7500AFFF>Hide And Seek</color> Long Tasks",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HunterCount",
     "english": "<color=#FF004EFF>Hunter</color> Count",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HuntCd",
     "english": "Hunt Cooldown",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.StartTime",
     "english": "Start Time",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HunterVent",
     "english": "<color=#FF004EFF>Hunter</color> Can Vent",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HunterVision",
     "english": "<color=#FF004EFF>Hunter</color> Vision",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HuntedVision",
     "english": "<color=#1F51FFFF>Hunted</color> Vision",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HunterSpeedModifier",
     "english": "<color=#FF004EFF>Hunter</color> Speed Modifier",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HunterFlashlight",
     "english": "<color=#FF004EFF>Hunter</color> Use A Flashlight",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HuntedFlashlight",
     "english": "<color=#1F51FFFF>Hunted</color> Use A Flashlight",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.HuntedChat",
     "english": "<color=#1F51FFFF>Hunted</color> Can Chat",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.TRSettings",
     "english": "<color=#1E49CFFF>Task Race</color> Settings",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.TRShortTasks",
     "english": "<color=#1E49CFFF>Task Race</color> Short Tasks",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "CustomOption.TRCommonTasks",
     "english": "<color=#1E49CFFF>Task Race</color> Common Tasks",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "ImportExport.Slot",
     "english": "Slot %num%",
-    "schinese": "测"
+    "schinese": ""
   },
   {
     "id": "Button.Cancel",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Client.ModOptions",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.RC",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.CA",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.CI",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.CSv",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.CrP",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.CS",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.CK",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.CU",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.NA",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.NB",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.NE",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.NH",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.NK",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.NN",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.RN",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.RI",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.IC",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.ID",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.IK",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.IS",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.IU",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.RS",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.SD",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.SyK",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.SP",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.SSu",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "RoleList.SU",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Export.Title",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Import.Title",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Presets.Title",
-    "english": "Test",
-    "schinese": "测"
+    "english": "",
+    "schinese": ""
   },
   {
     "id": "Setting.Loading",
     "english": "Loading...",
-    "schinese": "测"
+    "schinese": ""
   }
 ]
