@@ -147,5 +147,7 @@
   { "id": "DleksLobby" },
   { "id": "RandomMapBackground" },
   { "id": "RandomMapLobby" },
+  { "id": "Cog" },
+  { "id": "CogActive" },
   { "id": "NightVision" }
 ]
