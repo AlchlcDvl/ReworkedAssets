@@ -1426,7 +1426,7 @@
   },
   {
     "id": "CustomOption.SyndicatePowerRoles",
-    "english": "color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Power</color> <color=#FFD700FF>Roles</color>",
+    "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Power</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>超能型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
   },
   {
@@ -1571,8 +1571,8 @@
   },
   {
     "id": "CustomOption.Abilities",
-    "english": "color=#FF9900FF>Abilities</color>",
-    "schinese": "color=#FF9900FF>额外能力</color>"
+    "english": "<color=#FF9900FF>Abilities</color>",
+    "schinese": "<color=#FF9900FF>额外能力</color>"
   },
   {
     "id": "CustomOption.ButtonBarryOn",
