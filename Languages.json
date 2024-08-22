@@ -1301,13 +1301,13 @@
   },
   {
     "id": "CustomOption.GodfatherOn",
-    "english": "<color=#801780FF>Consort</color>",
-    "schinese": "<color=#801780FF>拦截者</color>"
+    "english": "<color=#404C08FF>Godfather</color>",
+    "schinese": "<color=#404C08FF>教父</color>"
   },
   {
     "id": "CustomOption.ConsortOn",
-    "english": "<color=#404C08FF>Godfather</color>",
-    "schinese": "<color=#404C08FF>教父</color>"
+    "english": "<color=#801780FF>Consort</color>",
+    "schinese": "<color=#801780FF>拦截者</color>"
   },
   {
     "id": "CustomOption.MinerOn",
