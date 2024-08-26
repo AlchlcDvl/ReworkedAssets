@@ -1620,6 +1620,21 @@
     "schinese": ""
   },
   {
+    "id": "CustomOption.CrewVenting.Never",
+    "english": "Never",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.CrewVenting.OnTasksDone",
+    "english": "On Tasks Done",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.CrewVenting.Always",
+    "english": "Always",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.CrewMax",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>",
     "schinese": ""
@@ -1630,7 +1645,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CAMax",
+    "id": "CustomOption.MaxCA",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditors</color>",
     "schinese": ""
   },
@@ -1641,7 +1656,7 @@
   },
   {
     "id": "CustomOption.MysticRevealCd",
-    "english": "",
+    "english": "Reveal Cooldown",
     "schinese": ""
   },
   {
@@ -1651,12 +1666,12 @@
   },
   {
     "id": "CustomOption.StakeCd",
-    "english": "",
+    "english": "Stake Cooldown",
     "schinese": ""
   },
   {
-    "id": "CustomOption.CIMax",
-    "english": "",
+    "id": "CustomOption.MaxCI",
+    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Investigatives</color>",
     "schinese": ""
   },
   {
@@ -1666,32 +1681,32 @@
   },
   {
     "id": "CustomOption.CoronerArrowDur",
-    "english": "",
+    "english": "Dead Body Arrow Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.CoronerReportRole",
-    "english": "",
+    "english": "<color=#4D99E6FF>Coroner</color> Gets Roles",
     "schinese": ""
   },
   {
     "id": "CustomOption.CoronerReportName",
-    "english": "",
+    "english": "<color=#4D99E6FF>Coroner</color> Gets Killer's Name",
     "schinese": ""
   },
   {
     "id": "CustomOption.CoronerKillerNameTime",
-    "english": "",
+    "english": "<color=#4D99E6FF>Coroner</color> Gets Killer's Name Under",
     "schinese": ""
   },
   {
     "id": "CustomOption.CompareCd",
-    "english": "",
+    "english": "Compare Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.AutopsyCd",
-    "english": "",
+    "english": "Autopsy Cooldown",
     "schinese": ""
   },
   {
@@ -1701,27 +1716,27 @@
   },
   {
     "id": "CustomOption.ExamineCd",
-    "english": "",
+    "english": "Examine Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.RecentKill",
-    "english": "",
+    "english": "Bloody Hands Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.FootprintInterval",
-    "english": "",
+    "english": "Footprint Interval",
     "schinese": ""
   },
   {
     "id": "CustomOption.FootprintDur",
-    "english": "",
+    "english": "Footprint Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.AnonymousFootprint",
-    "english": "",
+    "english": "AnonymousFootprint",
     "schinese": ""
   },
   {
@@ -1730,23 +1745,78 @@
     "schinese": "<color=#A680FFFF>招魂师</color>"
   },
   {
-    "id": "CustomOption.MediateCd",
+    "id": "CustomOption.FootprintVisibility.OnlyWhenCamouflaged",
     "english": "",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.FootprintVisibility.AlwaysVisible",
+    "english": "",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.FootprintVisibility.AlwaysCamouflaged",
+    "english": "",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.MediateCd",
+    "english": "Mediate Cooldown",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.SeanceCd",
+    "english": "Seance Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShowMediatePlayer",
-    "english": "",
+    "english": "Reveal Appearance Of Mediate Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShowMediumToDead",
-    "english": "",
+    "english": "Reveal The <color=#A680FFFF>Medium</color> To The Mediate Target",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ShowMediumToDead.No",
+    "english": "No",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ShowMediumToDead.Target",
+    "english": "Mediate Target",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ShowMediumToDead.AllDead",
+    "english": "All Dead",
     "schinese": ""
   },
   {
     "id": "CustomOption.DeadRevealed",
-    "english": "",
+    "english": "Who Is Revealed With Mediate",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.DeadRevealed.Oldest",
+    "english": "Oldest",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.DeadRevealed.Newest",
+    "english": "Newest",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.DeadRevealed.Random",
+    "english": "Random",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.DeadRevealed.All",
+    "english": "All",
     "schinese": ""
   },
   {
@@ -1756,7 +1826,7 @@
   },
   {
     "id": "CustomOption.SeerCd",
-    "english": "",
+    "english": "Seer Cooldown",
     "schinese": ""
   },
   {
@@ -1766,43 +1836,43 @@
   },
   {
     "id": "CustomOption.BugCd",
-    "english": "",
+    "english": "Bug Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.MinAmountOfTimeInBug",
-    "english": "",
+    "english": "Min Amount Of Time In Bug To Trigger",
     "schinese": ""
   },
   {
     "id": "CustomOption.BugsRemoveOnNewRound",
-    "english": "",
+    "english": "Bugs Are Removed Each Round",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxBugs",
-    "english": "",
+    "english": "Max Bugs",
     "schinese": ""
   },
   {
     "id": "CustomOption.BugRange",
-    "english": "",
+    "english": "Bug Radius",
     "schinese": ""
   },
   {
     "id": "CustomOption.MinAmountOfPlayersInBug",
-    "english": "",
+    "english": "Number Of <color=#FFD700FF>Roles</color> Required To Trigger Bug",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhoSeesDead",
-    "english": "",
+    "english": "Who Sees Dead Bodies On Admin Table",
     "schinese": ""
   },
   {
     "id": "CustomOption.PreciseOperativeInfo",
     "english": "",
-    "schinese": ""
+    "schinese": "<color=#A7D1B3FF>Operative</color> Gets Precise Information"
   },
   {
     "id": "CustomOption.Sheriff",
