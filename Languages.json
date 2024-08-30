@@ -290,17 +290,17 @@
     "schinese": "任务进度更新频率"
   },
   {
-    "id": "CustomOption.TaskBar.Normal",
+    "id": "CustomOption.TBMode.Normal",
     "english": "Normal",
     "schinese": ""
   },
   {
-    "id": "CustomOption.TaskBar.MeetingOnly",
+    "id": "CustomOption.TBMode.MeetingOnly",
     "english": "Meeting Only",
     "schinese": ""
   },
   {
-    "id": "CustomOption.TaskBar.Invisible",
+    "id": "CustomOption.TBMode.Invisible",
     "english": "Invisible",
     "schinese": "任务进度新频率"
   },
@@ -465,7 +465,7 @@
     "schinese": "允许使用管道的玩家"
   },
   {
-    "id": "CustomOption.WhoCanVent.Everyone",
+    "ids": [ "CustomOption.WhoCanVent.Everyone", "CustomOption.AdminDeadPlayers.Everyone" ],
     "english": "Everyone",
     "schinese": ""
   },
@@ -620,11 +620,6 @@
     "schinese": "公开杀害死亡玩家凶手的<color=#FFD700FF>职业</color>/<color=#00E66DFF>阵营</color>"
   },
   {
-    "id": "CustomOption.QualityChanges",
-    "english": "Quality Changes",
-    "schinese": "次要设置"
-  },
-  {
     "id": "CustomOption.DeadSeeEverything",
     "english": "Dead Can See Everything",
     "schinese": "死亡玩家可确认所有信息"
@@ -765,7 +760,7 @@
     "schinese": "Better Mira HQ设置"
   },
   {
-    "id": "CustomOption.VentImprovements",
+    "ids": [ "CustomOption.MiraHQVentImprovements", "CustomOption.PolusVentImprovements", "CustomOption.SkeldVentImprovements" ],
     "english": "Improved Vent Layout",
     "schinese": "优化管道网络布局"
   },
@@ -880,7 +875,7 @@
     "schinese": "<color=#A680FFFF>招魂师</color>"
   },
   {
-    "id": "CustomOption.Operative",
+    "ids": [ "CustomOption.Operative", "CustomOption.AdminDeadPlayers.Operative" ],
     "english": "<color=#A7D1B3FF>Operative</color>",
     "schinese": "<color=#A7D1B3FF>特工</color>"
   },
@@ -1070,14 +1065,24 @@
     "schinese": "<color=#1D7CF2FF>灾兆型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
   },
   {
-    "id": "CustomOption.NeutralKillingRoles",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>击杀型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
-  },
-  {
     "id": "CustomOption.Plaguebearer",
     "english": "<color=#CFFE61FF>Plaguebearer</color>",
     "schinese": "<color=#CFFE61FF>瘟疫之源</color>"
+  },
+  {
+    "id": "CustomOption.NeutralApocalypseRoles",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Apocalypse</color> <color=#FFD700FF>Roles</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.Pestilence",
+    "english": "<color=#424242FF>Pestilence</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.NeutralKillingRoles",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
+    "schinese": "<color=#1D7CF2FF>击杀型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
   },
   {
     "id": "CustomOption.Arsonist",
@@ -1495,14 +1500,19 @@
     "schinese": "<color=#FF9900FF>额外能力</color>"
   },
   {
+    "id": "CustomOption.Assassin",
+    "english": "<color=#073763FF>Assassin</color>",
+    "schinese": "<color=#073763FF>刺客</color>"
+  },
+  {
     "id": "CustomOption.ButtonBarry",
     "english": "<color=#E600FFFF>Button Barry</color>",
     "schinese": "<color=#E600FFFF>执钮人</color>"
   },
   {
-    "id": "CustomOption.CrewAssassin",
-    "english": "<color=#8CFFFFFF>Crew</color> <color=#073763FF>Assassin</color>",
-    "schinese": "<color=#073763FF>刺客</color><color=#8CFFFFFF>（船员阵营）</color>"
+    "id": "CustomOption.Bullseye",
+    "english": "<color=#8CFFFFFF>Bullseye</color>",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Insider",
@@ -1510,9 +1520,9 @@
     "schinese": "<color=#26FCFBFF>唱票人</color>"
   },
   {
-    "id": "CustomOption.IntruderAssassin",
-    "english": "<color=#FF1919FF>Intruder</color> <color=#073763FF>Assassin</color>",
-    "schinese": "<color=#073763FF>刺客</color><color=#FF1919FF>（内鬼阵营）</color>"
+    "id": "CustomOption.Hitman",
+    "english": "<color=#FF1919FF>Hitman</color>",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Multitasker",
@@ -1520,9 +1530,9 @@
     "schinese": "<color=#FF804DFF>多线程</color>"
   },
   {
-    "id": "CustomOption.NeutralAssassin",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#073763FF>Assassin</color>",
-    "schinese": "<color=#073763FF>刺客</color><color=#B3B3B3FF>（独立阵营）</color>"
+    "id": "CustomOption.Slayer",
+    "english": "<color=#B3B3B3FF>Slayer</color>",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Ninja",
@@ -1555,9 +1565,9 @@
     "schinese": "<color=#66E666FF>换票师</color>"
   },
   {
-    "id": "CustomOption.SyndicateAssassin",
-    "english": "<color=#008000FF>Syndicate</color> <color=#073763FF>Assassin</color>",
-    "schinese": "<color=#073763FF>刺客</color><color=#008000FF>（暴乱阵营）</color>"
+    "id": "CustomOption.Sniper",
+    "english": "<color=#008000FF>Sniper</color>",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Tiebreaker",
@@ -1650,19 +1660,9 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Mystic",
-    "english": "<color=#708EEFFF>Mystic</color>",
-    "schinese": "<color=#708EEFFF>祭司</color>"
-  },
-  {
     "id": "CustomOption.MysticRevealCd",
     "english": "Reveal Cooldown",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.VampireHunter",
-    "english": "<color=#C0C0C0FF>Vampire Hunter</color>",
-    "schinese": "<color=#C0C0C0FF>猎魔人</color>"
   },
   {
     "id": "CustomOption.StakeCd",
@@ -1673,11 +1673,6 @@
     "id": "CustomOption.MaxCI",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Investigatives</color>",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Coroner",
-    "english": "<color=#4D99E6FF>Coroner</color>",
-    "schinese": "<color=#4D99E6FF>验尸官</color>"
   },
   {
     "id": "CustomOption.CoronerArrowDur",
@@ -1710,11 +1705,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Detective",
-    "english": "<color=#4D4DFFFF>Detective</color>",
-    "schinese": "<color=#4D4DFFFF>侦探</color>"
-  },
-  {
     "id": "CustomOption.ExamineCd",
     "english": "Examine Cooldown",
     "schinese": ""
@@ -1738,11 +1728,6 @@
     "id": "CustomOption.AnonymousFootprint",
     "english": "AnonymousFootprint",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Medium",
-    "english": "<color=#A680FFFF>Medium</color>",
-    "schinese": "<color=#A680FFFF>招魂师</color>"
   },
   {
     "id": "CustomOption.FootprintVisibility.OnlyWhenCamouflaged",
@@ -1830,11 +1815,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Operative",
-    "english": "<color=#A7D1B3FF>Operative</color>",
-    "schinese": "<color=#A7D1B3FF>特工</color>"
-  },
-  {
     "id": "CustomOption.BugCd",
     "english": "Bug Cooldown",
     "schinese": ""
@@ -1870,14 +1850,19 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.PreciseOperativeInfo",
-    "english": "",
-    "schinese": "<color=#A7D1B3FF>Operative</color> Gets Precise Information"
+    "id": "CustomOption.AdminDeadPlayers.Nobody",
+    "english": "Nobody",
+    "schinese": ""
   },
   {
-    "id": "CustomOption.Sheriff",
-    "english": "<color=#FFCC80FF>Sheriff</color>",
-    "schinese": "<color=#FFCC80FF>预言家</color>"
+    "id": "CustomOption.AdminDeadPlayers.EveryoneButOperative",
+    "english": "Everyone But <color=#A7D1B3FF>Operative</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.PreciseOperativeInfo",
+    "english": "<color=#A7D1B3FF>Operative</color> Gets Precise Information",
+    "schinese": ""
   },
   {
     "id": "CustomOption.InterrogateCd",
@@ -1893,11 +1878,6 @@
     "id": "CustomOption.NeutKillingRed",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Tracker",
-    "english": "<color=#009900FF>Tracker</color>",
-    "schinese": "<color=#009900FF>追踪者</color>"
   },
   {
     "id": "CustomOption.UpdateInterval",
@@ -1925,11 +1905,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Veteran",
-    "english": "<color=#FFFF00FF>Vigilante</color>",
-    "schinese": "<color=#FFFF00FF>警长</color>"
-  },
-  {
     "id": "CustomOption.AlertCd",
     "english": "",
     "schinese": ""
@@ -1943,11 +1918,6 @@
     "id": "CustomOption.MaxAlerts",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Vigilante",
-    "english": "<color=#998040FF>Veteran</color>",
-    "schinese": "<color=#998040FF>老兵</color>"
   },
   {
     "id": "CustomOption.MisfireKillsInno",
@@ -1990,11 +1960,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Altruist",
-    "english": "<color=#660000FF>Altruist</color>",
-    "schinese": "<color=#660000FF>殉道者</color>"
-  },
-  {
     "id": "CustomOption.MaxRevives",
     "english": "",
     "schinese": ""
@@ -2013,11 +1978,6 @@
     "id": "CustomOption.AltruistTargetBody",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Medic",
-    "english": "<color=#006600FF>Medic</color>",
-    "schinese": "<color=#006600FF>医生</color>"
   },
   {
     "id": "CustomOption.ShowShielded",
@@ -2040,11 +2000,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Dictator",
-    "english": "<color=#00CB97FF>Dictator</color>",
-    "schinese": "<color=#00CB97FF>独裁者</color>"
-  },
-  {
     "id": "CustomOption.RoundOneNoDictReveal",
     "english": "",
     "schinese": ""
@@ -2060,11 +2015,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Mayor",
-    "english": "<color=#704FA8FF>Mayor</color>",
-    "schinese": "<color=#704FA8FF>市长</color>"
-  },
-  {
     "id": "CustomOption.MayorVoteCount",
     "english": "",
     "schinese": ""
@@ -2078,11 +2028,6 @@
     "id": "CustomOption.MayorButton",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Monarch",
-    "english": "<color=#FF004EFF>Monarch</color>",
-    "schinese": "<color=#FF004EFF>大君主</color>"
   },
   {
     "id": "CustomOption.KnightingCd",
@@ -2120,11 +2065,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Chameleon",
-    "english": "<color=#5411F8FF>Chameleon</color>",
-    "schinese": "<color=#5411F8FF>变色龙</color>"
-  },
-  {
     "id": "CustomOption.SwoopCd",
     "english": "",
     "schinese": ""
@@ -2140,11 +2080,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Engineer",
-    "english": "<color=#FFA60AFF>Engineer</color>",
-    "schinese": "<color=#FFA60AFF>工程师</color>"
-  },
-  {
     "id": "CustomOption.FixCd",
     "english": "",
     "schinese": ""
@@ -2153,11 +2088,6 @@
     "id": "CustomOption.MaxFixes",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Escort",
-    "english": "<color=#803333FF>Escort</color>",
-    "schinese": "<color=#803333FF>卫兵</color>"
   },
   {
     "id": "CustomOption.EscortCd",
@@ -2170,11 +2100,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Retributionist",
-    "english": "<color=#8D0F8CFF>Retributionist</color>",
-    "schinese": "<color=#8D0F8CFF>效颦者</color>"
-  },
-  {
     "id": "CustomOption.ReviveAfterVoting",
     "english": "",
     "schinese": ""
@@ -2185,11 +2110,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Shifter",
-    "english": "<color=#DF851FFF>Shifter</color>",
-    "schinese": "<color=#DF851FFF>交换师</color>"
-  },
-  {
     "id": "CustomOption.ShiftCd",
     "english": "",
     "schinese": ""
@@ -2198,11 +2118,6 @@
     "id": "CustomOption.ShiftedBecomes",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Transporter",
-    "english": "<color=#00EEFFFF>Transporter</color>",
-    "schinese": "<color=#00EEFFFF>传送师</color>"
   },
   {
     "id": "CustomOption.TransportDur",
@@ -2223,11 +2138,6 @@
     "id": "CustomOption.MaxTransports",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Revealer",
-    "english": "<color=#D3D3D3FF>Revealer</color>",
-    "schinese": "<color=#D3D3D3FF>冤魂</color>"
   },
   {
     "id": "CustomOption.RevealerTasksRemainingClicked",
@@ -2300,11 +2210,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Pestilence",
-    "english": "<color=#424242FF>Pestilence</color>",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.PestSpawn",
     "english": "",
     "schinese": ""
@@ -2335,11 +2240,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Amnesiac",
-    "english": "<color=#22FFFFFF>Amnesiac</color>",
-    "schinese": "<color=#22FFFFFF>失忆者</color>"
-  },
-  {
     "id": "CustomOption.RememberArrows",
     "english": "",
     "schinese": ""
@@ -2358,11 +2258,6 @@
     "id": "CustomOption.AmneSwitchVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.GuardianAngel",
-    "english": "<color=#FFFFFFFF>Guardian Angel</color>",
-    "schinese": "<color=#FFFFFFFF>守护天使</color>"
   },
   {
     "id": "CustomOption.GuardianAngelCanPickTargets",
@@ -2420,11 +2315,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Survivor",
-    "english": "<color=#DDDD00FF>Survivor</color>",
-    "schinese": "<color=#DDDD00FF>幸存者</color>"
-  },
-  {
     "id": "CustomOption.VestCd",
     "english": "",
     "schinese": ""
@@ -2453,11 +2343,6 @@
     "id": "CustomOption.SurvSwitchVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Thief",
-    "english": "<color=#80FF00FF>Thief</color>",
-    "schinese": "<color=#80FF00FF>身份窃贼</color>"
   },
   {
     "id": "CustomOption.StealCd",
@@ -2495,11 +2380,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Actor",
-    "english": "<color=#00ACC2FF>Actor</color>",
-    "schinese": "<color=#00ACC2FF>演员</color>"
-  },
-  {
     "id": "CustomOption.ActorCanPickRole",
     "english": "",
     "schinese": ""
@@ -2525,11 +2405,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.BountyHunter",
-    "english": "<color=#B51E39FF>Bounty Hunter</color>",
-    "schinese": "<color=#B51E39FF>赏金猎人</color>"
-  },
-  {
     "id": "CustomOption.BountyHunterCanPickTargets",
     "english": "",
     "schinese": ""
@@ -2553,11 +2428,6 @@
     "id": "CustomOption.VigiKillsBH",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Cannibal",
-    "english": "<color=#8C4005FF>Cannibal</color>",
-    "schinese": "<color=#8C4005FF>秃鹫</color>"
   },
   {
     "id": "CustomOption.EatCd",
@@ -2588,11 +2458,6 @@
     "id": "CustomOption.VigiKillsCannibal",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Executioner",
-    "english": "<color=#CCCCCCFF>Executioner</color>",
-    "schinese": "<color=#CCCCCCFF>处刑者</color>"
   },
   {
     "id": "CustomOption.ExecutionerCanPickTargets",
@@ -2650,11 +2515,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Guesser",
-    "english": "<color=#EEE5BEFF>Guesser</color>",
-    "schinese": "<color=#EEE5BEFF>暗杀兵</color>"
-  },
-  {
     "id": "CustomOption.GuesserCanPickTargets",
     "english": "",
     "schinese": ""
@@ -2695,11 +2555,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Jester",
-    "english": "<color=#F7B3DAFF>Jester</color>",
-    "schinese": "<color=#F7B3DAFF>小丑</color>"
-  },
-  {
     "id": "CustomOption.JesterButton",
     "english": "",
     "schinese": ""
@@ -2735,11 +2590,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Troll",
-    "english": "<color=#678D36FF>Troll</color>",
-    "schinese": "<color=#678D36FF>挑衅者</color>"
-  },
-  {
     "id": "CustomOption.InteractCd",
     "english": "",
     "schinese": ""
@@ -2758,11 +2608,6 @@
     "id": "CustomOption.NHMax",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Plaguebearer",
-    "english": "<color=#CFFE61FF>Plaguebearer</color>",
-    "schinese": "<color=#CFFE61FF>瘟疫之源</color>"
   },
   {
     "id": "CustomOption.InfectCd",
@@ -2790,12 +2635,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Arsonist",
-    "english": "<color=#EE7600FF>Arsonist</color>",
-    "schinese": "<color=#EE7600FF>纵火狂</color>"
-  },
-  {
-    "id": "CustomOption.Douse",
+    "id": "CustomOption.DouseCd",
     "english": "",
     "schinese": ""
   },
@@ -2830,11 +2670,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Cryomaniac",
-    "english": "<color=#642DEAFF>Cryomaniac</color>",
-    "schinese": "<color=#642DEAFF>冰冻狂</color>"
-  },
-  {
     "id": "CustomOption.CryoFreezeAll",
     "english": "",
     "schinese": ""
@@ -2848,11 +2683,6 @@
     "id": "CustomOption.CryoVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Glitch",
-    "english": "<color=#00FF00FF>Glitch</color>",
-    "schinese": "<color=#00FF00FF>混沌</color>"
   },
   {
     "id": "CustomOption.MimicCd",
@@ -2885,11 +2715,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Juggernaut",
-    "english": "<color=#A12B56FF>Juggernaut</color>",
-    "schinese": "<color=#A12B56FF>天启</color>"
-  },
-  {
     "id": "CustomOption.AssaultCd",
     "english": "",
     "schinese": ""
@@ -2905,11 +2730,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Murderer",
-    "english": "<color=#6F7BEAFF>Murderer</color>",
-    "schinese": "<color=#6F7BEAFF>杀人犯</color>"
-  },
-  {
     "id": "CustomOption.MurderCd",
     "english": "",
     "schinese": ""
@@ -2918,11 +2738,6 @@
     "id": "CustomOption.MurdVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.SerialKiller",
-    "english": "<color=#336EFFFF>Serial Killer</color>",
-    "schinese": "<color=#336EFFFF>月下狼人</color>"
   },
   {
     "id": "CustomOption.BloodlustCd",
@@ -2943,11 +2758,6 @@
     "id": "CustomOption.SKVentOptions",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Werewolf",
-    "english": "<color=#9F703AFF>Werewolf</color>",
-    "schinese": "<color=#9F703AFF>血狼</color>"
   },
   {
     "id": "CustomOption.MaulCd",
@@ -2975,11 +2785,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Dracula",
-    "english": "<color=#AC8A00FF>Dracula</color>",
-    "schinese": "<color=#AC8A00FF>吸血魔</color>"
-  },
-  {
     "id": "CustomOption.BiteCd",
     "english": "",
     "schinese": ""
@@ -3000,11 +2805,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Jackal",
-    "english": "<color=#45076AFF>Jackal</color>",
-    "schinese": "<color=#45076AFF>黑老大</color>"
-  },
-  {
     "id": "CustomOption.RecruitCd",
     "english": "",
     "schinese": ""
@@ -3018,11 +2818,6 @@
     "id": "CustomOption.RecruitVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Necromancer",
-    "english": "<color=#BF5FFFFF>Necromancer</color>",
-    "schinese": "<color=#BF5FFFFF>死灵巫师</color>"
   },
   {
     "id": "CustomOption.ResurrectCd",
@@ -3090,11 +2885,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Whisperer",
-    "english": "<color=#2D6AA5FF>Whisperer</color>",
-    "schinese": "<color=#2D6AA5FF>传教士</color>"
-  },
-  {
     "id": "CustomOption.WhisperCd",
     "english": "",
     "schinese": ""
@@ -3140,11 +2930,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Betrayer",
-    "english": "<color=#11806AFF>Betrayer</color>",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.BetrayCd",
     "english": "",
     "schinese": ""
@@ -3153,11 +2938,6 @@
     "id": "CustomOption.BetrayerVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Phantom",
-    "english": "<color=#662962FF>Phantom</color>",
-    "schinese": "<color=#662962FF>幻影</color>"
   },
   {
     "id": "CustomOption.PhantomTasksRemaining",
@@ -3220,11 +3000,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Blackmailer",
-    "english": "<color=#02A752FF>Blackmailer</color>",
-    "schinese": "<color=#02A752FF>勒索者</color>"
-  },
-  {
     "id": "CustomOption.BlackmailCd",
     "english": "",
     "schinese": ""
@@ -3245,11 +3020,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Camouflager",
-    "english": "<color=#378AC0FF>Camouflager</color>",
-    "schinese": "<color=#378AC0FF>隐蔽者</color>"
-  },
-  {
     "id": "CustomOption.CamouflageCd",
     "english": "",
     "schinese": ""
@@ -3268,11 +3038,6 @@
     "id": "CustomOption.CamoHideSpeed",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Grenadier",
-    "english": "<color=#85AA5BFF>Grenadier</color>",
-    "schinese": "<color=#85AA5BFF>掷弹兵</color>"
   },
   {
     "id": "CustomOption.FlashCd",
@@ -3298,11 +3063,6 @@
     "id": "CustomOption.GrenadierVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Janitor",
-    "english": "<color=#2647A2FF>Janitor</color>",
-    "schinese": "<color=#2647A2FF>清理者</color>"
   },
   {
     "id": "CustomOption.CleanCd",
@@ -3340,11 +3100,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Disguiser",
-    "english": "<color=#40B4FFFF>Disguiser</color>",
-    "schinese": "<color=#40B4FFFF>画皮师</color>"
-  },
-  {
     "id": "CustomOption.DisguiseCd",
     "english": "",
     "schinese": ""
@@ -3375,11 +3130,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Morphling",
-    "english": "<color=#BB45B0FF>Morphling</color>",
-    "schinese": "<color=#BB45B0FF>化形者</color>"
-  },
-  {
     "id": "CustomOption.MorphCd",
     "english": "",
     "schinese": ""
@@ -3405,11 +3155,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Wraith",
-    "english": "<color=#5C4F75FF>Wraith</color>",
-    "schinese": "<color=#5C4F75FF>隐身人</color>"
-  },
-  {
     "id": "CustomOption.InvisCd",
     "english": "",
     "schinese": ""
@@ -3430,11 +3175,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Ambusher",
-    "english": "<color=#2BD29CFF>Ambusher</color>",
-    "schinese": "<color=#2BD29CFF>伏击兵</color>"
-  },
-  {
     "id": "CustomOption.AmbushCd",
     "english": "",
     "schinese": ""
@@ -3448,11 +3188,6 @@
     "id": "CustomOption.AmbushMates",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Enforcer",
-    "english": "<color=#005643FF>Enforcer</color>",
-    "schinese": "<color=#005643FF>恐怖分子</color>"
   },
   {
     "id": "CustomOption.RivalsRoles",
@@ -3485,11 +3220,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Consigliere",
-    "english": "<color=#FFFF99FF>Consigliere</color>",
-    "schinese": "<color=#FFFF99FF>参谋长</color>"
-  },
-  {
     "id": "CustomOption.InvestigateCd",
     "english": "",
     "schinese": ""
@@ -3498,11 +3228,6 @@
     "id": "CustomOption.ConsigInfo",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Consort",
-    "english": "<color=#801780FF>Consort</color>",
-    "schinese": "<color=#801780FF>拦截者</color>"
   },
   {
     "id": "CustomOption.ConsortCd",
@@ -3515,29 +3240,14 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Godfather",
-    "english": "<color=#404C08FF>Godfather</color>",
-    "schinese": "<color=#404C08FF>教父</color>"
-  },
-  {
     "id": "CustomOption.GFPromotionCdDecrease",
     "english": "",
     "schinese": ""
   },
   {
-    "id": "CustomOption.Miner",
-    "english": "<color=#AA7632FF>Miner</color>",
-    "schinese": "<color=#AA7632FF>管道工</color>"
-  },
-  {
     "id": "CustomOption.MineCd",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Teleporter",
-    "english": "<color=#939593FF>Teleporter</color>",
-    "schinese": "<color=#939593FF>逃逸者</color>"
   },
   {
     "id": "CustomOption.TeleportCd",
@@ -3558,11 +3268,6 @@
     "id": "CustomOption.TeleVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Ghoul",
-    "english": "<color=#F1C40FFF>Ghoul</color>",
-    "schinese": "<color=#F1C40FFF>索命鬼</color>"
   },
   {
     "id": "CustomOption.GhoulMarkCd",
@@ -3625,11 +3330,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Concealer",
-    "english": "<color=#C02525FF>Concealer</color>",
-    "schinese": "<color=#C02525FF>神隐者</color>"
-  },
-  {
     "id": "CustomOption.ConcealCd",
     "english": "",
     "schinese": ""
@@ -3643,11 +3343,6 @@
     "id": "CustomOption.ConcealMates",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Drunkard",
-    "english": "<color=#FF7900FF>Drunkard</color>",
-    "schinese": "<color=#FF7900FF>酒贩子</color>"
   },
   {
     "id": "CustomOption.ConfuseCd",
@@ -3665,11 +3360,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Framer",
-    "english": "<color=#00FFFFFF>Framer</color>",
-    "schinese": "<color=#00FFFFFF>伪证师</color>"
-  },
-  {
     "id": "CustomOption.FrameCd",
     "english": "",
     "schinese": ""
@@ -3678,11 +3368,6 @@
     "id": "CustomOption.ChaosDriveFrameRadius",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Shapeshifter",
-    "english": "<color=#2DFF00FF>Shapeshifter</color>",
-    "schinese": "<color=#2DFF00FF>千面妖师</color>"
   },
   {
     "id": "CustomOption.ShapeshiftDur",
@@ -3705,11 +3390,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.SilenceCd",
-    "english": "<color=#AAB43EFF>Silencer</color>",
-    "schinese": "<color=#AAB43EFF>沉默法师</color>"
-  },
-  {
     "id": "CustomOption.WhispersNotPrivateSilencer",
     "english": "",
     "schinese": ""
@@ -3728,11 +3408,6 @@
     "id": "CustomOption.SyKMax",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Bomber",
-    "english": "<color=#C9CC3FFF>Bomber</color>",
-    "schinese": "<color=#C9CC3FFF>爆破手</color>"
   },
   {
     "id": "CustomOption.BombCd",
@@ -3775,11 +3450,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Collider",
-    "english": "<color=#B345FFFF>Collider</color>",
-    "schinese": "<color=#B345FFFF>阴阳师</color>"
-  },
-  {
     "id": "CustomOption.CollideCd",
     "english": "",
     "schinese": ""
@@ -3815,11 +3485,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Crusader",
-    "english": "<color=#DF7AE8FF>Crusader</color>",
-    "schinese": "<color=#DF7AE8FF>十字军</color>"
-  },
-  {
     "id": "CustomOption.CrusadeCd",
     "english": "",
     "schinese": ""
@@ -3840,11 +3505,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Poisoner",
-    "english": "<color=#B5004CFF>Poisoner</color>",
-    "schinese": "<color=#B5004CFF>毒师</color>"
-  },
-  {
     "id": "CustomOption.PoisonCd",
     "english": "",
     "schinese": ""
@@ -3860,11 +3520,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Spellslinger",
-    "english": "<color=#0028F5FF>Spellslinger</color>",
-    "schinese": "<color=#0028F5FF>咒术师</color>"
-  },
-  {
     "id": "CustomOption.SpellCd",
     "english": "",
     "schinese": ""
@@ -3873,11 +3528,6 @@
     "id": "CustomOption.SpellCdIncrease",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Timekeeper",
-    "english": "<color=#3769FEFF>Timekeeper</color>",
-    "schinese": "<color=#3769FEFF>司辰</color>"
   },
   {
     "id": "CustomOption.TimeCd",
@@ -3905,29 +3555,14 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Rebel",
-    "english": "<color=#FFFCCEFF>Rebel</color>",
-    "schinese": "<color=#FFFCCEFF>暴乱头目</color>"
-  },
-  {
     "id": "CustomOption.RebPromotionCdDecrease",
     "english": "",
     "schinese": ""
   },
   {
-    "id": "CustomOption.Stalker",
-    "english": "<color=#7E4D00FF>Stalker</color>",
-    "schinese": "<color=#7E4D00FF>追猎者</color>"
-  },
-  {
     "id": "CustomOption.StalkCd",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Warper",
-    "english": "<color=#8C7140FF>Warper</color>",
-    "schinese": "<color=#8C7140FF>念动使</color>"
   },
   {
     "id": "CustomOption.WarpCd",
@@ -3945,19 +3580,9 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Anarchist",
-    "english": "<color=#008000FF>Anarchist</color>",
-    "schinese": "<color=#008000FF>暴徒</color>"
-  },
-  {
     "id": "CustomOption.AnarchKillCd",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Banshee",
-    "english": "<color=#E67E22FF>Banshee</color>",
-    "schinese": "<color=#E67E22FF>报丧女妖</color>"
   },
   {
     "id": "CustomOption.ScreamCd",
@@ -3980,16 +3605,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Astral",
-    "english": "<color=#612BEFFF>Astral</color>",
-    "schinese": "<color=#612BEFFF>通讯兵</color>"
-  },
-  {
-    "id": "CustomOption.Bait",
-    "english": "<color=#00B3B3FF>Bait</color>",
-    "schinese": "<color=#00B3B3FF>诱饵</color>"
-  },
-  {
     "id": "CustomOption.BaitKnows",
     "english": "",
     "schinese": ""
@@ -4005,16 +3620,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Coward",
-    "english": "<color=#456BA8FF>Coward</color>",
-    "schinese": "<color=#456BA8FF>胆小鬼</color>"
-  },
-  {
-    "id": "CustomOption.Diseased",
-    "english": "<color=#374D1EFF>Diseased</color>",
-    "schinese": "<color=#374D1EFF>病人</color>"
-  },
-  {
     "id": "CustomOption.DiseasedKnows",
     "english": "",
     "schinese": ""
@@ -4023,11 +3628,6 @@
     "id": "CustomOption.DiseasedKillMultiplier",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Drunk",
-    "english": "<color=#758000FF>Drunk</color>",
-    "schinese": "<color=#758000FF>酒鬼</color>"
   },
   {
     "id": "CustomOption.DrunkControlsSwap",
@@ -4045,11 +3645,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Dwarf",
-    "english": "<color=#FF8080FF>Dwarf</color>",
-    "schinese": "<color=#FF8080FF>小飞侠</color>"
-  },
-  {
     "id": "CustomOption.DwarfSpeed",
     "english": "",
     "schinese": ""
@@ -4058,11 +3653,6 @@
     "id": "CustomOption.DwarfScale",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Giant",
-    "english": "<color=#FFB34DFF>Giant</color>",
-    "schinese": "<color=#FFB34DFF>巨人</color>"
   },
   {
     "id": "CustomOption.GiantSpeed",
@@ -4075,19 +3665,9 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Indomitable",
-    "english": "<color=#2DE5BEFF>Indomitable</color>",
-    "schinese": "<color=#2DE5BEFF>无畏</color>"
-  },
-  {
     "id": "CustomOption.IndomitableKnows",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Professional",
-    "english": "<color=#860B7AFF>Professional</color>",
-    "schinese": "<color=#860B7AFF>专业刺客</color>"
   },
   {
     "id": "CustomOption.ProfessionalKnows",
@@ -4095,24 +3675,9 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Shy",
-    "english": "<color=#1002C5FF>Shy</color>",
-    "schinese": "<color=#1002C5FF>社恐</color>"
-  },
-  {
-    "id": "CustomOption.VIP",
-    "english": "<color=#DCEE85FF>VIP</color>",
-    "schinese": "<color=#DCEE85FF>网红</color>"
-  },
-  {
     "id": "CustomOption.VIPKnows",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Volatile",
-    "english": "<color=#FFA60AFF>Volatile</color>",
-    "schinese": "<color=#FFA60AFF>精神病</color>"
   },
   {
     "id": "CustomOption.VolatileInterval",
@@ -4125,11 +3690,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Yeller",
-    "english": "<color=#F6AAB7FF>Yeller</color>",
-    "schinese": "<color=#F6AAB7FF>广播员</color>"
-  },
-  {
     "id": "CustomOption.MaxAbilities",
     "english": "",
     "schinese": ""
@@ -4138,11 +3698,6 @@
     "id": "CustomOption.MinAbilities",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Assassin",
-    "english": "<color=#073763FF>Assassin</color>",
-    "schinese": "<color=#073763FF>刺客</color>"
   },
   {
     "id": "CustomOption.AssassinKills",
@@ -4195,19 +3750,9 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.ButtonBarry",
-    "english": "<color=#E600FFFF>Button Barry</color>",
-    "schinese": "<color=#E600FFFF>执钮人</color>"
-  },
-  {
     "id": "CustomOption.ButtonCooldown",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Insider",
-    "english": "<color=#26FCFBFF>Insider</color>",
-    "schinese": "<color=#26FCFBFF>唱票人</color>"
   },
   {
     "id": "CustomOption.InsiderKnows",
@@ -4215,24 +3760,9 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Multitasker",
-    "english": "<color=#FF804DFF>Multitasker</color>",
-    "schinese": "<color=#FF804DFF>多线程</color>"
-  },
-  {
     "id": "CustomOption.Transparancy",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Ninja",
-    "english": "<color=#A84300FF>Ninja</color>",
-    "schinese": "<color=#A84300FF>枪手</color>"
-  },
-  {
-    "id": "CustomOption.Politician",
-    "english": "<color=#CCA3CCFF>Politician</color>",
-    "schinese": "<color=#CCA3CCFF>政治家</color>"
   },
   {
     "id": "CustomOption.PoliticianVoteBank",
@@ -4250,24 +3780,9 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Radar",
-    "english": "<color=#FF0080FF>Radar</color>",
-    "schinese": "<color=#FF0080FF>雷达</color>"
-  },
-  {
-    "id": "CustomOption.Ruthless",
-    "english": "<color=#2160DDFF>Ruthless</color>",
-    "schinese": "<color=#2160DDFF>杀人魔</color>"
-  },
-  {
     "id": "CustomOption.RuthlessKnows",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Snitch",
-    "english": "<color=#D4AF37FF>Snitch</color>",
-    "schinese": "<color=#D4AF37FF>告密者</color>"
   },
   {
     "id": "CustomOption.SnitchKnows",
@@ -4300,11 +3815,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Swapper",
-    "english": "<color=#66E666FF>Swapper</color>",
-    "schinese": "<color=#66E666FF>换票师</color>"
-  },
-  {
     "id": "CustomOption.SwapperButton",
     "english": "",
     "schinese": ""
@@ -4320,34 +3830,14 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Tiebreaker",
-    "english": "<color=#99E699FF>Tiebreaker</color>",
-    "schinese": "<color=#99E699FF>破平者</color>"
-  },
-  {
     "id": "CustomOption.TiebreakerKnows",
     "english": "",
     "schinese": ""
   },
   {
-    "id": "CustomOption.Torch",
-    "english": "<color=#FFFF99FF>Torch</color>",
-    "schinese": "<color=#FFFF99FF>火炬</color>"
-  },
-  {
-    "id": "CustomOption.Tunneler",
-    "english": "<color=#E91E63FF>Tunneler</color>",
-    "schinese": "<color=#E91E63FF>隧道工</color>"
-  },
-  {
     "id": "CustomOption.TunnelerKnows",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Underdog",
-    "english": "<color=#841A7FFF>Underdog</color>",
-    "schinese": "<color=#841A7FFF>潜伏者</color>"
   },
   {
     "id": "CustomOption.UnderdogKnows",
@@ -4375,19 +3865,9 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Allied",
-    "english": "<color=#4545A9FF>Allied</color>",
-    "schinese": "<color=#4545A9FF>佣兵</color>"
-  },
-  {
     "id": "CustomOption.AlliedFaction",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Corrupted",
-    "english": "<color=#4545FFFF>Corrupted</color>",
-    "schinese": "<color=#4545FFFF>腐坏</color>"
   },
   {
     "id": "CustomOption.CorruptCd",
@@ -4405,11 +3885,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Defector",
-    "english": "<color=#E1C849FF>Defector</color>",
-    "schinese": "<color=#E1C849FF>降兵</color>"
-  },
-  {
     "id": "CustomOption.DefectorKnows",
     "english": "",
     "schinese": ""
@@ -4418,11 +3893,6 @@
     "id": "CustomOption.DefectorFaction",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Fanatic",
-    "english": "<color=#678D36FF>Fanatic</color>",
-    "schinese": "<color=#678D36FF>狂信徒</color>"
   },
   {
     "id": "CustomOption.FanaticKnows",
@@ -4445,11 +3915,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Linked",
-    "english": "<color=#FF351FFF>Linked</color>",
-    "schinese": "<color=#FF351FFF>盟友</color>"
-  },
-  {
     "id": "CustomOption.LinkedChat",
     "english": "",
     "schinese": ""
@@ -4458,11 +3923,6 @@
     "id": "CustomOption.LinkedRoles",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Lovers",
-    "english": "<color=#FF66CCFF>Lovers</color>",
-    "schinese": "<color=#FF66CCFF>恋人</color>"
   },
   {
     "id": "CustomOption.BothLoversDie",
@@ -4480,11 +3940,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Mafia",
-    "english": "<color=#00EEFFFF>Mafia</color>",
-    "schinese": "<color=#00EEFFFF>黑帮</color>"
-  },
-  {
     "id": "CustomOption.MafiaRoles",
     "english": "",
     "schinese": ""
@@ -4493,11 +3948,6 @@
     "id": "CustomOption.MafVent",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Overlord",
-    "english": "<color=#008080FF>Overlord</color>",
-    "schinese": "<color=#008080FF>霸王</color>"
   },
   {
     "id": "CustomOption.OverlordKnows",
@@ -4510,29 +3960,14 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Rivals",
-    "english": "<color=#3D2D2CFF>Rivals</color>",
-    "schinese": "<color=#3D2D2CFF>冤家</color>"
-  },
-  {
     "id": "CustomOption.RivalsChat",
     "english": "",
     "schinese": ""
   },
   {
-    "id": "CustomOption.Taskmaster",
-    "english": "<color=#ABABFFFF>Taskmaster</color>",
-    "schinese": "<color=#ABABFFFF>工作狂</color>"
-  },
-  {
     "id": "CustomOption.TMTasksRemaining",
     "english": "",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Traitor",
-    "english": "<color=#370D43FF>Traitor</color>",
-    "schinese": "<color=#370D43FF>叛徒</color>"
   },
   {
     "id": "CustomOption.TraitorKnows",
@@ -4795,8 +4230,8 @@
     "schinese": ""
   },
   {
-    "id": "ImportExport.Slot",
-    "english": "Slot %num%",
+    "id": "ImportExport.Save",
+    "english": "Save Settings",
     "schinese": ""
   },
   {
