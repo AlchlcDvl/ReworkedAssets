@@ -465,7 +465,7 @@
     "schinese": "允许使用管道的玩家"
   },
   {
-    "ids": [ "CustomOption.WhoCanVent.Everyone", "CustomOption.AdminDeadPlayers.Everyone" ],
+    "ids": [ "CustomOption.WhoCanVent.Everyone", "CustomOption.ShieldOptions.Everyone", "CustomOption.AdminDeadPlayers.Everyone" ],
     "english": "Everyone",
     "schinese": ""
   },
@@ -475,7 +475,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.WhoCanVent.NoOne",
+    "ids": [ "CustomOption.WhoCanVent.NoOne", "CustomOption.ShieldOptions.Nobody" ],
     "english": "No One",
     "schinese": ""
   },
@@ -513,11 +513,6 @@
     "id": "CustomOption.NoSkipping",
     "english": "No Skipping",
     "schinese": "禁止弃票"
-  },
-  {
-    "id": "CustomOption.NoSkipping.No",
-    "english": "Never",
-    "schinese": ""
   },
   {
     "id": "CustomOption.NoSkipping.Emergency",
@@ -900,6 +895,11 @@
     "schinese": "<color=#1D7CF2FF>击杀型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
   },
   {
+    "id": "CustomOption.Bastion",
+    "english": "<color=#7E3C64FF>Bastion</color>",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.Vigilante",
     "english": "<color=#FFFF00FF>Vigilante</color>",
     "schinese": "<color=#FFFF00FF>警长</color>"
@@ -920,9 +920,14 @@
     "schinese": "<color=#660000FF>殉道者</color>"
   },
   {
-    "id": "CustomOption.Medic",
+    "ids": [ "CustomOption.Medic", "CustomOption.ShieldOptions.Medic" ],
     "english": "<color=#006600FF>Medic</color>",
     "schinese": "<color=#006600FF>医生</color>"
+  },
+  {
+    "id": "CustomOption.Trapper",
+    "english": "<color=#BE1C8CFF>Trapper</color>",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrewSovereignRoles",
@@ -1630,7 +1635,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CrewVenting.Never",
+    "ids": [ "CustomOption.ShowMediumToDead.No", "CustomOption.NoSkipping.No", "CustomOption.CrewVenting.Never", "CustomOption.VigiNotif.Never" ],
     "english": "Never",
     "schinese": ""
   },
@@ -1660,7 +1665,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.MysticRevealCd",
+    "id": "CustomOption.RevealCd",
     "english": "Reveal Cooldown",
     "schinese": ""
   },
@@ -1725,23 +1730,23 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.AnonymousFootprint",
-    "english": "AnonymousFootprint",
+    "id": "CustomOption.AnonymousFootPrint",
+    "english": "Anonymous Footprint",
     "schinese": ""
   },
   {
     "id": "CustomOption.FootprintVisibility.OnlyWhenCamouflaged",
-    "english": "",
+    "english": "Only When Camouflaged",
     "schinese": ""
   },
   {
     "id": "CustomOption.FootprintVisibility.AlwaysVisible",
-    "english": "",
+    "english": "Colour Always Visible",
     "schinese": ""
   },
   {
     "id": "CustomOption.FootprintVisibility.AlwaysCamouflaged",
-    "english": "",
+    "english": "Always Camouflaged",
     "schinese": ""
   },
   {
@@ -1762,11 +1767,6 @@
   {
     "id": "CustomOption.ShowMediumToDead",
     "english": "Reveal The <color=#A680FFFF>Medium</color> To The Mediate Target",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.ShowMediumToDead.No",
-    "english": "No",
     "schinese": ""
   },
   {
@@ -1866,137 +1866,192 @@
   },
   {
     "id": "CustomOption.InterrogateCd",
-    "english": "",
+    "english": "Interrogate Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutEvilRed",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> Appear Evil",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutKillingRed",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Appear Evil",
     "schinese": ""
   },
   {
     "id": "CustomOption.UpdateInterval",
-    "english": "",
+    "english": "Arrow Update Interval",
     "schinese": ""
   },
   {
     "id": "CustomOption.TrackCd",
-    "english": "",
+    "english": "Track Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ResetOnNewRound",
-    "english": "",
+    "english": "Tracking Bugs Reset Each Round",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxTracks",
-    "english": "",
+    "english": "Max Tracking Bugs",
     "schinese": ""
   },
   {
     "id": "CustomOption.CKMax",
-    "english": "",
+    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Killers</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.BastionCd",
+    "english": "Bastion Bomb Cooldown",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.MaxBombs",
+    "english": "Max Bombs",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.BombRemovedOnKill",
+    "english": "Vent Bomb Is Removed On Kills",
     "schinese": ""
   },
   {
     "id": "CustomOption.AlertCd",
-    "english": "",
+    "english": "Alert Cooldown",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.AlertCd",
+    "english": "Alert Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.AlertDur",
-    "english": "",
+    "english": "Alert Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxAlerts",
-    "english": "",
+    "english": "Max Alerts",
     "schinese": ""
   },
   {
     "id": "CustomOption.MisfireKillsInno",
-    "english": "",
+    "english": "Misfire Kills Innocent Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillAgain",
-    "english": "",
+    "english": "<color=#FFFF00FF>Vigilante</color> Can Kill Again If Target Was Innocent",
     "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoShot",
-    "english": "",
+    "english": "<color=#FFFF00FF>Vigilante</color> Cannot Shoot On The First Round",
     "schinese": ""
   },
   {
-    "id": "CustomOption.VigiNotifOptions",
-    "english": "",
+    "id": "CustomOption.HowDoesVigilanteDie",
+    "english": "How Does <color=#FFFF00FF>Vigilante</color> Die",
     "schinese": ""
   },
   {
-    "id": "CustomOption.VigiOptions",
-    "english": "",
+    "id": "CustomOption.VigiOptions.PostMeeting",
+    "english": "Post-Meeting",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.VigiOptions.Immediate",
+    "english": "Immediately",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.VigiOptions.PreMeeting",
+    "english": "Pre-Meeting",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.HowIsVigilanteNotified",
+    "english": "How The <color=#FFFF00FF>Vigilante</color> Notified Of Target's Innocence",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.VigiNotif.Message",
+    "english": "Message",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.VigiNotif.Flash",
+    "english": "Flash",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShootCd",
-    "english": "",
+    "english": "Shoot Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxBullets",
-    "english": "",
+    "english": "Max Bullets",
     "schinese": ""
   },
   {
     "id": "CustomOption.CrPMax",
-    "english": "",
+    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Protectives</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxRevives",
-    "english": "",
+    "english": "Max Revives",
     "schinese": ""
   },
   {
     "id": "CustomOption.ReviveCd",
-    "english": "",
+    "english": "Revive Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ReviveDur",
-    "english": "",
+    "english": "Revive Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.AltruistTargetBody",
-    "english": "",
+    "english": "Target's Body Disappears On The Start Of Revive",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShowShielded",
-    "english": "",
+    "english": "Show Shielded Player To",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhoGetsNotification",
-    "english": "",
+    "english": "Who Receives Notification Of Murder Attempt",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ShieldOptions.Shielded",
+    "english": "Shielded",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ShieldOptions.ShieldedAndMedic",
+    "english": "Shielded And <color=#006600FF>Medic</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShieldBreaks",
-    "english": "",
+    "english": "Shield Breaks On Murder Attempt",
     "schinese": ""
   },
   {
     "id": "CustomOption.CSvMax",
-    "english": "",
+    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Sovereigns</color>",
     "schinese": ""
   },
   {
@@ -2031,7 +2086,7 @@
   },
   {
     "id": "CustomOption.KnightingCd",
-    "english": "",
+    "english": "Knighting Cooldown",
     "schinese": ""
   },
   {
@@ -2041,12 +2096,12 @@
   },
   {
     "id": "CustomOption.KnightCount",
-    "english": "",
+    "english": "Max Knights",
     "schinese": ""
   },
   {
     "id": "CustomOption.KnightVoteCount",
-    "english": "",
+    "english": "Knight Vote Count",
     "schinese": ""
   },
   {
@@ -2056,7 +2111,7 @@
   },
   {
     "id": "CustomOption.KnightButton",
-    "english": "",
+    "english": "Knights Can Button",
     "schinese": ""
   },
   {
@@ -2066,37 +2121,37 @@
   },
   {
     "id": "CustomOption.SwoopCd",
-    "english": "",
+    "english": "Swoop Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.SwoopDur",
-    "english": "",
+    "english": "Swoop Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxSwoops",
-    "english": "",
+    "english": "Max Swoops",
     "schinese": ""
   },
   {
     "id": "CustomOption.FixCd",
-    "english": "",
+    "english": "Fix Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxFixes",
-    "english": "",
+    "english": "Max Fixes",
     "schinese": ""
   },
   {
-    "id": "CustomOption.EscortCd",
-    "english": "",
+    "ids": [ "CustomOption.EscortCd", "CustomOption.ConsortCd" ],
+    "english": "Roleblock Cooldown",
     "schinese": ""
   },
   {
-    "id": "CustomOption.EscortDur",
-    "english": "",
+    "ids": [ "CustomOption.EscortDur", "CustomOption.ConsortDur" ],
+    "english": "Roleblock Duration",
     "schinese": ""
   },
   {
