@@ -465,7 +465,7 @@
     "schinese": "允许使用管道的玩家"
   },
   {
-    "ids": [ "CustomOption.WhoCanVent.Everyone", "CustomOption.ShieldOptions.Everyone", "CustomOption.AdminDeadPlayers.Everyone" ],
+    "ids": [ "CustomOption.WhoCanVent.Everyone", "CustomOption.ShieldOptions.Everyone", "CustomOption.AdminDeadPlayers.Everyone", "CustomOption.RevealerCanBeClickedBy.All" ],
     "english": "Everyone",
     "schinese": ""
   },
@@ -975,7 +975,7 @@
     "schinese": "<color=#8D0F8CFF>效颦者</color>"
   },
   {
-    "id": "CustomOption.Shifter",
+    "ids": [ "CustomOption.Shifter", "CustomOption.BecomeEnum.Shifter" ],
     "english": "<color=#DF851FFF>Shifter</color>",
     "schinese": "<color=#DF851FFF>交换师</color>"
   },
@@ -995,7 +995,7 @@
     "schinese": "<color=#D3D3D3FF>冤魂</color>"
   },
   {
-    "id": "CustomOption.Crewmate",
+    "ids": [ "CustomOption.Crewmate", "CustomOption.BecomeEnum.Crewmate" ],
     "english": "<color=#8CFFFFFF>Crewmate</color>",
     "schinese": "<color=#8CFFFFFF>船员</color>"
   },
@@ -1383,6 +1383,11 @@
     "id": "CustomOption.Bait",
     "english": "<color=#00B3B3FF>Bait</color>",
     "schinese": "<color=#00B3B3FF>诱饵</color>"
+  },
+  {
+    "id": "CustomOption.Colorblind",
+    "english": "<color=#B34D99FF>Colorblind</color>",
+    "schinese": ""
   },
   {
     "id": "CustomOption.Coward",
@@ -2056,32 +2061,32 @@
   },
   {
     "id": "CustomOption.RoundOneNoDictReveal",
-    "english": "",
+    "english": "<color=#00CB97FF>Dictator</color> Cannot Reveal Round One",
     "schinese": ""
   },
   {
     "id": "CustomOption.DictateAfterVoting",
-    "english": "",
+    "english": "<color=#00CB97FF>Dictator</color> Can Veto After Voting",
     "schinese": ""
   },
   {
     "id": "CustomOption.DictatorButton",
-    "english": "",
+    "english": "<color=#00CB97FF>Dictator</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.MayorVoteCount",
-    "english": "",
+    "english": "Revealed <color=#704FA8FF>Mayor</color> Votes Count As",
     "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoMayorReveal",
-    "english": "",
+    "english": "<color=#704FA8FF>Mayor</color> Cannot Reveal Round One",
     "schinese": ""
   },
   {
     "id": "CustomOption.MayorButton",
-    "english": "",
+    "english": "<color=#704FA8FF>Mayor</color> Can Button",
     "schinese": ""
   },
   {
@@ -2091,7 +2096,7 @@
   },
   {
     "id": "CustomOption.RoundOneNoKnighting",
-    "english": "",
+    "english": "<color=#FF004EFF>Monarch</color> Cannot Knight Round One",
     "schinese": ""
   },
   {
@@ -2101,12 +2106,12 @@
   },
   {
     "id": "CustomOption.KnightVoteCount",
-    "english": "Knight Vote Count",
+    "english": "Knight Votes Count As",
     "schinese": ""
   },
   {
     "id": "CustomOption.MonarchButton",
-    "english": "",
+    "english": "<color=#FF004EFF>Monarch</color> Can Button",
     "schinese": ""
   },
   {
@@ -2116,7 +2121,7 @@
   },
   {
     "id": "CustomOption.CSMax",
-    "english": "",
+    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Supporters</color>",
     "schinese": ""
   },
   {
@@ -2156,72 +2161,97 @@
   },
   {
     "id": "CustomOption.ReviveAfterVoting",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.MaxUses",
-    "english": "",
+    "english": "<color=#8D0F8CFF>Retributionist</color> Can Mimic After Voting",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShiftCd",
-    "english": "",
+    "english": "Shift Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShiftedBecomes",
-    "english": "",
+    "english": "Shifted Becomes",
     "schinese": ""
   },
   {
     "id": "CustomOption.TransportDur",
-    "english": "",
+    "english": "Transport Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.TransportCd",
-    "english": "",
+    "english": "Transport Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.TransSelf",
-    "english": "",
+    "english": "<color=#00EEFFFF>Transporter</color> Can Transport Themselves",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxTransports",
-    "english": "",
+    "english": "Max Transports",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerTasksRemainingClicked",
-    "english": "",
+    "english": "Tasks Remaining When <color=#D3D3D3FF>Revealer</color> Can Be Clicked",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerTasksRemainingAlert",
-    "english": "",
+    "english": "Tasks Remaining When Revealed",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsNeutrals",
-    "english": "",
+    "english": "<color=#D3D3D3FF>Revealer</color> Reveals <color=#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsCrew",
-    "english": "",
+    "english": "<color=#D3D3D3FF>Revealer</color> Reveals <color=#8CFFFFFF>Crew</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsRoles",
-    "english": "",
+    "english": "<color=#D3D3D3FF>Revealer</color> Reveals Exact <color=#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerCanBeClickedBy",
-    "english": "",
+    "english": "Who Can Click <color=#D3D3D3FF>Revealer</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.RevealerCanBeClickedBy.NonCrew",
+    "english": "Non-<color=#8CFFFFFF>Crew</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.RevealerCanBeClickedBy.EvilsOnly",
+    "english": "Evils Only",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.MaxTraps",
+    "english": "Max Traps",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.TrapCd",
+    "english": "Trap Cooldown",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.BuildCd",
+    "english": "Build Cooldown",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.BuildDur",
+    "english": "Build Duration",
     "schinese": ""
   },
   {
