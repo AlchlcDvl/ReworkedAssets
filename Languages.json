@@ -642,6 +642,11 @@
     "schinese": "游玩Mira HQ概率"
   },
   {
+    "id": "CustomOption.RandomMapdlekS",
+    "english": "dlekS Chance",
+    "schinese": "游玩dlekS概率"
+  },
+  {
     "id": "CustomOption.RandomMapPolus",
     "english": "Polus Chance",
     "schinese": "游玩Polus概率"
@@ -717,11 +722,6 @@
     "schinese": "隐蔽效果在会议阶段也生效"
   },
   {
-    "id": "CustomOption.RandomMapdlekS",
-    "english": "dlekS Chance",
-    "schinese": "游玩dlekS概率"
-  },
-  {
     "id": "CustomOption.NightVision",
     "english": "Night Vision Cameras",
     "schinese": "监控画面启用夜视效果"
@@ -747,7 +747,7 @@
     "schinese": "Better Skeld设置"
   },
   {
-    "id": "CustomOption.BetterMira",
+    "id": "CustomOption.BetterMiraHQ",
     "english": "Better Mira HQ",
     "schinese": "Better Mira HQ设置"
   },
@@ -755,6 +755,16 @@
     "ids": [ "CustomOption.MiraHQVentImprovements", "CustomOption.PolusVentImprovements", "CustomOption.SkeldVentImprovements" ],
     "english": "Improved Vent Layout",
     "schinese": "优化管道网络布局"
+  },
+  {
+    "ids": [ "CustomOption.FungleReactorTimer", "CustomOption.MiraReactorTimer", "CustomOption.SkeldReactorTimer" ],
+    "english": "Reactor Countdown",
+    "schinese": ""
+  },
+  {
+    "ids": [ "CustomOption.SkeldO2Timer", "CustomOption.MiraO2Timer" ],
+    "english": "Oxygen Countdown",
+    "schinese": ""
   },
   {
     "id": "CustomOption.BetterPolus",
@@ -1007,7 +1017,7 @@
     "schinese": "<color=#22FFFFFF>失忆者</color>"
   },
   {
-    "id": "CustomOption.GuardianAngel",
+    "ids": [ "CustomOption.GuardianAngel", "CustomOption.ProtectOptions.GA" ],
     "english": "<color=#FFFFFFFF>Guardian Angel</color>",
     "schinese": "<color=#FFFFFFFF>守护天使</color>"
   },
@@ -1607,17 +1617,17 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CommonTasks",
+    "ids": [ "CustomOption.CommonTasks", "CustomOption.HnSCommonTasks", "CustomOption.TRCommonTasks" ],
     "english": "Common Tasks",
     "schinese": ""
   },
   {
-    "id": "CustomOption.LongTasks",
+    "ids": [ "CustomOption.LongTasks", "CustomOption.HnSLongTasks", "CustomOption.TRLongTasks" ],
     "english": "Long Tasks",
     "schinese": ""
   },
   {
-    "id": "CustomOption.ShortTasks",
+    "ids": [ "CustomOption.ShortTasks", "CustomOption.HnSShortTasks", "CustomOption.TRShortTasks" ],
     "english": "Short Tasks",
     "schinese": ""
   },
@@ -1899,7 +1909,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CKMax",
+    "id": "CustomOption.MaxCK",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Killers</color>",
     "schinese": ""
   },
@@ -1999,7 +2009,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CrPMax",
+    "id": "CustomOption.MaxCrP",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Protectives</color>",
     "schinese": ""
   },
@@ -2034,7 +2044,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.ShieldOptions.Shielded",
+    "ids": [ "CustomOption.ShieldOptions.Shielded", "CustomOption.WhoCanSeeFirstKillShield.PlayerOnly" ],
     "english": "Shielded",
     "schinese": ""
   },
@@ -2049,7 +2059,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CSvMax",
+    "id": "CustomOption.MaxCSv",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Sovereigns</color>",
     "schinese": ""
   },
@@ -2114,7 +2124,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CSMax",
+    "id": "CustomOption.MaxCS",
     "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Supporters</color>",
     "schinese": ""
   },
@@ -2229,7 +2239,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.RevealerCanBeClickedBy.NonCrew",
+    "ids": [ "CustomOption.RevealerCanBeClickedBy.NonCrew", "CustomOption.DefectorFaction.NonCrew" ],
     "english": "Non-<color=#8CFFFFFF>Crew</color>",
     "schinese": ""
   },
@@ -2259,168 +2269,198 @@
     "schinese": ""
   },
   {
+    "id": "CustomOption.NeutralSettings",
+    "english": "<color=#B3B3B3FF>Neutral</color> Settings",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.NeutralVision",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutral</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.LightsAffectNeutrals",
-    "english": "",
+    "english": "Lights Sabotage Affects <color=#B3B3B3FF>Neutral</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralFlashlight",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutrals</color> Use A Flashlight",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralMax",
-    "english": "",
+    "english": "Max <color=#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralMin",
-    "english": "",
+    "english": "Min <color=#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NoSolo",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutrals</color> Together, Strong",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.NoSolo.SameNKs",
+    "english": "Same <color=#B3B3B3FF>N</color><color=#1D7CF2FF>Ks</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.NoSolo.AllNKs",
+    "english": "All <color=#B3B3B3FF>N</color><color=#1D7CF2FF>Ks</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.NoSolo.AllNeutrals",
+    "english": "All <color=#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AvoidNeutralKingmakers",
-    "english": "",
+    "english": "Avoid <color=#B3B3B3FF>Neutral</color> Kingmakers",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralsVent",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutrals</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.PestSpawn",
-    "english": "",
+    "english": "<color=#424242FF>Pestilence</color> Can Spawn Directly",
     "schinese": ""
   },
   {
     "id": "CustomOption.PlayersAlerted",
-    "english": "",
+    "english": "<color=#424242FF>Pestilence</color> Transformation Alerts Everyone",
     "schinese": ""
   },
   {
     "id": "CustomOption.ObliterateCd",
-    "english": "",
+    "english": "Obliterate Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.PestVent",
-    "english": "",
+    "english": "<color=#424242FF>Pestilence</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.NBMax",
-    "english": "",
+    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.VigiKillsBenigns",
-    "english": "",
+    "english": "<color=#FFFF00FF>Vigilante</color> Kills <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RememberArrows",
-    "english": "",
+    "english": "<color=#22FFFFFF>Amnesiac</color> Gets Arrows To Dead Bodies",
     "schinese": ""
   },
   {
     "id": "CustomOption.RememberArrowDelay",
-    "english": "",
+    "english": "Remember Arrow Appearance Delay",
     "schinese": ""
   },
   {
     "id": "CustomOption.AmneVent",
-    "english": "",
+    "english": "<color=#22FFFFFF>Amnesiac</color> Can Hide In Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.AmneSwitchVent",
-    "english": "",
+    "english": "<color=#22FFFFFF>Amnesiac</color> Can Switch Vents",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.AmneToThief",
+    "english": "<color=#22FFFFFF>Amnesiac</color> Can Turn Into <color=#80FF00FF>Thief</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuardianAngelCanPickTargets",
-    "english": "",
+    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Pick Their Own Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.ProtectCd",
-    "english": "",
+    "english": "Protect Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ProtectDur",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.ProtectKCReset",
-    "english": "",
+    "english": "Protect Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxProtects",
-    "english": "",
+    "english": "Max Protects",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShowProtect",
-    "english": "",
+    "english": "Show Protected Player To",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ProtectOptions.Protected",
+    "english": "Protected",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ProtectOptions.ProtectedAndGA",
+    "english": "Protected + <color=#FFFFFFFF>GA</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GATargetKnows",
-    "english": "",
+    "english": "Target Knows <color=#FFFFFFFF>Guardian Angel</color> Exists",
     "schinese": ""
   },
   {
     "id": "CustomOption.ProtectBeyondTheGrave",
-    "english": "",
+    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Protect After Death",
     "schinese": ""
   },
   {
     "id": "CustomOption.GAKnowsTargetRole",
-    "english": "",
+    "english": "<color=#FFFFFFFF>Guardian Angel</color> Knows Target's <color=#FFD700FF>Role</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GAVent",
-    "english": "",
+    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.GASwitchVent",
-    "english": "",
+    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Switch Vents",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.GAToSurv",
+    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Turn Into <color=#DDDD00FF>Survivor</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.VestCd",
-    "english": "",
+    "english": "Vest Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.VestDur",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.VestKCReset",
-    "english": "",
+    "english": "Vest Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxVests",
-    "english": "",
+    "english": "Max Vests",
     "schinese": ""
   },
   {
@@ -2435,7 +2475,7 @@
   },
   {
     "id": "CustomOption.StealCd",
-    "english": "",
+    "english": "Steal Cooldown",
     "schinese": ""
   },
   {
@@ -2495,12 +2535,12 @@
   },
   {
     "id": "CustomOption.GuessCd",
-    "english": "",
+    "english": "Guess Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.BountyHunterGuesses",
-    "english": "",
+    "english": "Max Target Guesses",
     "schinese": ""
   },
   {
@@ -2510,12 +2550,12 @@
   },
   {
     "id": "CustomOption.EatCd",
-    "english": "",
+    "english": "Eat Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.BodiesNeeded",
-    "english": "",
+    "english": "Bodies Needed To Win",
     "schinese": ""
   },
   {
@@ -2535,16 +2575,6 @@
   },
   {
     "id": "CustomOption.ExecutionerCanPickTargets",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.DoomCd",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.MaxDooms",
     "english": "",
     "schinese": ""
   },
@@ -2610,7 +2640,7 @@
   },
   {
     "id": "CustomOption.MaxGuesses",
-    "english": "",
+    "english": "Max Guesses",
     "schinese": ""
   },
   {
@@ -2620,16 +2650,6 @@
   },
   {
     "id": "CustomOption.JesterButton",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.HauntCd",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.MaxHaunts",
     "english": "",
     "schinese": ""
   },
@@ -2650,7 +2670,7 @@
   },
   {
     "id": "CustomOption.InteractCd",
-    "english": "",
+    "english": "Interact Cooldown",
     "schinese": ""
   },
   {
@@ -2664,13 +2684,13 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.NHMax",
+    "id": "CustomOption.MaxNH",
     "english": "",
     "schinese": ""
   },
   {
     "id": "CustomOption.InfectCd",
-    "english": "",
+    "english": "Infect Cooldown",
     "schinese": ""
   },
   {
@@ -2679,7 +2699,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.NKMax",
+    "id": "CustomOption.MaxNK",
     "english": "",
     "schinese": ""
   },
@@ -2694,13 +2714,13 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.DouseCd",
-    "english": "",
+    "ids": [ "CustomOption.ArsoDouseCd", "CustomOption.CryoDouseCd" ],
+    "english": "Douse Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.IgniteCd",
-    "english": "",
+    "english": "Ignite Cooldown",
     "schinese": ""
   },
   {
@@ -2710,17 +2730,17 @@
   },
   {
     "id": "CustomOption.ArsoIgniteAll",
-    "english": "",
+    "english": "Ignition Ignites All Doused Players",
     "schinese": ""
   },
   {
     "id": "CustomOption.ArsoCooldownsLinked",
-    "english": "",
+    "english": "Douse And Ignite Cooldowns Are Linked",
     "schinese": ""
   },
   {
     "id": "CustomOption.IgnitionCremates",
-    "english": "",
+    "english": "Ignition Cremates Bodies",
     "schinese": ""
   },
   {
@@ -2729,8 +2749,13 @@
     "schinese": ""
   },
   {
+    "id": "CustomOption.VaporiseCd",
+    "english": "Vaporise Cooldown",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.CryoFreezeAll",
-    "english": "",
+    "english": "Freeze Freezes All Doused Players",
     "schinese": ""
   },
   {
@@ -2745,27 +2770,27 @@
   },
   {
     "id": "CustomOption.MimicCd",
-    "english": "",
+    "english": "Mimic Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.MimicDur",
-    "english": "",
+    "english": "Mimic Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.HackCd",
-    "english": "",
+    "english": "Hack Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.HackDur",
-    "english": "",
+    "english": "Hack Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutraliseCd",
-    "english": "",
+    "english": "Neutralise Cooldown",
     "schinese": ""
   },
   {
@@ -2775,12 +2800,12 @@
   },
   {
     "id": "CustomOption.AssaultCd",
-    "english": "",
+    "english": "Assault Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssaultBonus",
-    "english": "",
+    "english": "Assault Cooldown Bonus Per Kill",
     "schinese": ""
   },
   {
@@ -2790,7 +2815,7 @@
   },
   {
     "id": "CustomOption.MurderCd",
-    "english": "",
+    "english": "Murder Cooldown",
     "schinese": ""
   },
   {
@@ -2800,17 +2825,17 @@
   },
   {
     "id": "CustomOption.BloodlustCd",
-    "english": "",
+    "english": "Bloodlust Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.BloodlustDur",
-    "english": "",
+    "english": "Bloodlust Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.StabCd",
-    "english": "",
+    "english": "Stab Cooldown",
     "schinese": ""
   },
   {
@@ -2820,12 +2845,12 @@
   },
   {
     "id": "CustomOption.MaulCd",
-    "english": "",
+    "english": "Maul Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaulRadius",
-    "english": "",
+    "english": "Maul Radius",
     "schinese": ""
   },
   {
@@ -2834,7 +2859,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.NNMax",
+    "id": "CustomOption.MaxNN",
     "english": "",
     "schinese": ""
   },
@@ -2845,7 +2870,7 @@
   },
   {
     "id": "CustomOption.BiteCd",
-    "english": "",
+    "english": "Bite Cooldown",
     "schinese": ""
   },
   {
@@ -2865,7 +2890,7 @@
   },
   {
     "id": "CustomOption.RecruitCd",
-    "english": "",
+    "english": "Recruit Cooldown",
     "schinese": ""
   },
   {
@@ -2880,57 +2905,57 @@
   },
   {
     "id": "CustomOption.ResurrectCd",
-    "english": "",
+    "english": "Initial Resurrect Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectCdIncrease",
-    "english": "",
+    "english": "Resurrect Cooldown Increases Per Use",
     "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectCdIncreases",
-    "english": "",
+    "english": "Resurrect Cooldown Increases By",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxResurrections",
-    "english": "",
+    "english": "Max Resurrections",
     "schinese": ""
   },
   {
-    "id": "CustomOption.NecroKillCd",
-    "english": "",
+    "id": "CustomOption.SacrificeCd",
+    "english": "Initial Sacrifice Cooldown",
     "schinese": ""
   },
   {
-    "id": "CustomOption.NecroKillCdIncrease",
-    "english": "",
+    "id": "CustomOption.SacrificeCdIncrease",
+    "english": "Sacrifice Cooldown Increases Per Kill",
     "schinese": ""
   },
   {
-    "id": "CustomOption.NecroKillCdIncreases",
-    "english": "",
+    "id": "CustomOption.SacrificeCdIncreases",
+    "english": "Sacrifice Cooldown Increases By",
     "schinese": ""
   },
   {
-    "id": "CustomOption.MaxNecroKills",
-    "english": "",
+    "id": "CustomOption.MaxSacrifices",
+    "english": "Max Sacrifices",
     "schinese": ""
   },
   {
     "id": "CustomOption.NecroCooldownsLinked",
-    "english": "",
+    "english": "Sacrifice And Resurrect Cooldowns Are Linked",
     "schinese": ""
   },
   {
     "id": "CustomOption.NecromancerTargetBody",
-    "english": "",
+    "english": "Target's Body Disappears On The Start Of Resurrect",
     "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectDur",
-    "english": "",
+    "english": "Resurrect Duration",
     "schinese": ""
   },
   {
@@ -2945,37 +2970,37 @@
   },
   {
     "id": "CustomOption.WhisperCd",
-    "english": "",
+    "english": "Initial Whisper Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhisperCdIncreases",
-    "english": "",
+    "english": "Whisper Cooldown Increases By",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhisperCdIncrease",
-    "english": "",
+    "english": "Whisper Cooldown Increases Per Use",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhisperRadius",
-    "english": "",
+    "english": "Whisper Radius",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhisperRate",
-    "english": "",
+    "english": "Initial Whisper Rate",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhisperRateDecreases",
-    "english": "",
+    "english": "Whisper Cooldown Decreases Per Use",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhisperRateDecrease",
-    "english": "",
+    "english": "Whisper Cooldown Decreases By",
     "schinese": ""
   },
   {
@@ -2990,7 +3015,7 @@
   },
   {
     "id": "CustomOption.BetrayCd",
-    "english": "",
+    "english": "Backstab Cooldown",
     "schinese": ""
   },
   {
@@ -3025,7 +3050,7 @@
   },
   {
     "id": "CustomOption.IntKillCd",
-    "english": "",
+    "english": "Kill Cooldown",
     "schinese": ""
   },
   {
@@ -3054,17 +3079,17 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.ICMax",
+    "id": "CustomOption.MaxIC",
     "english": "",
     "schinese": ""
   },
   {
     "id": "CustomOption.BlackmailCd",
-    "english": "",
+    "english": "Blackmail Cooldown",
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.WhispersNotPrivateB", "CustomOption.WhispersNotPrivateS" ],
+    "ids": [ "CustomOption.WhispersNotateB", "CustomOption.WhispersNotateS" ],
     "english": "Whispers Are Not Private",
     "schinese": ""
   },
@@ -3075,42 +3100,42 @@
   },
   {
     "id": "CustomOption.BMRevealed",
-    "english": "",
+    "english": "Blackmail Is Revealed To Everyone",
     "schinese": ""
   },
   {
     "id": "CustomOption.CamouflageCd",
-    "english": "",
+    "english": "Camouflage Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.CamouflageDur",
-    "english": "",
+    "english": "Camouflager Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.CamoHideSize",
-    "english": "",
+    "english": "Camouflage Hides Player Size",
     "schinese": ""
   },
   {
     "id": "CustomOption.CamoHideSpeed",
-    "english": "",
+    "english": "Camouflage Hides Player Speed",
     "schinese": ""
   },
   {
     "id": "CustomOption.FlashCd",
-    "english": "",
+    "english": "Flash Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.FlashDur",
-    "english": "",
+    "english": "Flash Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.FlashRadius",
-    "english": "",
+    "english": "Flash Radius",
     "schinese": ""
   },
   {
@@ -3125,12 +3150,12 @@
   },
   {
     "id": "CustomOption.CleanCd",
-    "english": "",
+    "english": "Clean Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.JaniCooldownsLinked",
-    "english": "",
+    "english": "Kill And Clean Cooldowns Are Linked",
     "schinese": ""
   },
   {
@@ -3140,12 +3165,12 @@
   },
   {
     "id": "CustomOption.DragCd",
-    "english": "",
+    "english": "Drag Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.DragModifier",
-    "english": "",
+    "english": "Drag Speed Modifier",
     "schinese": ""
   },
   {
@@ -3154,33 +3179,33 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.IDMax",
+    "id": "CustomOption.MaxID",
     "english": "",
     "schinese": ""
   },
   {
     "id": "CustomOption.DisguiseCd",
-    "english": "",
+    "english": "Disguise Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.DisguiseDelay",
-    "english": "",
+    "english": "Disguise Delay",
     "schinese": ""
   },
   {
     "id": "CustomOption.DisguiseDur",
-    "english": "",
+    "english": "Disguise Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.MeasureCd",
-    "english": "",
+    "english": "Neasure Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.DisgCooldownsLinked",
-    "english": "",
+    "english": "Disguise And Measure Cooldowns Are Linked",
     "schinese": ""
   },
   {
@@ -3190,22 +3215,22 @@
   },
   {
     "id": "CustomOption.MorphCd",
-    "english": "",
+    "english": "Morph Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.MorphDur",
-    "english": "",
+    "english": "Morph Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.SampleCd",
-    "english": "",
+    "english": "Sample Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.MorphCooldownsLinked",
-    "english": "",
+    "english": "Morph And Sample Cooldowns Are Linked",
     "schinese": ""
   },
   {
@@ -3215,12 +3240,12 @@
   },
   {
     "id": "CustomOption.InvisCd",
-    "english": "",
+    "english": "Invisiblilty Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.InvisDur",
-    "english": "",
+    "english": "Invisiblilty Duration",
     "schinese": ""
   },
   {
@@ -3229,18 +3254,18 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.IKMax",
+    "id": "CustomOption.MaxIK",
     "english": "",
     "schinese": ""
   },
   {
     "id": "CustomOption.AmbushCd",
-    "english": "",
+    "english": "Ambush Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.AmbushDur",
-    "english": "",
+    "english": "Ambush Duration",
     "schinese": ""
   },
   {
@@ -3255,46 +3280,36 @@
   },
   {
     "id": "CustomOption.EnforceCd",
-    "english": "",
+    "english": "Enforce Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnforceDur",
-    "english": "",
+    "english": "Enforce Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnforceDelay",
-    "english": "",
+    "english": "Enforce Delay",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnforceRadius",
-    "english": "",
+    "english": "Enforce Explosion Radius",
     "schinese": ""
   },
   {
-    "id": "CustomOption.ISMax",
+    "id": "CustomOption.MaxIS",
     "english": "",
     "schinese": ""
   },
   {
     "id": "CustomOption.InvestigateCd",
-    "english": "",
+    "english": "Investigate Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ConsigInfo",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.ConsortCd",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.ConsortDur",
     "english": "",
     "schinese": ""
   },
@@ -3305,31 +3320,26 @@
   },
   {
     "id": "CustomOption.MineCd",
-    "english": "",
+    "english": "Mine Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.TeleportCd",
-    "english": "",
+    "english": "Teleport Cooldown",
     "schinese": ""
   },
   {
-    "id": "CustomOption.TeleMarkCd",
-    "english": "",
+    "ids": [ "CustomOption.TeleMarkCd", "CustomOption.GhoulMarkCd" ],
+    "english": "Mark Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.TeleCooldownsLinked",
-    "english": "",
+    "english": "Teleport And Mark Cooldowns Linked",
     "schinese": ""
   },
   {
     "id": "CustomOption.TeleVent",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.GhoulMarkCd",
     "english": "",
     "schinese": ""
   },
@@ -3350,12 +3360,12 @@
   },
   {
     "id": "CustomOption.ChaosDriveMeetingCount",
-    "english": "",
+    "english": "Meetings Till The Chaos Drive Arrives",
     "schinese": ""
   },
   {
     "id": "CustomOption.CDKillCd",
-    "english": "",
+    "english": "Chaos Drive Kill Cooldown",
     "schinese": ""
   },
   {
@@ -3384,18 +3394,18 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.SDMax",
+    "id": "CustomOption.MaxSD",
     "english": "",
     "schinese": ""
   },
   {
     "id": "CustomOption.ConcealCd",
-    "english": "",
+    "english": "Conceal Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ConcealDur",
-    "english": "",
+    "english": "Conceal Duration",
     "schinese": ""
   },
   {
@@ -3405,12 +3415,12 @@
   },
   {
     "id": "CustomOption.ConfuseCd",
-    "english": "",
+    "english": "Confusion Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ConfuseDur",
-    "english": "",
+    "english": "Confuse Duration",
     "schinese": ""
   },
   {
@@ -3420,22 +3430,22 @@
   },
   {
     "id": "CustomOption.FrameCd",
-    "english": "",
+    "english": "Frame Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ChaosDriveFrameRadius",
-    "english": "",
+    "english": "Radial Frame Radius",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShapeshiftDur",
-    "english": "",
+    "english": "Shapeshift Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.ShapeshiftCd",
-    "english": "",
+    "english": "Shapeshift Cooldown",
     "schinese": ""
   },
   {
@@ -3444,8 +3454,8 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.Silencer",
-    "english": "",
+    "id": "CustomOption.SilenceCd",
+    "english": "Silence Cooldown",
     "schinese": ""
   },
   {
@@ -3455,47 +3465,47 @@
   },
   {
     "id": "CustomOption.SilenceRevealed",
-    "english": "",
+    "english": "Silence Is Revealed To Everyone",
     "schinese": ""
   },
   {
-    "id": "CustomOption.SyKMax",
+    "id": "CustomOption.MaxSyK",
     "english": "",
     "schinese": ""
   },
   {
     "id": "CustomOption.BombCd",
-    "english": "",
+    "english": "Bomb Placement Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.DetonateCd",
-    "english": "",
+    "english": "Detonate Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.BombCooldownsLinked",
-    "english": "",
+    "english": "Place And Detonate Cooldowns Are Linked",
     "schinese": ""
   },
   {
     "id": "CustomOption.BombsRemoveOnNewRound",
-    "english": "",
+    "english": "Bombs Are Removed Every Meeting",
     "schinese": ""
   },
   {
     "id": "CustomOption.BombsDetonateOnMeetingStart",
-    "english": "",
+    "english": "Detonate Bombs On The Start Of Meetings",
     "schinese": ""
   },
   {
     "id": "CustomOption.BombRange",
-    "english": "",
+    "english": "Bomb Radius",
     "schinese": ""
   },
   {
     "id": "CustomOption.ChaosDriveBombRange",
-    "english": "",
+    "english": "Bomb Radius Increase With Chaos Drive",
     "schinese": ""
   },
   {
@@ -3505,52 +3515,52 @@
   },
   {
     "id": "CustomOption.CollideCd",
-    "english": "",
+    "english": "Collide Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ChargeCd",
-    "english": "",
+    "english": "Charge Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ChargeDur",
-    "english": "",
+    "english": "Charge Duration",
     "schinese": ""
   },
   {
     "id": "CustomOption.CollideRange",
-    "english": "",
+    "english": "Collision Radius",
     "schinese": ""
   },
   {
     "id": "CustomOption.CollideRangeIncrease",
-    "english": "",
+    "english": "Collision Range Increase With Chaos Drive",
     "schinese": ""
   },
   {
     "id": "CustomOption.ChargeCooldownsLinked",
-    "english": "",
+    "english": "Charge Cooldowns Are Linked",
     "schinese": ""
   },
   {
     "id": "CustomOption.CollideResetsCooldown",
-    "english": "",
+    "english": "Collisions Reset Charge Cooldowns",
     "schinese": ""
   },
   {
     "id": "CustomOption.CrusadeCd",
-    "english": "",
+    "english": "Crusade Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ChaosDriveCrusadeRadius",
-    "english": "",
+    "english": "Crusade Radius With Chaos Drive",
     "schinese": ""
   },
   {
     "id": "CustomOption.CrusadeDur",
-    "english": "",
+    "english": "Crusade Duration",
     "schinese": ""
   },
   {
@@ -3560,37 +3570,37 @@
   },
   {
     "id": "CustomOption.PoisonCd",
-    "english": "",
+    "english": "Poison Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.PoisonDur",
-    "english": "",
+    "english": "Poison Duration",
     "schinese": ""
   },
   {
-    "id": "CustomOption.SPMax",
+    "id": "CustomOption.MaxSP",
     "english": "",
     "schinese": ""
   },
   {
     "id": "CustomOption.SpellCd",
-    "english": "",
+    "english": "Spellbind Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.SpellCdIncrease",
-    "english": "",
+    "english": "Spellbind Cooldown Increases By",
     "schinese": ""
   },
   {
     "id": "CustomOption.TimeCd",
-    "english": "",
+    "english": "Time Control Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.TimeDur",
-    "english": "",
+    "english": "Time Control Duration",
     "schinese": ""
   },
   {
@@ -3604,7 +3614,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.SSuMax",
+    "id": "CustomOption.MaxSSu",
     "english": "",
     "schinese": ""
   },
@@ -3615,17 +3625,17 @@
   },
   {
     "id": "CustomOption.StalkCd",
-    "english": "",
+    "english": "Stalk Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.WarpCd",
-    "english": "",
+    "english": "Warp Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.WarpDur",
-    "english": "",
+    "english": "Warp Duration",
     "schinese": ""
   },
   {
@@ -3640,12 +3650,12 @@
   },
   {
     "id": "CustomOption.ScreamCd",
-    "english": "",
+    "english": "Scream Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.ScreamDur",
-    "english": "",
+    "english": "Scream Duration",
     "schinese": ""
   },
   {
@@ -3925,7 +3935,7 @@
   },
   {
     "id": "CustomOption.CorruptCd",
-    "english": "",
+    "english": "Corrupt Cooldown",
     "schinese": ""
   },
   {
@@ -4209,21 +4219,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.HnSShortTasks",
-    "english": "<color=#7500AFFF>Hide And Seek</color> Short Tasks",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.HnSCommonTasks",
-    "english": "<color=#7500AFFF>Hide And Seek</color> Common Tasks",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.HnSLongTasks",
-    "english": "<color=#7500AFFF>Hide And Seek</color> Long Tasks",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.HunterCount",
     "english": "<color=#FF004EFF>Hunter</color> Count",
     "schinese": ""
@@ -4271,16 +4266,6 @@
   {
     "id": "CustomOption.HuntedChat",
     "english": "<color=#1F51FFFF>Hunted</color> Can Chat",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.TRShortTasks",
-    "english": "<color=#1E49CFFF>Task Race</color> Short Tasks",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.TRCommonTasks",
-    "english": "<color=#1E49CFFF>Task Race</color> Common Tasks",
     "schinese": ""
   },
   {
