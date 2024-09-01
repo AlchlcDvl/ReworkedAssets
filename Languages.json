@@ -465,7 +465,8 @@
     "schinese": "允许使用管道的玩家"
   },
   {
-    "ids": [ "CustomOption.WhoCanVent.Everyone", "CustomOption.ShieldOptions.Everyone", "CustomOption.AdminDeadPlayers.Everyone", "CustomOption.RevealerCanBeClickedBy.All" ],
+    "ids": [ "CustomOption.WhoCanVent.Everyone", "CustomOption.ShieldOptions.Everyone", "CustomOption.AdminDeadPlayers.Everyone", "CustomOption.RevealerCanBeClickedBy.Everyone",
+      "CustomOption.DisguiserTargets.Everyone", "CustomOption.ProtectOptions.Everyone", "CustomOption.WhoCanSeeFirstKillShield.Everyone", "CustomOption.DeadRevealed.Everyone" ],
     "english": "Everyone",
     "schinese": ""
   },
@@ -475,7 +476,8 @@
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.WhoCanVent.NoOne", "CustomOption.ShieldOptions.Nobody" ],
+    "ids": [ "CustomOption.WhoCanVent.NoOne", "CustomOption.ShieldOptions.Nobody", "CustomOption.WhoCanSeeFirstKillShield.NoOne", "CustomOption.AdminDeadPlayers.Nobody",
+      "CustomOption.ProtectOptions.Nobody" ],
     "english": "No One",
     "schinese": ""
   },
@@ -517,11 +519,6 @@
   {
     "id": "CustomOption.NoSkipping.Emergency",
     "english": "Emergency",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.NoSkipping.Always",
-    "english": "Always",
     "schinese": ""
   },
   {
@@ -1155,6 +1152,11 @@
     "schinese": "<color=#1D7CF2FF>亡灵型</color>"
   },
   {
+    "id": "CustomOption.Betrayer",
+    "english": "<color=#11806AFF>Betrayer</color>",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.Phantom",
     "english": "<color=#662962FF>Phantom</color>",
     "schinese": "<color=#662962FF>幻影</color>"
@@ -1640,7 +1642,8 @@
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.ShowMediumToDead.No", "CustomOption.NoSkipping.No", "CustomOption.CrewVenting.Never", "CustomOption.VigiNotif.Never" ],
+    "ids": [ "CustomOption.ShowMediumToDead.No", "CustomOption.NoSkipping.No", "CustomOption.CrewVenting.Never", "CustomOption.VigiNotif.Never", "CustomOption.SyndicateVentOptions.Never",
+      "CustomOption.JanitorOptions.Never", "CustomOption.SKVentOptions.Never", "CustomOption.WerewolfVentOptions.Never", "CustomOption.NoSolo.Never" ],
     "english": "Never",
     "schinese": ""
   },
@@ -1650,7 +1653,8 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CrewVenting.Always",
+    "ids": [ "CustomOption.CrewVenting.Always", "CustomOption.JanitorOptions.Always", "CustomOption.NoSkipping.Always", "CustomOption.SKVentOptions.Always",
+      "CustomOption.WerewolfVentOptions.Always", "CustomOption.SyndicateVentOptions.Always" ],
     "english": "Always",
     "schinese": ""
   },
@@ -1800,13 +1804,8 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.DeadRevealed.Random",
+    "ids": [ "CustomOption.DeadRevealed.Random", "CustomOption.AlliedFaction.Random", "CustomOption.DefectorFaction.Random" ],
     "english": "Random",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.DeadRevealed.All",
-    "english": "All",
     "schinese": ""
   },
   {
@@ -1852,11 +1851,6 @@
   {
     "id": "CustomOption.WhoSeesDead",
     "english": "Who Sees Dead Bodies On Admin Table",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.AdminDeadPlayers.Nobody",
-    "english": "Nobody",
     "schinese": ""
   },
   {
@@ -2046,7 +2040,7 @@
   },
   {
     "id": "CustomOption.ShieldOptions.ShieldedAndMedic",
-    "english": "Shielded And <color=#006600FF>Medic</color>",
+    "english": "Shielded + <color=#006600FF>Medic</color>",
     "schinese": ""
   },
   {
@@ -2215,6 +2209,16 @@
     "schinese": ""
   },
   {
+    "id": "CustomOption.RevealerRevealsTraitor",
+    "english": "<color=#D3D3D3FF>Revealer</color> Reveals <color=#370D43FF>Traitor</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.RevealerRevealsFanatic",
+    "english": "<color=#D3D3D3FF>Revealer</color> Reveals <color=#678D36FF>Fanatic</color>",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.RevealerRevealsRoles",
     "english": "<color=#D3D3D3FF>Revealer</color> Reveals Exact <color=#FFD700FF>Roles</color>",
     "schinese": ""
@@ -2320,7 +2324,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.VigiKillsNB",
+    "id": "CustomOption.VigiKillsBenigns",
     "english": "",
     "schinese": ""
   },
@@ -2485,11 +2489,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.VigiKillsActor",
-    "english": "",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.BountyHunterCanPickTargets",
     "english": "",
     "schinese": ""
@@ -2506,11 +2505,6 @@
   },
   {
     "id": "CustomOption.BHVent",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.VigiKillsBH",
     "english": "",
     "schinese": ""
   },
@@ -2536,11 +2530,6 @@
   },
   {
     "id": "CustomOption.CannibalVent",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.VigiKillsCannibal",
     "english": "",
     "schinese": ""
   },
@@ -2595,11 +2584,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.VigiKillsExecutioner",
-    "english": "",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.GuesserCanPickTargets",
     "english": "",
     "schinese": ""
@@ -2635,11 +2619,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.VigiKillsGuesser",
-    "english": "",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.JesterButton",
     "english": "",
     "schinese": ""
@@ -2666,11 +2645,6 @@
   },
   {
     "id": "CustomOption.JestEjectScreen",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.VigiKillsJester",
     "english": "",
     "schinese": ""
   },
@@ -3090,8 +3064,8 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.WhispersNotPrivate",
-    "english": "",
+    "ids": [ "CustomOption.WhispersNotPrivateB", "CustomOption.WhispersNotPrivateS" ],
+    "english": "Whispers Are Not Private",
     "schinese": ""
   },
   {
@@ -3475,11 +3449,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.WhispersNotPrivateSilencer",
-    "english": "",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.SilenceMates",
     "english": "",
     "schinese": ""
@@ -3835,8 +3804,8 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.ButtonCooldown",
-    "english": "",
+    "id": "CustomOption.ButtonCd",
+    "english": "Button Cooldown",
     "schinese": ""
   },
   {
@@ -4312,6 +4281,16 @@
   {
     "id": "CustomOption.TRCommonTasks",
     "english": "<color=#1E49CFFF>Task Race</color> Common Tasks",
+    "schinese": ""
+  },
+  {
+    "ids": [ "CustomOption.AlliedFaction.Crew", "CustomOption.DefectorFaction.Crew" ],
+    "english": "<color=#8CFFFFFF>Crew</color>",
+    "schinese": ""
+  },
+  {
+    "ids": [ "CustomOption.AlliedFaction.Intruder", "CustomOption.DisguiserTargets.Intruders" ],
+    "english": "<color=#FF1919FF>Intruders</color>",
     "schinese": ""
   },
   {
