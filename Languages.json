@@ -450,11 +450,6 @@
     "schinese": "添加<color=#CFFE61FF>瘟疫之源</color>"
   },
   {
-    "id": "CustomOption.EnableUniques",
-    "english": "Enable Uniques",
-    "schinese": "检职业唯一性"
-  },
-  {
     "id": "CustomOption.GameModifiers",
     "english": "Game Modifiers",
     "schinese": "更多设置"
@@ -523,11 +518,11 @@
   },
   {
     "id": "CustomOption.FirstKillShield",
-    "english": "First Kill Shield",
+    "english": "Enable First Kill Shield",
     "schinese": "首杀保护"
   },
   {
-    "id": "CustomOption.WhoSeeFirstKillShield",
+    "id": "CustomOption.WhoSeesFirstKillShield",
     "english": "Who Sees First Kill Shield",
     "schinese": "可以确认首杀保护的玩家"
   },
@@ -537,14 +532,9 @@
     "schinese": "不止一名玩家的邪恶阵营可以互相确认<color=#FFD700FF>职业</color>"
   },
   {
-    "id": "CustomOption.Visualtasks",
+    "id": "CustomOption.VisualTasks",
     "english": "Visual Tasks",
     "schinese": "视觉性任务"
-  },
-  {
-    "id": "CustomOption.NoNames",
-    "english": "No Player Names",
-    "schinese": "不显示玩家昵称"
   },
   {
     "id": "CustomOption.Whispers",
@@ -622,7 +612,7 @@
     "schinese": "允许同时进行扫描"
   },
   {
-    "id": "CustomOption.ObstructNames",
+    "id": "CustomOption.PlayerNames",
     "english": "Hide Obstructed Player Names",
     "schinese": "隐藏视野外的玩家昵称"
   },
@@ -747,9 +737,19 @@
     "schinese": "Better Skeld设置"
   },
   {
+    "id": "CustomOption.EnableBetterSkeld",
+    "english": "Enable Better Skeld",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.BetterMiraHQ",
     "english": "Better Mira HQ",
     "schinese": "Better Mira HQ设置"
+  },
+  {
+    "id": "CustomOption.EnableBetterMiraHQ",
+    "english": "Enable Better Mira HQ",
+    "schinese": ""
   },
   {
     "ids": [ "CustomOption.MiraHQVentImprovements", "CustomOption.PolusVentImprovements", "CustomOption.SkeldVentImprovements" ],
@@ -772,6 +772,11 @@
     "schinese": "Better Polus设置"
   },
   {
+    "id": "CustomOption.EnableBetterPolus",
+    "english": "Enable Better Polus",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.VitalsLab",
     "english": "Vitals Moved To Lab",
     "schinese": "将生命监装置移动到实验室"
@@ -782,8 +787,8 @@
     "schinese": "将记录温度任务（低温）移动到外部"
   },
   {
-    "id": "CustomOption.WifiCharCourseSwap",
-    "english": "Reboot Wifi And Chart Course Swapped",
+    "id": "CustomOption.WifiChartCourseSwap",
+    "english": "Reboot Wifi And Chart Course Positions Are Swapped",
     "schinese": "交换重启WIFI任务与标出航线任务的位置"
   },
   {
@@ -800,6 +805,11 @@
     "id": "CustomOption.BetterAirship",
     "english": "Better Airship",
     "schinese": "Better Airship设置"
+  },
+  {
+    "id": "CustomOption.EnableBetterAirship",
+    "english": "Enable Better Airship",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MoveVitals",
@@ -837,6 +847,21 @@
     "schinese": "避开撞毁路线倒计时"
   },
   {
+    "id": "CustomOption.BetterFungle",
+    "english": "Better Fungle",
+    "schinese": "Better Fungle设置"
+  },
+  {
+    "id": "CustomOption.EnableBetterFungle",
+    "english": "Enable Better Fungle",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.FungleMixupTimer",
+    "english": "Mushroom Mixup Timer",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.CrewAuditorRoles",
     "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditor</color> <color=#FFD700FF>Roles</color>",
     "schinese": "<color=#1D7CF2FF>审判型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
@@ -865,11 +890,6 @@
     "id": "CustomOption.Detective",
     "english": "<color=#4D4DFFFF>Detective</color>",
     "schinese": "<color=#4D4DFFFF>侦探</color>"
-  },
-  {
-    "id": "CustomOption.Inspector",
-    "english": "<color=#7E3C64FF>Inspector</color>",
-    "schinese": "<color=#7E3C64FF>占卜师</color>"
   },
   {
     "id": "CustomOption.Medium",
@@ -1230,6 +1250,11 @@
     "id": "CustomOption.Enforcer",
     "english": "<color=#005643FF>Enforcer</color>",
     "schinese": "<color=#005643FF>恐怖分子</color>"
+  },
+  {
+    "id": "CustomOption.IntruderHeadRoles",
+    "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Head</color> <color=#FFD700FF>Roles</color>",
+    "schinese": ""
   },
   {
     "id": "CustomOption.IntruderSupportRoles",
@@ -2329,13 +2354,13 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.PestSpawn",
-    "english": "<color=#424242FF>Pestilence</color> Can Spawn Directly",
+    "id": "CustomOption.DirectSpawn",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Apocalypse</color> <color=#FFD700FF>Roles</color> Can Spawn Directly",
     "schinese": ""
   },
   {
     "id": "CustomOption.PlayersAlerted",
-    "english": "<color=#424242FF>Pestilence</color> Transformation Alerts Everyone",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Apocalypse</color> Transformation Alerts Everyone",
     "schinese": ""
   },
   {
@@ -2349,12 +2374,17 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.NBMax",
+    "id": "CustomOption.MaxStacks",
+    "english": "Max Stacks Of Pestilence",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.MaxNB",
     "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.VigiKillsBenigns",
+    "id": "CustomOption.VigilanteKillsBenigns",
     "english": "<color=#FFFF00FF>Vigilante</color> Kills <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>",
     "schinese": ""
   },
@@ -2364,8 +2394,8 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.RememberArrowDelay",
-    "english": "Remember Arrow Appearance Delay",
+    "ids": [ "CustomOption.RememberArrowDelay", "CustomOption.EatArrowDelay" ],
+    "english": "Arrow Appearance Delay",
     "schinese": ""
   },
   {
@@ -2465,12 +2495,12 @@
   },
   {
     "id": "CustomOption.SurvVent",
-    "english": "",
+    "english": "<color=#DDDD00FF>Survivor</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.SurvSwitchVent",
-    "english": "",
+    "english": "<color=#DDDD00FF>Survivor</color> Can Switch Vents",
     "schinese": ""
   },
   {
@@ -2480,62 +2510,72 @@
   },
   {
     "id": "CustomOption.ThiefSteals",
-    "english": "",
+    "english": "<color=#80FF00FF>Thief</color> Assigns <color=#80FF00FF>Thief</color> <color=#FFD700FF>Role</color> To Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.ThiefCanGuess",
-    "english": "",
+    "english": "<color=#80FF00FF>Thief</color> Can Guess To Steal Roles",
     "schinese": ""
   },
   {
     "id": "CustomOption.ThiefCanGuessAfterVoting",
-    "english": "",
+    "english": "<color=#80FF00FF>Thief</color> Can Guess After Voting",
     "schinese": ""
   },
   {
     "id": "CustomOption.ThiefVent",
-    "english": "",
+    "english": "<color=#80FF00FF>Thief</color> Can Vent",
     "schinese": ""
   },
   {
-    "id": "CustomOption.NEMax",
-    "english": "",
+    "id": "CustomOption.MaxNE",
+    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralEvilsEndGame",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> End The Game When Winning",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.VigilanteKillsEvils",
+    "english": "<color=#FFFF00FF>Vigilante</color> Kills <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.NEHasImpVision",
+    "english": " <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> Have <color=#FF1919FF>Intruder</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActorCanPickRole",
-    "english": "",
+    "english": "<color=#00ACC2FF>Actor</color> Can Choose A Target's Role",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActorButton",
-    "english": "",
+    "english": "<color=#00ACC2FF>Actor</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActorVent",
-    "english": "",
+    "english": "<color=#00ACC2FF>Actor</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActSwitchVent",
-    "english": "",
+    "english": "<color=#00ACC2FF>Actor</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.BountyHunterCanPickTargets",
-    "english": "",
+    "english": "<color=#B51E39FF>Bounty Hunter</color> Can Indirectly Pick A Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuessCd",
-    "english": "Guess Cooldown",
+    "english": "Target Guess Cooldown",
     "schinese": ""
   },
   {
@@ -2545,7 +2585,7 @@
   },
   {
     "id": "CustomOption.BHVent",
-    "english": "",
+    "english": "<color=#B51E39FF>Bounty Hunter</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2560,112 +2600,107 @@
   },
   {
     "id": "CustomOption.EatArrows",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.EatArrowDelay",
-    "english": "",
+    "english": "<color=#8C4005FF>Cannibal</color> Gets Arrows To Dead Bodies",
     "schinese": ""
   },
   {
     "id": "CustomOption.CannibalVent",
-    "english": "",
+    "english": "<color=#8C4005FF>Cannibal</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExecutionerCanPickTargets",
-    "english": "",
+    "english": "<color=#CCCCCCFF>Executioner</color> Can Pick A Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExecutionerButton",
-    "english": "",
+    "english": "<color=#CCCCCCFF>Executioner</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeVent",
-    "english": "",
+    "english": "<color=#CCCCCCFF>Executioner</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeTargetKnows",
-    "english": "",
+    "english": "Target Knows <color=#CCCCCCFF>Executioner</color> Exists",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeSwitchVent",
-    "english": "",
+    "english": "<color=#CCCCCCFF>Executioner</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeEjectScreen",
-    "english": "",
+    "english": "Target Ejection Reveals Existence Of <color=#CCCCCCFF>Executioner</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeKnowsTargetRole",
-    "english": "",
+    "english": "<color=#CCCCCCFF>Executioner</color> Knows Target's <color=#FFD700FF>Role</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeCanWinBeyondDeath",
-    "english": "",
+    "english": "<color=#CCCCCCFF>Executioner</color> Can Win After Death",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuesserCanPickTargets",
-    "english": "",
+    "english": "<color=#EEE5BEFF>Guesser</color> Can Pick A Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuesserButton",
-    "english": "",
+    "english": "<color=#EEE5BEFF>Guesser</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuessSwitchVent",
-    "english": "",
+    "english": "<color=#EEE5BEFF>Guesser</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuessTargetKnows",
-    "english": "",
+    "english": "Target Knows <color=#EEE5BEFF>Guesser</color> Exists",
     "schinese": ""
   },
   {
     "id": "CustomOption.MultipleGuesses",
-    "english": "",
+    "english": "<color=#EEE5BEFF>Guesser</color> Can Guess Multiple Times",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxGuesses",
-    "english": "Max Guesses",
+    "english": "Max Meeting Guesses",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuesserAfterVoting",
-    "english": "",
+    "english": "<color=#EEE5BEFF>Guesser</color> Can Guess After Voting",
     "schinese": ""
   },
   {
     "id": "CustomOption.JesterButton",
-    "english": "",
+    "english": "<color=#F7B3DAFF>Jester</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.JesterVent",
-    "english": "",
+    "english": "<color=#F7B3DAFF>Jester</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.JestSwitchVent",
-    "english": "",
+    "english": "<color=#F7B3DAFF>Jester</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.JestEjectScreen",
-    "english": "",
+    "english": "<color=#F7B3DAFF>Jester</color> Ejection Reveals Its Existence",
     "schinese": ""
   },
   {
@@ -2675,17 +2710,17 @@
   },
   {
     "id": "CustomOption.TrollVent",
-    "english": "",
+    "english": "<color=#678D36FF>Troll</color> Can Hide In Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.TrollSwitchVent",
-    "english": "",
+    "english": "<color=#678D36FF>Troll</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxNH",
-    "english": "",
+    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Harbingers</color>",
     "schinese": ""
   },
   {
@@ -2695,22 +2730,22 @@
   },
   {
     "id": "CustomOption.PBVent",
-    "english": "",
+    "english": "<color=#CFFE61FF>Plaguebearer</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxNK",
-    "english": "",
+    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NKHasImpVision",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Have <color=#FF1919FF>Intruder</color> Vision",
     "schinese": ""
   },
   {
-    "id": "CustomOption.NKsKnow",
-    "english": "",
+    "id": "CustomOption.KnowEachOther",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Know Each Other",
     "schinese": ""
   },
   {
@@ -2725,7 +2760,7 @@
   },
   {
     "id": "CustomOption.ArsoLastKillerBoost",
-    "english": "",
+    "english": "Ignite Cooldown Removed When <color=#EE7600FF>Arsonist</color> Is Last Killer",
     "schinese": ""
   },
   {
@@ -2745,7 +2780,7 @@
   },
   {
     "id": "CustomOption.ArsoVent",
-    "english": "",
+    "english": "<color=#EE7600FF>Arsonist</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2760,12 +2795,12 @@
   },
   {
     "id": "CustomOption.CryoLastKillerBoost",
-    "english": "",
+    "english": "<color=#642DEAFF>Cryomaniac</color> Can Kill Normally When Last Killer",
     "schinese": ""
   },
   {
     "id": "CustomOption.CryoVent",
-    "english": "",
+    "english": "<color=#642DEAFF>Cryomaniac</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2795,7 +2830,7 @@
   },
   {
     "id": "CustomOption.GlitchVent",
-    "english": "",
+    "english": "<color=#00FF00FF>Glitch</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2810,7 +2845,7 @@
   },
   {
     "id": "CustomOption.JuggVent",
-    "english": "",
+    "english": "<color=#A12B56FF>Juggernaut</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2820,7 +2855,7 @@
   },
   {
     "id": "CustomOption.MurdVent",
-    "english": "",
+    "english": "<color=#6F7BEAFF>Murderer</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2840,7 +2875,17 @@
   },
   {
     "id": "CustomOption.SKVentOptions",
-    "english": "",
+    "english": "<color=#336EFFFF>Serial Killer</color> Can Vent",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.SKVentOptions.Bloodlust",
+    "english": "On Bloodlust",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.SKVentOptions.NoLust",
+    "english": "Without Bloodlust",
     "schinese": ""
   },
   {
@@ -2855,17 +2900,27 @@
   },
   {
     "id": "CustomOption.WerewolfVent",
-    "english": "",
+    "english": "<color=#9F703AFF>Werewolf</color> Can Vent",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption..WerewolfVentOptions.Attacking",
+    "english": "When Attacking",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption..WerewolfVentOptions.NotAttacking",
+    "english": "When Not Attacking",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxNN",
-    "english": "",
+    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophytes</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NNHasImpVision",
-    "english": "",
+    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophytes</color> Have <color=#FF1919FF>Intruder</color> Vision",
     "schinese": ""
   },
   {
@@ -2875,17 +2930,17 @@
   },
   {
     "id": "CustomOption.DracVent",
-    "english": "",
+    "english": "<color=#AC8A00FF>Dracula</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.AliveVampCount",
-    "english": "",
+    "english": "Alive <color=#7B8968FF>Undead</color> Count",
     "schinese": ""
   },
   {
     "id": "CustomOption.UndeadVent",
-    "english": "",
+    "english": "<color=#7B8968FF>Undead</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2895,12 +2950,12 @@
   },
   {
     "id": "CustomOption.JackalVent",
-    "english": "",
+    "english": "<color=#45076AFF>Jackal</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.RecruitVent",
-    "english": "",
+    "english": "<color=#575757FF>Recruits</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2910,12 +2965,12 @@
   },
   {
     "id": "CustomOption.ResurrectCdIncrease",
-    "english": "Resurrect Cooldown Increases Per Use",
+    "english": "Resurrect Cooldown Increases By",
     "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectCdIncreases",
-    "english": "Resurrect Cooldown Increases By",
+    "english": "Resurrect Cooldown Increases Per Use",
     "schinese": ""
   },
   {
@@ -2930,12 +2985,12 @@
   },
   {
     "id": "CustomOption.SacrificeCdIncrease",
-    "english": "Sacrifice Cooldown Increases Per Kill",
+    "english": "Sacrifice Cooldown Increases By",
     "schinese": ""
   },
   {
     "id": "CustomOption.SacrificeCdIncreases",
-    "english": "Sacrifice Cooldown Increases By",
+    "english": "Sacrifice Cooldown Increases Per Kill",
     "schinese": ""
   },
   {
@@ -2960,12 +3015,12 @@
   },
   {
     "id": "CustomOption.NecroVent",
-    "english": "",
+    "english": "<color=#BF5FFFFF>Necromancer</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectVent",
-    "english": "",
+    "english": "<color=#E6108AFF>Resurrected</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2975,12 +3030,12 @@
   },
   {
     "id": "CustomOption.WhisperCdIncreases",
-    "english": "Whisper Cooldown Increases By",
+    "english": "Whisper Cooldown Increases Per Use",
     "schinese": ""
   },
   {
     "id": "CustomOption.WhisperCdIncrease",
-    "english": "Whisper Cooldown Increases Per Use",
+    "english": "Whisper Cooldown Increases By",
     "schinese": ""
   },
   {
@@ -3005,12 +3060,12 @@
   },
   {
     "id": "CustomOption.WhispVent",
-    "english": "",
+    "english": "<color=#2D6AA5FF>Whisperer</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.PersuadedVent",
-    "english": "",
+    "english": "<color=#F995FCFF>Persuaded</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3020,17 +3075,17 @@
   },
   {
     "id": "CustomOption.BetrayerVent",
-    "english": "",
+    "english": "<color=#11806AFF>Betrayer</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.PhantomTasksRemaining",
-    "english": "",
+    "english": "Tasks Remaining When <color=#662962FF>Phantom</color> Can Be Clicked",
     "schinese": ""
   },
   {
     "id": "CustomOption.PhantomPlayersAlerted",
-    "english": "",
+    "english": "Players Are Alerted When <color=#662962FF>Phantom</color> Is Clickable",
     "schinese": ""
   },
   {
@@ -3509,11 +3564,6 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.BombKillsSyndicate",
-    "english": "",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.CollideCd",
     "english": "Collide Cooldown",
     "schinese": ""
@@ -3640,11 +3690,6 @@
   },
   {
     "id": "CustomOption.WarpSelf",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.AnarchKillCd",
     "english": "",
     "schinese": ""
   },
@@ -4074,63 +4119,43 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.EnablePostmortals",
-    "english": "",
-    "schinese": ""
-  },
-  {
     "id": "CustomOption.EnableBanshee",
-    "english": "",
+    "english": "Enable <color=#E67E22FF>Banshee</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnableGhoul",
-    "english": "",
+    "english": "Enable <color=#F1C40FFF>Ghoul</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnablePhantom",
-    "english": "",
+    "english": "Enable <color=#662962FF>Phantom</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnableRevealer",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.SkeldO2Timer",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.SkeldReactorTimer",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.MiraO2Timer",
-    "english": "",
-    "schinese": ""
-  },
-  {
-    "id": "CustomOption.MiraReactorTimer",
-    "english": "",
+    "english": "Enable <color=#D3D3D3FF>Revealer</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BanCrewmate",
-    "english": "",
+    "english": "Ban <color=#8CFFFFFF>Crewmate</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BanImpostor",
-    "english": "",
+    "english": "Ban <color=#FF1919FF>Impostor</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BanAnarchist",
-    "english": "",
+    "english": "Ban <color=#008000FF>Anarchist</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.BanMurderer",
+    "english": "Ban <color=#6F7BEAFF>Murderer</color>",
     "schinese": ""
   },
   {
