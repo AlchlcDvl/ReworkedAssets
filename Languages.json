@@ -290,17 +290,17 @@
     "schinese": "任务进度更新频率"
   },
   {
-    "id": "CustomOption.TBMode.Normal",
+    "ids": [ "CustomOption.TaskBarMode.Normal", "CustomOption.AirshipSpawnType.Normal" ],
     "english": "Normal",
     "schinese": ""
   },
   {
-    "id": "CustomOption.TBMode.MeetingOnly",
+    "id": "CustomOption.TaskBarMode.MeetingOnly",
     "english": "Meeting Only",
     "schinese": ""
   },
   {
-    "id": "CustomOption.TBMode.Invisible",
+    "ids": [ "CustomOption.TaskBarMode.Invisible", "CustomOption.PlayerNames.NotVisible" ],
     "english": "Invisible",
     "schinese": "任务进度新频率"
   },
@@ -460,18 +460,18 @@
     "schinese": "允许使用管道的玩家"
   },
   {
-    "ids": [ "CustomOption.WhoCanVent.Everyone", "CustomOption.ShieldOptions.Everyone", "CustomOption.AdminDeadPlayers.Everyone", "CustomOption.RevealerCanBeClickedBy.Everyone",
+    "ids": [ "CustomOption.WhoCanVentOptions.Everyone", "CustomOption.ShieldOptions.Everyone", "CustomOption.AdminDeadPlayers.Everyone", "CustomOption.RevealerCanBeClickedBy.Everyone",
       "CustomOption.DisguiserTargets.Everyone", "CustomOption.ProtectOptions.Everyone", "CustomOption.WhoCanSeeFirstKillShield.Everyone", "CustomOption.DeadRevealed.Everyone" ],
     "english": "Everyone",
     "schinese": ""
   },
   {
-    "id": "CustomOption.WhoCanVent.Default",
+    "id": "CustomOption.WhoCanVentOptions.Default",
     "english": "Default",
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.WhoCanVent.NoOne", "CustomOption.ShieldOptions.Nobody", "CustomOption.WhoCanSeeFirstKillShield.NoOne", "CustomOption.AdminDeadPlayers.Nobody",
+    "ids": [ "CustomOption.WhoCanVentOptions.NoOne", "CustomOption.ShieldOptions.Nobody", "CustomOption.WhoCanSeeFirstKillShield.NoOne", "CustomOption.AdminDeadPlayers.Nobody",
       "CustomOption.ProtectOptions.Nobody" ],
     "english": "No One",
     "schinese": ""
@@ -482,27 +482,27 @@
     "schinese": "匿名投票"
   },
   {
-    "id": "CustomOption.AnonymousVoting.Enabled",
+    "id": "CustomOption.AnonVotes.Enabled",
     "english": "Grey",
     "schinese": "匿名投票"
   },
   {
-    "id": "CustomOption.AnonymousVoting.Disabled",
+    "ids": [ "CustomOption.AnonVotes.Disabled", "CustomOption.RandomSpawning.Disabled" ],
     "english": "Disabled",
     "schinese": "匿名投票"
   },
   {
-    "id": "CustomOption.AnonymousVoting.NonPolitician",
+    "id": "CustomOption.AnonVotes.NonPolitician",
     "english": "Non-<color=#CCA3CCFF>Politicians</color> Only",
     "schinese": "匿名投票"
   },
   {
-    "id": "CustomOption.AnonymousVoting.PoliticianOnly",
+    "id": "CustomOption.AnonVotes.PoliticianOnly",
     "english": "<color=#CCA3CCFF>Politician</color> Only",
     "schinese": "匿名投票"
   },
   {
-    "id": "CustomOption.AnonymousVoting.NotVisible",
+    "id": "CustomOption.AnonVotes.NotVisible",
     "english": "Not Visible",
     "schinese": "匿名投票"
   },
@@ -512,7 +512,7 @@
     "schinese": "禁止弃票"
   },
   {
-    "id": "CustomOption.NoSkipping.Emergency",
+    "id": "CustomOption.DisableSkipButtonMeetings.Emergency",
     "english": "Emergency",
     "schinese": ""
   },
@@ -575,6 +575,21 @@
     "id": "CustomOption.RandomSpawns",
     "english": "Random Player Spawns",
     "schinese": "玩家随机出生"
+  },
+  {
+    "id": "CustomOption.RandomSpawning.GameStart",
+    "english": "Game Start",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.RandomSpawning.Meeting",
+    "english": "After Meetings",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.RandomSpawning.Both",
+    "english": "Both",
+    "schinese": ""
   },
   {
     "id": "CustomOption.VentTargeting",
@@ -648,8 +663,18 @@
   },
   {
     "id": "CustomOption.PlayerNames",
-    "english": "Hide Obstructed Player Names",
-    "schinese": "隐藏视野外的玩家昵称"
+    "english": "Player Names",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.PlayerNames.Obstructed",
+    "english": "",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.PlayerNames.Visible",
+    "english": "Visible",
+    "schinese": ""
   },
   {
     "id": "CustomOption.MapSettings",
@@ -842,6 +867,21 @@
     "schinese": "玩家出生点规则"
   },
   {
+    "id": "CustomOption.AirshipSpawnType.Fixed",
+    "english": "Fixed",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.AirshipSpawnType.RandomSynchronised",
+    "english": "Random Synchronised",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.AirshipSpawnType.Meeting",
+    "english": "After Meeting",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.BetterAirship",
     "english": "Better Airship",
     "schinese": "Better Airship设置"
@@ -880,6 +920,31 @@
     "id": "CustomOption.MinDoorSwipeTime",
     "english": "Min Time For Door Swipe",
     "schinese": "开门刷卡最短时间"
+  },
+  {
+    "id": "CustomOption.MoveAdmin.Cockpit",
+    "english": "Cockpit",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.MoveAdmin.MainHall",
+    "english": "Main Hall",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.MoveElectrical.Vault",
+    "english": "Vault",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.MoveElectrical.Electrical",
+    "english": "Electrical",
+    "schinese": ""
+  },
+  {
+    "ids": [ "CustomOption.MoveAdmin.DontMove", "CustomOption.MoveElectrical.DontMove" ],
+    "english": "Don't Move",
+    "schinese": ""
   },
   {
     "id": "CustomOption.CrashTimer",
@@ -1722,8 +1787,9 @@
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.ShowMediumToDead.No", "CustomOption.NoSkipping.No", "CustomOption.CrewVenting.Never", "CustomOption.VigiNotif.Never", "CustomOption.SyndicateVentOptions.Never",
-      "CustomOption.JanitorOptions.Never", "CustomOption.SKVentOptions.Never", "CustomOption.WerewolfVentOptions.Never", "CustomOption.NoSolo.Never" ],
+    "ids": [ "CustomOption.ShowMediumToDead.Never", "CustomOption.DisableSkipButtonMeetings.No", "CustomOption.CrewVenting.Never", "CustomOption.VigiNotif.Never",
+      "CustomOption.SyndicateVentOptions.Never", "CustomOption.JanitorOptions.Never", "CustomOption.SKVentOptions.Never", "CustomOption.WerewolfVentOptions.Never",
+      "CustomOption.NoSolo.Never" ],
     "english": "Never",
     "schinese": ""
   },
@@ -1733,7 +1799,7 @@
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.CrewVenting.Always", "CustomOption.JanitorOptions.Always", "CustomOption.NoSkipping.Always", "CustomOption.SKVentOptions.Always",
+    "ids": [ "CustomOption.CrewVenting.Always", "CustomOption.JanitorOptions.Always", "CustomOption.DisableSkipButtonMeetings.Always", "CustomOption.SKVentOptions.Always",
       "CustomOption.WerewolfVentOptions.Always", "CustomOption.SyndicateVentOptions.Always" ],
     "english": "Always",
     "schinese": ""
@@ -1884,7 +1950,7 @@
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.DeadRevealed.Random", "CustomOption.AlliedFaction.Random", "CustomOption.DefectorFaction.Random" ],
+    "ids": [ "CustomOption.DeadRevealed.Random", "CustomOption.AlliedFaction.Random", "CustomOption.DefectorFaction.Random", "CustomOption.AirshipSpawnType.Random" ],
     "english": "Random",
     "schinese": ""
   },
@@ -2724,6 +2790,11 @@
     "schinese": ""
   },
   {
+    "id": "CustomOption.GuessVent",
+    "english": "<color=#EEE5BEFF>Guesser</color> Can Vent",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.GuessSwitchVent",
     "english": "<color=#EEE5BEFF>Guesser</color> Can Switch Vents",
     "schinese": ""
@@ -2984,12 +3055,12 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption..WerewolfVentOptions.Attacking",
+    "id": "CustomOption.WerewolfVentOptions.Attacking",
     "english": "When Attacking",
     "schinese": ""
   },
   {
-    "id": "CustomOption..WerewolfVentOptions.NotAttacking",
+    "id": "CustomOption.WerewolfVentOptions.NotAttacking",
     "english": "When Not Attacking",
     "schinese": ""
   },
@@ -3374,7 +3445,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.DisguiseTargets.NonIntruders",
+    "id": "CustomOption.DisguiserTargets.NonIntruders",
     "english": "Non-<color=#FF1919FF>Intruders</color>",
     "schinese": ""
   },
@@ -3844,7 +3915,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.DiseasedKillMultiplier",
+    "id": "CustomOption.DiseasedMultiplier",
     "english": "<color=#374D1EFF>Diseased</color> Kill Multiplier",
     "schinese": ""
   },
