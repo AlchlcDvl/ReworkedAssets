@@ -4465,6 +4465,16 @@
     "schinese": ""
   },
   {
+    "id": "View.AllRoles",
+    "english": "All Roles",
+    "schinese": ""
+  },
+  {
+    "id": "View.AllAlignments",
+    "english": "All Alignments",
+    "schinese": ""
+  },
+  {
     "id": "Button.Cancel",
     "english": "Cancel",
     "schinese": ""
