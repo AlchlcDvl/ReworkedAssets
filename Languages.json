@@ -668,7 +668,7 @@
   },
   {
     "id": "CustomOption.PlayerNames.Obstructed",
-    "english": "",
+    "english": "Hide Obstructed",
     "schinese": ""
   },
   {
@@ -878,7 +878,7 @@
   },
   {
     "id": "CustomOption.AirshipSpawnType.Meeting",
-    "english": "After Meeting",
+    "english": "After Meetings",
     "schinese": ""
   },
   {
@@ -1787,7 +1787,7 @@
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.ShowMediumToDead.Never", "CustomOption.DisableSkipButtonMeetings.No", "CustomOption.CrewVenting.Never", "CustomOption.VigiNotif.Never",
+    "ids": [ "CustomOption.ShowMediumToDead.Never", "CustomOption.DisableSkipButtonMeetings.Never", "CustomOption.CrewVenting.Never", "CustomOption.VigiNotif.Never",
       "CustomOption.SyndicateVentOptions.Never", "CustomOption.JanitorOptions.Never", "CustomOption.SKVentOptions.Never", "CustomOption.WerewolfVentOptions.Never",
       "CustomOption.NoSolo.Never" ],
     "english": "Never",
