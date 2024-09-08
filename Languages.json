@@ -390,7 +390,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.GameMode.RoleList",
+    "ids": [ "CustomOption.GameMode.RoleList", "CustomOption.RoleList" ],
     "english": "<color=#FA1C79FF>Role List</color>",
     "schinese": ""
   },
@@ -4465,13 +4465,13 @@
     "schinese": ""
   },
   {
-    "id": "View.AllRoles",
-    "english": "All Roles",
+    "id": "View.AllLayers",
+    "english": "All Layer Settings",
     "schinese": ""
   },
   {
     "id": "View.AllAlignments",
-    "english": "All Alignments",
+    "english": "All Alignment Settings",
     "schinese": ""
   },
   {
