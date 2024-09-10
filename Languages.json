@@ -842,14 +842,19 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.VitalsLab",
-    "english": "Vitals Moved To Lab",
-    "schinese": "将生命监装置移动到实验室"
+    "id": "CustomOption.TempLocation",
+    "english": "Move Cold Temperature To",
+    "schinese": ""
   },
   {
-    "id": "CustomOption.ColdTempDeathValley",
-    "english": "Cold Temp Moved To Death Valley",
-    "schinese": "将记录温度任务（低温）移动到外部"
+    "id": "CustomOption.TempLocation.DeathValley",
+    "english": "Death Valley",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.TempLocation.SwappedWithVitals",
+    "english": "Swapped With Vitals",
+    "schinese": ""
   },
   {
     "id": "CustomOption.WifiChartCourseSwap",
@@ -942,7 +947,7 @@
     "schinese": ""
   },
   {
-    "ids": [ "CustomOption.MoveAdmin.DontMove", "CustomOption.MoveElectrical.DontMove" ],
+    "ids": [ "CustomOption.MoveAdmin.DontMove", "CustomOption.MoveElectrical.DontMove", "CustomOption.TempLocation.DontMove" ],
     "english": "Don't Move",
     "schinese": ""
   },
