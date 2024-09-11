@@ -4485,6 +4485,21 @@
     "schinese": ""
   },
   {
+    "id": "GameSettings.Layers",
+    "english": "Layer Settings",
+    "schinese": ""
+  },
+  {
+    "ids": [ "ImportExport.Previous" ],
+    "english": "Previous Page",
+    "schinese": ""
+  },
+  {
+    "ids": [ "ImportExport.Next" ],
+    "english": "Next Page",
+    "schinese": ""
+  },
+  {
     "id": "Setting.Loading",
     "english": "Loading...",
     "schinese": ""
