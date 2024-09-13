@@ -390,7 +390,7 @@
     "schinese": ""
   },
   {
-    "ids": "CustomOption.GameMode.RoleList",
+    "id": "CustomOption.GameMode.RoleList",
     "english": "<color=#FA1C79FF>Role List</color>",
     "schinese": ""
   },
