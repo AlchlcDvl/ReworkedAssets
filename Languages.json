@@ -607,9 +607,14 @@
     "schinese": "启用<color=#7F7F7FFF>附加职业</color>"
   },
   {
-    "id": "CustomOption.EnableObjectifiers",
-    "english": "Enable <color=#DD585BFF>Objectifiers</color>",
-    "schinese": "启用<color=#DD585BFF>附属阵营</color>"
+    "id": "CustomOption.EnableDispositions",
+    "english": "Enable <color=#DD585BFF>Dispositions</color>",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.EnableCustomSpawns",
+    "english": "Enable Custom Spawn Locations",
+    "schinese": ""
   },
   {
     "id": "CustomOption.GameAnnouncementSettings",
@@ -1597,9 +1602,9 @@
     "schinese": "<color=#F6AAB7FF>广播员</color>"
   },
   {
-    "ids": [ "CustomOption.Objectifiers", "CustomOption.ObjectifiersSettings" ],
-    "english": "<color=#DD585BFF>Objectifiers</color>",
-    "schinese": "<color=#DD585BFF>附属阵营</color>"
+    "ids": [ "CustomOption.Dispositions", "CustomOption.DispositionsSettings" ],
+    "english": "<color=#DD585BFF>Dispositions</color>",
+    "schinese": ""
   },
   {
     "ids": [ "CustomOption.Allied", "CustomOption.Allied1" ],
@@ -4035,8 +4040,8 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.AssassinGuessObjectifiers",
-    "english": "<color=#073763FF>Assassin</color> Can Guess Select <color=#DD585BFF>Objectifiers</color>",
+    "id": "CustomOption.AssassinGuessDispositions",
+    "english": "<color=#073763FF>Assassin</color> Can Guess Select <color=#DD585BFF>Dispositions</color>",
     "schinese": ""
   },
   {
@@ -4145,13 +4150,13 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.MaxObjectifiers",
-    "english": "Max <color=#DD585BFF>Objectifiers</color>",
+    "id": "CustomOption.MaxDispositions",
+    "english": "Max <color=#DD585BFF>Dispositions</color>",
     "schinese": ""
   },
   {
-    "id": "CustomOption.MinObjectifiers",
-    "english": "Min <color=#DD585BFF>Objectifiers</color>",
+    "id": "CustomOption.MinDispositions",
+    "english": "Min <color=#DD585BFF>Dispositions</color>",
     "schinese": ""
   },
   {
@@ -4381,7 +4386,7 @@
   },
   {
     "id": "CustomOption.CustomObjColors",
-    "english": "Custom Objectifier Colors",
+    "english": "Custom Disposition Colors",
     "schinese": ""
   },
   {
@@ -4514,6 +4519,211 @@
   {
     "ids": [ "CustomOption.Ban1", "CustomOption.Ban2", "CustomOption.Ban3", "CustomOption.Ban4", "CustomOption.Ban5" ],
     "english": "Ban Slot %num%: %entry%",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.None",
+    "english": "None",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.RandomCrew",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Random</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.CrewSupport",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Support</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.CrewInvest",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Invest</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.CrewProt",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Protective</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.CrewKill",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Killing</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.CrweSov",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Sovereign</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.CrewAudit",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Auditor</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.CrewUtil",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Utility</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.RegularCrew",
+    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Regular</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.RandomIntruder",
+    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Random</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.IntruderSupport",
+    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Support</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.IntruderConceal",
+    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Concealing</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.IntruderDecep",
+    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Deception</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.IntruderKill",
+    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Killing</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.IntruderUtil",
+    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Utility</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.IntruderHead",
+    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Head</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.RegularIntruder",
+    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Regular</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.RandomNeutral",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Random</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NeutralKill",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Killing</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NeutralNeo",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Neophyte</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NeutralEvil",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Evil</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NeutralBen",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Benign</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NeutralPros",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Proselyte</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NeutralApoc",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Apocalypse</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NeutralHarb",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Harbinger</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.RegularNeutral",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Regular</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.HarmfulNeutral",
+    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Harmful</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.RandomSyndicate",
+    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Random</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.SyndicateKill",
+    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Killing</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.SyndicateSupport",
+    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Support</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.SyndicateDisrup",
+    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Disruption</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.SyndicatePower",
+    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Power</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.SyndicateUtil",
+    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Util</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.RegularSyndicate",
+    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Regular</color>)</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.Any",
+    "english": "Any",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NonCrew",
+    "english": "Non-<color=#8CFFFFFF>Crew</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NonIntruder",
+    "english": "Non-<color=#FF1919FF>Intruder</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NonSyndicate",
+    "english": "Non-<color=#008000FF>Syndicate</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.NonNeutral",
+    "english": "Non-<color=#B3B3B3FF>Neutral</color>",
+    "schinese": ""
+  },
+  {
+    "id": "RoleList.FactionedEvil",
+    "english": "<color=#1D7CF2FF>Factioned</color> <color=#FF1919FF>E</color><color=#008000FF>v</color><color=#FF1919FF>i</color><color=#008000FF>l</color>",
     "schinese": ""
   },
   {
