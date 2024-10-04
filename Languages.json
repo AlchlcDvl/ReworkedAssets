@@ -4340,7 +4340,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.ClientOptions",
+    "ids": [ "CustomOption.ClientOptions", "GameSettings.Client" ],
     "english": "Client Settings",
     "schinese": ""
   },
@@ -4385,7 +4385,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.CustomObjColors",
+    "id": "CustomOption.CustomDispColors",
     "english": "Custom Disposition Colors",
     "schinese": ""
   },
