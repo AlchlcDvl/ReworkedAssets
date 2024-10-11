@@ -1318,8 +1318,8 @@
   },
   {
     "ids": [ "CustomOption.Blackmailer", "CustomOption.Blackmailer1", "RoleList.Blackmailer" ],
-    "english": "<color=#02A752FF>Blackmailer</color>",
-    "schinese": "<color=#02A752FF>勒索者</color>"
+    "english": "Blackmailer",
+    "schinese": "勒索者"
   },
   {
     "ids": [ "CustomOption.Camouflager", "CustomOption.Camouflager1", "RoleList.Camouflager" ],
@@ -1753,8 +1753,8 @@
   },
   {
     "ids": [ "CustomOption.Tunneler", "CustomOption.Tunneler1" ],
-    "english": "<color=#E91E63FF>Tunneler",
-    "schinese": "<color=#E91E63FF>隧道工"
+    "english": "Tunneler",
+    "schinese": "隧道工"
   },
   {
     "ids": [ "CustomOption.AlliedFaction.Crew", "CustomOption.DefectorFaction.Crew", "CustomOption.CrewSettings" ],
