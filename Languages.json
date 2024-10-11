@@ -4513,12 +4513,12 @@
     "ids": [ "CustomOption.Entry1", "CustomOption.Entry2", "CustomOption.Entry3", "CustomOption.Entry4", "CustomOption.Entry5", "CustomOption.Entry6", "CustomOption.Entry7",
       "CustomOption.Entry8", "CustomOption.Entry9", "CustomOption.Entry10", "CustomOption.Entry11", "CustomOption.Entry12", "CustomOption.Entry13", "CustomOption.Entry14",
       "CustomOption.Entry15" ],
-    "english": "Entry Slot %num%: %entry%",
+    "english": "Entry Slot %num%",
     "schinese": ""
   },
   {
     "ids": [ "CustomOption.Ban1", "CustomOption.Ban2", "CustomOption.Ban3", "CustomOption.Ban4", "CustomOption.Ban5" ],
-    "english": "Ban Slot %num%: %entry%",
+    "english": "Ban Slot %num%",
     "schinese": ""
   },
   {
