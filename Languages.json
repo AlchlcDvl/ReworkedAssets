@@ -887,6 +887,11 @@
     "schinese": ""
   },
   {
+    "id": "CustomOption.AirshipSpawnType.RandomSynchronized",
+    "english": "Random Synchronized",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.AirshipSpawnType.Meeting",
     "english": "After Meetings",
     "schinese": ""
@@ -2120,7 +2125,7 @@
     "schinese": ""
   },
   {
-    "id": "CustomOption.VigiOptions.PostMeeting",
+    "ids": [ "CustomOption.VigiOptions.PostMeeting", "CustomOption.RandomSpawning.PostMeeting" ],
     "english": "Post-Meeting",
     "schinese": ""
   },
@@ -4552,7 +4557,7 @@
     "schinese": ""
   },
   {
-    "id": "RoleList.CrweSov",
+    "id": "RoleList.CrewSov",
     "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Sovereign</color>)</color>",
     "schinese": ""
   },
