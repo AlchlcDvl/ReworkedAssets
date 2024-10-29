@@ -1,1824 +1,745 @@
-Player Speed
-2
-Ghost Speed
-5
-Interaction Distance
-5
-Emergency Button Count
-10
-Emergency Button Cooldown
-0
-Discussion Time
-0
-Voting Time
-60
-Taskbar Updates
-0
-Confirm Ejects
-True
-Ejection Reveals <color=#FFD700FF>Roles</color>
-True
-Enable Game Start Cooldowns
-True
-Game Start Cooldown
-10
-Enable Meeting End Cooldowns
-True
-Meeting End Cooldown
-15
-Enable Ability Failure Cooldowns
-True
-Ability Failure Cooldown
-5
-Player Report Distance
-20
-Chat Cooldown
-0
-Chat Character Limit
-2000
-Lobby Size
-127
-Game Mode
-1
-Enable Uniques
-True
-Ignore <color=#1D7CF2FF>Alignment</color> Caps
-True
-Ignore <color=#00E66DFF>Faction</color> Caps
-True
-Ignore Non-<color=#FFD700FF>Role</color> Layer Caps
-True
-<color=#B3B3B3FF>Neutrals</color> Count
-13
-Add <color=#EE7600FF>Arsonist</color>
-True
-Add <color=#642DEAFF>Cryomaniac</color>
-True
-Add <color=#CFFE61FF>Plaguebearer</color>
-True
-<color=#7500AFFF>Hide And Seek</color> Game Type
-1
-<color=#7500AFFF>Hide And Seek</color> Short Tasks
-5
-<color=#7500AFFF>Hide And Seek</color> Common Tasks
-5
-<color=#7500AFFF>Hide And Seek</color> Long Tasks
-5
-<color=#FF004EFF>Hunter</color> Count
-1
-Hunt Cooldown
-5
-Start Time
-15
-<color=#FF004EFF>Hunter</color> Can Vent
-True
-<color=#FF004EFF>Hunter</color> Vision
-0.5
-<color=#1F51FFFF>Hunted</color> Vision
-1
-<color=#FF004EFF>Hunter</color> Speed Modifier
-1.25
-<color=#FF004EFF>Hunters</color> Use A Flashlight
-True
-<color=#1F51FFFF>Hunted</color> Use A Flashlight
-True
-<color=#1F51FFFF>Hunted</color> Can Chat
-False
-<color=#1E49CFFF>Task Race</color> Short Tasks
-5
-<color=#1E49CFFF>Task Race</color> Common Tasks
-5
-Serial Venters
-1
-Anonymous Voting
-3
-No Skipping
-2
-First Kill Shield
-True
-Who Sees First Kill Shield
-0
-Factioned Evils See The <color=#FFD700FF>Roles</color> Of Their Team
-True
-Visual Tasks
-True
-Player Names
-0
-Whispering
-True
-Everyone Is Alerted To Whispers
-True
-Kill Animations Show Modified Player
-True
-Enable <color=#FF9900FF>Abilities</color>
-True
-Enable <color=#7F7F7FFF>Modifiers</color>
-True
-Enable <color=#DD585BFF>Objectifiers</color>
-True
-Players In Vents Can Be Targeted
-True
-Cooldown Decreases Even While In A Vent
-False
-Dead Can See Everything
-True
-Parallel Medbay Scans
-True
-Enable Game Announcements
-True
-Reported Body's Location Is Announced
-True
-Every Body's <color=#FFD700FF>Role</color>/<color=#00E66DFF>Faction</color> Is Announced
-1
-Every Body's Killer's <color=#FFD700FF>Role</color>/<color=#00E66DFF>Faction</color> Is Announced
-1
-Map
-6
-Skeld Chance
-100
-Mira Chance
-100
-Polus Chance
-100
-dlekS Chance
-100
-Airship Chance
-100
-Fungle Chance
-100
-Submerged Chance
-100
-LevelImpostor Chance
-100
-Auto Adjust Settings
-False
-Half Vision On Small Maps
-False
-Small Maps Decreased Cooldowns
-0
-Large Maps Increased Cooldowns
-0
-Small Maps Increased Short Tasks
-0
-Small Maps Increased Long Tasks
-0
-Large Maps Decreased Short Tasks
-0
-Large Maps Decreased Long Tasks
-0
-Random Player Spawns
-3
-Camouflaged Comms
-True
-Camouflaged Meetings
-True
-Night Vision Cameras
-False
-Evils Ignore Night Vision
-False
-Oxygen Sabotage Slows Down Players
-True
-Reactor Sabotage Shakes The Screen By
-100
-Enable Better Skeld Changes
-True
-Changed Skeld Vent Layout
-True
-Skeld Reactor Meltdown Countdown
-60
-Skeld Oxygen Depletion Countdown
-60
-Enable Better Mira HQ Changes
-True
-Changed Mira HQ Vent Layout
-True
-Mira HQ Reactor Meltdown Countdown
-60
-Mira HQ Oxygen Depletion Countdown
-60
-Enable Better Polus Changes
-True
-Changed Polus Vent Layout
-True
-Vitals Moved To Lab
-True
-Cold Temp Moved To Death Valley
-True
-Reboot Wifi And Chart Course Swapped
-True
-Seimic Stabliser Malfunction Countdown
-60
-Enable Better Airship Changes
-True
-Spawn Type
-2
-Move Vitals
-True
-Move Fuel
-True
-Move Divert Power
-True
-Move Admin Table
-2
-Move Electrical Outlet
-1
-Min Time For Door Swipe
-0.4
-Heli Crash Countdown
-90
-Enable Better Fungle Changes
-True
-Fungle Reactor Meltdown Countdown
-60
-Fungle Mushroom Mixup Timer
-20
-Common Tasks
-1
-Long Tasks
-1
-Short Tasks
-2
-<color=#8CFFFFFF>Crew</color> Ghost Tasks Count To Win
-True
-<color=#8CFFFFFF>Crew</color> Vision
-1
-<color=#8CFFFFFF>Crew</color> Uses A Flashlight
-False
-Max <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>
-14
-Min <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>
-14
-<color=#8CFFFFFF>Crew</color> Can Vent
-True
-<color=#708EEFFF>Mystic</color>
-100
-1
-<color=#C0C0C0FF>Vampire Hunter</color>
-100
-1
-<color=#4D99E6FF>Coroner</color>
-100
-1
-<color=#4D4DFFFF>Detective</color>
-100
-1
-<color=#A680FFFF>Medium</color>
-100
-1
-<color=#A7D1B3FF>Operative</color>
-100
-1
-<color=#71368AFF>Seer</color>
-100
-1
-<color=#FFCC80FF>Sheriff</color>
-100
-1
-<color=#009900FF>Tracker</color>
-100
-1
-<color=#7E3C64FF>Bastion</color>
-100
-1
-<color=#998040FF>Veteran</color>
-100
-1
-<color=#FFFF00FF>Vigilante</color>
-100
-1
-<color=#660000FF>Altruist</color>
-100
-1
-<color=#006600FF>Medic</color>
-100
-1
-<color=#BE1C8CFF>Trapper</color>
-0
-0
-<color=#00CB97FF>Dictator</color>
-100
-1
-<color=#704FA8FF>Mayor</color>
-100
-1
-<color=#FF004EFF>Monarch</color>
-100
-1
-<color=#5411F8FF>Chameleon</color>
-100
-1
-<color=#FFA60AFF>Engineer</color>
-100
-1
-<color=#803333FF>Escort</color>
-100
-1
-<color=#8D0F8CFF>Retributionist</color>
-100
-1
-<color=#DF851FFF>Shifter</color>
-100
-1
-<color=#00EEFFFF>Transporter</color>
-100
-1
-<color=#8CFFFFFF>Crewmate</color>
-100
-1
-<color=#D3D3D3FF>Revealer</color>
-100
-1
-Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditors</color>
-14
-<color=#708EEFFF>Mystic</color> Is Unique
-False
-Reveal Cooldown
-10
-<color=#C0C0C0FF>Vampire Hunter</color> Is Unique
-False
-Stake Cooldown
-10
-Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Investigatives</color>
-14
-<color=#4D99E6FF>Coroner</color> Is Unique
-False
-Dead Body Arrow Duration
-2
-<color=#4D99E6FF>Coroner</color> Gets Roles
-True
-<color=#4D99E6FF>Coroner</color> Gets Killer's Name
-True
-<color=#4D99E6FF>Coroner</color> Gets Killer's Name Under
-2
-Compare Cooldown
-10
-Autopsy Cooldown
-10
-<color=#4D4DFFFF>Detective</color> Is Unique
-False
-Examine Cooldown
-10
-Bloody Hands Duration
-10
-Footprint Interval
-0.50000006
-Footprint Duration
-10
-Anonymous Footprint
-1
-<color=#A680FFFF>Medium</color> Is Unique
-False
-Mediate Cooldown
-10
-Reveal Appearance Of Mediate Target
-True
-Reveal The <color=#A680FFFF>Medium</color> To The Mediate Target
-2
-Who Is Revealed With Mediate
-2
-<color=#A7D1B3FF>Operative</color> Is Unique
-False
-Bug Cooldown
-10
-Min Amount Of Time In Bug To Trigger
-0
-Bugs Are Removed Each Round
-True
-Max Bugs
-15
-Bug Radius
-5
-Number Of <color=#FFD700FF>Roles</color> Required To Trigger Bug
-1
-Who Sees Dead Bodies On Admin
-3
-<color=#A7D1B3FF>Operative</color> Gets Precise Information
-True
-<color=#71368AFF>Seer</color> Is Unique
-False
-Seer Cooldown
-10
-<color=#FFCC80FF>Sheriff</color> Is Unique
-False
-Interrogate Cooldown
-10
-<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> Show Evil
-True
-<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Show Evil
-True
-<color=#009900FF>Tracker</color> Is Unique
-False
-Max Tracks
-15
-Track Cooldown
-10
-<color=#009900FF>Tracker</color> Arrows Reset After Each Round
-False
-Arrow Update Interval
-0
-Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Killers</color>
-14
-<color=#7E3C64FF>Bastion</color> Is Unique
-False
-Max Bombs
-15
-<color=#7E3C64FF>Bastion</color> Cooldown
-10
-Bombs Are Removed Upon Kills
-False
-<color=#998040FF>Veteran</color> Is Unique
-False
-Max Alerts
-15
-Alert Cooldown
-10
-Alert Duration
-30
-<color=#FFFF00FF>Vigilante</color> Is Unique
-False
-Misfire Kills The Target
-True
-<color=#FFFF00FF>Vigilante</color> Can Kill Again If Target Was Innocent
-True
-<color=#FFFF00FF>Vigilante</color> Cannot Shoot On The First Round
-True
-How Does <color=#FFFF00FF>Vigilante</color> Die
-2
-How Is The <color=#FFFF00FF>Vigilante</color> Notified Of Their Target's Innocence
-0
-Max Bullets
-15
-Shoot Cooldown
-10
-Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Protectives</color>
-14
-<color=#660000FF>Altruist</color> Is Unique
-False
-Max Revives
-5
-Revive Cooldown
-10
-Revive Duration
-1
-Target's Body Disappears On Beginning Of Revive
-True
-<color=#006600FF>Medic</color> Is Unique
-False
-Show Shielded Player
-3
-Who Gets Murder Attempt Indicator
-3
-Shield Breaks On Murder Attempt
-False
-<color=#BE1C8CFF>Trapper</color> Is Unique
-False
-Max Traps
-5
-Build Cooldown
-25
-Build Duration
-10
-Trap Cooldown
-25
-Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Sovereigns</color>
-14
-<color=#00CB97FF>Dictator</color> Is Unique
-False
-<color=#00CB97FF>Dictator</color> Cannot Reveal Round One
-False
-<color=#00CB97FF>Dictator</color> Can Dictate After Voting
-True
-<color=#00CB97FF>Dictator</color> Can Button
-True
-<color=#704FA8FF>Mayor</color> Is Unique
-False
-Revealed <color=#704FA8FF>Mayor</color> Votes Count As
-10
-<color=#704FA8FF>Mayor</color> Cannot Reveal Round One
-False
-<color=#704FA8FF>Mayor</color> Can Button
-True
-<color=#FF004EFF>Monarch</color> Is Unique
-False
-Knighting Cooldown
-10
-<color=#FF004EFF>Monarch</color> Cannot Knight Round One
-False
-Knight Count
-14
-Knighted Votes Count As
-10
-<color=#FF004EFF>Monarch</color> Can Button
-True
-Knights Can Button
-True
-Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Supporters</color>
-14
-<color=#5411F8FF>Chameleon</color> Is Unique
-False
-Max Swoops
-15
-Swoop Cooldown
-10
-Swoop Duration
-30
-<color=#FFA60AFF>Engineer</color> Is Unique
-False
-Max Fixes
-15
-Fix Cooldown
-10
-<color=#803333FF>Escort</color> Is Unique
-False
-<color=#803333FF>Escort</color> Roleblock Cooldown
-10
-<color=#803333FF>Escort</color> Roleblock Duration
-30
-<color=#8D0F8CFF>Retributionist</color> Is Unique
-False
-<color=#8D0F8CFF>Retributionist</color> Can Mimic After Voting
-True
-<color=#DF851FFF>Shifter</color> Is Unique
-False
-Shift Cooldown
-10
-Shifted Becomes
-0
-<color=#00EEFFFF>Transporter</color> Is Unique
-False
-Max Transports
-15
-Transport Cooldown
-10
-Transport Duration
-1
-<color=#00EEFFFF>Transporter</color> Can Transport Themselves
-True
-Tasks Remaining When <color=#D3D3D3FF>Revealer</color> Can Be Clicked
-1
-Tasks Remaining When Revealed
-1
-<color=#D3D3D3FF>Revealer</color> Reveals <color=#B3B3B3FF>Neutrals</color>
-True
-<color=#D3D3D3FF>Revealer</color> Reveals <color=#8CFFFFFF>Crew</color>
-True
-<color=#D3D3D3FF>Revealer</color> Reveals Exact <color=#FFD700FF>Roles</color>
-True
-Who Can Click <color=#D3D3D3FF>Revealer</color>
-0
-<color=#22FFFFFF>Amnesiac</color>
-50
-1
-<color=#FFFFFFFF>Guardian Angel</color>
-40
-1
-<color=#DDDD00FF>Survivor</color>
-20
-1
-<color=#80FF00FF>Thief</color>
-60
-1
-<color=#00ACC2FF>Actor</color>
-40
-1
-<color=#B51E39FF>Bounty Hunter</color>
-60
-1
-<color=#8C4005FF>Cannibal</color>
-10
-1
-<color=#CCCCCCFF>Executioner</color>
-70
-1
-<color=#EEE5BEFF>Guesser</color>
-30
-1
-<color=#F7B3DAFF>Jester</color>
-70
-1
-<color=#678D36FF>Troll</color>
-60
-1
-<color=#CFFE61FF>Plaguebearer</color>
-40
-1
-<color=#EE7600FF>Arsonist</color>
-40
-1
-<color=#642DEAFF>Cryomaniac</color>
-30
-1
-<color=#00FF00FF>Glitch</color>
-70
-1
-<color=#A12B56FF>Juggernaut</color>
-10
-1
-<color=#6F7BEAFF>Murderer</color>
-80
-1
-<color=#336EFFFF>Serial Killer</color>
-70
-1
-<color=#9F703AFF>Werewolf</color>
-60
-1
-<color=#AC8A00FF>Dracula</color>
-70
-1
-<color=#45076AFF>Jackal</color>
-50
-1
-<color=#BF5FFFFF>Necromancer</color>
-20
-1
-<color=#2D6AA5FF>Whisperer</color>
-30
-1
-<color=#662962FF>Phantom</color>
-70
-1
-<color=#B3B3B3FF>Neutral</color> Vision
-1.5
-Lights Sabotage Affects <color=#B3B3B3FF>Neutral</color> Vision
-True
-<color=#B3B3B3FF>Neutrals</color> Use A Flashlight
-False
-Max <color=#B3B3B3FF>Neutrals</color>
-14
-Min <color=#B3B3B3FF>Neutrals</color>
-14
-<color=#B3B3B3FF>Neutrals</color> Together, Strong
-0
-Avoid <color=#B3B3B3FF>Neutral</color> Kingmakers
-False
-<color=#B3B3B3FF>Neutrals</color> Can Vent
-True
-<color=#424242FF>Pestilence</color> Can Spawn Directly
-False
-<color=#424242FF>Pestilence</color> Transformation Alerts Everyone
-True
-Obliterate Cooldown
-10
-<color=#424242FF>Pestilence</color> Can Vent
-True
-Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>
-14
-<color=#FFFF00FF>Vigilante</color> Kills <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>
-True
-<color=#22FFFFFF>Amnesiac</color> Is Unique
-False
-<color=#22FFFFFF>Amnesiac</color> Gets Arrows To Dead Bodies
-True
-Remember Arrow Appearance Delay
-0
-<color=#22FFFFFF>Amnesiac</color> Can Hide In Vents
-True
-<color=#22FFFFFF>Amnesiac</color> Can Switch Vents
-True
-<color=#FFFFFFFF>Guardian Angel</color> Is Unique
-False
-<color=#FFFFFFFF>Guardian Angel</color> Can Pick Their Own Target
-True
-Protect Cooldown
-10
-Protect Duration
-30
-Max Protects
-15
-Show Protected Player
-3
-Target Knows <color=#FFFFFFFF>Guardian Angel</color> Exists
-True
-<color=#FFFFFFFF>Guardian Angel</color> Can Protect After Death
-True
-<color=#FFFFFFFF>Guardian Angel</color> Knows Target's <color=#FFD700FF>Role</color>
-True
-<color=#FFFFFFFF>Guardian Angel</color> Can Hide In Vents
-True
-<color=#FFFFFFFF>Guardian Angel</color> Can Switch Vents
-True
-<color=#DDDD00FF>Survivor</color> Is Unique
-False
-Vest Cooldown
-10
-Vest Duration
-5
-Max Vests
-15
-<color=#DDDD00FF>Survivor</color> Can Hide In Vents
-True
-<color=#DDDD00FF>Survivor</color> Can Switch Vents
-True
-<color=#80FF00FF>Thief</color> Is Unique
-False
-Steal Cooldown
-10
-<color=#80FF00FF>Thief</color> Assigns <color=#80FF00FF>Thief</color> <color=#FFD700FF>Role</color> To Target
-True
-<color=#80FF00FF>Thief</color> Can Guess To Steal Roles
-True
-<color=#80FF00FF>Thief</color> Can Guess After Voting
-True
-<color=#80FF00FF>Thief</color> Can Vent
-True
-Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color>
-14
-<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> End The Game When Winning
-False
-<color=#00ACC2FF>Actor</color> Is Unique
-False
-<color=#00ACC2FF>Actor</color> Can Choose A Target Role
-True
-<color=#00ACC2FF>Actor</color> Can Button
-True
-<color=#00ACC2FF>Actor</color> Can Hide In Vents
-True
-<color=#00ACC2FF>Actor</color> Can Switch Vents
-True
-<color=#00ACC2FF>Actor</color> Role List Guess Count
-5
-<color=#FFFF00FF>Vigilante</color> Kills <color=#00ACC2FF>Actor</color>
-True
-<color=#B51E39FF>Bounty Hunter</color> Is Unique
-False
-<color=#B51E39FF>Bounty Hunter</color> Can Indirectly Pick Their Own Target
-True
-Max Target Guesses
-15
-Guess Cooldown
-10
-<color=#B51E39FF>Bounty Hunter</color> Can Vent
-True
-<color=#FFFF00FF>Vigilante</color> Kills <color=#B51E39FF>Bounty Hunter</color>
-True
-<color=#8C4005FF>Cannibal</color> Is Unique
-False
-Eat Cooldown
-10
-Bodies Needed To Win
-1
-<color=#8C4005FF>Cannibal</color> Gets Arrows To Dead Bodies
-True
-Hunger Arrow Appearance Delay
-0
-<color=#8C4005FF>Cannibal</color> Can Vent
-True
-<color=#FFFF00FF>Vigilante</color> Kills <color=#8C4005FF>Cannibal</color>
-True
-<color=#CCCCCCFF>Executioner</color> Is Unique
-False
-<color=#CCCCCCFF>Executioner</color> Can Pick Their Own Target
-True
-<color=#CCCCCCFF>Executioner</color> Can Button
-True
-<color=#CCCCCCFF>Executioner</color> Can Hide In Vents
-True
-<color=#CCCCCCFF>Executioner</color> Can Switch Vents
-True
-Target Knows <color=#CCCCCCFF>Executioner</color> Exists
-True
-<color=#CCCCCCFF>Executioner</color> Knows Target's <color=#FFD700FF>Role</color>
-True
-Target Ejection Reveals Existence Of <color=#CCCCCCFF>Executioner</color>
-True
-<color=#CCCCCCFF>Executioner</color> Can Win After Death
-True
-<color=#FFFF00FF>Vigilante</color> Kills <color=#CCCCCCFF>Executioner</color>
-True
-<color=#EEE5BEFF>Guesser</color> Is Unique
-False
-<color=#EEE5BEFF>Guesser</color> Can Pick Their Own Target
-True
-<color=#EEE5BEFF>Guesser</color> Can Button
-True
-<color=#EEE5BEFF>Guesser</color> Can Hide In Vents
-True
-<color=#EEE5BEFF>Guesser</color> Can Switch Vents
-True
-Target Knows <color=#EEE5BEFF>Guesser</color> Exists
-True
-<color=#EEE5BEFF>Guesser</color> Can Guess Multiple Times
-True
-Max Meeting Guesses
-15
-<color=#EEE5BEFF>Guesser</color> Can Guess After Voting
-True
-<color=#FFFF00FF>Vigilante</color> Kills <color=#EEE5BEFF>Guesser</color>
-True
-<color=#F7B3DAFF>Jester</color> Is Unique
-False
-<color=#F7B3DAFF>Jester</color> Can Button
-True
-<color=#F7B3DAFF>Jester</color> Can Hide In Vents
-True
-<color=#F7B3DAFF>Jester</color> Can Switch Vents
-True
-<color=#F7B3DAFF>Jester</color> Ejection Reveals Existence Of <color=#F7B3DAFF>Jester</color>
-True
-<color=#FFFF00FF>Vigilante</color> Kills <color=#F7B3DAFF>Jester</color>
-True
-<color=#678D36FF>Troll</color> Is Unique
-False
-Interact Cooldown
-10
-<color=#678D36FF>Troll</color> Can Hide In Vent
-True
-<color=#678D36FF>Troll</color> Can Switch Vents
-True
-Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Harbingers</color>
-14
-<color=#CFFE61FF>Plaguebearer</color> Is Unique
-False
-Infect Cooldown
-10
-<color=#CFFE61FF>Plaguebearer</color> Can Vent
-True
-Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color>
-14
-<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Have <color=#FF1919FF>Intruder</color> Vision
-True
-<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Know Each Other
-False
-<color=#EE7600FF>Arsonist</color> Is Unique
-False
-<color=#EE7600FF>Arsonist</color> Douse Cooldown
-10
-Ignite Cooldown
-10
-Ignite Cooldown Removed When <color=#EE7600FF>Arsonist</color> Is Last Killer
-True
-Ignition Ignites All Doused Players
-True
-Douse And Ignite Cooldowns Are Linked
-False
-Ignition Cremates Bodies
-True
-<color=#EE7600FF>Arsonist</color> Can Vent
-True
-<color=#642DEAFF>Cryomaniac</color> Is Unique
-False
-<color=#642DEAFF>Cryomaniac</color> Douse Cooldown
-10
-<color=#642DEAFF>Cryomaniac</color> Freeze Freezes All Doused Players
-True
-<color=#642DEAFF>Cryomaniac</color> Can Kill Normally When Last Killer
-True
-<color=#642DEAFF>Cryomaniac</color> Kill Cooldown
-10
-<color=#642DEAFF>Cryomaniac</color> Can Vent
-True
-<color=#00FF00FF>Glitch</color> Is Unique
-False
-Mimic Cooldown
-10
-Mimic Duration
-30
-Hack Cooldown
-10
-Hack Duration
-30
-Neutralise Cooldown
-10
-<color=#00FF00FF>Glitch</color> Can Vent
-True
-<color=#A12B56FF>Juggernaut</color> Is Unique
-False
-Assault Cooldown
-10
-Assault Cooldown Bonus
-2.5
-<color=#A12B56FF>Juggernaut</color> Can Vent
-True
-<color=#6F7BEAFF>Murderer</color> Is Unique
-False
-Murder Cooldown
-10
-<color=#6F7BEAFF>Murderer</color> Can Vent
-True
-<color=#336EFFFF>Serial Killer</color> Is Unique
-False
-Bloodlust Cooldown
-10
-Bloodlust Duration
-30
-Stab Cooldown
-0.5
-<color=#336EFFFF>Serial Killer</color> Can Vent
-0
-<color=#9F703AFF>Werewolf</color> Is Unique
-False
-Maul Cooldown
-10
-Maul Radius
-5
-<color=#9F703AFF>Werewolf</color> Can Vent
-True
-Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophytes</color>
-14
-<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophytes</color> Have <color=#FF1919FF>Intruder</color> Vision
-True
-<color=#AC8A00FF>Dracula</color> Is Unique
-False
-Bite Cooldown
-10
-<color=#AC8A00FF>Dracula</color> Can Vent
-True
-Alive <color=#7B8968FF>Undead</color> Count
-14
-Undead Can Vent
-True
-<color=#45076AFF>Jackal</color> Is Unique
-False
-Recruit Cooldown
-10
-<color=#45076AFF>Jackal</color> Can Vent
-True
-Recruits Can Vent
-True
-<color=#BF5FFFFF>Necromancer</color> Is Unique
-False
-Resurrect Cooldown
-10
-Resurrect Cooldown Increases
-False
-Resurrect Cooldown Increases By
-2.5
-Max Resurrections
-14
-Sacrifice Cooldown
-10
-Sacrifice Cooldown Increases
-False
-Sacrifice Cooldown Increases By
-5
-Max Sacrifices
-14
-Sacrifice And Resurrect Cooldowns Are Linked
-False
-Target's Body Disappears On Beginning Of Resurrect
-True
-Resurrect Duration
-1
-<color=#BF5FFFFF>Necromancer</color> Can Vent
-True
-Resurrected Can Vent
-True
-<color=#2D6AA5FF>Whisperer</color> Is Unique
-False
-Whisper Cooldown
-10
-Whisper Cooldown Increases
-False
-Whisper Cooldown Increases By
-5
-Whisper Radius
-5
-Whisper Rate
-50
-Whisper Rate Decreases
-False
-Whisper Rate Decreases By
-5
-<color=#2D6AA5FF>Whisperer</color> Can Vent
-True
-Persuaded Can Vent
-True
-Betray Cooldown
-10
-<color=#11806AFF>Betrayer</color> Can Vent
-True
-Tasks Remaining When <color=#662962FF>Phantom</color> Can Be Clicked
-1
-Players Are Alerted When <color=#662962FF>Phantom</color> Is Clickable
-True
-<color=#FF1919FF>Intruder</color> Count
-4
-<color=#FF1919FF>Intruder</color> Vision
-2
-<color=#FF1919FF>Intruders</color> Use A Flashlight
-False
-<color=#FF1919FF>Intruder</color> Kill Cooldown
-10
-<color=#FF1919FF>Intruder</color> Can Vent
-True
-<color=#FF1919FF>Intruder</color> Can Sabotage
-True
-Dead <color=#FF1919FF>Intruders</color> Can Sabotage
-False
-Max <color=#FF1919FF>Intruder</color> <color=#FFD700FF>Roles</color>
-14
-Min <color=#FF1919FF>Intruder</color> <color=#FFD700FF>Roles</color>
-14
-<color=#02A752FF>Blackmailer</color>
-100
-1
-<color=#378AC0FF>Camouflager</color>
-100
-1
-<color=#85AA5BFF>Grenadier</color>
-100
-1
-<color=#2647A2FF>Janitor</color>
-100
-1
-<color=#40B4FFFF>Disguiser</color>
-100
-1
-<color=#BB45B0FF>Morphling</color>
-100
-1
-<color=#5C4F75FF>Wraith</color>
-100
-1
-<color=#404C08FF>Godfather</color>
-100
-1
-<color=#2BD29CFF>Ambusher</color>
-100
-1
-<color=#005643FF>Enforcer</color>
-100
-1
-<color=#FFFF99FF>Consigliere</color>
-100
-1
-<color=#801780FF>Consort</color>
-100
-1
-<color=#AA7632FF>Miner</color>
-100
-1
-<color=#939593FF>Teleporter</color>
-100
-1
-<color=#F1C40FFF>Ghoul</color>
-100
-1
-<color=#FF1919FF>Impostor</color>
-100
-1
-Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Concealers</color>
-14
-<color=#02A752FF>Blackmailer</color> Is Unique
-False
-Blackmail Cooldown
-10
-<color=#02A752FF>Blackmailer</color> Can Read Whispers
-True
-<color=#02A752FF>Blackmailer</color> Can Blackmail Teammates
-True
-Blackmail Is Revealed To Everyone
-True
-<color=#378AC0FF>Camouflager</color> Is Unique
-False
-Camouflage Cooldown
-10
-Camouflage Duration
-30
-Camouflage Hides Player Size
-True
-Camouflage Hides Player Speed
-True
-<color=#85AA5BFF>Grenadier</color> Is Unique
-False
-Flash Grenade Cooldown
-10
-Flash Grenade Duration
-30
-Flash Radius
-5
-Indicate Flashed Players
-True
-<color=#85AA5BFF>Grenadier</color> Can Vent
-True
-<color=#2647A2FF>Janitor</color> Is Unique
-False
-Clean Cooldown
-10
-Kill And Clean Cooldowns Are Linked
-False
-<color=#2647A2FF>Janitor</color> Has Lower Cooldown When Solo
-True
-Drag Cooldown
-10
-Drag Speed
-3
-<color=#2647A2FF>Janitor</color> Can Vent
-3
-Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Deceivers</color>
-14
-<color=#40B4FFFF>Disguiser</color> Is Unique
-False
-Disguise Cooldown
-10
-Delay Before Disguising
-5
-Disguise Duration
-20
-Measure Cooldown
-10
-Measure And Disguise Cooldowns Are Linked
-False
-<color=#40B4FFFF>Disguiser</color> Can Disguise
-0
-<color=#BB45B0FF>Morphling</color> Is Unique
-False
-Morph Cooldown
-10
-Morph Duration
-30
-Sample Cooldown
-10
-Sample And Morph Cooldowns Are Linked
-False
-<color=#BB45B0FF>Morphling</color> Can Vent
-True
-<color=#5C4F75FF>Wraith</color> Is Unique
-False
-Invis Cooldown
-10
-Invis Duration
-5
-<color=#5C4F75FF>Wraith</color> Can Vent
-True
-Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Heads</color>
-1
-<color=#404C08FF>Godfather</color> Is Unique
-False
-Ability Cooldown Bonus
-0.75
-Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Killers</color>
-14
-<color=#2BD29CFF>Ambusher</color> Is Unique
-False
-Ambush Cooldown
-10
-Ambush Duration
-30
-<color=#2BD29CFF>Ambusher</color> Can Ambush Teammates
-True
-<color=#005643FF>Enforcer</color> Is Unique
-False
-Enforce Cooldown
-10
-Enforce Duration
-30
-Enforce Delay
-5
-Enforce Explosion Radius
-5
-Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Supporters</color>
-14
-<color=#FFFF99FF>Consigliere</color> Is Unique
-False
-Investigate Cooldown
-10
-Info That <color=#FFFF99FF>Consigliere</color> Sees
-0
-<color=#801780FF>Consort</color> Is Unique
-False
-<color=#801780FF>Consort</color> Roleblock Cooldown
-10
-<color=#801780FF>Consort</color> Roleblock Duration
-30
-<color=#AA7632FF>Miner</color> Is Unique
-False
-Mine Cooldown
-10
-<color=#939593FF>Teleporter</color> Is Unique
-False
-Teleport Cooldown
-10
-<color=#939593FF>Teleporter</color> Mark Cooldown
-10
-Mark And Teleport Cooldowns Are Linked
-False
-<color=#939593FF>Teleporter</color> Can Vent
-True
-<color=#F1C40FFF>Ghoul</color> Mark Cooldown
-10
-<color=#008000FF>Syndicate</color> Count
-4
-<color=#008000FF>Syndicate</color> Vision
-2
-<color=#008000FF>Syndicate</color> Uses A Flashlight
-False
-Chaos Drive Timer
-1
-Chaos Drive Holder Kill Cooldown
-10
-<color=#008000FF>Syndicate</color> Can Vent
-0
-<color=#008000FF>Syndicate</color> Replaces <color=#FF1919FF>Intruders</color>
-False
-Chaos Drive Is Global
-True
-Max <color=#008000FF>Syndicate</color> <color=#FFD700FF>Roles</color>
-14
-Min <color=#008000FF>Syndicate</color> <color=#FFD700FF>Roles</color>
-14
-<color=#C02525FF>Concealer</color>
-100
-1
-<color=#FF7900FF>Drunkard</color>
-100
-1
-<color=#00FFFFFF>Framer</color>
-100
-1
-<color=#2DFF00FF>Shapeshifter</color>
-100
-1
-<color=#AAB43EFF>Silencer</color>
-100
-1
-<color=#3769FEFF>Timekeeper</color>
-100
-1
-<color=#C9CC3FFF>Bomber</color>
-100
-1
-<color=#B345FFFF>Collider</color>
-100
-1
-<color=#DF7AE8FF>Crusader</color>
-100
-1
-<color=#B5004CFF>Poisoner</color>
-100
-1
-<color=#FFFCCEFF>Rebel</color>
-100
-1
-<color=#0028F5FF>Spellslinger</color>
-100
-1
-<color=#7E4D00FF>Stalker</color>
-100
-1
-<color=#8C7140FF>Warper</color>
-100
-1
-<color=#008000FF>Anarchist</color>
-100
-1
-<color=#E67E22FF>Banshee</color>
-100
-1
-Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Disruptors</color>
-14
-<color=#C02525FF>Concealer</color> Is Unique
-False
-Conceal Cooldown
-10
-Conceal Duration
-30
-<color=#C02525FF>Concealer</color> Can Conceal Teammates
-True
-<color=#FF7900FF>Drunkard</color> Is Unique
-False
-Confuse Cooldown
-10
-Confuse Duration
-30
-<color=#008000FF>Syndicate</color> Are Immune To Confuse
-False
-<color=#00FFFFFF>Framer</color> Is Unique
-False
-Frame Cooldown
-10
-Chaos Drive Frame Radius
-5
-<color=#2DFF00FF>Shapeshifter</color> Is Unique
-False
-Shapeshift Cooldown
-10
-Shapeshift Duration
-30
-<color=#2DFF00FF>Shapeshifter</color> Can Shapeshift Teammates
-True
-<color=#AAB43EFF>Silencer</color> Is Unique
-False
-Silence Cooldown
-10
-<color=#AAB43EFF>Silencer</color> Can Read Whispers
-True
-<color=#AAB43EFF>Silencer</color> Can Silence Teammates
-True
-Silence Is Revealed To Everyone
-True
-<color=#3769FEFF>Timekeeper</color> Is Unique
-False
-Time Control Cooldown
-10
-Time Control Duration
-5
-<color=#008000FF>Syndicate</color> Are Immune To Freeze
-True
-<color=#008000FF>Syndicate</color> Are Immune To Rewind
-True
-Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Killers</color>
-14
-<color=#C9CC3FFF>Bomber</color> Is Unique
-False
-Bomb Cooldown
-10
-Detonation Cooldown
-10
-Place And Detonate Cooldowns Are Linked
-False
-Bombs Are Cleared Every Meeting
-True
-Bombs Detonate Everytime A Meeting Is Called
-True
-Bomb Radius
-5
-Chaos Drive Bomb Radius Increase
-5
-<color=#B345FFFF>Collider</color> Is Unique
-False
-Set Charges Cooldown
-10
-Charge Cooldown
-10
-Charge Duration
-10
-Collide Radius
-5
-Chaos Drive Collide Radius Increase
-5
-Charge Cooldowns Are Linked
-False
-Collision Resets Charge Cooldowns
-False
-<color=#DF7AE8FF>Crusader</color> Is Unique
-False
-Crusade Cooldown
-10
-Crusade Duration
-30
-Chaos Drive Crusade Radius
-5
-<color=#DF7AE8FF>Crusader</color> Can Crusade Teammates
-True
-<color=#B5004CFF>Poisoner</color> Is Unique
-False
-Poison Cooldown
-10
-Poison Kill Delay
-10
-Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Powers</color>
-14
-<color=#FFFCCEFF>Rebel</color> Is Unique
-False
-Ability Cooldown Bonus
-0.75
-<color=#0028F5FF>Spellslinger</color> Is Unique
-False
-Spellbind Cooldown
-10
-Spellbind Cooldown Increases By
-5
-Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Supporters</color>
-14
-<color=#7E4D00FF>Stalker</color> Is Unique
-False
-Stalk Cooldown
-10
-<color=#8C7140FF>Warper</color> Is Unique
-False
-Warp Cooldown
-10
-Warp Duration
-1
-<color=#8C7140FF>Warper</color> Can Warp Themselves
-True
-Scream Cooldown
-10
-Scream Duration
-30
-<color=#612BEFFF>Astral</color>
-100
-1
-<color=#00B3B3FF>Bait</color>
-100
-1
-<color=#B34D99FF>Colorblind</color>
-100
-1
-<color=#456BA8FF>Coward</color>
-100
-1
-<color=#374D1EFF>Diseased</color>
-100
-1
-<color=#758000FF>Drunk</color>
-100
-1
-<color=#FF8080FF>Dwarf</color>
-100
-1
-<color=#FFB34DFF>Giant</color>
-100
-1
-<color=#2DE5BEFF>Indomitable</color>
-100
-1
-<color=#860B7AFF>Professional</color>
-100
-1
-<color=#1002C5FF>Shy</color>
-100
-1
-<color=#DCEE85FF>VIP</color>
-100
-1
-<color=#FFA60AFF>Volatile</color>
-100
-1
-<color=#F6AAB7FF>Yeller</color>
-100
-1
-Max <color=#7F7F7FFF>Modifiers</color>
-14
-Min <color=#7F7F7FFF>Modifiers</color>
-14
-<color=#612BEFFF>Astral</color> Is Unique
-False
-<color=#00B3B3FF>Bait</color> Is Unique
-False
-<color=#00B3B3FF>Bait</color> Knows Who They Are
-True
-Minimum Delay for <color=#00B3B3FF>Bait</color> Self Report
-0
-Maximum Delay for <color=#00B3B3FF>Bait</color> Self Report
-1
-<color=#B34D99FF>Colorblind</color> Is Unique
-False
-<color=#456BA8FF>Coward</color> Is Unique
-False
-<color=#374D1EFF>Diseased</color> Is Unique
-False
-<color=#374D1EFF>Diseased</color> Knows Who They Are
-True
-<color=#374D1EFF>Diseased</color> Kill Multiplier
-3
-<color=#758000FF>Drunk</color> Is Unique
-False
-Controls Reverse Over Time
-False
-<color=#758000FF>Drunk</color> Knows Who They Are
-True
-Reversed Controls Interval
-10
-<color=#FF8080FF>Dwarf</color> Is Unique
-False
-<color=#FF8080FF>Dwarf</color> Speed
-1.5
-<color=#FF8080FF>Dwarf</color> Scale
-0.5
-<color=#FFB34DFF>Giant</color> Is Unique
-False
-<color=#FFB34DFF>Giant</color> Speed
-0.75
-<color=#FFB34DFF>Giant</color> Scale
-1.5
-<color=#2DE5BEFF>Indomitable</color> Is Unique
-False
-<color=#2DE5BEFF>Indomitable</color> Knows Who They Are
-True
-<color=#860B7AFF>Professional</color> Is Unique
-False
-<color=#860B7AFF>Professional</color> Knows Who They Are
-True
-<color=#1002C5FF>Shy</color> Is Unique
-False
-<color=#DCEE85FF>VIP</color> Is Unique
-False
-<color=#DCEE85FF>VIP</color> Knows Who They Are
-True
-<color=#FFA60AFF>Volatile</color> Is Unique
-False
-<color=#FFA60AFF>Volatile</color> Interval
-30
-<color=#FFA60AFF>Volatile</color> Knows Who They Are
-True
-<color=#F6AAB7FF>Yeller</color> Is Unique
-False
-<color=#E600FFFF>Button Barry</color>
-100
-1
-<color=#8CFFFFFF>Bullseye</color>
-100
-1
-<color=#FF1919FF>Hitman</color>
-100
-1
-<color=#26FCFBFF>Insider</color>
-100
-1
-<color=#FF804DFF>Multitasker</color>
-100
-1
-<color=#A84300FF>Ninja</color>
-100
-1
-<color=#CCA3CCFF>Politician</color>
-100
-1
-<color=#FF0080FF>Radar</color>
-100
-1
-<color=#2160DDFF>Ruthless</color>
-100
-1
-<color=#D4AF37FF>Snitch</color>
-100
-1
-<color=#66E666FF>Swapper</color>
-100
-1
-<color=#B3B3B3FF>Slayer</color>
-100
-1
-<color=#008000FF>Sniper</color>
-100
-1
-<color=#99E699FF>Tiebreaker</color>
-100
-1
-<color=#FFFF99FF>Torch</color>
-100
-1
-<color=#E91E63FF>Tunneler</color>
-100
-1
-<color=#841A7FFF>Underdog</color>
-100
-1
-Max <color=#FF9900FF>Abilities</color>
-14
-Min <color=#FF9900FF>Abilities</color>
-14
-<color=#8CFFFFFF>Bullseye</color> Is Unique
-False
-<color=#B3B3B3FF>Slayer</color> Is Unique
-False
-<color=#FF1919FF>Hitman</color> Is Unique
-False
-<color=#008000FF>Sniper</color> Is Unique
-False
-<color=#073763FF>Assassin</color> Guess Limit
-15
-<color=#073763FF>Assassin</color> Can Kill More Than Once Per Meeting
-True
-<color=#073763FF>Assassin</color> Can Guess <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>
-True
-<color=#073763FF>Assassin</color> Can Guess <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color>
-True
-<color=#073763FF>Assassin</color> Can Guess <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Investigatives</color>
-True
-<color=#073763FF>Assassin</color> Can Guess <color=#424242FF>Pestilence</color>
-True
-<color=#073763FF>Assassin</color> Can Guess Select <color=#7F7F7FFF>Modifiers</color>
-True
-<color=#073763FF>Assassin</color> Can Guess Select <color=#DD585BFF>Objectifiers</color>
-True
-<color=#073763FF>Assassin</color> Can Guess <color=#FF9900FF>Abilities</color>
-True
-<color=#073763FF>Assassin</color> Can Guess After Voting
-True
-<color=#E600FFFF>Button Barry</color> Is Unique
-False
-Button Cooldown
-10
-<color=#26FCFBFF>Insider</color> Is Unique
-False
-<color=#26FCFBFF>Insider</color> Knows Who They Are
-True
-<color=#FF804DFF>Multitasker</color> Is Unique
-False
-Task Transparancy
-50
-<color=#A84300FF>Ninja</color> Is Unique
-False
-<color=#CCA3CCFF>Politician</color> Is Unique
-False
-Initial <color=#CCA3CCFF>Politician</color> Initial Vote Bank
-10
-<color=#CCA3CCFF>Politician</color> Can Button
-True
-<color=#FF0080FF>Radar</color> Is Unique
-False
-<color=#2160DDFF>Ruthless</color> Is Unique
-False
-<color=#2160DDFF>Ruthless</color> Knows Who They Are
-True
-<color=#D4AF37FF>Snitch</color> Is Unique
-False
-<color=#D4AF37FF>Snitch</color> Knows Who They Are
-True
-<color=#D4AF37FF>Snitch</color> Sees <color=#B3B3B3FF>Neutrals</color>
-True
-<color=#D4AF37FF>Snitch</color> Sees <color=#8CFFFFFF>Crew</color>
-True
-<color=#D4AF37FF>Snitch</color> Sees Exact <color=#FFD700FF>Roles</color>
-True
-Tasks Remaining When Revealed
-1
-<color=#D4AF37FF>Snitch</color> Sees Evils In Meetings
-True
-<color=#66E666FF>Swapper</color> Is Unique
-False
-<color=#66E666FF>Swapper</color> Can Button
-True
-<color=#66E666FF>Swapper</color> Can Swap After Voting
-True
-<color=#66E666FF>Swapper</color> Can Swap Themself
-True
-<color=#99E699FF>Tiebreaker</color> Is Unique
-False
-<color=#99E699FF>Tiebreaker</color> Knows Who They Are
-True
-<color=#FFFF99FF>Torch</color> Is Unique
-False
-<color=#E91E63FF>Tunneler</color> Is Unique
-False
-<color=#E91E63FF>Tunneler</color> Knows Who They Are
-True
-<color=#841A7FFF>Underdog</color> Is Unique
-False
-<color=#841A7FFF>Underdog</color> Knows Who They Are
-True
-Kill Cooldown Bonus
-30
-Increased Kill Cooldown When 2+ Teammates
-True
-<color=#4545A9FF>Allied</color>
-100
-1
-<color=#4545FFFF>Corrupted</color>
-100
-1
-<color=#E1C849FF>Defector</color>
-100
-1
-<color=#678D36FF>Fanatic</color>
-100
-1
-<color=#FF351FFF>Linked</color> Pairs
-100
-1
-<color=#FF66CCFF>Lovers</color> Pairs
-100
-1
-<color=#00EEFFFF>Mafia</color>
-100
-1
-<color=#008080FF>Overlord</color>
-100
-1
-<color=#3D2D2CFF>Rivals</color> Pairs
-100
-1
-<color=#ABABFFFF>Taskmaster</color>
-100
-1
-<color=#370D43FF>Traitor</color>
-100
-1
-Max <color=#DD585BFF>Objectifiers</color>
-14
-Min <color=#DD585BFF>Objectifiers</color>
-14
-<color=#4545A9FF>Allied</color> Is Unique
-False
-<color=#4545A9FF>Allied</color> Faction
-0
-<color=#4545FFFF>Corrupted</color> Is Unique
-False
-Corrupt Cooldown
-10
-All <color=#4545FFFF>Corrupted</color> Win Together
-False
-<color=#4545FFFF>Corrupted</color> Can Vent
-True
-<color=#E1C849FF>Defector</color> Is Unique
-False
-<color=#E1C849FF>Defector</color> Knows Who They Are
-True
-<color=#E1C849FF>Defector</color> Faction
-0
-<color=#678D36FF>Fanatic</color> Is Unique
-False
-<color=#678D36FF>Fanatic</color> Knows Who They Are
-True
-Turned <color=#678D36FF>Fanatic</color> Swaps Colours For Investigative <color=#FFD700FF>Roles</color>
-True
-<color=#D4AF37FF>Snitch</color> Sees Turned <color=#678D36FF>Fanatic</color>
-True
-<color=#D3D3D3FF>Revealer</color> Reveals Turned <color=#678D36FF>Fanatic</color>
-True
-<color=#FF351FFF>Linked</color> Is Unique
-False
-Enable <color=#FF351FFF>Linked</color> Chat
-True
-<color=#FF351FFF>Linked</color> Know Each Other's <color=#FFD700FF>Roles</color>
-True
-<color=#FF66CCFF>Lovers</color> Is Unique
-False
-Both <color=#FF66CCFF>Lovers</color> Die
-True
-Enable <color=#FF66CCFF>Lovers</color> Chat
-True
-<color=#FF66CCFF>Lovers</color> Know Each Other's <color=#FFD700FF>Roles</color>
-True
-<color=#00EEFFFF>Mafia</color> Is Unique
-False
-<color=#00EEFFFF>Mafia</color> Know Each Other's <color=#FFD700FF>Roles</color>
-True
-<color=#00EEFFFF>Mafia</color> Can Vent
-True
-<color=#008080FF>Overlord</color> Is Unique
-False
-<color=#008080FF>Overlord</color> Knows Who They Are
-True
-<color=#008080FF>Overlord</color> Meeting Timer
-3
-<color=#3D2D2CFF>Rivals</color> Is Unique
-False
-Enable <color=#3D2D2CFF>Rivals</color> Chat
-True
-<color=#3D2D2CFF>Rivals</color> Know Each Other's <color=#FFD700FF>Roles</color>
-True
-<color=#ABABFFFF>Taskmaster</color> Is Unique
-False
-Tasks Remaining When Revealed
-1
-<color=#370D43FF>Traitor</color> Is Unique
-False
-<color=#370D43FF>Traitor</color> Knows Who They Are
-True
-<color=#D4AF37FF>Snitch</color> Sees Turned <color=#370D43FF>Traitor</color>
-True
-<color=#D3D3D3FF>Revealer</color> Reveals Turned <color=#370D43FF>Traitor</color>
-True
-Turned <color=#370D43FF>Traitor</color> Swaps Colours For Investigative <color=#FFD700FF>Roles</color>
-True
-Entry 1
-Any
-Entry 2
-Any
-Entry 3
-Any
-Entry 4
-Any
-Entry 5
-Any
-Entry 6
-Any
-Entry 7
-Any
-Entry 8
-Any
-Entry 9
-Any
-Entry 10
-Any
-Entry 11
-Any
-Entry 12
-Any
-Entry 13
-Any
-Entry 14
-Any
-Entry 15
-Hunter
-Ban 1
-None
-Ban 2
-None
-Ban 3
-None
-Ban 4
-None
-Ban 5
-None
-Ban <color=#8CFFFFFF>Crewmate</color>
-False
-Ban <color=#FF1919FF>Impostor</color>
-False
-Ban <color=#008000FF>Anarchist</color>
-False
-Ban <color=#6F7BEAFF>Murderer</color>
-False
-Enable <color=#E67E22FF>Banshee</color>
-True
-Enable <color=#F1C40FFF>Ghoul</color>
-True
-Enable <color=#662962FF>Phantom</color>
-True
-Enable <color=#D3D3D3FF>Revealer</color>
-True
+CustomOption.RevealCd:10
+CustomOption.StakeCd:10
+CustomOption.CoronerArrowDur:2
+CustomOption.CoronerReportRole:True
+CustomOption.CoronerReportName:True
+CustomOption.CoronerKillerNameTime:2
+CustomOption.CompareCd:10
+CustomOption.AutopsyCd:10
+CustomOption.ExamineCd:10
+CustomOption.RecentKill:10
+CustomOption.FootprintInterval:0.50000006
+CustomOption.FootprintDur:10
+CustomOption.AnonymousFootPrint:AlwaysVisible
+CustomOption.MediateCd:10
+CustomOption.ShowMediatePlayer:True
+CustomOption.ShowMediumToDead:AllDead
+CustomOption.DeadRevealed:Random
+CustomOption.BugCd:10
+CustomOption.MinAmountOfTimeInBug:0
+CustomOption.BugsRemoveOnNewRound:True
+CustomOption.MaxBugs:15
+CustomOption.BugRange:5
+CustomOption.MinAmountOfPlayersInBug:1
+CustomOption.WhoSeesDead:Nobody
+CustomOption.PreciseOperativeInfo:True
+CustomOption.SeerCd:10
+CustomOption.InterrogateCd:10
+CustomOption.NeutEvilRed:False
+CustomOption.NeutKillingRed:False
+CustomOption.MaxTracks:5
+CustomOption.TrackCd:10
+CustomOption.ResetOnNewRound:False
+CustomOption.UpdateInterval:0
+CustomOption.MaxBombs:15
+CustomOption.BastionCd:25
+CustomOption.BombRemovedOnKill:True
+CustomOption.MaxAlerts:15
+CustomOption.AlertCd:10
+CustomOption.AlertDur:30
+CustomOption.MisfireKillsInno:True
+CustomOption.VigiKillAgain:True
+CustomOption.RoundOneNoShot:True
+CustomOption.HowDoesVigilanteDie:PostMeeting
+CustomOption.HowIsVigilanteNotified:Never
+CustomOption.MaxBullets:15
+CustomOption.ShootCd:10
+CustomOption.MaxRevives:5
+CustomOption.ReviveCd:10
+CustomOption.ReviveDur:1
+CustomOption.AltruistTargetBody:False
+CustomOption.ShowShielded:Shielded
+CustomOption.WhoGetsNotification:Medic
+CustomOption.ShieldBreaks:False
+CustomOption.MaxTraps:5
+CustomOption.BuildCd:25
+CustomOption.BuildDur:10
+CustomOption.TrapCd:25
+CustomOption.RoundOneNoDictReveal:False
+CustomOption.DictateAfterVoting:False
+CustomOption.DictatorButton:True
+CustomOption.MayorVoteCount:10
+CustomOption.RoundOneNoMayorReveal:False
+CustomOption.MayorButton:True
+CustomOption.KnightingCd:10
+CustomOption.RoundOneNoKnighting:False
+CustomOption.KnightCount:2
+CustomOption.KnightVoteCount:1
+CustomOption.MonarchButton:True
+CustomOption.KnightButton:True
+CustomOption.MaxSwoops:15
+CustomOption.SwoopCd:10
+CustomOption.SwoopDur:30
+CustomOption.MaxFixes:15
+CustomOption.FixCd:10
+CustomOption.EscortCd:25
+CustomOption.EscortDur:10
+CustomOption.ReviveAfterVoting:True
+CustomOption.ShiftCd:10
+CustomOption.ShiftedBecomes:Shifter
+CustomOption.MaxTransports:15
+CustomOption.TransportCd:10
+CustomOption.TransportDur:1
+CustomOption.TransSelf:True
+CustomOption.RevealerTasksRemainingClicked:1
+CustomOption.RevealerTasksRemainingAlert:1
+CustomOption.RevealerRevealsNeutrals:True
+CustomOption.RevealerRevealsCrew:True
+CustomOption.RevealerRevealsRoles:True
+CustomOption.RevealerRevealsTraitor:False
+CustomOption.RevealerRevealsFanatic:False
+CustomOption.RevealerCanBeClickedBy:Everyone
+CustomOption.BlackmailCd:10
+CustomOption.WhispersNotateB:True
+CustomOption.BlackmailMates:True
+CustomOption.BMRevealed:True
+CustomOption.CamouflageCd:10
+CustomOption.CamouflageDur:10
+CustomOption.FlashCd:25
+CustomOption.FlashDur:10
+CustomOption.FlashRadius:5
+CustomOption.GrenadierIndicators:True
+CustomOption.SaboFlash:False
+CustomOption.GrenadierVent:True
+CustomOption.CleanCd:10
+CustomOption.JaniCooldownsLinked:False
+CustomOption.SoloBoost:False
+CustomOption.DragCd:10
+CustomOption.DragModifier:0.5
+CustomOption.JanitorVentOptions:Always
+CustomOption.DisguiseCd:10
+CustomOption.DisguiseDelay:5
+CustomOption.DisguiseDur:20
+CustomOption.MeasureCd:25
+CustomOption.DisgCooldownsLinked:False
+CustomOption.DisguiseTarget:Everyone
+CustomOption.MorphCd:10
+CustomOption.MorphDur:30
+CustomOption.SampleCd:10
+CustomOption.MorphCooldownsLinked:False
+CustomOption.MorphlingVent:True
+CustomOption.InvisCd:25
+CustomOption.InvisDur:10
+CustomOption.WraithVent:True
+CustomOption.GFPromotionCdDecrease:0.75
+CustomOption.AmbushCd:10
+CustomOption.AmbushDur:30
+CustomOption.AmbushMates:True
+CustomOption.EnforceCd:10
+CustomOption.EnforceDur:30
+CustomOption.EnforceDelay:5
+CustomOption.EnforceRadius:5
+CustomOption.InvestigateCd:10
+CustomOption.ConsigInfo:Role
+CustomOption.ConsortCd:25
+CustomOption.ConsortDur:10
+CustomOption.MineCd:10
+CustomOption.MinerSpawnOnMira:True
+CustomOption.TeleportCd:10
+CustomOption.TeleMarkCd:25
+CustomOption.TeleCooldownsLinked:False
+CustomOption.TeleVent:True
+CustomOption.GhoulMarkCd:25
+CustomOption.ObliterateCd:10
+CustomOption.MaxStacks:4
+CustomOption.PestVent:True
+CustomOption.RememberArrows:True
+CustomOption.RememberArrowDelay:5
+CustomOption.AmneVent:False
+CustomOption.AmneSwitchVent:True
+CustomOption.AmneToThief:True
+CustomOption.GuardianAngelCanPickTargets:True
+CustomOption.ProtectCd:10
+CustomOption.ProtectDur:30
+CustomOption.MaxProtects:15
+CustomOption.ShowProtect:Protected
+CustomOption.GATargetKnows:True
+CustomOption.ProtectBeyondTheGrave:True
+CustomOption.GAKnowsTargetRole:True
+CustomOption.GAVent:True
+CustomOption.GASwitchVent:True
+CustomOption.GAToSurv:True
+CustomOption.VestCd:10
+CustomOption.VestDur:5
+CustomOption.MaxVests:15
+CustomOption.SurvVent:True
+CustomOption.SurvSwitchVent:True
+CustomOption.StealCd:10
+CustomOption.ThiefSteals:True
+CustomOption.ThiefCanGuess:True
+CustomOption.ThiefCanGuessAfterVoting:True
+CustomOption.ThiefVent:True
+CustomOption.ActorCanPickRole:False
+CustomOption.ActorButton:True
+CustomOption.ActorVent:True
+CustomOption.ActSwitchVent:True
+CustomOption.ActorRoleCount:3
+CustomOption.BountyHunterCanPickTargets:False
+CustomOption.BountyHunterGuesses:15
+CustomOption.GuessCd:25
+CustomOption.BHVent:True
+CustomOption.BHToTroll:True
+CustomOption.EatCd:10
+CustomOption.BodiesNeeded:1
+CustomOption.EatArrows:True
+CustomOption.EatArrowDelay:5
+CustomOption.CannibalVent:True
+CustomOption.ExecutionerCanPickTargets:False
+CustomOption.ExecutionerButton:True
+CustomOption.ExeVent:True
+CustomOption.ExeSwitchVent:True
+CustomOption.ExeTargetKnows:True
+CustomOption.ExeKnowsTargetRole:True
+CustomOption.ExeEjectScreen:True
+CustomOption.ExeCanWinBeyondDeath:True
+CustomOption.ExeToJest:True
+CustomOption.GuesserCanPickTargets:False
+CustomOption.GuesserButton:True
+CustomOption.GuessVent:False
+CustomOption.GuessSwitchVent:True
+CustomOption.GuessTargetKnows:True
+CustomOption.MultipleGuesses:True
+CustomOption.MaxGuesses:15
+CustomOption.GuesserAfterVoting:True
+CustomOption.GuessToAct:True
+CustomOption.JesterButton:True
+CustomOption.JesterVent:True
+CustomOption.JestSwitchVent:True
+CustomOption.JestEjectScreen:False
+CustomOption.InteractCd:10
+CustomOption.TrollVent:True
+CustomOption.TrollSwitchVent:True
+CustomOption.InfectCd:10
+CustomOption.PBVent:True
+CustomOption.ArsoDouseCd:25
+CustomOption.IgniteCd:10
+CustomOption.ArsoLastKillerBoost:True
+CustomOption.ArsoIgniteAll:True
+CustomOption.ArsoCooldownsLinked:False
+CustomOption.IgnitionCremates:True
+CustomOption.ArsoVent:True
+CustomOption.CryoDouseCd:25
+CustomOption.CryoFreezeAll:False
+CustomOption.CryoLastKillerBoost:True
+CustomOption.VaporiseCd:25
+CustomOption.CryoVent:True
+CustomOption.MimicCd:10
+CustomOption.MimicDur:30
+CustomOption.HackCd:10
+CustomOption.HackDur:30
+CustomOption.NeutraliseCd:10
+CustomOption.GlitchVent:True
+CustomOption.AssaultCd:10
+CustomOption.AssaultBonus:5
+CustomOption.JuggVent:True
+CustomOption.MurderCd:10
+CustomOption.MurdVent:True
+CustomOption.BloodlustCd:10
+CustomOption.BloodlustDur:30
+CustomOption.StabCd:0.5
+CustomOption.SKVentOptions:Always
+CustomOption.MaulCd:10
+CustomOption.MaulRadius:5
+CustomOption.CanStillAttack:False
+CustomOption.WerewolfVent:Always
+CustomOption.BiteCd:10
+CustomOption.DracVent:True
+CustomOption.AliveVampCount:14
+CustomOption.UndeadVent:False
+CustomOption.RecruitCd:10
+CustomOption.JackalVent:True
+CustomOption.RecruitVent:False
+CustomOption.ResurrectCd:25
+CustomOption.ResurrectCdIncreases:True
+CustomOption.ResurrectCdIncrease:2.5
+CustomOption.MaxResurrections:14
+CustomOption.SacrificeCd:25
+CustomOption.SacrificeCdIncreases:True
+CustomOption.SacrificeCdIncrease:5
+CustomOption.MaxSacrifices:14
+CustomOption.NecroCooldownsLinked:False
+CustomOption.NecromancerTargetBody:False
+CustomOption.ResurrectDur:1
+CustomOption.NecroVent:True
+CustomOption.ResurrectVent:False
+CustomOption.WhisperCd:25
+CustomOption.WhisperCdIncreases:False
+CustomOption.WhisperCdIncrease:5
+CustomOption.WhisperRadius:5
+CustomOption.WhisperRate:5
+CustomOption.WhisperRateDecreases:False
+CustomOption.WhisperRateDecrease:5
+CustomOption.WhispVent:True
+CustomOption.PersuadedVent:False
+CustomOption.BetrayCd:25
+CustomOption.BetrayerVent:True
+CustomOption.PhantomTasksRemaining:1
+CustomOption.PhantomPlayersAlerted:True
+CustomOption.ConcealCd:10
+CustomOption.ConcealDur:30
+CustomOption.ConcealMates:True
+CustomOption.ConfuseCd:25
+CustomOption.ConfuseDur:30
+CustomOption.ConfuseImmunity:False
+CustomOption.FrameCd:10
+CustomOption.ChaosDriveFrameRadius:1.5
+CustomOption.ShapeshiftCd:10
+CustomOption.ShapeshiftDur:30
+CustomOption.ShapeshiftMates:True
+CustomOption.SilenceCd:10
+CustomOption.WhispersNotateS:True
+CustomOption.SilenceMates:True
+CustomOption.SilenceRevealed:True
+CustomOption.TimeCd:10
+CustomOption.TimeDur:5
+CustomOption.TimeFreezeImmunity:True
+CustomOption.TimeRewindImmunity:True
+CustomOption.BombCd:25
+CustomOption.DetonateCd:25
+CustomOption.BombCooldownsLinked:False
+CustomOption.BombsRemoveOnNewRound:False
+CustomOption.BombsDetonateOnMeetingStart:False
+CustomOption.BombRange:5
+CustomOption.ChaosDriveBombRange:0.5
+CustomOption.CollideCd:25
+CustomOption.ChargeCd:10
+CustomOption.ChargeDur:10
+CustomOption.CollideRange:1.5
+CustomOption.CollideRangeIncrease:0.5
+CustomOption.ChargeCooldownsLinked:False
+CustomOption.CollideResetsCooldown:False
+CustomOption.CrusadeCd:10
+CustomOption.CrusadeDur:30
+CustomOption.ChaosDriveCrusadeRadius:1.5
+CustomOption.CrusadeMates:True
+CustomOption.PoisonCd:10
+CustomOption.PoisonDur:5
+CustomOption.RebPromotionCdDecrease:0.75
+CustomOption.SpellCd:10
+CustomOption.SpellCdIncrease:5
+CustomOption.StalkCd:10
+CustomOption.WarpCd:10
+CustomOption.WarpDur:1
+CustomOption.WarpSelf:True
+CustomOption.ScreamCd:10
+CustomOption.ScreamDur:30
+CustomOption.BaitKnows:True
+CustomOption.BaitMinDelay:0
+CustomOption.BaitMaxDelay:1
+CustomOption.DiseasedKnows:True
+CustomOption.DiseasedMultiplier:3
+CustomOption.DrunkControlsSwap:False
+CustomOption.DrunkKnows:True
+CustomOption.DrunkInterval:10
+CustomOption.DwarfSpeed:1.5
+CustomOption.DwarfScale:0.5
+CustomOption.GiantSpeed:0.75
+CustomOption.GiantScale:1.5
+CustomOption.IndomitableKnows:True
+CustomOption.ProfessionalKnows:True
+CustomOption.VIPKnows:True
+CustomOption.VolatileInterval:15
+CustomOption.VolatileKnows:True
+CustomOption.AlliedFaction:Random
+CustomOption.CorruptCd:10
+CustomOption.AllCorruptedWin:False
+CustomOption.CorruptedVent:True
+CustomOption.DefectorKnows:True
+CustomOption.DefectorFaction:Random
+CustomOption.FanaticKnows:True
+CustomOption.FanaticColourSwap:True
+CustomOption.LinkedChat:True
+CustomOption.LinkedRoles:True
+CustomOption.BothLoversDie:True
+CustomOption.LoversChat:True
+CustomOption.LoversRoles:True
+CustomOption.MafiaRoles:True
+CustomOption.MafVent:True
+CustomOption.OverlordKnows:True
+CustomOption.OverlordMeetingWinCount:3
+CustomOption.RivalsChat:True
+CustomOption.RivalsRoles:True
+CustomOption.TMTasksRemaining:1
+CustomOption.TraitorKnows:True
+CustomOption.TraitorColourSwap:True
+CustomOption.AssassinKills:15
+CustomOption.AssassinMultiKill:True
+CustomOption.AssassinGuessNeutralBenign:True
+CustomOption.AssassinGuessNeutralEvil:True
+CustomOption.AssassinGuessInvestigative:True
+CustomOption.AssassinGuessApoc:False
+CustomOption.AssassinGuessModifiers:True
+CustomOption.AssassinGuessDispositions:False
+CustomOption.AssassinGuessAbilities:True
+CustomOption.AssassinateAfterVoting:True
+CustomOption.ButtonCd:10
+CustomOption.InsiderKnows:True
+CustomOption.Transparancy:50
+CustomOption.PoliticianVoteBank:10
+CustomOption.PoliticianButton:True
+CustomOption.RuthlessKnows:True
+CustomOption.SnitchKnows:True
+CustomOption.SnitchSeesNeutrals:True
+CustomOption.SnitchSeesCrew:True
+CustomOption.SnitchSeesRoles:True
+CustomOption.SnitchTasksRemaining:1
+CustomOption.SnitchSeesTargetsInMeeting:True
+CustomOption.SnitchSeesTraitor:True
+CustomOption.SnitchSeesFanatic:True
+CustomOption.SwapperButton:True
+CustomOption.SwapAfterVoting:True
+CustomOption.SwapSelf:True
+CustomOption.TiebreakerKnows:True
+CustomOption.TunnelerKnows:True
+CustomOption.UnderdogKnows:True
+CustomOption.UnderdogCdBonus:5
+CustomOption.UnderdogIncreasedCd:True
+CustomOption.CamouflagedComms:True
+CustomOption.CamouflagedMeetings:True
+CustomOption.NightVision:False
+CustomOption.EvilsIgnoreNV:False
+CustomOption.OxySlow:True
+CustomOption.ReactorShake:100
+CustomOption.CamoHideSize:True
+CustomOption.CamoHideSpeed:True
+CustomOption.PlayerSpeed:2
+CustomOption.GhostSpeed:5
+CustomOption.InteractionDistance:5
+CustomOption.EmergencyButtonCount:10
+CustomOption.EmergencyButtonCooldown:0
+CustomOption.DiscussionTime:0
+CustomOption.VotingTime:60
+CustomOption.TaskBar:Normal
+CustomOption.ConfirmEjects:True
+CustomOption.EjectionRevealsRoles:True
+CustomOption.EnableInitialCds:True
+CustomOption.InitialCooldowns:10
+CustomOption.EnableMeetingCds:True
+CustomOption.MeetingCooldowns:15
+CustomOption.EnableFailCds:True
+CustomOption.FailCooldowns:5
+CustomOption.ReportDistance:20
+CustomOption.ChatCooldown:0
+CustomOption.ChatCharacterLimit:2000
+CustomOption.LobbySize:127
+CustomOption.GameMode:AllAny
+CustomOption.IgnoreFactionCaps:True
+CustomOption.IgnoreAlignmentCaps:True
+CustomOption.IgnoreLayerCaps:False
+CustomOption.NeutralsCount:13
+CustomOption.AddArsonist:True
+CustomOption.AddCryomaniac:True
+CustomOption.AddPlaguebearer:True
+CustomOption.HnSMode:Infection
+CustomOption.HnSShortTasks:2
+CustomOption.HnSCommonTasks:1
+CustomOption.HnSLongTasks:1
+CustomOption.HunterCount:1
+CustomOption.HuntCd:5
+CustomOption.StartTime:15
+CustomOption.HunterVent:True
+CustomOption.HunterVision:0.5
+CustomOption.HuntedVision:1
+CustomOption.HunterSpeedModifier:1.25
+CustomOption.HunterFlashlight:False
+CustomOption.HuntedFlashlight:True
+CustomOption.HuntedChat:False
+CustomOption.TRShortTasks:4
+CustomOption.TRCommonTasks:4
+CustomOption.TRLongTasks:1
+CustomOption.Entry1:None
+CustomOption.Entry2:None
+CustomOption.Entry3:None
+CustomOption.Entry4:None
+CustomOption.Entry5:None
+CustomOption.Entry6:None
+CustomOption.Entry7:None
+CustomOption.Entry8:None
+CustomOption.Entry9:None
+CustomOption.Entry10:None
+CustomOption.Entry11:None
+CustomOption.Entry12:None
+CustomOption.Entry13:None
+CustomOption.Entry14:None
+CustomOption.Entry15:None
+CustomOption.EnableRevealer:True
+CustomOption.EnablePhantom:True
+CustomOption.EnableGhoul:True
+CustomOption.EnableBanshee:True
+CustomOption.Ban1:None
+CustomOption.Ban2:None
+CustomOption.Ban3:None
+CustomOption.Ban4:None
+CustomOption.Ban5:None
+CustomOption.BanCrewmate:False
+CustomOption.BanMurderer:False
+CustomOption.BanImpostor:False
+CustomOption.BanAnarchist:False
+CustomOption.WhoCanVent:Default
+CustomOption.AnonymousVoting:PoliticianOnly
+CustomOption.NoSkipping:Always
+CustomOption.FirstKillShield:False
+CustomOption.WhoSeesFirstKillShield:Everyone
+CustomOption.FactionSeeRoles:True
+CustomOption.VisualTasks:True
+CustomOption.PlayerNames:Obstructed
+CustomOption.Whispers:True
+CustomOption.WhispersAnnouncement:True
+CustomOption.AppearanceAnimation:True
+CustomOption.EnableAbilities:True
+CustomOption.EnableModifiers:True
+CustomOption.EnableDispositions:True
+CustomOption.VentTargeting:True
+CustomOption.CooldownInVent:False
+CustomOption.DeadSeeEverything:True
+CustomOption.ParallelMedScans:True
+CustomOption.HideVentAnims:True
+CustomOption.JaniCanMutuallyExclusive:False
+CustomOption.IndicateReportedBodies:False
+CustomOption.RandomSpawns:Both
+CustomOption.ShowKillerRoleColor:False
+CustomOption.GameAnnouncements:True
+CustomOption.LocationReports:True
+CustomOption.RoleFactionReports:Role
+CustomOption.KillerReports:Role
+CustomOption.RandomMapSkeld:100
+CustomOption.RandomMapMira:10
+CustomOption.RandomMapPolus:100
+CustomOption.RandomMapdlekS:100
+CustomOption.RandomMapAirship:100
+CustomOption.RandomMapFungle:100
+CustomOption.RandomMapSubmerged:100
+CustomOption.RandomMapLevelImpostor:10
+CustomOption.AutoAdjustSettings:False
+CustomOption.SmallMapHalfVision:False
+CustomOption.SmallMapDecreasedCooldown:0
+CustomOption.LargeMapIncreasedCooldown:0
+CustomOption.SmallMapIncreasedShortTasks:0
+CustomOption.SmallMapIncreasedLongTasks:0
+CustomOption.LargeMapDecreasedShortTasks:0
+CustomOption.LargeMapDecreasedLongTasks:0
+CustomOption.CommonTasks:2
+CustomOption.LongTasks:1
+CustomOption.ShortTasks:4
+CustomOption.GhostTasksCountToWin:True
+CustomOption.CrewVision:1
+CustomOption.CrewFlashlight:False
+CustomOption.CrewMax:14
+CustomOption.CrewMin:14
+CustomOption.CrewVent:Never
+CustomOption.NeutralVision:1.5
+CustomOption.LightsAffectNeutrals:True
+CustomOption.NeutralFlashlight:False
+CustomOption.NeutralMax:14
+CustomOption.NeutralMin:14
+CustomOption.NoSolo:Never
+CustomOption.AvoidNeutralKingmakers:False
+CustomOption.NeutralsVent:True
+CustomOption.IntruderCount:4
+CustomOption.IntruderVision:2
+CustomOption.IntruderFlashlight:False
+CustomOption.IntKillCd:25
+CustomOption.IntrudersVent:True
+CustomOption.IntrudersCanSabotage:True
+CustomOption.GhostsCanSabotage:False
+CustomOption.IntruderMax:14
+CustomOption.IntruderMin:14
+CustomOption.SyndicateCount:4
+CustomOption.SyndicateVision:2
+CustomOption.SyndicateFlashlight:False
+CustomOption.ChaosDriveMeetingCount:3
+CustomOption.CDKillCd:25
+CustomOption.SyndicateVent:Always
+CustomOption.AltImps:False
+CustomOption.GlobalDrive:True
+CustomOption.SyndicateMax:14
+CustomOption.SyndicateMin:14
+CustomOption.MaxCA:14
+CustomOption.MaxCI:14
+CustomOption.MaxCK:14
+CustomOption.MaxCrP:14
+CustomOption.MaxCSv:14
+CustomOption.MaxCS:14
+CustomOption.DirectSpawn:False
+CustomOption.PlayersAlerted:True
+CustomOption.MaxNB:14
+CustomOption.VigilanteKillsBenigns:True
+CustomOption.MaxNE:14
+CustomOption.NeutralEvilsEndGame:False
+CustomOption.VigilanteKillsEvils:True
+CustomOption.NEHasImpVision:True
+CustomOption.MaxNH:14
+CustomOption.NHHasImpVision:True
+CustomOption.MaxNK:14
+CustomOption.NKHasImpVision:True
+CustomOption.KnowEachOther:False
+CustomOption.MaxNN:14
+CustomOption.NNHasImpVision:True
+CustomOption.MaxIC:14
+CustomOption.MaxID:14
+CustomOption.MaxIH:1
+CustomOption.MaxIK:1
+CustomOption.MaxIS:14
+CustomOption.MaxSD:14
+CustomOption.MaxSyK:14
+CustomOption.MaxSP:14
+CustomOption.MaxSSu:14
+CustomOption.MaxModifiers:14
+CustomOption.MinModifiers:14
+CustomOption.MaxAbilities:14
+CustomOption.MinAbilities:14
+CustomOption.MaxDispositions:5
+CustomOption.MinDispositions:5
+CustomOption.EnableBetterAirship:True
+CustomOption.SpawnType:RandomSynchronized
+CustomOption.MoveVitals:True
+CustomOption.MoveFuel:True
+CustomOption.MoveDivert:True
+CustomOption.MoveAdmin:MainHall
+CustomOption.MoveElectrical:Vault
+CustomOption.MinDoorSwipeTime:0.4
+CustomOption.CrashTimer:90
+CustomOption.EnableCustomSpawns:True
+CustomOption.EnableBetterFungle:True
+CustomOption.FungleReactorTimer:60
+CustomOption.FungleMixupTimer:8
+CustomOption.EnableBetterMiraHQ:True
+CustomOption.MiraHQVentImprovements:False
+CustomOption.MiraReactorTimer:60
+CustomOption.MiraO2Timer:60
+CustomOption.EnableBetterPolus:True
+CustomOption.PolusVentImprovements:False
+CustomOption.TempLocation:DontMove
+CustomOption.WifiChartCourseSwap:False
+CustomOption.SeismicTimer:60
+CustomOption.EnableBetterSkeld:True
+CustomOption.SkeldVentImprovements:False
+CustomOption.SkeldReactorTimer:60
+CustomOption.SkeldO2Timer:60
+CustomOption.Mystic1:0,0,False,False,Mystic
+CustomOption.VampireHunter1:0,0,False,False,VampireHunter
+CustomOption.Coroner1:0,0,False,False,Coroner
+CustomOption.Detective1:0,0,False,False,Detective
+CustomOption.Medium1:0,0,False,False,Medium
+CustomOption.Operative1:0,0,False,False,Operative
+CustomOption.Seer1:0,0,False,False,Seer
+CustomOption.Sheriff1:0,0,False,False,Sheriff
+CustomOption.Tracker1:0,0,False,False,Tracker
+CustomOption.Bastion1:0,0,False,False,Bastion
+CustomOption.Veteran1:0,0,False,False,Veteran
+CustomOption.Vigilante1:0,0,False,False,Vigilante
+CustomOption.Altruist1:0,0,False,False,Altruist
+CustomOption.Medic1:0,0,False,False,Medic
+CustomOption.Trapper1:0,0,False,False,Trapper
+CustomOption.Dictator1:0,0,False,False,Dictator
+CustomOption.Mayor1:0,0,False,False,Mayor
+CustomOption.Monarch1:0,0,False,False,Monarch
+CustomOption.Chameleon1:0,0,False,False,Chameleon
+CustomOption.Engineer1:0,0,False,False,Engineer
+CustomOption.Escort1:0,0,False,False,Escort
+CustomOption.Retributionist1:0,0,False,False,Retributionist
+CustomOption.Shifter1:0,0,False,False,Shifter
+CustomOption.Transporter1:0,0,False,False,Transporter
+CustomOption.Crewmate:0,0,False,False,Crewmate
+CustomOption.Revealer1:0,0,False,False,Revealer
+CustomOption.Pestilence1:0,0,False,False,Pestilence
+CustomOption.Amnesiac1:0,0,False,False,Amnesiac
+CustomOption.GuardianAngel1:0,0,False,False,GuardianAngel
+CustomOption.Survivor1:0,0,False,False,Survivor
+CustomOption.Thief1:0,0,False,False,Thief
+CustomOption.Actor1:0,0,False,False,Actor
+CustomOption.BountyHunter1:0,0,False,False,BountyHunter
+CustomOption.Cannibal1:0,0,False,False,Cannibal
+CustomOption.Executioner1:0,0,False,False,Executioner
+CustomOption.Guesser1:0,0,False,False,Guesser
+CustomOption.Jester1:0,0,False,False,Jester
+CustomOption.Troll1:0,0,False,False,Troll
+CustomOption.Plaguebearer1:0,0,False,False,Plaguebearer
+CustomOption.Arsonist1:0,0,False,False,Arsonist
+CustomOption.Cryomaniac1:0,0,False,False,Cryomaniac
+CustomOption.Glitch1:0,0,False,False,Glitch
+CustomOption.Juggernaut1:0,0,False,False,Juggernaut
+CustomOption.Murderer1:0,0,False,False,Murderer
+CustomOption.SerialKiller1:0,0,False,False,SerialKiller
+CustomOption.Werewolf1:0,0,False,False,Werewolf
+CustomOption.Dracula1:0,0,False,False,Dracula
+CustomOption.Jackal1:0,0,False,False,Jackal
+CustomOption.Necromancer1:0,0,False,False,Necromancer
+CustomOption.Whisperer1:0,0,False,False,Whisperer
+CustomOption.Betrayer1:0,0,False,False,Betrayer
+CustomOption.Phantom1:0,0,False,False,Phantom
+CustomOption.Blackmailer1:0,0,False,False,Blackmailer
+CustomOption.Camouflager1:0,0,False,False,Camouflager
+CustomOption.Grenadier1:0,0,False,False,Grenadier
+CustomOption.Janitor1:0,0,False,False,Janitor
+CustomOption.Disguiser1:0,0,False,False,Disguiser
+CustomOption.Morphling1:0,0,False,False,Morphling
+CustomOption.Wraith1:0,0,False,False,Wraith
+CustomOption.Godfather1:0,0,False,False,Godfather
+CustomOption.Ambusher1:0,0,False,False,Ambusher
+CustomOption.Enforcer1:0,0,False,False,Enforcer
+CustomOption.Consigliere1:0,0,False,False,Consigliere
+CustomOption.Consort1:0,0,False,False,Consort
+CustomOption.Miner1:0,0,False,False,Miner
+CustomOption.Teleporter1:0,0,False,False,Teleporter
+CustomOption.Ghoul1:0,0,False,False,Ghoul
+CustomOption.Impostor:0,0,False,False,Impostor
+CustomOption.Concealer1:0,0,False,False,Concealer
+CustomOption.Drunkard1:0,0,False,False,Drunkard
+CustomOption.Framer1:0,0,False,False,Framer
+CustomOption.Shapeshifter1:0,0,False,False,Shapeshifter
+CustomOption.Silencer1:0,0,False,False,Silencer
+CustomOption.Timekeeper1:0,0,False,False,Timekeeper
+CustomOption.Bomber1:0,0,False,False,Bomber
+CustomOption.Collider1:0,0,False,False,Collider
+CustomOption.Crusader1:0,0,False,False,Crusader
+CustomOption.Poisoner1:0,0,False,False,Poisoner
+CustomOption.Rebel1:0,0,False,False,Rebel
+CustomOption.Spellslinger1:0,0,False,False,Spellslinger
+CustomOption.Stalker1:0,0,False,False,Stalker
+CustomOption.Warper1:0,0,False,False,Warper
+CustomOption.Anarchist:0,0,False,False,Anarchist
+CustomOption.Banshee1:0,0,False,False,Banshee
+CustomOption.Astral:0,0,False,False,Astral
+CustomOption.Bait1:0,0,False,False,Bait
+CustomOption.Colorblind:0,0,False,False,Colorblind
+CustomOption.Coward:0,0,False,False,Coward
+CustomOption.Diseased1:0,0,False,False,Diseased
+CustomOption.Drunk1:0,0,False,False,Drunk
+CustomOption.Dwarf1:0,0,False,False,Dwarf
+CustomOption.Giant1:0,0,False,False,Giant
+CustomOption.Indomitable1:0,0,False,False,Indomitable
+CustomOption.Professional1:0,0,False,False,Professional
+CustomOption.Shy:0,0,False,False,Shy
+CustomOption.VIP1:0,0,False,False,VIP
+CustomOption.Volatile1:0,0,False,False,Volatile
+CustomOption.Yeller:0,0,False,False,Yeller
+CustomOption.Bullseye:0,0,False,False,Bullseye
+CustomOption.ButtonBarry1:0,0,False,False,ButtonBarry
+CustomOption.Hitman:0,0,False,False,Hitman
+CustomOption.Insider1:0,0,False,False,Insider
+CustomOption.Multitasker1:0,0,False,False,Multitasker
+CustomOption.Ninja:0,0,False,False,Ninja
+CustomOption.Politician1:0,0,False,False,Politician
+CustomOption.Radar:0,0,False,False,Radar
+CustomOption.Ruthless1:0,0,False,False,Ruthless
+CustomOption.Slayer:0,0,False,False,Slayer
+CustomOption.Sniper:0,0,False,False,Sniper
+CustomOption.Snitch1:0,0,False,False,Snitch
+CustomOption.Swapper1:0,0,False,False,Swapper
+CustomOption.Tiebreaker1:0,0,False,False,Tiebreaker
+CustomOption.Torch:0,0,False,False,Torch
+CustomOption.Tunneler1:0,0,False,False,Tunneler
+CustomOption.Underdog1:0,0,False,False,Underdog
+CustomOption.Allied1:0,0,False,False,Allied
+CustomOption.Corrupted1:0,0,False,False,Corrupted
+CustomOption.Defector1:0,0,False,False,Defector
+CustomOption.Fanatic1:0,0,False,False,Fanatic
+CustomOption.Linked1:0,0,False,False,Linked
+CustomOption.Lovers1:0,0,False,False,Lovers
+CustomOption.Mafia1:0,0,False,False,Mafia
+CustomOption.Overlord1:0,0,False,False,Overlord
+CustomOption.Rivals1:0,0,False,False,Rivals
+CustomOption.Taskmaster1:0,0,False,False,Taskmaster
+CustomOption.Traitor1:0,0,False,False,Traitor
+Map:Submerged

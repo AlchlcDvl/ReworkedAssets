@@ -226,10 +226,9 @@
   {
     "name": "Panda",
     "rgbmain": "255, 255, 255",
-    "rgbshadow": "0, 0, 0",
     "lighter": true,
     "contrasting": true,
-    "title": "Constrasting"
+    "title": "Constrast"
   },
   {
     "name": "Contrast",
@@ -246,8 +245,7 @@
   },
   {
     "name": "Vantablack",
-    "rgbmain": "15, 15, 15",
-    "rgbshadow": "0, 0, 0"
+    "rgbmain": "15, 15, 15"
   },
   {
     "name": "Ice",
@@ -274,58 +272,58 @@
   },
   {
     "name": "Reversebow",
-    "hsbmain": "0, 1, 0.3, true; 1; 0, 1, 0.3",
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Vibrance",
-    "hsbmain": "0.17, 0.5, 0.3, true; 0.9, 1, 0.3; 0.9, 1, 0.3, true",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Darkbow",
-    "hsbmain": "0, 1, 0.3; 0.8; 0.3",
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Aberration",
-    "hsbmain": "0, 0.2, 0.9; 0.8, 1, 0.3, true; 0.3",
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Chroma",
-    "hsbmain": "0, 1, 0.4; 0, 1, 0.6, true; 0, 1, 0.9",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Mantle",
-    "hsbmain": "0, 1, 0.3; 0, 1, 0.9; 0, 0.8, 0.5",
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Fire",
-    "hsbmain": "0, 0.17, 0.4; 1; 1",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Galaxy",
-    "hsbmain": "0.5, 0.87, 0.4; 1; 1",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Monochrome",
-    "hsbmain": "1; 0; 0, 1, 0.8",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   },
   {
     "name": "Rainbow",
-    "hsbmain": "0, 1, 0.3; 1; 1",
     "lighter": true,
-    "title": "Everchanging"
+    "title": "Everchanging",
+    "changing": true
   }
 ]
