@@ -1672,7 +1672,7 @@
     "schinese": "<color=#FF9900FF>额外能力</color>"
   },
   {
-    "id": "CustomOption.Assassin",
+    "ids": [ "CustomOption.Assassin", "CustomOption.Assassin1" ],
     "english": "Assassin",
     "schinese": "刺客"
   },
@@ -4740,6 +4740,32 @@
     "id": "CustomOption.RoleListBans",
     "english": "<color=#FA1C79FF>Role List</color> Bans",
     "schinese": ""
+  },
+  {
+    "id": "RoleOption.Chance",
+    "english": "Chance",
+    "schinese": ""
+  },
+  {
+    "id": "RoleOption.Count",
+    "english": "Count",
+    "schinese": ""
+  },
+  {
+    "id": "RoleOption.Unique",
+    "english": "Unique",
+    "schinese": ""
+  },
+  {
+    "id": "RoleOption.Active",
+    "english": "Active",
+    "schinese": ""
+  },
+  {
+    "id": "RoleOption.",
+    "english": "",
+    "schinese": "",
+    "note": "This is intentionally empty"
   },
   {
     "id": "Setting.Loading",
