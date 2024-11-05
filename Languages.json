@@ -4763,9 +4763,7 @@
   },
   {
     "id": "RoleOption.",
-    "english": "",
-    "schinese": "",
-    "note": "This is intentionally empty"
+    "notes": "This is intentionally empty"
   },
   {
     "id": "Setting.Loading",
