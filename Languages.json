@@ -311,8 +311,8 @@
   },
   {
     "id": "CustomOption.EjectionRevealsRoles",
-    "english": "Ejection Reveals <color=#FFD700FF>Roles</color>",
-    "schinese": "显示被放逐玩家的<color=#FFD700FF>职业</color>"
+    "english": "Ejection Reveals <#FFD700FF>Roles</color>",
+    "schinese": "显示被放逐玩家的<#FFD700FF>职业</color>"
   },
   {
     "id": "CustomOption.EnableInitialCds",
@@ -376,37 +376,37 @@
   },
   {
     "id": "CustomOption.GameMode.Classic",
-    "english": "<color=#C02A2CFF>Classic</color>",
+    "english": "<#C02A2CFF>Classic</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GameMode.AllAny",
-    "english": "<color=#CBD542FF>All Any</color>",
+    "english": "<#CBD542FF>All Any</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GameMode.KillingOnly",
-    "english": "<color=#06E00CFF>Killing Only</color>",
+    "english": "<#06E00CFF>Killing Only</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GameMode.RoleList",
-    "english": "<color=#FA1C79FF>Role List</color>",
+    "english": "<#FA1C79FF>Role List</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GameMode.HideAndSeek",
-    "english": "<color=#7500AFFF>Hide And Seek</color>",
+    "english": "<#7500AFFF>Hide And Seek</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GameMode.TaskRace",
-    "english": "<color=#1E49CFFF>Task Race</color>",
+    "english": "<#1E49CFFF>Task Race</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GameMode.Custom",
-    "english": "<color=#E6956AFF>Custom</color>",
+    "english": "<#E6956AFF>Custom</color>",
     "schinese": ""
   },
   {
@@ -416,38 +416,38 @@
   },
   {
     "id": "CustomOption.IgnoreAlignmentCaps",
-    "english": "Ignore <color=#1D7CF2FF>Alignment</color> Caps",
+    "english": "Ignore <#1D7CF2FF>Alignment</color> Caps",
     "schinese": "全击杀模式设置"
   },
   {
     "id": "CustomOption.IgnoreFactionCaps",
-    "english": "Ignore <color=#00E66DFF>Faction</color> Caps",
+    "english": "Ignore <#00E66DFF>Faction</color> Caps",
     "schinese": "全击杀模式设置"
   },
   {
     "id": "CustomOption.IgnoreLayerCaps",
-    "english": "Ignore Non-<color=#FFD700FF>Role</color> Caps",
+    "english": "Ignore Non-<#FFD700FF>Role</color> Caps",
     "schinese": "全击杀模式设置"
   },
   {
     "id": "CustomOption.NeutralsCount",
-    "english": "<color=#B3B3B3FF>Neutrals</color> Count",
-    "schinese": "<color=#B3B3B3FF>独立阵营</color>玩家数"
+    "english": "<#B3B3B3FF>Neutrals</color> Count",
+    "schinese": "<#B3B3B3FF>独立阵营</color>玩家数"
   },
   {
     "id": "CustomOption.AddArsonist",
-    "english": "Add <color=#EE7600FF>Arsonist</color>",
-    "schinese": "添加<color=#EE7600FF>纵火狂</color>"
+    "english": "Add <#EE7600FF>Arsonist</color>",
+    "schinese": "添加<#EE7600FF>纵火狂</color>"
   },
   {
     "id": "CustomOption.AddCryomaniac",
-    "english": "Add <color=#642DEAFF>Cryomaniac</color>",
-    "schinese": "添加<color=#642DEAFF>冰冻狂</color>"
+    "english": "Add <#642DEAFF>Cryomaniac</color>",
+    "schinese": "添加<#642DEAFF>冰冻狂</color>"
   },
   {
     "id": "CustomOption.AddPlaguebearer",
-    "english": "Add <color=#CFFE61FF>Plaguebearer</color>",
-    "schinese": "添加<color=#CFFE61FF>瘟疫之源</color>"
+    "english": "Add <#CFFE61FF>Plaguebearer</color>",
+    "schinese": "添加<#CFFE61FF>瘟疫之源</color>"
   },
   {
     "id": "CustomOption.GameModifiers",
@@ -493,12 +493,12 @@
   },
   {
     "id": "CustomOption.AnonVotes.NonPolitician",
-    "english": "Non-<color=#CCA3CCFF>Politicians</color> Only",
+    "english": "Non-<#CCA3CCFF>Politicians</color> Only",
     "schinese": "匿名投票"
   },
   {
     "id": "CustomOption.AnonVotes.PoliticianOnly",
-    "english": "<color=#CCA3CCFF>Politician</color> Only",
+    "english": "<#CCA3CCFF>Politician</color> Only",
     "schinese": "匿名投票"
   },
   {
@@ -528,8 +528,8 @@
   },
   {
     "id": "CustomOption.FactionSeeRoles",
-    "english": "Factioned Evils See The <color=#FFD700FF>Roles</color> Of Their Team",
-    "schinese": "不止一名玩家的邪恶阵营可以互相确认<color=#FFD700FF>职业</color>"
+    "english": "Factioned Evils See The <#FFD700FF>Roles</color> Of Their Team",
+    "schinese": "不止一名玩家的邪恶阵营可以互相确认<#FFD700FF>职业</color>"
   },
   {
     "id": "CustomOption.VisualTasks",
@@ -598,17 +598,17 @@
   },
   {
     "id": "CustomOption.EnableAbilities",
-    "english": "Enable <color=#FF9900FF>Abilities</color>",
-    "schinese": "启用<color=#FF9900FF>额外能力</color>"
+    "english": "Enable <#FF9900FF>Abilities</color>",
+    "schinese": "启用<#FF9900FF>额外能力</color>"
   },
   {
     "id": "CustomOption.EnableModifiers",
-    "english": "Enable <color=#7F7F7FFF>Modifiers</color>",
-    "schinese": "启用<color=#7F7F7FFF>附加职业</color>"
+    "english": "Enable <#7F7F7FFF>Modifiers</color>",
+    "schinese": "启用<#7F7F7FFF>附加职业</color>"
   },
   {
     "id": "CustomOption.EnableDispositions",
-    "english": "Enable <color=#DD585BFF>Dispositions</color>",
+    "english": "Enable <#DD585BFF>Dispositions</color>",
     "schinese": ""
   },
   {
@@ -633,8 +633,8 @@
   },
   {
     "id": "CustomOption.RoleFactionReports",
-    "english": "Every Body's <color=#FFD700FF>Role</color>/<color=#00E66DFF>Faction</color> Is Announced",
-    "schinese": "公开死亡玩家<color=#FFD700FF>职业</color>/<color=#00E66DFF>阵营</color>"
+    "english": "Every Body's <#FFD700FF>Role</color>/<#00E66DFF>Faction</color> Is Announced",
+    "schinese": "公开死亡玩家<#FFD700FF>职业</color>/<#00E66DFF>阵营</color>"
   },
   {
     "id": "CustomOption.RoleFactionReports.Neither",
@@ -643,18 +643,18 @@
   },
   {
     "ids": [ "CustomOption.RoleFactionReports.Role", "CustomOption.ConsigInfo.Role" ],
-    "english": "<color=#FFD700FF>Role</color>",
+    "english": "<#FFD700FF>Role</color>",
     "schinese": ""
   },
   {
     "ids": [ "CustomOption.RoleFactionReports.Faction", "CustomOption.ConsigInfo.Faction" ],
-    "english": "<color=#00E66DFF>Faction</color>",
+    "english": "<#00E66DFF>Faction</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.KillerReports",
-    "english": "Every Body's Killer's <color=#FFD700FF>Role</color>/<color=#00E66DFF>Faction</color> Is Announced",
-    "schinese": "公开杀害死亡玩家凶手的<color=#FFD700FF>职业</color>/<color=#00E66DFF>阵营</color>"
+    "english": "Every Body's Killer's <#FFD700FF>Role</color>/<#00E66DFF>Faction</color> Is Announced",
+    "schinese": "公开杀害死亡玩家凶手的<#FFD700FF>职业</color>/<#00E66DFF>阵营</color>"
   },
   {
     "id": "CustomOption.DeadSeeEverything",
@@ -957,6 +957,26 @@
     "schinese": ""
   },
   {
+    "id": "CustomOption.MaxTribunals",
+    "english": "Max Tribunals",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.CanInteract",
+    "english": "<#678D36FF>Troll</color> Can Interact With Players",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.LockCameraSway",
+    "english": "Fix Camera To Player",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.ForceUseLocal",
+    "english": "Use Local Files And Skip Internet Requests",
+    "schinese": ""
+  },
+  {
     "ids": [ "CustomOption.MoveAdmin.DontMove", "CustomOption.MoveElectrical.DontMove", "CustomOption.TempLocation.DontMove" ],
     "english": "Don't Move",
     "schinese": ""
@@ -988,8 +1008,8 @@
   },
   {
     "ids": [ "CustomOption.CrewAuditorRoles", "CustomOption.CrewAuditorSettings" ],
-    "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditor</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>审判型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
+    "english": "<#8CFFFFFF>Crew</color> <#1D7CF2FF>Auditor</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>审判型</color><#8CFFFFFF>船员</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Mystic", "CustomOption.Mystic1", "RoleList.Mystic" ],
@@ -1003,8 +1023,8 @@
   },
   {
     "ids": [ "CustomOption.CrewInvestigativeRoles", "CustomOption.CrewInvestigativeSettings" ],
-    "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Investigative</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>情报型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
+    "english": "<#8CFFFFFF>Crew</color> <#1D7CF2FF>Investigative</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>情报型</color><#8CFFFFFF>船员</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Coroner", "CustomOption.Coroner1", "RoleList.Coroner" ],
@@ -1043,8 +1063,8 @@
   },
   {
     "ids": [ "CustomOption.CrewKillingRoles", "CustomOption.CrewKillingSettings" ],
-    "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>击杀型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
+    "english": "<#8CFFFFFF>Crew</color> <#1D7CF2FF>Killing</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>击杀型</color><#8CFFFFFF>船员</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Bastion", "CustomOption.Bastion1", "RoleList.Bastion" ],
@@ -1063,8 +1083,8 @@
   },
   {
     "ids": [ "CustomOption.CrewProtectiveRoles", "CustomOption.CrewProtectiveSettings" ],
-    "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Protective</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>保护型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
+    "english": "<#8CFFFFFF>Crew</color> <#1D7CF2FF>Protective</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>保护型</color><#8CFFFFFF>船员</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Altruist", "CustomOption.Altruist1", "RoleList.Altruist" ],
@@ -1083,8 +1103,8 @@
   },
   {
     "ids": [ "CustomOption.CrewSovereignRoles", "CustomOption.CrewSovereignSettings" ],
-    "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Sovereign</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>强权型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
+    "english": "<#8CFFFFFF>Crew</color> <#1D7CF2FF>Sovereign</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>强权型</color><#8CFFFFFF>船员</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Mayor", "CustomOption.Mayor1", "RoleList.Mayor" ],
@@ -1103,8 +1123,8 @@
   },
   {
     "ids": [ "CustomOption.CrewSupportRoles", "CustomOption.CrewSupportSettings" ],
-    "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>辅助型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
+    "english": "<#8CFFFFFF>Crew</color> <#1D7CF2FF>Support</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>辅助型</color><#8CFFFFFF>船员</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Chameleon", "CustomOption.Chameleon1", "RoleList.Chameleon" ],
@@ -1138,8 +1158,8 @@
   },
   {
     "ids": [ "CustomOption.CrewUtilityRoles", "CustomOption.CrewUtilitySettings" ],
-    "english": "<color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>通用型</color><color=#8CFFFFFF>船员</color><color=#FFD700FF>职业</color>"
+    "english": "<#8CFFFFFF>Crew</color> <#1D7CF2FF>Utility</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>通用型</color><#8CFFFFFF>船员</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Revealer", "CustomOption.Revealer1", "RoleList.Revealer" ],
@@ -1153,8 +1173,8 @@
   },
   {
     "ids": [ "CustomOption.NeutralBenignRoles", "CustomOption.NeutralBenignSettings" ],
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benign</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>友好型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Benign</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>友好型</color><#B3B3B3FF>独立阵营</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Amnesiac", "CustomOption.Amnesiac1", "RoleList.Amnesiac" ],
@@ -1178,8 +1198,8 @@
   },
   {
     "ids": [ "CustomOption.NeutralEvilRoles", "CustomOption.NeutralEvilSettings" ],
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evil</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>邪恶型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Evil</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>邪恶型</color><#B3B3B3FF>独立阵营</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Actor", "CustomOption.Actor1", "RoleList.Actor" ],
@@ -1218,8 +1238,8 @@
   },
   {
     "ids": [ "CustomOption.NeutralHarbingerRoles", "CustomOption.NeutralHarbingerSettings" ],
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Harbinger</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>灾兆型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Harbinger</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>灾兆型</color><#B3B3B3FF>独立阵营</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Plaguebearer", "CustomOption.Plaguebearer1", "RoleList.Plaguebearer" ],
@@ -1228,7 +1248,7 @@
   },
   {
     "ids": [ "CustomOption.NeutralApocalypseRoles", "CustomOption.NeutralApocalypseSettings" ],
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Apocalypse</color> <color=#FFD700FF>Roles</color>",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Apocalypse</color> <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
@@ -1238,8 +1258,8 @@
   },
   {
     "ids": [ "CustomOption.NeutralKillingRoles", "CustomOption.NeutralKillingSettings" ],
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>击杀型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Killing</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>击杀型</color><#B3B3B3FF>独立阵营</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Arsonist", "CustomOption.Arsonist1", "RoleList.Arsonist" ],
@@ -1278,8 +1298,8 @@
   },
   {
     "ids": [ "CustomOption.NeutralNeophyteRoles", "CustomOption.NeutralNeophyteSettings" ],
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophyte</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>宗派型</color><color=#B3B3B3FF>独立阵营</color><color=#FFD700FF>职业</color>"
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Neophyte</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>宗派型</color><#B3B3B3FF>独立阵营</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Dracula", "CustomOption.Dracula1", "RoleList.Dracula" ],
@@ -1303,8 +1323,8 @@
   },
   {
     "ids": [ "CustomOption.NeutralProselyteRoles", "CustomOption.NeutralProselyteSettings" ],
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Proselyte</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>亡灵型</color>"
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Proselyte</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>亡灵型</color>"
   },
   {
     "ids": [ "CustomOption.Betrayer", "CustomOption.Betrayer1" ],
@@ -1318,8 +1338,8 @@
   },
   {
     "ids": [ "CustomOption.IntruderConcealingRoles", "CustomOption.IntruderConcealingSettings" ],
-    "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Concealing</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>干扰型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
+    "english": "<#FF1919FF>Intruder</color> <#1D7CF2FF>Concealing</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>干扰型</color><#FF1919FF>内鬼</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Blackmailer", "CustomOption.Blackmailer1", "RoleList.Blackmailer" ],
@@ -1343,8 +1363,8 @@
   },
   {
     "ids": [ "CustomOption.IntruderDeceptionRoles", "CustomOption.IntruderDeceptionSettings" ],
-    "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Deception</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>伪装型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
+    "english": "<#FF1919FF>Intruder</color> <#1D7CF2FF>Deception</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>伪装型</color><#FF1919FF>内鬼</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Disguiser", "CustomOption.Disguiser1", "RoleList.Disguiser" ],
@@ -1363,8 +1383,8 @@
   },
   {
     "ids": [ "CustomOption.IntruderKillingRoles", "CustomOption.IntruderKillingSettings" ],
-    "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>击杀型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
+    "english": "<#FF1919FF>Intruder</color> <#1D7CF2FF>Killing</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>击杀型</color><#FF1919FF>内鬼</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Ambusher", "CustomOption.Ambusher1", "RoleList.Ambusher" ],
@@ -1378,13 +1398,13 @@
   },
   {
     "ids": [ "CustomOption.IntruderHeadRoles", "CustomOption.IntruderHeadSettings" ],
-    "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Head</color> <color=#FFD700FF>Roles</color>",
+    "english": "<#FF1919FF>Intruder</color> <#1D7CF2FF>Head</color> <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "ids": [ "CustomOption.IntruderSupportRoles", "CustomOption.IntruderSupportSettings" ],
-    "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>辅助型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
+    "english": "<#FF1919FF>Intruder</color> <#1D7CF2FF>Support</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>辅助型</color><#FF1919FF>内鬼</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Consigliere", "CustomOption.Consigliere1", "RoleList.Consigliere" ],
@@ -1413,8 +1433,8 @@
   },
   {
     "ids": [ "CustomOption.IntruderUtilityRoles", "CustomOption.IntruderUtilitySettings" ],
-    "english": "<color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>通用型</color><color=#FF1919FF>内鬼</color><color=#FFD700FF>职业</color>"
+    "english": "<#FF1919FF>Intruder</color> <#1D7CF2FF>Utility</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>通用型</color><#FF1919FF>内鬼</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Ghoul", "CustomOption.Ghoul1" ],
@@ -1428,8 +1448,8 @@
   },
   {
     "ids": [ "CustomOption.SyndicateDisruptionRoles", "CustomOption.SyndicateDisruptionSettings" ],
-    "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Disruption</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>干扰型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
+    "english": "<#008000FF>Syndicate</color> <#1D7CF2FF>Disruption</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>干扰型</color><#008000FF>暴乱</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Concealer", "CustomOption.Concealer1", "RoleList.Concealer" ],
@@ -1458,8 +1478,8 @@
   },
   {
     "ids": [ "CustomOption.SyndicateKillingRoles", "CustomOption.SyndicateKillingSettings" ],
-    "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Killing</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>击杀型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
+    "english": "<#008000FF>Syndicate</color> <#1D7CF2FF>Killing</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>击杀型</color><#008000FF>暴乱</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Bomber", "CustomOption.Bomber1", "RoleList.Bomber" ],
@@ -1483,8 +1503,8 @@
   },
   {
     "ids": [ "CustomOption.SyndicateSupportRoles", "CustomOption.SyndicateSupportSettings" ],
-    "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Support</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>辅助型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
+    "english": "<#008000FF>Syndicate</color> <#1D7CF2FF>Support</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>辅助型</color><#008000FF>暴乱</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Rebel", "CustomOption.Rebel1", "RoleList.Rebel" ],
@@ -1503,8 +1523,8 @@
   },
   {
     "ids": [ "CustomOption.SyndicateUtilityRoles", "CustomOption.SyndicateUtilitySettings" ],
-    "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Utility</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>通用型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
+    "english": "<#008000FF>Syndicate</color> <#1D7CF2FF>Utility</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>通用型</color><#008000FF>暴乱</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Banshee", "CustomOption.Banshee1" ],
@@ -1518,8 +1538,8 @@
   },
   {
     "ids": [ "CustomOption.SyndicatePowerRoles", "CustomOption.SyndicatePowerSettings" ],
-    "english": "<color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Power</color> <color=#FFD700FF>Roles</color>",
-    "schinese": "<color=#1D7CF2FF>超能型</color><color=#008000FF>暴乱</color><color=#FFD700FF>职业</color>"
+    "english": "<#008000FF>Syndicate</color> <#1D7CF2FF>Power</color> <#FFD700FF>Roles</color>",
+    "schinese": "<#1D7CF2FF>超能型</color><#008000FF>暴乱</color><#FFD700FF>职业</color>"
   },
   {
     "ids": [ "CustomOption.Spellslinger", "CustomOption.Spellslinger1", "RoleList.Spellslinger" ],
@@ -1533,8 +1553,8 @@
   },
   {
     "ids": [ "CustomOption.Modifiers", "CustomOption.ModifiersSettings" ],
-    "english": "<color=#7F7F7FFF>Modifiers</color>",
-    "schinese": "<color=#7F7F7FFF>附加职业</color>"
+    "english": "<#7F7F7FFF>Modifiers</color>",
+    "schinese": "<#7F7F7FFF>附加职业</color>"
   },
   {
     "id": "CustomOption.Astral",
@@ -1608,7 +1628,7 @@
   },
   {
     "ids": [ "CustomOption.Dispositions", "CustomOption.DispositionsSettings" ],
-    "english": "<color=#DD585BFF>Dispositions</color>",
+    "english": "<#DD585BFF>Dispositions</color>",
     "schinese": ""
   },
   {
@@ -1668,8 +1688,8 @@
   },
   {
     "ids": [ "CustomOption.Abilities", "CustomOption.AbilitiesSettings" ],
-    "english": "<color=#FF9900FF>Abilities</color>",
-    "schinese": "<color=#FF9900FF>额外能力</color>"
+    "english": "<#FF9900FF>Abilities</color>",
+    "schinese": "<#FF9900FF>额外能力</color>"
   },
   {
     "ids": [ "CustomOption.Assassin", "CustomOption.Assassin1" ],
@@ -1763,12 +1783,12 @@
   },
   {
     "ids": [ "CustomOption.AlliedFaction.Crew", "CustomOption.DefectorFaction.Crew", "CustomOption.CrewSettings" ],
-    "english": "<color=#8CFFFFFF>Crew</color>",
+    "english": "<#8CFFFFFF>Crew</color>",
     "schinese": ""
   },
   {
     "ids": [ "CustomOption.AlliedFaction.Intruder", "CustomOption.DisguiserTargets.Intruders", "CustomOption.IntruderSettings" ],
-    "english": "<color=#FF1919FF>Intruders</color>",
+    "english": "<#FF1919FF>Intruders</color>",
     "schinese": ""
   },
   {
@@ -1788,22 +1808,22 @@
   },
   {
     "id": "CustomOption.GhostTasksCountToWin",
-    "english": "<color=#8CFFFFFF>Crew</color> Ghost Tasks Count To Win",
+    "english": "<#8CFFFFFF>Crew</color> Ghost Tasks Count To Win",
     "schinese": ""
   },
   {
     "id": "CustomOption.CrewVision",
-    "english": "<color=#8CFFFFFF>Crew</color> Vision",
+    "english": "<#8CFFFFFF>Crew</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.CrewFlashlight",
-    "english": "<color=#8CFFFFFF>Crew</color> Uses A Flashlight",
+    "english": "<#8CFFFFFF>Crew</color> Uses A Flashlight",
     "schinese": ""
   },
   {
     "id": "CustomOption.CrewVent",
-    "english": "<color=#8CFFFFFF>Crew</color> Can Vent",
+    "english": "<#8CFFFFFF>Crew</color> Can Vent",
     "schinese": ""
   },
   {
@@ -1826,17 +1846,17 @@
   },
   {
     "id": "CustomOption.CrewMax",
-    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>",
+    "english": "Max <#8CFFFFFF>Crew</color> <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.CrewMin",
-    "english": "Min <color=#8CFFFFFF>Crew</color> <color=#FFD700FF>Roles</color>",
+    "english": "Min <#8CFFFFFF>Crew</color> <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxCA",
-    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Auditors</color>",
+    "english": "Max <#8CFFFFFF>Crew</color> <#1D7CF2FF>Auditors</color>",
     "schinese": ""
   },
   {
@@ -1851,7 +1871,7 @@
   },
   {
     "id": "CustomOption.MaxCI",
-    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Investigatives</color>",
+    "english": "Max <#8CFFFFFF>Crew</color> <#1D7CF2FF>Investigatives</color>",
     "schinese": ""
   },
   {
@@ -1861,17 +1881,17 @@
   },
   {
     "id": "CustomOption.CoronerReportRole",
-    "english": "<color=#4D99E6FF>Coroner</color> Gets Roles",
+    "english": "<#4D99E6FF>Coroner</color> Gets Roles",
     "schinese": ""
   },
   {
     "id": "CustomOption.CoronerReportName",
-    "english": "<color=#4D99E6FF>Coroner</color> Gets Killer's Name",
+    "english": "<#4D99E6FF>Coroner</color> Gets Killer's Name",
     "schinese": ""
   },
   {
     "id": "CustomOption.CoronerKillerNameTime",
-    "english": "<color=#4D99E6FF>Coroner</color> Gets Killer's Name Under",
+    "english": "<#4D99E6FF>Coroner</color> Gets Killer's Name Under",
     "schinese": ""
   },
   {
@@ -1941,7 +1961,7 @@
   },
   {
     "id": "CustomOption.ShowMediumToDead",
-    "english": "Reveal The <color=#A680FFFF>Medium</color> To The Mediate Target",
+    "english": "Reveal The <#A680FFFF>Medium</color> To The Mediate Target",
     "schinese": ""
   },
   {
@@ -1976,8 +1996,8 @@
   },
   {
     "id": "CustomOption.Seer",
-    "english": "<color=#71368AFF>Seer</color>",
-    "schinese": "<color=#71368AFF>圣徒</color>"
+    "english": "<#71368AFF>Seer</color>",
+    "schinese": "<#71368AFF>圣徒</color>"
   },
   {
     "id": "CustomOption.SeerCd",
@@ -2011,7 +2031,7 @@
   },
   {
     "id": "CustomOption.MinAmountOfPlayersInBug",
-    "english": "Number Of <color=#FFD700FF>Roles</color> Required To Trigger Bug",
+    "english": "Number Of <#FFD700FF>Roles</color> Required To Trigger Bug",
     "schinese": ""
   },
   {
@@ -2021,12 +2041,12 @@
   },
   {
     "id": "CustomOption.AdminDeadPlayers.EveryoneButOperative",
-    "english": "Everyone But <color=#A7D1B3FF>Operative</color>",
+    "english": "Everyone But <#A7D1B3FF>Operative</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.PreciseOperativeInfo",
-    "english": "<color=#A7D1B3FF>Operative</color> Gets Precise Information",
+    "english": "<#A7D1B3FF>Operative</color> Gets Precise Information",
     "schinese": ""
   },
   {
@@ -2036,12 +2056,12 @@
   },
   {
     "id": "CustomOption.NeutEvilRed",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> Appear Evil",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Evils</color> Appear Evil",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutKillingRed",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Appear Evil",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Killers</color> Appear Evil",
     "schinese": ""
   },
   {
@@ -2066,7 +2086,7 @@
   },
   {
     "id": "CustomOption.MaxCK",
-    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Killers</color>",
+    "english": "Max <#8CFFFFFF>Crew</color> <#1D7CF2FF>Killers</color>",
     "schinese": ""
   },
   {
@@ -2111,17 +2131,17 @@
   },
   {
     "id": "CustomOption.VigiKillAgain",
-    "english": "<color=#FFFF00FF>Vigilante</color> Can Kill Again If Target Was Innocent",
+    "english": "<#FFFF00FF>Vigilante</color> Can Kill Again If Target Was Innocent",
     "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoShot",
-    "english": "<color=#FFFF00FF>Vigilante</color> Cannot Shoot On The First Round",
+    "english": "<#FFFF00FF>Vigilante</color> Cannot Shoot On The First Round",
     "schinese": ""
   },
   {
     "id": "CustomOption.HowDoesVigilanteDie",
-    "english": "How Does <color=#FFFF00FF>Vigilante</color> Die",
+    "english": "How Does <#FFFF00FF>Vigilante</color> Die",
     "schinese": ""
   },
   {
@@ -2141,7 +2161,7 @@
   },
   {
     "id": "CustomOption.HowIsVigilanteNotified",
-    "english": "How The <color=#FFFF00FF>Vigilante</color> Notified Of Target's Innocence",
+    "english": "How The <#FFFF00FF>Vigilante</color> Notified Of Target's Innocence",
     "schinese": ""
   },
   {
@@ -2166,7 +2186,7 @@
   },
   {
     "id": "CustomOption.MaxCrP",
-    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Protectives</color>",
+    "english": "Max <#8CFFFFFF>Crew</color> <#1D7CF2FF>Protectives</color>",
     "schinese": ""
   },
   {
@@ -2206,7 +2226,7 @@
   },
   {
     "id": "CustomOption.ShieldOptions.ShieldedAndMedic",
-    "english": "Shielded + <color=#006600FF>Medic</color>",
+    "english": "Shielded + <#006600FF>Medic</color>",
     "schinese": ""
   },
   {
@@ -2216,37 +2236,37 @@
   },
   {
     "id": "CustomOption.MaxCSv",
-    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Sovereigns</color>",
+    "english": "Max <#8CFFFFFF>Crew</color> <#1D7CF2FF>Sovereigns</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoDictReveal",
-    "english": "<color=#00CB97FF>Dictator</color> Cannot Reveal Round One",
+    "english": "<#00CB97FF>Dictator</color> Cannot Reveal Round One",
     "schinese": ""
   },
   {
     "id": "CustomOption.DictateAfterVoting",
-    "english": "<color=#00CB97FF>Dictator</color> Can Veto After Voting",
+    "english": "<#00CB97FF>Dictator</color> Can Veto After Voting",
     "schinese": ""
   },
   {
     "id": "CustomOption.DictatorButton",
-    "english": "<color=#00CB97FF>Dictator</color> Can Button",
+    "english": "<#00CB97FF>Dictator</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.MayorVoteCount",
-    "english": "Revealed <color=#704FA8FF>Mayor</color> Votes Count As",
+    "english": "Revealed <#704FA8FF>Mayor</color> Votes Count As",
     "schinese": ""
   },
   {
     "id": "CustomOption.RoundOneNoMayorReveal",
-    "english": "<color=#704FA8FF>Mayor</color> Cannot Reveal Round One",
+    "english": "<#704FA8FF>Mayor</color> Cannot Reveal Round One",
     "schinese": ""
   },
   {
     "id": "CustomOption.MayorButton",
-    "english": "<color=#704FA8FF>Mayor</color> Can Button",
+    "english": "<#704FA8FF>Mayor</color> Can Button",
     "schinese": ""
   },
   {
@@ -2256,7 +2276,7 @@
   },
   {
     "id": "CustomOption.RoundOneNoKnighting",
-    "english": "<color=#FF004EFF>Monarch</color> Cannot Knight Round One",
+    "english": "<#FF004EFF>Monarch</color> Cannot Knight Round One",
     "schinese": ""
   },
   {
@@ -2271,7 +2291,7 @@
   },
   {
     "id": "CustomOption.MonarchButton",
-    "english": "<color=#FF004EFF>Monarch</color> Can Button",
+    "english": "<#FF004EFF>Monarch</color> Can Button",
     "schinese": ""
   },
   {
@@ -2281,7 +2301,7 @@
   },
   {
     "id": "CustomOption.MaxCS",
-    "english": "Max <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Supporters</color>",
+    "english": "Max <#8CFFFFFF>Crew</color> <#1D7CF2FF>Supporters</color>",
     "schinese": ""
   },
   {
@@ -2321,7 +2341,7 @@
   },
   {
     "id": "CustomOption.ReviveAfterVoting",
-    "english": "<color=#8D0F8CFF>Retributionist</color> Can Mimic After Voting",
+    "english": "<#8D0F8CFF>Retributionist</color> Can Mimic After Voting",
     "schinese": ""
   },
   {
@@ -2346,7 +2366,7 @@
   },
   {
     "id": "CustomOption.TransSelf",
-    "english": "<color=#00EEFFFF>Transporter</color> Can Transport Themselves",
+    "english": "<#00EEFFFF>Transporter</color> Can Transport Themselves",
     "schinese": ""
   },
   {
@@ -2356,7 +2376,7 @@
   },
   {
     "id": "CustomOption.RevealerTasksRemainingClicked",
-    "english": "Tasks Remaining When <color=#D3D3D3FF>Revealer</color> Can Be Clicked",
+    "english": "Tasks Remaining When <#D3D3D3FF>Revealer</color> Can Be Clicked",
     "schinese": ""
   },
   {
@@ -2366,37 +2386,37 @@
   },
   {
     "id": "CustomOption.RevealerRevealsNeutrals",
-    "english": "<color=#D3D3D3FF>Revealer</color> Reveals <color=#B3B3B3FF>Neutrals</color>",
+    "english": "<#D3D3D3FF>Revealer</color> Reveals <#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsCrew",
-    "english": "<color=#D3D3D3FF>Revealer</color> Reveals <color=#8CFFFFFF>Crew</color>",
+    "english": "<#D3D3D3FF>Revealer</color> Reveals <#8CFFFFFF>Crew</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsTraitor",
-    "english": "<color=#D3D3D3FF>Revealer</color> Reveals <color=#370D43FF>Traitor</color>",
+    "english": "<#D3D3D3FF>Revealer</color> Reveals <#370D43FF>Traitor</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsFanatic",
-    "english": "<color=#D3D3D3FF>Revealer</color> Reveals <color=#678D36FF>Fanatic</color>",
+    "english": "<#D3D3D3FF>Revealer</color> Reveals <#678D36FF>Fanatic</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsRoles",
-    "english": "<color=#D3D3D3FF>Revealer</color> Reveals Exact <color=#FFD700FF>Roles</color>",
+    "english": "<#D3D3D3FF>Revealer</color> Reveals Exact <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerCanBeClickedBy",
-    "english": "Who Can Click <color=#D3D3D3FF>Revealer</color>",
+    "english": "Who Can Click <#D3D3D3FF>Revealer</color>",
     "schinese": ""
   },
   {
     "ids": [ "CustomOption.RevealerCanBeClickedBy.NonCrew", "CustomOption.DefectorFaction.NonCrew" ],
-    "english": "Non-<color=#8CFFFFFF>Crew</color>",
+    "english": "Non-<#8CFFFFFF>Crew</color>",
     "schinese": ""
   },
   {
@@ -2426,72 +2446,72 @@
   },
   {
     "ids": [ "CustomOption.NeutralSettings", "CustomOption.DefectorFaction.Neutral" ],
-    "english": "<color=#B3B3B3FF>Neutrals</color>",
+    "english": "<#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralVision",
-    "english": "<color=#B3B3B3FF>Neutral</color> Vision",
+    "english": "<#B3B3B3FF>Neutral</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.LightsAffectNeutrals",
-    "english": "Lights Sabotage Affects <color=#B3B3B3FF>Neutral</color> Vision",
+    "english": "Lights Sabotage Affects <#B3B3B3FF>Neutral</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralFlashlight",
-    "english": "<color=#B3B3B3FF>Neutrals</color> Use A Flashlight",
+    "english": "<#B3B3B3FF>Neutrals</color> Use A Flashlight",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralMax",
-    "english": "Max <color=#B3B3B3FF>Neutrals</color>",
+    "english": "Max <#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralMin",
-    "english": "Min <color=#B3B3B3FF>Neutrals</color>",
+    "english": "Min <#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NoSolo",
-    "english": "<color=#B3B3B3FF>Neutrals</color> Together, Strong",
+    "english": "<#B3B3B3FF>Neutrals</color> Together, Strong",
     "schinese": ""
   },
   {
     "id": "CustomOption.NoSolo.SameNKs",
-    "english": "Same <color=#B3B3B3FF>N</color><color=#1D7CF2FF>Ks</color>",
+    "english": "Same <#B3B3B3FF>N</color><#1D7CF2FF>Ks</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NoSolo.AllNKs",
-    "english": "All <color=#B3B3B3FF>N</color><color=#1D7CF2FF>Ks</color>",
+    "english": "All <#B3B3B3FF>N</color><#1D7CF2FF>Ks</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NoSolo.AllNeutrals",
-    "english": "All <color=#B3B3B3FF>Neutrals</color>",
+    "english": "All <#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AvoidNeutralKingmakers",
-    "english": "Avoid <color=#B3B3B3FF>Neutral</color> Kingmakers",
+    "english": "Avoid <#B3B3B3FF>Neutral</color> Kingmakers",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralsVent",
-    "english": "<color=#B3B3B3FF>Neutrals</color> Can Vent",
+    "english": "<#B3B3B3FF>Neutrals</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.DirectSpawn",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Apocalypse</color> <color=#FFD700FF>Roles</color> Can Spawn Directly",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Apocalypse</color> <#FFD700FF>Roles</color> Can Spawn Directly",
     "schinese": ""
   },
   {
     "id": "CustomOption.PlayersAlerted",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Apocalypse</color> Transformation Alerts Everyone",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Apocalypse</color> Transformation Alerts Everyone",
     "schinese": ""
   },
   {
@@ -2501,7 +2521,7 @@
   },
   {
     "id": "CustomOption.PestVent",
-    "english": "<color=#424242FF>Pestilence</color> Can Vent",
+    "english": "<#424242FF>Pestilence</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2511,17 +2531,17 @@
   },
   {
     "id": "CustomOption.MaxNB",
-    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>",
+    "english": "Max <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Benigns</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.VigilanteKillsBenigns",
-    "english": "<color=#FFFF00FF>Vigilante</color> Kills <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>",
+    "english": "<#FFFF00FF>Vigilante</color> Kills <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Benigns</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RememberArrows",
-    "english": "<color=#22FFFFFF>Amnesiac</color> Gets Arrows To Dead Bodies",
+    "english": "<#22FFFFFF>Amnesiac</color> Gets Arrows To Dead Bodies",
     "schinese": ""
   },
   {
@@ -2531,22 +2551,22 @@
   },
   {
     "id": "CustomOption.AmneVent",
-    "english": "<color=#22FFFFFF>Amnesiac</color> Can Hide In Vent",
+    "english": "<#22FFFFFF>Amnesiac</color> Can Hide In Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.AmneSwitchVent",
-    "english": "<color=#22FFFFFF>Amnesiac</color> Can Switch Vents",
+    "english": "<#22FFFFFF>Amnesiac</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.AmneToThief",
-    "english": "<color=#22FFFFFF>Amnesiac</color> Can Turn Into <color=#80FF00FF>Thief</color>",
+    "english": "<#22FFFFFF>Amnesiac</color> Can Turn Into <#80FF00FF>Thief</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuardianAngelCanPickTargets",
-    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Pick Their Own Target",
+    "english": "<#FFFFFFFF>Guardian Angel</color> Can Pick Their Own Target",
     "schinese": ""
   },
   {
@@ -2576,37 +2596,37 @@
   },
   {
     "id": "CustomOption.ProtectOptions.ProtectedAndGA",
-    "english": "Protected + <color=#FFFFFFFF>GA</color>",
+    "english": "Protected + <#FFFFFFFF>GA</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GATargetKnows",
-    "english": "Target Knows <color=#FFFFFFFF>Guardian Angel</color> Exists",
+    "english": "Target Knows <#FFFFFFFF>Guardian Angel</color> Exists",
     "schinese": ""
   },
   {
     "id": "CustomOption.ProtectBeyondTheGrave",
-    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Protect After Death",
+    "english": "<#FFFFFFFF>Guardian Angel</color> Can Protect After Death",
     "schinese": ""
   },
   {
     "id": "CustomOption.GAKnowsTargetRole",
-    "english": "<color=#FFFFFFFF>Guardian Angel</color> Knows Target's <color=#FFD700FF>Role</color>",
+    "english": "<#FFFFFFFF>Guardian Angel</color> Knows Target's <#FFD700FF>Role</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GAVent",
-    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Hide In Vents",
+    "english": "<#FFFFFFFF>Guardian Angel</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.GASwitchVent",
-    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Switch Vents",
+    "english": "<#FFFFFFFF>Guardian Angel</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.GAToSurv",
-    "english": "<color=#FFFFFFFF>Guardian Angel</color> Can Turn Into <color=#DDDD00FF>Survivor</color>",
+    "english": "<#FFFFFFFF>Guardian Angel</color> Can Turn Into <#DDDD00FF>Survivor</color>",
     "schinese": ""
   },
   {
@@ -2626,12 +2646,12 @@
   },
   {
     "id": "CustomOption.SurvVent",
-    "english": "<color=#DDDD00FF>Survivor</color> Can Hide In Vents",
+    "english": "<#DDDD00FF>Survivor</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.SurvSwitchVent",
-    "english": "<color=#DDDD00FF>Survivor</color> Can Switch Vents",
+    "english": "<#DDDD00FF>Survivor</color> Can Switch Vents",
     "schinese": ""
   },
   {
@@ -2641,77 +2661,77 @@
   },
   {
     "id": "CustomOption.ThiefSteals",
-    "english": "<color=#80FF00FF>Thief</color> Assigns <color=#80FF00FF>Thief</color> <color=#FFD700FF>Role</color> To Target",
+    "english": "<#80FF00FF>Thief</color> Assigns <#80FF00FF>Thief</color> <#FFD700FF>Role</color> To Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.ThiefCanGuess",
-    "english": "<color=#80FF00FF>Thief</color> Can Guess To Steal Roles",
+    "english": "<#80FF00FF>Thief</color> Can Guess To Steal Roles",
     "schinese": ""
   },
   {
     "id": "CustomOption.ThiefCanGuessAfterVoting",
-    "english": "<color=#80FF00FF>Thief</color> Can Guess After Voting",
+    "english": "<#80FF00FF>Thief</color> Can Guess After Voting",
     "schinese": ""
   },
   {
     "id": "CustomOption.ThiefVent",
-    "english": "<color=#80FF00FF>Thief</color> Can Vent",
+    "english": "<#80FF00FF>Thief</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxNE",
-    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color>",
+    "english": "Max <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Evils</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NeutralEvilsEndGame",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> End The Game When Winning",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Evils</color> End The Game When Winning",
     "schinese": ""
   },
   {
     "id": "CustomOption.VigilanteKillsEvils",
-    "english": "<color=#FFFF00FF>Vigilante</color> Kills <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color>",
+    "english": "<#FFFF00FF>Vigilante</color> Kills <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Evils</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NEHasImpVision",
-    "english": " <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color> Have <color=#FF1919FF>Intruder</color> Vision",
+    "english": " <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Evils</color> Have <#FF1919FF>Intruder</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.NHHasImpVision",
-    "english": " <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophytes</color> Have <color=#FF1919FF>Intruder</color> Vision",
+    "english": " <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Neophytes</color> Have <#FF1919FF>Intruder</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActorCanPickRole",
-    "english": "<color=#00ACC2FF>Actor</color> Can Choose A Target's Role",
+    "english": "<#00ACC2FF>Actor</color> Can Choose A Target's Role",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActorButton",
-    "english": "<color=#00ACC2FF>Actor</color> Can Button",
+    "english": "<#00ACC2FF>Actor</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActorVent",
-    "english": "<color=#00ACC2FF>Actor</color> Can Hide In Vents",
+    "english": "<#00ACC2FF>Actor</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActSwitchVent",
-    "english": "<color=#00ACC2FF>Actor</color> Can Switch Vents",
+    "english": "<#00ACC2FF>Actor</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.ActorRoleCount",
-    "english": "<color=#00ACC2FF>Actor</color> Role List Count",
+    "english": "<#00ACC2FF>Actor</color> Role List Count",
     "schinese": ""
   },
   {
     "id": "CustomOption.BountyHunterCanPickTargets",
-    "english": "<color=#B51E39FF>Bounty Hunter</color> Can Indirectly Pick A Target",
+    "english": "<#B51E39FF>Bounty Hunter</color> Can Indirectly Pick A Target",
     "schinese": ""
   },
   {
@@ -2726,12 +2746,12 @@
   },
   {
     "id": "CustomOption.BHVent",
-    "english": "<color=#B51E39FF>Bounty Hunter</color> Can Vent",
+    "english": "<#B51E39FF>Bounty Hunter</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.BHToTroll",
-    "english": "<color=#B51E39FF>Bounty Hunter</color> Can Can Turn Into <color=#678D36FF>Troll</color>",
+    "english": "<#B51E39FF>Bounty Hunter</color> Can Can Turn Into <#678D36FF>Troll</color>",
     "schinese": ""
   },
   {
@@ -2746,97 +2766,97 @@
   },
   {
     "id": "CustomOption.EatArrows",
-    "english": "<color=#8C4005FF>Cannibal</color> Gets Arrows To Dead Bodies",
+    "english": "<#8C4005FF>Cannibal</color> Gets Arrows To Dead Bodies",
     "schinese": ""
   },
   {
     "id": "CustomOption.CannibalVent",
-    "english": "<color=#8C4005FF>Cannibal</color> Can Vent",
+    "english": "<#8C4005FF>Cannibal</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExecutionerCanPickTargets",
-    "english": "<color=#CCCCCCFF>Executioner</color> Can Pick A Target",
+    "english": "<#CCCCCCFF>Executioner</color> Can Pick A Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExecutionerButton",
-    "english": "<color=#CCCCCCFF>Executioner</color> Can Button",
+    "english": "<#CCCCCCFF>Executioner</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeVent",
-    "english": "<color=#CCCCCCFF>Executioner</color> Can Hide In Vents",
+    "english": "<#CCCCCCFF>Executioner</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeTargetKnows",
-    "english": "Target Knows <color=#CCCCCCFF>Executioner</color> Exists",
+    "english": "Target Knows <#CCCCCCFF>Executioner</color> Exists",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeSwitchVent",
-    "english": "<color=#CCCCCCFF>Executioner</color> Can Switch Vents",
+    "english": "<#CCCCCCFF>Executioner</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeEjectScreen",
-    "english": "Target Ejection Reveals Existence Of <color=#CCCCCCFF>Executioner</color>",
+    "english": "Target Ejection Reveals Existence Of <#CCCCCCFF>Executioner</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeKnowsTargetRole",
-    "english": "<color=#CCCCCCFF>Executioner</color> Knows Target's <color=#FFD700FF>Role</color>",
+    "english": "<#CCCCCCFF>Executioner</color> Knows Target's <#FFD700FF>Role</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeCanWinBeyondDeath",
-    "english": "<color=#CCCCCCFF>Executioner</color> Can Win After Death",
+    "english": "<#CCCCCCFF>Executioner</color> Can Win After Death",
     "schinese": ""
   },
   {
     "id": "CustomOption.ExeToJest",
-    "english": "<color=#CCCCCCFF>Executioner</color> Can Turn Into <color=#F7B3DAFF>Jester</color>",
+    "english": "<#CCCCCCFF>Executioner</color> Can Turn Into <#F7B3DAFF>Jester</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuesserCanPickTargets",
-    "english": "<color=#EEE5BEFF>Guesser</color> Can Pick A Target",
+    "english": "<#EEE5BEFF>Guesser</color> Can Pick A Target",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuesserButton",
-    "english": "<color=#EEE5BEFF>Guesser</color> Can Button",
+    "english": "<#EEE5BEFF>Guesser</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuessVent",
-    "english": "<color=#EEE5BEFF>Guesser</color> Can Vent",
+    "english": "<#EEE5BEFF>Guesser</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuessSwitchVent",
-    "english": "<color=#EEE5BEFF>Guesser</color> Can Switch Vents",
+    "english": "<#EEE5BEFF>Guesser</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuessTargetKnows",
-    "english": "Target Knows <color=#EEE5BEFF>Guesser</color> Exists",
+    "english": "Target Knows <#EEE5BEFF>Guesser</color> Exists",
     "schinese": ""
   },
   {
     "id": "CustomOption.MultipleGuesses",
-    "english": "<color=#EEE5BEFF>Guesser</color> Can Guess Multiple Times",
+    "english": "<#EEE5BEFF>Guesser</color> Can Guess Multiple Times",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuessToAct",
-    "english": "<color=#EEE5BEFF>Guesser</color> Can Turn Into <color=#00ACC2FF>Actor</color>",
+    "english": "<#EEE5BEFF>Guesser</color> Can Turn Into <#00ACC2FF>Actor</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.GuessToAct",
-    "english": "<color=#EEE5BEFF>Guesser</color> Can Vent",
+    "english": "<#EEE5BEFF>Guesser</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2846,27 +2866,27 @@
   },
   {
     "id": "CustomOption.GuesserAfterVoting",
-    "english": "<color=#EEE5BEFF>Guesser</color> Can Guess After Voting",
+    "english": "<#EEE5BEFF>Guesser</color> Can Guess After Voting",
     "schinese": ""
   },
   {
     "id": "CustomOption.JesterButton",
-    "english": "<color=#F7B3DAFF>Jester</color> Can Button",
+    "english": "<#F7B3DAFF>Jester</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.JesterVent",
-    "english": "<color=#F7B3DAFF>Jester</color> Can Hide In Vents",
+    "english": "<#F7B3DAFF>Jester</color> Can Hide In Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.JestSwitchVent",
-    "english": "<color=#F7B3DAFF>Jester</color> Can Switch Vents",
+    "english": "<#F7B3DAFF>Jester</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.JestEjectScreen",
-    "english": "<color=#F7B3DAFF>Jester</color> Ejection Reveals Its Existence",
+    "english": "<#F7B3DAFF>Jester</color> Ejection Reveals Its Existence",
     "schinese": ""
   },
   {
@@ -2876,17 +2896,17 @@
   },
   {
     "id": "CustomOption.TrollVent",
-    "english": "<color=#678D36FF>Troll</color> Can Hide In Vent",
+    "english": "<#678D36FF>Troll</color> Can Hide In Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.TrollSwitchVent",
-    "english": "<color=#678D36FF>Troll</color> Can Switch Vents",
+    "english": "<#678D36FF>Troll</color> Can Switch Vents",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxNH",
-    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Harbingers</color>",
+    "english": "Max <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Harbingers</color>",
     "schinese": ""
   },
   {
@@ -2896,22 +2916,22 @@
   },
   {
     "id": "CustomOption.PBVent",
-    "english": "<color=#CFFE61FF>Plaguebearer</color> Can Vent",
+    "english": "<#CFFE61FF>Plaguebearer</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxNK",
-    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color>",
+    "english": "Max <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Killers</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NKHasImpVision",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Have <color=#FF1919FF>Intruder</color> Vision",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Killers</color> Have <#FF1919FF>Intruder</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.KnowEachOther",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Killers</color> Know Each Other",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Killers</color> Know Each Other",
     "schinese": ""
   },
   {
@@ -2926,7 +2946,7 @@
   },
   {
     "id": "CustomOption.ArsoLastKillerBoost",
-    "english": "Ignite Cooldown Removed When <color=#EE7600FF>Arsonist</color> Is Last Killer",
+    "english": "Ignite Cooldown Removed When <#EE7600FF>Arsonist</color> Is Last Killer",
     "schinese": ""
   },
   {
@@ -2946,7 +2966,7 @@
   },
   {
     "id": "CustomOption.ArsoVent",
-    "english": "<color=#EE7600FF>Arsonist</color> Can Vent",
+    "english": "<#EE7600FF>Arsonist</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2961,12 +2981,12 @@
   },
   {
     "id": "CustomOption.CryoLastKillerBoost",
-    "english": "<color=#642DEAFF>Cryomaniac</color> Can Kill Normally When Last Killer",
+    "english": "<#642DEAFF>Cryomaniac</color> Can Kill Normally When Last Killer",
     "schinese": ""
   },
   {
     "id": "CustomOption.CryoVent",
-    "english": "<color=#642DEAFF>Cryomaniac</color> Can Vent",
+    "english": "<#642DEAFF>Cryomaniac</color> Can Vent",
     "schinese": ""
   },
   {
@@ -2996,7 +3016,7 @@
   },
   {
     "id": "CustomOption.GlitchVent",
-    "english": "<color=#00FF00FF>Glitch</color> Can Vent",
+    "english": "<#00FF00FF>Glitch</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3011,7 +3031,7 @@
   },
   {
     "id": "CustomOption.JuggVent",
-    "english": "<color=#A12B56FF>Juggernaut</color> Can Vent",
+    "english": "<#A12B56FF>Juggernaut</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3021,7 +3041,7 @@
   },
   {
     "id": "CustomOption.MurdVent",
-    "english": "<color=#6F7BEAFF>Murderer</color> Can Vent",
+    "english": "<#6F7BEAFF>Murderer</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3041,7 +3061,7 @@
   },
   {
     "id": "CustomOption.SKVentOptions",
-    "english": "<color=#336EFFFF>Serial Killer</color> Can Vent",
+    "english": "<#336EFFFF>Serial Killer</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3066,12 +3086,12 @@
   },
   {
     "id": "CustomOption.WerewolfVent",
-    "english": "<color=#9F703AFF>Werewolf</color> Can Vent",
+    "english": "<#9F703AFF>Werewolf</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.CanStillAttack",
-    "english": "<color=#9F703AFF>Werewolf</color> Can Attack Every Round",
+    "english": "<#9F703AFF>Werewolf</color> Can Attack Every Round",
     "schinese": ""
   },
   {
@@ -3086,12 +3106,12 @@
   },
   {
     "id": "CustomOption.MaxNN",
-    "english": "Max <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophytes</color>",
+    "english": "Max <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Neophytes</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.NNHasImpVision",
-    "english": "<color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Neophytes</color> Have <color=#FF1919FF>Intruder</color> Vision",
+    "english": "<#B3B3B3FF>Neutral</color> <#1D7CF2FF>Neophytes</color> Have <#FF1919FF>Intruder</color> Vision",
     "schinese": ""
   },
   {
@@ -3101,17 +3121,17 @@
   },
   {
     "id": "CustomOption.DracVent",
-    "english": "<color=#AC8A00FF>Dracula</color> Can Vent",
+    "english": "<#AC8A00FF>Dracula</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.AliveVampCount",
-    "english": "Alive <color=#7B8968FF>Undead</color> Count",
+    "english": "Alive <#7B8968FF>Undead</color> Count",
     "schinese": ""
   },
   {
     "id": "CustomOption.UndeadVent",
-    "english": "<color=#7B8968FF>Undead</color> Can Vent",
+    "english": "<#7B8968FF>Undead</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3121,12 +3141,12 @@
   },
   {
     "id": "CustomOption.JackalVent",
-    "english": "<color=#45076AFF>Jackal</color> Can Vent",
+    "english": "<#45076AFF>Jackal</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.RecruitVent",
-    "english": "<color=#575757FF>Recruits</color> Can Vent",
+    "english": "<#575757FF>Recruits</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3186,12 +3206,12 @@
   },
   {
     "id": "CustomOption.NecroVent",
-    "english": "<color=#BF5FFFFF>Necromancer</color> Can Vent",
+    "english": "<#BF5FFFFF>Necromancer</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.ResurrectVent",
-    "english": "<color=#E6108AFF>Resurrected</color> Can Vent",
+    "english": "<#E6108AFF>Resurrected</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3231,12 +3251,12 @@
   },
   {
     "id": "CustomOption.WhispVent",
-    "english": "<color=#2D6AA5FF>Whisperer</color> Can Vent",
+    "english": "<#2D6AA5FF>Whisperer</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.PersuadedVent",
-    "english": "<color=#F995FCFF>Persuaded</color> Can Vent",
+    "english": "<#F995FCFF>Persuaded</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3246,77 +3266,77 @@
   },
   {
     "id": "CustomOption.BetrayerVent",
-    "english": "<color=#11806AFF>Betrayer</color> Can Vent",
+    "english": "<#11806AFF>Betrayer</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.PhantomTasksRemaining",
-    "english": "Tasks Remaining When <color=#662962FF>Phantom</color> Can Be Clicked",
+    "english": "Tasks Remaining When <#662962FF>Phantom</color> Can Be Clicked",
     "schinese": ""
   },
   {
     "id": "CustomOption.PhantomPlayersAlerted",
-    "english": "Players Are Alerted When <color=#662962FF>Phantom</color> Is Clickable",
+    "english": "Players Are Alerted When <#662962FF>Phantom</color> Is Clickable",
     "schinese": ""
   },
   {
     "ids": [ "CustomOption.SyndicateSettings", "CustomOption.AlliedFaction.Syndicate" ],
-    "english": "<color=#008000FF>Syndicate</color>",
+    "english": "<#008000FF>Syndicate</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.IntruderCount",
-    "english": "<color=#FF1919FF>Intruder</color> Count",
+    "english": "<#FF1919FF>Intruder</color> Count",
     "schinese": ""
   },
   {
     "id": "CustomOption.IntruderVision",
-    "english": "<color=#FF1919FF>Intruder</color> Vision",
+    "english": "<#FF1919FF>Intruder</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.IntruderFlashlight",
-    "english": "<color=#FF1919FF>Intruders</color> Use A Flashlight",
+    "english": "<#FF1919FF>Intruders</color> Use A Flashlight",
     "schinese": ""
   },
   {
     "id": "CustomOption.IntKillCd",
-    "english": "<color=#FF1919FF>Intruders</color> Kill Cooldown",
+    "english": "<#FF1919FF>Intruders</color> Kill Cooldown",
     "schinese": ""
   },
   {
     "id": "CustomOption.IntrudersVent",
-    "english": "<color=#FF1919FF>Intruder</color> Can Vent",
+    "english": "<#FF1919FF>Intruder</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.IntrudersCanSabotage",
-    "english": "<color=#FF1919FF>Intruders</color> Can Sabotage",
+    "english": "<#FF1919FF>Intruders</color> Can Sabotage",
     "schinese": ""
   },
   {
     "id": "CustomOption.GhostsCanSabotage",
-    "english": "Dead <color=#FF1919FF>Intruders</color> Can Sabotage",
+    "english": "Dead <#FF1919FF>Intruders</color> Can Sabotage",
     "schinese": ""
   },
   {
     "id": "CustomOption.IntruderMax",
-    "english": "Max <color=#FF1919FF>Intruder</color> <color=#FFD700FF>Roles</color>",
+    "english": "Max <#FF1919FF>Intruder</color> <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.IntruderMin",
-    "english": "Min <color=#FF1919FF>Intruder</color> <color=#FFD700FF>Roles</color>",
+    "english": "Min <#FF1919FF>Intruder</color> <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxIC",
-    "english": "Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Concealers</color>",
+    "english": "Max <#FF1919FF>Intruder</color> <#1D7CF2FF>Concealers</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxIH",
-    "english": "Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Heads</color>",
+    "english": "Max <#FF1919FF>Intruder</color> <#1D7CF2FF>Heads</color>",
     "schinese": ""
   },
   {
@@ -3331,7 +3351,7 @@
   },
   {
     "id": "CustomOption.BlackmailMates",
-    "english": "<color=#02A752FF>Blackmailer</color> Can Blackmail Teammates",
+    "english": "<#02A752FF>Blackmailer</color> Can Blackmail Teammates",
     "schinese": ""
   },
   {
@@ -3381,12 +3401,12 @@
   },
   {
     "id": "CustomOption.SaboFlash",
-    "english": "<color=#85AA5BFF>Grenadier</color> Can Flash During Sabotages",
+    "english": "<#85AA5BFF>Grenadier</color> Can Flash During Sabotages",
     "schinese": ""
   },
   {
     "id": "CustomOption.GrenadierVent",
-    "english": "<color=#85AA5BFF>Grenadier</color> Can Vent",
+    "english": "<#85AA5BFF>Grenadier</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3401,7 +3421,7 @@
   },
   {
     "id": "CustomOption.SoloBoost",
-    "english": "<color=#2647A2FF>Janitor</color> Has Lower Cooldowns When Solo",
+    "english": "<#2647A2FF>Janitor</color> Has Lower Cooldowns When Solo",
     "schinese": ""
   },
   {
@@ -3416,7 +3436,7 @@
   },
   {
     "id": "CustomOption.JanitorVentOptions",
-    "english": "<color=#2647A2FF>Janitor</color> Can Vent",
+    "english": "<#2647A2FF>Janitor</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3431,7 +3451,7 @@
   },
   {
     "id": "CustomOption.MaxID",
-    "english": "Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Deceivers</color>",
+    "english": "Max <#FF1919FF>Intruder</color> <#1D7CF2FF>Deceivers</color>",
     "schinese": ""
   },
   {
@@ -3461,12 +3481,12 @@
   },
   {
     "id": "CustomOption.DisguiseTarget",
-    "english": "<color=#40B4FFFF>Disguiser</color> Can Disguise",
+    "english": "<#40B4FFFF>Disguiser</color> Can Disguise",
     "schinese": ""
   },
   {
     "id": "CustomOption.DisguiserTargets.NonIntruders",
-    "english": "Non-<color=#FF1919FF>Intruders</color>",
+    "english": "Non-<#FF1919FF>Intruders</color>",
     "schinese": ""
   },
   {
@@ -3491,7 +3511,7 @@
   },
   {
     "id": "CustomOption.MorphlingVent",
-    "english": "<color=#BB45B0FF>Morphling</color> Can Vent",
+    "english": "<#BB45B0FF>Morphling</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3506,12 +3526,12 @@
   },
   {
     "id": "CustomOption.WraithVent",
-    "english": "<color=#5C4F75FF>Wraith</color> Can Vent",
+    "english": "<#5C4F75FF>Wraith</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxIK",
-    "english": "Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Heads</color>",
+    "english": "Max <#FF1919FF>Intruder</color> <#1D7CF2FF>Heads</color>",
     "schinese": ""
   },
   {
@@ -3526,7 +3546,7 @@
   },
   {
     "id": "CustomOption.AmbushMates",
-    "english": "<color=#2BD29CFF>Ambusher</color> Can Ambush Teammates",
+    "english": "<#2BD29CFF>Ambusher</color> Can Ambush Teammates",
     "schinese": ""
   },
   {
@@ -3551,7 +3571,7 @@
   },
   {
     "id": "CustomOption.MaxIS",
-    "english": "Max <color=#FF1919FF>Intruder</color> <color=#1D7CF2FF>Supporters</color>",
+    "english": "Max <#FF1919FF>Intruder</color> <#1D7CF2FF>Supporters</color>",
     "schinese": ""
   },
   {
@@ -3561,7 +3581,7 @@
   },
   {
     "id": "CustomOption.ConsigInfo",
-    "english": "Info That <color=#FFFF99FF>Consigliere</color> Sees",
+    "english": "Info That <#FFFF99FF>Consigliere</color> Sees",
     "schinese": ""
   },
   {
@@ -3596,22 +3616,22 @@
   },
   {
     "id": "CustomOption.TeleVent",
-    "english": "<color=#939593FF>Teleporter</color> Can Vent",
+    "english": "<#939593FF>Teleporter</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateCount",
-    "english": "<color=#008000FF>Syndicate</color> Count",
+    "english": "<#008000FF>Syndicate</color> Count",
     "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateVision",
-    "english": "<color=#008000FF>Syndicate</color> Vision",
+    "english": "<#008000FF>Syndicate</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateFlashlight",
-    "english": "<color=#008000FF>Syndicate</color> Uses A Flashlight",
+    "english": "<#008000FF>Syndicate</color> Uses A Flashlight",
     "schinese": ""
   },
   {
@@ -3626,7 +3646,7 @@
   },
   {
     "id": "CustomOption.SyndicateVent",
-    "english": "<color=#008000FF>Syndicate</color> Can Vent",
+    "english": "<#008000FF>Syndicate</color> Can Vent",
     "schinese": ""
   },
   {
@@ -3636,7 +3656,7 @@
   },
   {
     "id": "CustomOption.AltImps",
-    "english": "<color=#008000FF>Syndicate</color> Replaces <color=#FF1919FF>Intruders</color>",
+    "english": "<#008000FF>Syndicate</color> Replaces <#FF1919FF>Intruders</color>",
     "schinese": ""
   },
   {
@@ -3646,17 +3666,17 @@
   },
   {
     "id": "CustomOption.SyndicateMax",
-    "english": "Max <color=#008000FF>Syndicate</color> <color=#FFD700FF>Roles</color>",
+    "english": "Max <#008000FF>Syndicate</color> <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.SyndicateMin",
-    "english": "Min <color=#008000FF>Syndicate</color> <color=#FFD700FF>Roles</color>",
+    "english": "Min <#008000FF>Syndicate</color> <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxSD",
-    "english": "Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Disruptors</color>",
+    "english": "Max <#008000FF>Syndicate</color> <#1D7CF2FF>Disruptors</color>",
     "schinese": ""
   },
   {
@@ -3671,7 +3691,7 @@
   },
   {
     "id": "CustomOption.ConcealMates",
-    "english": "<color=#C02525FF>Concealer</color> Can Conceal Teammates",
+    "english": "<#C02525FF>Concealer</color> Can Conceal Teammates",
     "schinese": ""
   },
   {
@@ -3686,7 +3706,7 @@
   },
   {
     "id": "CustomOption.ConfuseImmunity",
-    "english": "<color=#008000FF>Syndicate</color> Are Immune To Confuse",
+    "english": "<#008000FF>Syndicate</color> Are Immune To Confuse",
     "schinese": ""
   },
   {
@@ -3711,7 +3731,7 @@
   },
   {
     "id": "CustomOption.ShapeshiftMates",
-    "english": "<color=#2DFF00FF>Shapeshifter</color> Can Shapeshift Teammates",
+    "english": "<#2DFF00FF>Shapeshifter</color> Can Shapeshift Teammates",
     "schinese": ""
   },
   {
@@ -3721,7 +3741,7 @@
   },
   {
     "id": "CustomOption.SilenceMates",
-    "english": "<color=#AAB43EFF>Silencer</color> Can Silence Teammates",
+    "english": "<#AAB43EFF>Silencer</color> Can Silence Teammates",
     "schinese": ""
   },
   {
@@ -3731,7 +3751,7 @@
   },
   {
     "id": "CustomOption.MaxSyK",
-    "english": "Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Killers</color>",
+    "english": "Max <#008000FF>Syndicate</color> <#1D7CF2FF>Killers</color>",
     "schinese": ""
   },
   {
@@ -3821,7 +3841,7 @@
   },
   {
     "id": "CustomOption.CrusadeMates",
-    "english": "<color=#DF7AE8FF>Crusader</color> Can Crusade Teammates",
+    "english": "<#DF7AE8FF>Crusader</color> Can Crusade Teammates",
     "schinese": ""
   },
   {
@@ -3836,7 +3856,7 @@
   },
   {
     "id": "CustomOption.MaxSP",
-    "english": "Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Powers</color>",
+    "english": "Max <#008000FF>Syndicate</color> <#1D7CF2FF>Powers</color>",
     "schinese": ""
   },
   {
@@ -3861,17 +3881,17 @@
   },
   {
     "id": "CustomOption.TimeFreezeImmunity",
-    "english": "<color=#008000FF>Syndicate</color> Are Immune To Freeze",
+    "english": "<#008000FF>Syndicate</color> Are Immune To Freeze",
     "schinese": ""
   },
   {
     "id": "CustomOption.TimeRewindImmunity",
-    "english": "<color=#008000FF>Syndicate</color> Are Immune To Rewind",
+    "english": "<#008000FF>Syndicate</color> Are Immune To Rewind",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxSSu",
-    "english": "Max <color=#008000FF>Syndicate</color> <color=#1D7CF2FF>Supporters</color>",
+    "english": "Max <#008000FF>Syndicate</color> <#1D7CF2FF>Supporters</color>",
     "schinese": ""
   },
   {
@@ -3891,7 +3911,7 @@
   },
   {
     "id": "CustomOption.WarpSelf",
-    "english": "<color=#8C7140FF>Warper</color> Can Warp Themselves",
+    "english": "<#8C7140FF>Warper</color> Can Warp Themselves",
     "schinese": ""
   },
   {
@@ -3906,37 +3926,37 @@
   },
   {
     "id": "CustomOption.MaxModifiers",
-    "english": "Max <color=#7F7F7FFF>Modifiers</color>",
+    "english": "Max <#7F7F7FFF>Modifiers</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MinModifiers",
-    "english": "Min <color=#7F7F7FFF>Modifiers</color>",
+    "english": "Min <#7F7F7FFF>Modifiers</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BaitKnows",
-    "english": "<color=#00B3B3FF>Bait</color> Knows Who They Are",
+    "english": "<#00B3B3FF>Bait</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.BaitMinDelay",
-    "english": "Min Delay for <color=#00B3B3FF>Bait</color> Self Report",
+    "english": "Min Delay for <#00B3B3FF>Bait</color> Self Report",
     "schinese": ""
   },
   {
     "id": "CustomOption.BaitMaxDelay",
-    "english": "Max Delay for <color=#00B3B3FF>Bait</color> Self Report",
+    "english": "Max Delay for <#00B3B3FF>Bait</color> Self Report",
     "schinese": ""
   },
   {
     "id": "CustomOption.DiseasedKnows",
-    "english": "<color=#374D1EFF>Diseased</color> Knows Who They Are",
+    "english": "<#374D1EFF>Diseased</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.DiseasedMultiplier",
-    "english": "<color=#374D1EFF>Diseased</color> Kill Multiplier",
+    "english": "<#374D1EFF>Diseased</color> Kill Multiplier",
     "schinese": ""
   },
   {
@@ -3946,7 +3966,7 @@
   },
   {
     "id": "CustomOption.DrunkKnows",
-    "english": "<color=#758000FF>Drunk</color> Knows Who They Are",
+    "english": "<#758000FF>Drunk</color> Knows Who They Are",
     "schinese": ""
   },
   {
@@ -3956,37 +3976,37 @@
   },
   {
     "id": "CustomOption.DwarfSpeed",
-    "english": "<color=#FF8080FF>Dwarf</color> Speed",
+    "english": "<#FF8080FF>Dwarf</color> Speed",
     "schinese": ""
   },
   {
     "id": "CustomOption.DwarfScale",
-    "english": "<color=#FF8080FF>Dwarf</color> Scale",
+    "english": "<#FF8080FF>Dwarf</color> Scale",
     "schinese": ""
   },
   {
     "id": "CustomOption.GiantSpeed",
-    "english": "<color=#FFB34DFF>Giant</color> Speed",
+    "english": "<#FFB34DFF>Giant</color> Speed",
     "schinese": ""
   },
   {
     "id": "CustomOption.GiantScale",
-    "english": "<color=#FFB34DFF>Giant</color> Scale",
+    "english": "<#FFB34DFF>Giant</color> Scale",
     "schinese": ""
   },
   {
     "id": "CustomOption.IndomitableKnows",
-    "english": "<color=#2DE5BEFF>Indomitable</color> Knows Who They Are",
+    "english": "<#2DE5BEFF>Indomitable</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.ProfessionalKnows",
-    "english": "<color=#860B7AFF>Professional</color> Knows Who They Are",
+    "english": "<#860B7AFF>Professional</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.VIPKnows",
-    "english": "<color=#DCEE85FF>VIP</color> Knows Who They Are",
+    "english": "<#DCEE85FF>VIP</color> Knows Who They Are",
     "schinese": ""
   },
   {
@@ -3996,67 +4016,67 @@
   },
   {
     "id": "CustomOption.VolatileKnows",
-    "english": "<color=#FFA60AFF>Volatile</color> Knows Who They Are",
+    "english": "<#FFA60AFF>Volatile</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.MaxAbilities",
-    "english": "Max <color=#FF9900FF>Abilities</color>",
+    "english": "Max <#FF9900FF>Abilities</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MinAbilities",
-    "english": "Min <color=#FF9900FF>Abilities</color>",
+    "english": "Min <#FF9900FF>Abilities</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinKills",
-    "english": "<color=#073763FF>Assassin</color> Guess Limit",
+    "english": "<#073763FF>Assassin</color> Guess Limit",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinMultiKill",
-    "english": "<color=#073763FF>Assassin</color> Can Kill More Than Once Per Meeting",
+    "english": "<#073763FF>Assassin</color> Can Kill More Than Once Per Meeting",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessNeutralBenign",
-    "english": "<color=#073763FF>Assassin</color> Can Guess <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Benigns</color>",
+    "english": "<#073763FF>Assassin</color> Can Guess <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Benigns</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessNeutralEvil",
-    "english": "<color=#073763FF>Assassin</color> Can Guess <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Evils</color>",
+    "english": "<#073763FF>Assassin</color> Can Guess <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Evils</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessInvestigative",
-    "english": "<color=#073763FF>Assassin</color> Can Guess <color=#8CFFFFFF>Crew</color> <color=#1D7CF2FF>Investigatives</color>",
+    "english": "<#073763FF>Assassin</color> Can Guess <#8CFFFFFF>Crew</color> <#1D7CF2FF>Investigatives</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessApoc",
-    "english": "<color=#073763FF>Assassin</color> Can Guess <color=#B3B3B3FF>Neutral</color> <color=#1D7CF2FF>Apocalypses</color>",
+    "english": "<#073763FF>Assassin</color> Can Guess <#B3B3B3FF>Neutral</color> <#1D7CF2FF>Apocalypses</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessModifiers",
-    "english": "<color=#073763FF>Assassin</color> Can Guess Select <color=#7F7F7FFF>Modifiers</color>",
+    "english": "<#073763FF>Assassin</color> Can Guess Select <#7F7F7FFF>Modifiers</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessDispositions",
-    "english": "<color=#073763FF>Assassin</color> Can Guess Select <color=#DD585BFF>Dispositions</color>",
+    "english": "<#073763FF>Assassin</color> Can Guess Select <#DD585BFF>Dispositions</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinGuessAbilities",
-    "english": "<color=#073763FF>Assassin</color> Can Guess <color=#FF9900FF>Abilities</color>",
+    "english": "<#073763FF>Assassin</color> Can Guess <#FF9900FF>Abilities</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AssassinateAfterVoting",
-    "english": "<color=#073763FF>Assassin</color> Can Guess After Voting",
+    "english": "<#073763FF>Assassin</color> Can Guess After Voting",
     "schinese": ""
   },
   {
@@ -4066,7 +4086,7 @@
   },
   {
     "id": "CustomOption.InsiderKnows",
-    "english": "<color=#26FCFBFF>Insider</color> Knows Who They Are",
+    "english": "<#26FCFBFF>Insider</color> Knows Who They Are",
     "schinese": ""
   },
   {
@@ -4076,72 +4096,72 @@
   },
   {
     "id": "CustomOption.PoliticianVoteBank",
-    "english": "Initial <color=#CCA3CCFF>Politician</color> Initial Vote Bank",
+    "english": "Initial <#CCA3CCFF>Politician</color> Initial Vote Bank",
     "schinese": ""
   },
   {
     "id": "CustomOption.PoliticianButton",
-    "english": "<color=#CCA3CCFF>Politician</color> Can Button",
+    "english": "<#CCA3CCFF>Politician</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.RuthlessKnows",
-    "english": "<color=#2160DDFF>Ruthless</color> Knows Who They Are",
+    "english": "<#2160DDFF>Ruthless</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.SnitchKnows",
-    "english": "<color=#D4AF37FF>Snitch</color> Knows Who They Are",
+    "english": "<#D4AF37FF>Snitch</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesNeutrals",
-    "english": "<color=#D4AF37FF>Snitch</color> Sees <color=#B3B3B3FF>Neutrals</color>",
+    "english": "<#D4AF37FF>Snitch</color> Sees <#B3B3B3FF>Neutrals</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesCrew",
-    "english": "<color=#D4AF37FF>Snitch</color> Sees <color=#8CFFFFFF>Crew</color>",
+    "english": "<#D4AF37FF>Snitch</color> Sees <#8CFFFFFF>Crew</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesRoles",
-    "english": "<color=#D4AF37FF>Snitch</color> Sees Exact <color=#FFD700FF>Roles</color>",
+    "english": "<#D4AF37FF>Snitch</color> Sees Exact <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesTargetsInMeeting",
-    "english": "<color=#D4AF37FF>Snitch</color> Sees Targets In Meetings",
+    "english": "<#D4AF37FF>Snitch</color> Sees Targets In Meetings",
     "schinese": ""
   },
   {
     "id": "CustomOption.SwapperButton",
-    "english": "<color=#66E666FF>Swapper</color> Can Button",
+    "english": "<#66E666FF>Swapper</color> Can Button",
     "schinese": ""
   },
   {
     "id": "CustomOption.SwapAfterVoting",
-    "english": "<color=#66E666FF>Swapper</color> Can Swap After Voting",
+    "english": "<#66E666FF>Swapper</color> Can Swap After Voting",
     "schinese": ""
   },
   {
     "id": "CustomOption.SwapSelf",
-    "english": "<color=#66E666FF>Swapper</color> Can Swap Themself",
+    "english": "<#66E666FF>Swapper</color> Can Swap Themself",
     "schinese": ""
   },
   {
     "id": "CustomOption.TiebreakerKnows",
-    "english": "<color=#99E699FF>Tiebreaker</color> Knows Who They Are",
+    "english": "<#99E699FF>Tiebreaker</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.TunnelerKnows",
-    "english": "<color=#E91E63FF>Tunneler</color> Knows Who They Are",
+    "english": "<#E91E63FF>Tunneler</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.UnderdogKnows",
-    "english": "<color=#841A7FFF>Underdog</color> Knows Who They Are",
+    "english": "<#841A7FFF>Underdog</color> Knows Who They Are",
     "schinese": ""
   },
   {
@@ -4156,17 +4176,17 @@
   },
   {
     "id": "CustomOption.MaxDispositions",
-    "english": "Max <color=#DD585BFF>Dispositions</color>",
+    "english": "Max <#DD585BFF>Dispositions</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MinDispositions",
-    "english": "Min <color=#DD585BFF>Dispositions</color>",
+    "english": "Min <#DD585BFF>Dispositions</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.AlliedFaction",
-    "english": "<color=#4545A9FF>Allied</color> Faction",
+    "english": "<#4545A9FF>Allied</color> Faction",
     "schinese": ""
   },
   {
@@ -4176,32 +4196,32 @@
   },
   {
     "id": "CustomOption.AllCorruptedWin",
-    "english": "All <color=#4545FFFF>Corrupted</color> Win Together",
+    "english": "All <#4545FFFF>Corrupted</color> Win Together",
     "schinese": ""
   },
   {
     "id": "CustomOption.CorruptedVent",
-    "english": "<color=#4545FFFF>Corrupted</color> Can Vent",
+    "english": "<#4545FFFF>Corrupted</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.DefectorKnows",
-    "english": "<color=#E1C849FF>Defector</color> Knows Who They Are",
+    "english": "<#E1C849FF>Defector</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.DefectorFaction",
-    "english": "<color=#E1C849FF>Defector</color> Faction",
+    "english": "<#E1C849FF>Defector</color> Faction",
     "schinese": ""
   },
   {
     "id": "CustomOption.DefectorFaction.NonFaction",
-    "english": "Non-<color=#00E66DFF>Faction</color>",
+    "english": "Non-<#00E66DFF>Faction</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.DefectorFaction.NonNeutral",
-    "english": "Non-<color=#B3B3B3FF>Neutral</color>",
+    "english": "Non-<#B3B3B3FF>Neutral</color>",
     "schinese": ""
   },
   {
@@ -4211,137 +4231,137 @@
   },
   {
     "id": "CustomOption.FanaticKnows",
-    "english": "<color=#678D36FF>Fanatic</color> Knows Who They Are",
+    "english": "<#678D36FF>Fanatic</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.FanaticColourSwap",
-    "english": "Turned <color=#678D36FF>Fanatic</color> Swaps Colours For Investigative <color=#FFD700FF>Roles</color>",
+    "english": "Turned <#678D36FF>Fanatic</color> Swaps Colours For Investigative <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesFanatic",
-    "english": "<color=#D4AF37FF>Snitch</color> Sees Turned <color=#678D36FF>Fanatic</color>",
+    "english": "<#D4AF37FF>Snitch</color> Sees Turned <#678D36FF>Fanatic</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsFanatic",
-    "english": "<color=#D3D3D3FF>Revealer</color> Reveals Turned <color=#678D36FF>Fanatic</color>",
+    "english": "<#D3D3D3FF>Revealer</color> Reveals Turned <#678D36FF>Fanatic</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.LinkedChat",
-    "english": "Enable <color=#FF351FFF>Linked</color> Chat",
+    "english": "Enable <#FF351FFF>Linked</color> Chat",
     "schinese": ""
   },
   {
     "id": "CustomOption.LinkedRoles",
-    "english": "<color=#FF351FFF>Linked</color> Know Each Other's <color=#FFD700FF>Roles</color>",
+    "english": "<#FF351FFF>Linked</color> Know Each Other's <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BothLoversDie",
-    "english": "Both <color=#FF66CCFF>Lovers</color> Die",
+    "english": "Both <#FF66CCFF>Lovers</color> Die",
     "schinese": ""
   },
   {
     "id": "CustomOption.LoversChat",
-    "english": "Enable <color=#FF66CCFF>Lovers</color> Chat",
+    "english": "Enable <#FF66CCFF>Lovers</color> Chat",
     "schinese": ""
   },
   {
     "id": "CustomOption.LoversRoles",
-    "english": "<color=#FF66CCFF>Lovers</color> Know Each Other's <color=#FFD700FF>Roles</color>",
+    "english": "<#FF66CCFF>Lovers</color> Know Each Other's <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MafiaRoles",
-    "english": "<color=#00EEFFFF>Mafia</color> Know Each Other's <color=#FFD700FF>Roles</color>",
+    "english": "<#00EEFFFF>Mafia</color> Know Each Other's <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.MafVent",
-    "english": "<color=#00EEFFFF>Mafia</color> Can Vent",
+    "english": "<#00EEFFFF>Mafia</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.OverlordKnows",
-    "english": "<color=#008080FF>Overlord</color> Knows Who They Are",
+    "english": "<#008080FF>Overlord</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.OverlordMeetingWinCount",
-    "english": "<color=#008080FF>Overlord</color> Meeting Timer",
+    "english": "<#008080FF>Overlord</color> Meeting Timer",
     "schinese": ""
   },
   {
     "id": "CustomOption.RivalsChat",
-    "english": "Enable <color=#3D2D2CFF>Rivals</color> Chat",
+    "english": "Enable <#3D2D2CFF>Rivals</color> Chat",
     "schinese": ""
   },
   {
     "id": "CustomOption.RivalsRoles",
-    "english": "<color=#3D2D2CFF>Rivals</color> Know Each Other's <color=#FFD700FF>Roles</color>",
+    "english": "<#3D2D2CFF>Rivals</color> Know Each Other's <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.TraitorKnows",
-    "english": "<color=#370D43FF>Traitor</color> Knows Who They Are",
+    "english": "<#370D43FF>Traitor</color> Knows Who They Are",
     "schinese": ""
   },
   {
     "id": "CustomOption.SnitchSeesTraitor",
-    "english": "<color=#D4AF37FF>Snitch</color> Sees Turned <color=#370D43FF>Traitor</color>",
+    "english": "<#D4AF37FF>Snitch</color> Sees Turned <#370D43FF>Traitor</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RevealerRevealsTraitor",
-    "english": "<color=#D3D3D3FF>Revealer</color> Reveals Turned <color=#370D43FF>Traitor</color>",
+    "english": "<#D3D3D3FF>Revealer</color> Reveals Turned <#370D43FF>Traitor</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.TraitorColourSwap",
-    "english": "Turned <color=#370D43FF>Traitor</color> Swaps Colours For Investigative <color=#FFD700FF>Roles</color>",
+    "english": "Turned <#370D43FF>Traitor</color> Swaps Colours For Investigative <#FFD700FF>Roles</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnableBanshee",
-    "english": "Enable <color=#E67E22FF>Banshee</color>",
+    "english": "Enable <#E67E22FF>Banshee</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnableGhoul",
-    "english": "Enable <color=#F1C40FFF>Ghoul</color>",
+    "english": "Enable <#F1C40FFF>Ghoul</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnablePhantom",
-    "english": "Enable <color=#662962FF>Phantom</color>",
+    "english": "Enable <#662962FF>Phantom</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.EnableRevealer",
-    "english": "Enable <color=#D3D3D3FF>Revealer</color>",
+    "english": "Enable <#D3D3D3FF>Revealer</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BanCrewmate",
-    "english": "Ban <color=#8CFFFFFF>Crewmate</color>",
+    "english": "Ban <#8CFFFFFF>Crewmate</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BanImpostor",
-    "english": "Ban <color=#FF1919FF>Impostor</color>",
+    "english": "Ban <#FF1919FF>Impostor</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BanAnarchist",
-    "english": "Ban <color=#008000FF>Anarchist</color>",
+    "english": "Ban <#008000FF>Anarchist</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.BanMurderer",
-    "english": "Ban <color=#6F7BEAFF>Murderer</color>",
+    "english": "Ban <#6F7BEAFF>Murderer</color>",
     "schinese": ""
   },
   {
@@ -4416,7 +4436,7 @@
   },
   {
     "id": "CustomOption.HnSMode",
-    "english": "<color=#7500AFFF>Hide And Seek</color> Game Type",
+    "english": "<#7500AFFF>Hide And Seek</color> Game Type",
     "schinese": ""
   },
   {
@@ -4431,11 +4451,11 @@
   },
   {
     "id": "CustomOption.HunterCount",
-    "english": "<color=#FF004EFF>Hunter</color> Count",
+    "english": "<#FF004EFF>Hunter</color> Count",
     "schinese": ""
   },
   {
-    "id": "CustomOption.HuntCd",
+    "ids": [ "CustomOption.HuntCd", "CustomOption.BHHuntCd" ],
     "english": "Hunt Cooldown",
     "schinese": ""
   },
@@ -4446,37 +4466,37 @@
   },
   {
     "id": "CustomOption.HunterVent",
-    "english": "<color=#FF004EFF>Hunter</color> Can Vent",
+    "english": "<#FF004EFF>Hunter</color> Can Vent",
     "schinese": ""
   },
   {
     "id": "CustomOption.HunterVision",
-    "english": "<color=#FF004EFF>Hunter</color> Vision",
+    "english": "<#FF004EFF>Hunter</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.HuntedVision",
-    "english": "<color=#1F51FFFF>Hunted</color> Vision",
+    "english": "<#1F51FFFF>Hunted</color> Vision",
     "schinese": ""
   },
   {
     "id": "CustomOption.HunterSpeedModifier",
-    "english": "<color=#FF004EFF>Hunter</color> Speed Modifier",
+    "english": "<#FF004EFF>Hunter</color> Speed Modifier",
     "schinese": ""
   },
   {
     "id": "CustomOption.HunterFlashlight",
-    "english": "<color=#FF004EFF>Hunter</color> Use A Flashlight",
+    "english": "<#FF004EFF>Hunter</color> Use A Flashlight",
     "schinese": ""
   },
   {
     "id": "CustomOption.HuntedFlashlight",
-    "english": "<color=#1F51FFFF>Hunted</color> Use A Flashlight",
+    "english": "<#1F51FFFF>Hunted</color> Use A Flashlight",
     "schinese": ""
   },
   {
     "id": "CustomOption.HuntedChat",
-    "english": "<color=#1F51FFFF>Hunted</color> Can Chat",
+    "english": "<#1F51FFFF>Hunted</color> Can Chat",
     "schinese": ""
   },
   {
@@ -4533,172 +4553,172 @@
   },
   {
     "id": "RoleList.RandomCrew",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Random</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Random</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.CrewSupport",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Support</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Support</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.CrewInvest",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Invest</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Invest</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.CrewProt",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Protective</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Protective</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.CrewKill",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Killing</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Killing</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.CrewSov",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Sovereign</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Sovereign</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.CrewAudit",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Auditor</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Auditor</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.CrewUtil",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Utility</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Utility</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.RegularCrew",
-    "english": "<color=#8CFFFFFF>Crew (<color=#1D7CF2FF>Regular</color>)</color>",
+    "english": "<#8CFFFFFF>Crew (<#1D7CF2FF>Regular</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.RandomIntruder",
-    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Random</color>)</color>",
+    "english": "<#FF1919FF>Intruder (<#1D7CF2FF>Random</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.IntruderSupport",
-    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Support</color>)</color>",
+    "english": "<#FF1919FF>Intruder (<#1D7CF2FF>Support</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.IntruderConceal",
-    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Concealing</color>)</color>",
+    "english": "<#FF1919FF>Intruder (<#1D7CF2FF>Concealing</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.IntruderDecep",
-    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Deception</color>)</color>",
+    "english": "<#FF1919FF>Intruder (<#1D7CF2FF>Deception</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.IntruderKill",
-    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Killing</color>)</color>",
+    "english": "<#FF1919FF>Intruder (<#1D7CF2FF>Killing</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.IntruderUtil",
-    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Utility</color>)</color>",
+    "english": "<#FF1919FF>Intruder (<#1D7CF2FF>Utility</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.IntruderHead",
-    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Head</color>)</color>",
+    "english": "<#FF1919FF>Intruder (<#1D7CF2FF>Head</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.RegularIntruder",
-    "english": "<color=#FF1919FF>Intruder (<color=#1D7CF2FF>Regular</color>)</color>",
+    "english": "<#FF1919FF>Intruder (<#1D7CF2FF>Regular</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.RandomNeutral",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Random</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Random</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NeutralKill",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Killing</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Killing</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NeutralNeo",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Neophyte</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Neophyte</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NeutralEvil",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Evil</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Evil</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NeutralBen",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Benign</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Benign</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NeutralPros",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Proselyte</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Proselyte</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NeutralApoc",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Apocalypse</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Apocalypse</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NeutralHarb",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Harbinger</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Harbinger</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.RegularNeutral",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Regular</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Regular</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.HarmfulNeutral",
-    "english": "<color=#B3B3B3FF>Neutral (<color=#1D7CF2FF>Harmful</color>)</color>",
+    "english": "<#B3B3B3FF>Neutral (<#1D7CF2FF>Harmful</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.RandomSyndicate",
-    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Random</color>)</color>",
+    "english": "<#008000FF>Syndicate (<#1D7CF2FF>Random</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.SyndicateKill",
-    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Killing</color>)</color>",
+    "english": "<#008000FF>Syndicate (<#1D7CF2FF>Killing</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.SyndicateSupport",
-    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Support</color>)</color>",
+    "english": "<#008000FF>Syndicate (<#1D7CF2FF>Support</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.SyndicateDisrup",
-    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Disruption</color>)</color>",
+    "english": "<#008000FF>Syndicate (<#1D7CF2FF>Disruption</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.SyndicatePower",
-    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Power</color>)</color>",
+    "english": "<#008000FF>Syndicate (<#1D7CF2FF>Power</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.SyndicateUtil",
-    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Util</color>)</color>",
+    "english": "<#008000FF>Syndicate (<#1D7CF2FF>Util</color>)</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.RegularSyndicate",
-    "english": "<color=#008000FF>Syndicate (<color=#1D7CF2FF>Regular</color>)</color>",
+    "english": "<#008000FF>Syndicate (<#1D7CF2FF>Regular</color>)</color>",
     "schinese": ""
   },
   {
@@ -4708,37 +4728,37 @@
   },
   {
     "id": "RoleList.NonCrew",
-    "english": "Non-<color=#8CFFFFFF>Crew</color>",
+    "english": "Non-<#8CFFFFFF>Crew</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NonIntruder",
-    "english": "Non-<color=#FF1919FF>Intruder</color>",
+    "english": "Non-<#FF1919FF>Intruder</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NonSyndicate",
-    "english": "Non-<color=#008000FF>Syndicate</color>",
+    "english": "Non-<#008000FF>Syndicate</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.NonNeutral",
-    "english": "Non-<color=#B3B3B3FF>Neutral</color>",
+    "english": "Non-<#B3B3B3FF>Neutral</color>",
     "schinese": ""
   },
   {
     "id": "RoleList.FactionedEvil",
-    "english": "<color=#1D7CF2FF>Factioned</color> <color=#FF1919FF>E</color><color=#008000FF>v</color><color=#FF1919FF>i</color><color=#008000FF>l</color>",
+    "english": "<#1D7CF2FF>Factioned</color> <#FF1919FF>E</color><#008000FF>v</color><#FF1919FF>i</color><#008000FF>l</color>",
     "schinese": ""
   },
   {
     "id": "CustomOption.RoleListEntries",
-    "english": "<color=#FA1C79FF>Role List</color> Entries",
+    "english": "<#FA1C79FF>Role List</color> Entries",
     "schinese": ""
   },
   {
     "id": "CustomOption.RoleListBans",
-    "english": "<color=#FA1C79FF>Role List</color> Bans",
+    "english": "<#FA1C79FF>Role List</color> Bans",
     "schinese": ""
   },
   {
