@@ -155,9 +155,9 @@
     "schinese": "熊猫色"
   },
   {
-    "id": "Colors.Contrast",
-    "english": "Contrast",
-    "schinese": "对比色"
+    "id": "Colors.Error",
+    "english": "Error",
+    "schinese": ""
   },
   {
     "id": "Colors.Starlight",
@@ -178,36 +178,6 @@
     "id": "Colors.Nougat",
     "english": "Nougat",
     "schinese": "奶糖色"
-  },
-  {
-    "id": "Colors.Reversebow",
-    "english": "Reversebow",
-    "schinese": "反色"
-  },
-  {
-    "id": "Colors.Vibrance",
-    "english": "Vibrance",
-    "schinese": "饱和"
-  },
-  {
-    "id": "Colors.Darkbow",
-    "english": "Darkbow",
-    "schinese": "玄黑色"
-  },
-  {
-    "id": "Colors.Aberration",
-    "english": "Aberration",
-    "schinese": "差色"
-  },
-  {
-    "id": "Colors.Chroma",
-    "english": "Chroma",
-    "schinese": "色度"
-  },
-  {
-    "id": "Colors.Mantle",
-    "english": "Mantle",
-    "schinese": "地幔色"
   },
   {
     "id": "Colors.Fire",
@@ -235,13 +205,113 @@
     "schinese": "彩虹色"
   },
   {
-    "id": "Shade.Lighter",
-    "english": "Lighter",
+    "id": "Colors.Frozen",
+    "english": "Frozen",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Teal",
+    "english": "Teal",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.NightVision",
+    "english": "Night Vision",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Peach",
+    "english": "Peach",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Sundown",
+    "english": "Sundown",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Signal",
+    "english": "Signal",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.HotPink",
+    "english": "Hot Pink",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Fuchsia",
+    "english": "Fuchsia",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Lavender",
+    "english": "Lavender",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Blurple",
+    "english": "Blurple",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Navy",
+    "english": "Navy",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.RoyalGreen",
+    "english": "Royal Green",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Wasabi",
+    "english": "Wasabi",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Camouflage",
+    "english": "Camouflage",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Army",
+    "english": "Army",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Tamarind",
+    "english": "Tamarind",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Lemon",
+    "english": "Lemon",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Sunrise",
+    "english": "Sunrise",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Slime",
+    "english": "Slime",
+    "schinese": ""
+  },
+  {
+    "id": "Colors.Water",
+    "english": "Water",
+    "schinese": ""
+  },
+  {
+    "id": "Shade.L",
+    "english": "L",
     "schinese": "浅"
   },
   {
-    "id": "Shade.Darker",
-    "english": "Darker",
+    "id": "Shade.D",
+    "english": "D",
     "schinese": "深"
   },
   {

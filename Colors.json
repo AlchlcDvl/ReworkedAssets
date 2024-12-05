@@ -1,329 +1,405 @@
 [
   {
-    "name": "Red",
-    "stringid": 346,
-    "rgbmain": "198, 17, 17",
-    "rgbshadow": "122, 8, 56",
-    "default": true
-  },
-  {
-    "name": "Blue",
-    "stringid": 345,
-    "rgbmain": "19, 46, 210",
-    "rgbshadow": "9, 21, 142",
-    "default": true
-  },
-  {
-    "name": "Green",
-    "stringid": 348,
-    "rgbmain": "17, 128, 45",
-    "rgbshadow": "10, 77, 46",
-    "default": true
-  },
-  {
-    "name": "Pink",
-    "stringid": 349,
-    "rgbmain": "238, 84, 187",
-    "rgbshadow": "172, 43, 174",
-    "lighter": true,
-    "default": true
-  },
-  {
-    "name": "Orange",
-    "stringid": 344,
-    "rgbmain": "240, 125, 13",
-    "rgbshadow": "180, 62, 21",
-    "lighter": true,
-    "default": true
-  },
-  {
-    "name": "Yellow",
-    "stringid": 351,
-    "rgbmain": "246, 246, 87",
-    "rgbshadow": "195, 136, 34",
-    "lighter": true,
-    "default": true
-  },
-  {
-    "name": "Black",
-    "stringid": 352,
-    "rgbmain": "63, 71, 78",
-    "rgbshadow": "30, 31, 38",
-    "default": true
+    "name": "Starlight",
+    "mainColorValues": [ "#FFFFFF" ],
+    "shadowColorValues": [ "#E0E0E0" ],
+    "lighter": true
   },
   {
     "name": "White",
     "stringid": 350,
-    "rgbmain": "215, 225, 241",
-    "rgbshadow": "132, 149, 192",
+    "mainColorValues": [ "#D7E1F1" ],
+    "shadowColorValues": [ "#8495C0" ],
     "lighter": true,
     "default": true
   },
   {
-    "name": "Purple",
-    "stringid": 353,
-    "rgbmain": "107, 47, 188",
-    "rgbshadow": "59, 23, 124",
-    "default": true
+    "name": "Frozen",
+    "mainColorValues": [ "#A8DFFF" ],
+    "shadowColorValues": [ "#599FC8" ],
+    "lighter": true
   },
   {
-    "name": "Brown",
-    "stringid": 347,
-    "rgbmain": "113, 73, 30",
-    "rgbshadow": "94, 38, 21",
-    "default": true
+    "name": "Teal",
+    "mainColorValues": [ "#25B8BF" ],
+    "shadowColorValues": [ "#128986" ],
+    "lighter": true
   },
   {
     "name": "Cyan",
     "stringid": 354,
-    "rgbmain": "56, 255, 221",
-    "rgbshadow": "36, 169, 191",
+    "mainColorValues": [ "#38FFDD" ],
+    "shadowColorValues": [ "#24A9BF" ],
     "lighter": true,
     "default": true
+  },
+  {
+    "name": "Turquoise",
+    "mainColorValues": [ "#3DFFB5" ],
+    "shadowColorValues": [ "#1F805B" ],
+    "lighter": true
+  },
+  {
+    "name": "NightVision",
+    "mainColorValues": [ "#0BED8C" ]
+  },
+  {
+    "name": "Mint",
+    "mainColorValues": [ "#97FF97" ],
+    "shadowColorValues": [ "#6DBF6D" ],
+    "lighter": true
   },
   {
     "name": "Lime",
     "stringid": 355,
-    "rgbmain": "80, 240, 57",
-    "rgbshadow": "21, 168, 66",
+    "mainColorValues": [ "#50F039" ],
+    "shadowColorValues": [ "#15A842" ],
     "lighter": true,
     "default": true
   },
   {
-    "name": "Maroon",
-    "stringid": 2143,
-    "rgbmain": "95, 29, 46",
-    "rgbshadow": "65, 15, 26",
+    "name": "Chartreuse",
+    "mainColorValues": [ "#CFFF00" ],
+    "shadowColorValues": [ "#8FBF3D" ],
+    "lighter": true
+  },
+  {
+    "name": "Yellow",
+    "stringid": 351,
+    "mainColorValues": [ "#F6F657" ],
+    "shadowColorValues": [ "#C38822" ],
+    "lighter": true,
+    "default": true
+  },
+  {
+    "name": "Gold",
+    "mainColorValues": [ "#FFCF00" ],
+    "shadowColorValues": [ "#BF8F00" ],
+    "lighter": true
+  },
+  {
+    "name": "Beige",
+    "mainColorValues": [ "#F0D3A5" ],
+    "shadowColorValues": [ "#786A53" ],
+    "lighter": true
+  },
+  {
+    "name": "Banana",
+    "stringid": 2145,
+    "mainColorValues": [ "#F0E7A8" ],
+    "shadowColorValues": [ "#D2BC89" ],
+    "lighter": true,
     "default": true
   },
   {
     "name": "Rose",
     "stringid": 2144,
-    "rgbmain": "236, 192, 211",
-    "rgbshadow": "222, 146, 179",
+    "mainColorValues": [ "#ECC0D3" ],
+    "shadowColorValues": [ "#DE92B3" ],
     "lighter": true,
     "default": true
   },
   {
-    "name": "Banana",
-    "stringid": 2145,
-    "rgbmain": "240, 231, 168",
-    "rgbshadow": "210, 188, 137",
+    "name": "Peach",
+    "mainColorValues": [ "#FFA477" ],
+    "shadowColorValues": [ "#EE8064" ],
+    "lighter": true
+  },
+  {
+    "name": "Sundown",
+    "mainColorValues": [ "#FCC264" ],
+    "shadowColorValues": [ "#C56236" ]
+  },
+  {
+    "name": "Orange",
+    "stringid": 344,
+    "mainColorValues": [ "#F07D0D" ],
+    "shadowColorValues": [ "#B43E15" ],
     "lighter": true,
     "default": true
   },
   {
-    "name": "Grey",
-    "stringid": 2146,
-    "rgbmain": "117, 133, 147",
-    "rgbshadow": "70, 86, 100",
-    "default": true
-  },
-  {
-    "name": "Tan",
-    "stringid": 2147,
-    "rgbmain": "145, 136, 119",
-    "rgbshadow": "81, 65, 62",
-    "default": true
+    "name": "Signal",
+    "mainColorValues": [ "#F74417" ],
+    "shadowColorValues": [ "#9B2E0F" ]
   },
   {
     "name": "Coral",
     "stringid": 2154,
-    "rgbmain": "215, 100, 100",
-    "rgbshadow": "180, 67, 98",
+    "mainColorValues": [ "#D76464" ],
+    "shadowColorValues": [ "#B44362" ],
     "lighter": true,
     "default": true
   },
   {
-    "name": "Watermelon",
-    "rgbmain": "168, 50, 62",
-    "rgbshadow": "101, 30, 37",
-    "lighter": true
-  },
-  {
-    "name": "Chocolate",
-    "rgbmain": "60, 48, 44",
-    "rgbshadow": "30, 24, 22"
-  },
-  {
-    "name": "SkyBlue",
-    "rgbmain": "61, 129, 255",
-    "rgbshadow": "31, 65, 128",
-    "lighter": true
-  },
-  {
-    "name": "Beige",
-    "rgbmain": "240, 211, 165",
-    "rgbshadow": "120, 106, 83",
+    "name": "HotPink",
+    "mainColorValues": [ "#FF3366" ],
+    "shadowColorValues": [ "#E8003A" ],
     "lighter": true
   },
   {
     "name": "Magenta",
-    "rgbmain": "255, 0, 127",
-    "rgbshadow": "191, 0, 95"
+    "mainColorValues": [ "#FF007F" ],
+    "shadowColorValues": [ "#BF005F" ],
+    "lighter": true
   },
   {
-    "name": "Turquoise",
-    "rgbmain": "61, 255, 181",
-    "rgbshadow": "31, 128, 91",
-    "lighter": true
+    "name": "Fuchsia",
+    "mainColorValues": [ "#A41181" ],
+    "shadowColorValues": [ "#68034F" ]
+  },
+  {
+    "name": "Pink",
+    "stringid": 349,
+    "mainColorValues": [ "#EE54BB" ],
+    "shadowColorValues": [ "#AC2BAE" ],
+    "lighter": true,
+    "default": true
   },
   {
     "name": "Lilac",
-    "rgbmain": "186, 161, 255",
-    "rgbshadow": "93, 81, 128",
+    "mainColorValues": [ "#BAA1FF" ],
+    "shadowColorValues": [ "#5D5180" ],
     "lighter": true
   },
   {
-    "name": "Olive",
-    "rgbmain": "97, 114, 24",
-    "rgbshadow": "66, 91, 15"
+    "name": "Lavender",
+    "mainColorValues": [ "#AD7EC9" ],
+    "shadowColorValues": [ "#833ACB" ],
+    "lighter": true
   },
   {
-    "name": "Azure",
-    "rgbmain": "1, 166, 255",
-    "rgbshadow": "17, 104, 151",
-    "lighter": true
+    "name": "Purple",
+    "stringid": 353,
+    "mainColorValues": [ "#6B2FBC" ],
+    "shadowColorValues": [ "#3B177C" ],
+    "default": true
   },
   {
     "name": "Plum",
-    "rgbmain": "79, 0, 127",
-    "rgbshadow": "55, 0, 95"
+    "mainColorValues": [ "#4F007F" ],
+    "shadowColorValues": [ "#37005F" ]
   },
   {
-    "name": "Jungle",
-    "rgbmain": "0, 47, 0",
-    "rgbshadow": "0, 23, 0"
+    "name": "Blurple",
+    "mainColorValues": [ "#3D2C8E" ],
+    "shadowColorValues": [ "#190E5A" ]
   },
   {
-    "name": "Mint",
-    "rgbmain": "151, 255, 151",
-    "rgbshadow": "109, 191, 109",
+    "name": "Navy",
+    "mainColorValues": [ "#092B77" ],
+    "shadowColorValues": [ "#000D38" ]
+  },
+  {
+    "name": "Blue",
+    "stringid": 345,
+    "mainColorValues": [ "#132ED2" ],
+    "shadowColorValues": [ "#09158E" ],
+    "default": true
+  },
+  {
+    "name": "SkyBlue",
+    "mainColorValues": [ "#3D81FF" ],
+    "shadowColorValues": [ "#1F4180" ],
     "lighter": true
   },
   {
-    "name": "Chartreuse",
-    "rgbmain": "207, 255, 0",
-    "rgbshadow": "143, 191, 61",
+    "name": "Azure",
+    "mainColorValues": [ "#01A6FF" ],
+    "shadowColorValues": [ "#116897" ],
     "lighter": true
   },
   {
     "name": "Macau",
-    "rgbmain": "0, 97, 93",
-    "rgbshadow": "0, 65, 61"
+    "mainColorValues": [ "#00615D" ],
+    "shadowColorValues": [ "#00413D" ]
+  },
+  {
+    "name": "RoyalGreen",
+    "mainColorValues": [ "#095221" ],
+    "shadowColorValues": [ "#002E08" ]
+  },
+  {
+    "name": "Green",
+    "stringid": 348,
+    "mainColorValues": [ "#11802D" ],
+    "shadowColorValues": [ "#0A4D2E" ],
+    "default": true
+  },
+  {
+    "name": "Wasabi",
+    "mainColorValues": [ "#708F2E" ],
+    "shadowColorValues": [ "#485C1D" ]
+  },
+  {
+    "name": "Olive",
+    "mainColorValues": [ "#617218" ],
+    "shadowColorValues": [ "#425B0F" ]
+  },
+  {
+    "name": "Grey",
+    "stringid": 2146,
+    "mainColorValues": [ "#758593" ],
+    "shadowColorValues": [ "#465664" ],
+    "default": true
+  },
+  {
+    "name": "Camouflage",
+    "mainColorValues": [ "#808080" ]
+  },
+  {
+    "name": "Tan",
+    "stringid": 2147,
+    "mainColorValues": [ "#918877" ],
+    "shadowColorValues": [ "#51413E" ],
+    "default": true
+  },
+  {
+    "name": "Brown",
+    "stringid": 347,
+    "mainColorValues": [ "#71491E" ],
+    "shadowColorValues": [ "#5E2615" ],
+    "default": true
+  },
+  {
+    "name": "Watermelon",
+    "mainColorValues": [ "#A8323E" ],
+    "shadowColorValues": [ "#651E25" ]
+  },
+  {
+    "name": "Red",
+    "stringid": 346,
+    "mainColorValues": [ "#C51111" ],
+    "shadowColorValues": [ "#7A0838" ],
+    "default": true
   },
   {
     "name": "Tawny",
-    "rgbmain": "205, 63, 0",
-    "rgbshadow": "141, 31, 0"
+    "mainColorValues": [ "#CD3F00" ],
+    "shadowColorValues": [ "#8D1F00" ]
   },
   {
-    "name": "Gold",
-    "rgbmain": "255, 207, 0",
-    "rgbshadow": "191, 143, 0",
-    "lighter": true
+    "name": "Maroon",
+    "stringid": 2143,
+    "mainColorValues": [ "#5F1D2E" ],
+    "shadowColorValues": [ "#410F1A" ],
+    "default": true
   },
   {
-    "name": "Panda",
-    "rgbmain": "255, 255, 255",
-    "lighter": true,
-    "contrasting": true,
-    "title": "Constrast"
+    "name": "Army",
+    "mainColorValues": [ "#272D1F" ],
+    "shadowColorValues": [ "#0B1E18" ]
   },
   {
-    "name": "Contrast",
-    "rgbmain": "255, 0, 0",
-    "rgbshadow": "0, 0, 255",
-    "contrasting": true,
-    "title": "Constrast"
+    "name": "Jungle",
+    "mainColorValues": [ "#002F00" ],
+    "shadowColorValues": [ "#001700" ]
   },
   {
-    "name": "Starlight",
-    "rgbmain": "255, 255, 255",
-    "rgbshadow": "255, 255, 255",
-    "lighter": true
+    "name": "Chocolate",
+    "mainColorValues": [ "#3C302C" ],
+    "shadowColorValues": [ "#1E1816" ]
+  },
+  {
+    "name": "Tamarind",
+    "mainColorValues": [ "#301C22" ],
+    "shadowColorValues": [ "#1E0B10" ]
+  },
+  {
+    "name": "Black",
+    "stringid": 352,
+    "mainColorValues": [ "#3F474E" ],
+    "shadowColorValues": [ "#1E1F26" ],
+    "default": true
   },
   {
     "name": "Vantablack",
-    "rgbmain": "15, 15, 15"
+    "mainColorValues": [ "#151515" ],
+    "shadowColorValues": [ "#000000" ]
+  },
+  {
+    "name": "Panda",
+    "mainColorValues": [ "#FFFFFF" ],
+    "shadowColorValues": [ "#000000" ],
+    "lighter": true,
+    "contrasting": true
   },
   {
     "name": "Ice",
-    "rgbmain": "251, 251, 255",
-    "rgbshadow": "112, 250, 241",
+    "mainColorValues": [ "#FBFBFF" ],
+    "shadowColorValues": [ "#70FAF1" ],
     "contrasting": true,
-    "lighter": true,
-    "title": "Constrast"
+    "lighter": true
   },
   {
     "name": "Nougat",
-    "rgbmain": "160, 101, 56",
-    "rgbshadow": "115, 15, 78",
-    "contrasting": true,
-    "title": "Constrast"
+    "mainColorValues": [ "#A06538" ],
+    "shadowColorValues": [ "#730F4E" ],
+    "contrasting": true
   },
   {
     "name": "Lava",
-    "rgbmain": "255, 255, 16",
-    "rgbshadow": "255, 0, 0",
+    "mainColorValues": [ "#FFA500" ],
+    "shadowColorValues": [ "#FF0000" ],
     "contrasting": true,
-    "lighter": true,
-    "title": "Constrast"
+    "lighter": true
   },
   {
-    "name": "Reversebow",
-    "title": "Everchanging",
-    "changing": true
+    "name": "Error",
+    "mainColorValues": [ "#FF0000" ],
+    "shadowColorValues": [ "#0000FF" ],
+    "contrasting": true,
+    "lighter": true
   },
   {
-    "name": "Vibrance",
-    "lighter": true,
-    "title": "Everchanging",
-    "changing": true
+    "name": "Lemon",
+    "mainColorValues": [ "#DBFD2F" ],
+    "shadowColorValues": [ "#74E510" ],
+    "contrasting": true,
+    "lighter": true
   },
   {
-    "name": "Darkbow",
-    "title": "Everchanging",
-    "changing": true
+    "name": "Sunrise",
+    "mainColorValues": [ "#FFCA19" ],
+    "shadowColorValues": [ "#DB4442" ],
+    "contrasting": true,
+    "lighter": true
   },
   {
-    "name": "Aberration",
-    "title": "Everchanging",
-    "changing": true
-  },
-  {
-    "name": "Chroma",
-    "lighter": true,
-    "title": "Everchanging",
-    "changing": true
-  },
-  {
-    "name": "Mantle",
-    "title": "Everchanging",
-    "changing": true
+    "name": "Slime",
+    "mainColorValues": [ "#F4FFBC" ],
+    "shadowColorValues": [ "#A7EF70" ],
+    "contrasting": true,
+    "lighter": true
   },
   {
     "name": "Fire",
-    "lighter": true,
-    "title": "Everchanging",
-    "changing": true
+    "mainColorValues": [ "#FFFF00", "#FFA500", "#AA0000" ],
+    "timeSpeed": 3,
+    "lighter": true
+  },
+  {
+    "name": "Water",
+    "mainColorValues": [ "#0000FF", "#00FFFF" ],
+    "timeSpeed": 3,
+    "lighter": true
   },
   {
     "name": "Galaxy",
     "lighter": true,
-    "title": "Everchanging",
-    "changing": true
+    "mainColorValues": [ "#0000FF", "#FF00FF", "#FF00C0" ],
+    "timeSpeed": 2
   },
   {
     "name": "Monochrome",
     "lighter": true,
-    "title": "Everchanging",
-    "changing": true
+    "mainColorValues": [ "#FFFFFF", "#000000" ],
+    "timeSpeed": 0.8
   },
   {
     "name": "Rainbow",
     "lighter": true,
-    "title": "Everchanging",
-    "changing": true
+    "mainColorValues": [ "#7F00FF", "#4B0082", "#0000FF", "#00FF00", "#FFFF00", "#FFA500", "#FF0000" ],
+    "timeSpeed": 0.3
   }
 ]
