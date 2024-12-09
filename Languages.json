@@ -380,6 +380,21 @@
     "schinese": "放逐确认"
   },
   {
+    "id": "CustomOption.ShowBomb",
+    "english": "Show Bomb To Teammates",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.BombAlert",
+    "english": "Alert Everyone Of Bomb Detonation",
+    "schinese": ""
+  },
+  {
+    "id": "CustomOption.UseDarkTheme",
+    "english": "Use Dark Chat Theme",
+    "schinese": ""
+  },
+  {
     "id": "CustomOption.EjectionRevealsRoles",
     "english": "Ejection Reveals <#FFD700FF>Roles</color>",
     "schinese": "显示被放逐玩家的<#FFD700FF>职业</color>"

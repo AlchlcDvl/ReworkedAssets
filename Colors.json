@@ -245,7 +245,7 @@
   },
   {
     "name": "Camouflage",
-    "mainColorValues": [ "#808080" ]
+    "mainColorValues": [ "#7F7F7F" ]
   },
   {
     "name": "Tan",
@@ -393,7 +393,8 @@
   {
     "name": "Monochrome",
     "lighter": true,
-    "mainColorValues": [ "#FFFFFF", "#000000" ],
+    "mainColorValues": [ "#FFFFFF", "#111111" ],
+    "shadowColorValues": [ "#EEEEEE", "#000000" ],
     "timeSpeed": 0.8
   },
   {
