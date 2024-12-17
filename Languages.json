@@ -20,31 +20,6 @@
     "schinese": ""
   },
   {
-    "id": "Presets.Casual",
-    "english": "Casual",
-    "schinese": "轻松"
-  },
-  {
-    "id": "Presets.Chaos",
-    "english": "Chaos",
-    "schinese": "混乱"
-  },
-  {
-    "id": "Presets.Default",
-    "english": "Default",
-    "schinese": "默认"
-  },
-  {
-    "id": "Presets.LastUsed",
-    "english": "Last Used",
-    "schinese": "上次使用"
-  },
-  {
-    "id": "Presets.Ranked",
-    "english": "Ranked",
-    "schinese": "分级"
-  },
-  {
     "id": "Updates.Mod.Updating",
     "english": "Downloading %mod%\nPlease wait...",
     "schinese": "正在更新%mod%\n请稍候..."
@@ -407,6 +382,16 @@
   {
     "id": "CustomOption.InitialCooldowns",
     "english": "Game Start Cooldowns",
+    "schinese": "游戏开始后冷却"
+  },
+  {
+    "id": "CustomOption.PurePlayers",
+    "english": "A Pure Player Exists",
+    "schinese": "游戏开始后冷却"
+  },
+  {
+    "id": "CustomOption.Sacrifice",
+    "english": "Altruist Sacrifices Self On Last Revive",
     "schinese": "游戏开始后冷却"
   },
   {
@@ -2078,11 +2063,6 @@
     "ids": [ "CustomOption.DeadRevealed.Random", "CustomOption.AlliedFaction.Random", "CustomOption.DefectorFaction.Random", "CustomOption.AirshipSpawnType.Random" ],
     "english": "Random",
     "schinese": ""
-  },
-  {
-    "id": "CustomOption.Seer",
-    "english": "<#71368AFF>Seer</color>",
-    "schinese": "<#71368AFF>圣徒</color>"
   },
   {
     "id": "CustomOption.SeerCd",
