@@ -610,5 +610,13 @@
   {
     "hash": "dc9fb15e0aee1fcff3e01bae52a5f65a",
     "id": "NightVision"
+  },
+  {
+    "hash": "4133d95f38316896e1e6736a09bff6a5",
+    "id": "Placeholder"
+  },
+  {
+    "hash": "f656c37e0816fd01337a499f1b19bc86",
+    "id": "MeetingPlaceholder"
   }
 ]
