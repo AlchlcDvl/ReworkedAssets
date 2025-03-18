@@ -1122,12 +1122,12 @@
     ]
   },
   {
-    "id": "CustomOption.GameMode.RoleList",
+    "id": "CustomOption.GameMode.List",
     "values":
     [
       {
         "name": "English",
-        "value": "<#FA1C79FF>Role List</color>"
+        "value": "<#FA1C79FF>List</color>"
       }
     ]
   },
@@ -10357,24 +10357,22 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Entry1", "CustomOption.Entry2", "CustomOption.Entry3", "CustomOption.Entry4", "CustomOption.Entry5", "CustomOption.Entry6", "CustomOption.Entry7",
-      "CustomOption.Entry8", "CustomOption.Entry9", "CustomOption.Entry10", "CustomOption.Entry11", "CustomOption.Entry12", "CustomOption.Entry13", "CustomOption.Entry14",
-      "CustomOption.Entry15" ],
+    "id": "CustomOption.Entry",
     "values":
     [
       {
         "name": "English",
-        "value": "Entry Slot %num%"
+        "value": "%type% Entry Slot %num%"
       }
     ]
   },
   {
-    "ids": [ "CustomOption.Ban1", "CustomOption.Ban2", "CustomOption.Ban3", "CustomOption.Ban4", "CustomOption.Ban5" ],
+    "id": "CustomOption.Ban",
     "values":
     [
       {
         "name": "English",
-        "value": "Ban Slot %num%"
+        "value": "%type% Ban Slot %num%"
       }
     ]
   },
@@ -10714,7 +10712,7 @@
     [
       {
         "name": "English",
-        "value": "<#008000FF>Syndicate (<#1D7CF2FF>Util</color>)</color>"
+        "value": "<#008000FF>Syndicate (<#1D7CF2FF>Utility</color>)</color>"
       }
     ]
   },
@@ -10775,16 +10773,6 @@
       {
         "name": "English",
         "value": "Non-<#B3B3B3FF>Neutral</color>"
-      }
-    ]
-  },
-  {
-    "id": "List.FactionedEvil",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#1D7CF2FF>Factioned</color> <#FF1919FF>E</color><#008000FF>v</color><#FF1919FF>i</color><#008000FF>l</color>"
       }
     ]
   },
@@ -12108,7 +12096,7 @@
     [
       {
         "name": "English",
-        "value": "KDNEYS! I GOT NEW KIDNEYS! I don't like the colour."
+        "value": "KIDNEYS! I GOT NEW KIDNEYS! I don't like the colour."
       }
     ]
   },
@@ -12149,6 +12137,2096 @@
       {
         "name": "English",
         "value": "Gotta go fast"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Null",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Null"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Null.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "This symbol is a placeholder for when one doesn't have a disposition or subfaction that they are part of."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Shield",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Shield"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Shield.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have shields deployed on them through a Medic or Retributionist-Medic."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Knighted",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Knighted"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Knighted.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have been knighted by a Monarch receive this symbol."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Trapped",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Trapped"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Trapped.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players that have been trapped by a Trapper or Retributionist-Trapper. Trapped players will have their interactors' roles logged and sent to the relevant Trapper. If the trapped target is attacked, the trap will remove all of its logged roles and attack the attacker. The Trapper is notified if the trap attacked someone, and if not, they get a list of roles that interacted with their targets."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.ArsoDoused",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Arso Doused"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.ArsoDoused.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have been doused by an Arsonist. Doused players can be ignited by the Arsonist from anywhere."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Bounty",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Bounty"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Bounty.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Targets of a Bounty Hunter will have this symbol on their name. All targets know there is a bounty on their head."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.CryoDoused",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Cryo Doused"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.CryoDoused.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have been doused by a Cryomaniac. Doused players can be frozen by the Cryomaniac from anywhere."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Bitten",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Bitten"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Bitten.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The symbol that means one is part of the Undead subfaction."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Tormented",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Tormented"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Tormented.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players being tormented by an Executioner. Avoid ejecting them to increase your chances of winning."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Watched",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Watched"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Watched.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players being watched by a Guardian Angel. Try to recruit them or their GA to your side to increase your chances of winning."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Protected",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Protected"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Protected.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players being protected by their Guardian Angel."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Agonised",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Agonised"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Agonised.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players being agonised by a Guesser. If the player is on your team, avoid revealing their role publicly to increase your chances of winning."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Recruited",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Recruited"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Recruited.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The symbol that means one is part of the Cabal subfaction."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Resurrected",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Resurrected"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Resurrected.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The symbol that means one is part of the Reanimated subfaction."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Infected",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Infected"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Infected.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players that have been infected by a Plaguebearer. Once everyone is infected, the Plaguebearer becomes Pestilence."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Plague",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Plague"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Plague.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "This symbol denotes how many stacks of the plague a certain player has."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Vested",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Vested"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Vested.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Survivors who currently have their vests active."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Persuaded",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Persuaded"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Persuaded.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The symbol that means one is part of the Cult subfaction."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Framed",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Framed"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Framed.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who are framed by a Framer or Rebel-Framer. Framed players can die without triggering penalties for killers like Vigilante and Assassin."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Spellbound",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Spellbound"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Spellbound.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have been spellbound by a Spellslinger or Rebel-Spellslinger. When all non-Syndicate players are spellbound, the game will immediately end in the Spellslinger's victory."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Blackmailed",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Blackmailed"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Blackmailed.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have been blackmailed by a Blackmailer or Godfather-Blackmailer. Blackmailed players cannot speak in chat."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Silenced",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Silenced"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Silenced.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have been silenced by a Silencer or Rebel-Silencer. Silenced players cannot see anything in chat aside from system messages."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Flashed",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Flashed"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Flashed.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have been blinded by a Grenadier or Godfather-Grenadier. Flashed players cannot see anything as their screen turns white. Exempted players will have their screen dull out slightly to indicate they were flashed."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Campaigned",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Campaigned"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Campaigned.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The player who currently wields the Chaos Drive within the Syndicate faction."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Driven",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Driven"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Driven.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "This symbol indicates that they are in the same faction as you, but beware as they could still backstab you."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Friend",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Friend"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Friend.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who have been marked by the Ghoul. Marked players will die at the end of the next meeting."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Marked",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Marked"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Marked.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "When enabled, the first person to die in the previous game receives a shield of protection in the next game's first round."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.FirstDead",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "First Dead"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.FirstDead.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players who are on high alert. Alerted players will attack anyone who interacts with them."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Alerting",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Alerting"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Alerting.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players being targeted by a Crusader. Crusaded players will attack anyone who interacts with them, or if the Crusader holds the drive, everyone within a certain radius."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Crusaded",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Crusaded"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Crusaded.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Players being targeted by an Ambusher. Ambushed players will attack anyone who interacts with them."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Ambushed",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Ambushed"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Ambushed.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Allied disposition. The color denotes which faction they belong to."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Allied",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Allied"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Allied.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Corrupted disposition."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Corrupted",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Corrupted"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Corrupted.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Defector disposition. The color denotes which faction they belong to."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Defector",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Defector"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Defector.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Fanatic disposition. The color denotes which faction they belong to."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Fanatic",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Fanatic"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Fanatic.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Linked disposition."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Linked",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Linked"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Linked.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Lovers disposition."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Lovers",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Lovers"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Lovers.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Mafia disposition."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Mafia",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mafia"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Mafia.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Overlord disposition."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Overlord",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Overlord"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Overlord.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Rivals disposition. Also used for those with the Taskmaster disposition."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Rivals",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Rivals"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Rivals.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Traitor disposition. The color denotes which faction they belong to."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Taskmaster",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Taskmaster"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Taskmaster.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Taskmaster disposition."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Traitor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Traitor"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Traitor.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Used to denote those with the Traitor disposition. The color denotes which faction they belong to."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Cult",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Cult"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Cult.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The Cult is a group that can gain massive numbers of followers in one go. It may be weak at the start, but do not underestimate them as their powerful growth as it may overrun you. The Cult is led by the Whisperer."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Cabal",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Cabal"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Cabal.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The Cabal is an organisation that's similar to the Syndicate. They operate covertly by secretly recruiting people to join their group. The Cabal starts off very strong, making them a high-priority threat. They are led by the Jackal."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Undead",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Undead"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Undead.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The Undead are a group of bloodthirsty vampires who slowly grow their numbers. The longer the game progresses, the higher their elimination priority becomes. They are led by the Dracula."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Reanimated",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Reanimated"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Reanimated.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The Reanimated are individuals who have died yet hold a grudge against the living. This is facilitated by the Necromancer, their leader. Extended periods without confirmed deaths increase suspicion of Necromancer activity."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Vanilla",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Vanilla"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Vanilla.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "This mode is nothing special. Everyone is either a basic Crewmate, Impostor, or Anarchist (if alternate intruders is enabled)."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Classic",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Classic"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Classic.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "This is the main mode of the game. You can customize the chances of roles appearing and set their maximum instances."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.AllAny",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "AllAny"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.AllAny.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "This mode has no restrictions on role instances. Each role has a \"Uniqueness\" property (only 1-2 instances allowed for special roles like Lovers or Mafia)."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.TaskRace",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "TaskRace"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.TaskRace.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "A skill-based mode where players race to complete tasks. No killing allowed - victory is determined by task completion speed."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.List",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "List"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.List.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Create custom role sets with exact alignment/faction counts. The \"Uniqueness\" property applies here, allowing tailored role distributions."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.HideAndSeek",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "HideAndSeek"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.HideAndSeek.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "An unofficial Hide & Seek variant with two types: Classic (fixed Hunter numbers) and Infection (Hunters convert others). Only two roles spawn initially."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Crew",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Crew"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Crew.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Each member has a special ability to deduce identities and combat threats. This faction emphasizes teamwork and deduction. As an uninformed majority, Crewmates form most of the player base and lack knowledge of other members. Completing tasks acts as a timer to pressure non-Crew roles."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Intruder",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Intruder"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Intruder.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "A destructive faction focused on raw power. Members can kill and use role-specific abilities. As an informed minority, Intruders know each other and coordinate sabotage to disrupt Crew tasks."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Syndicate",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Syndicate"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Syndicate.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "A chaotic faction that gains killing power after meetings. Members start with unique abilities and later unlock the \"Chaos Drive,\" enhancing their capabilities. As an informed minority, they coordinate strategically."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Neutral",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Neutral.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Factionless roles with unique win conditions. Neutrals operate independently in a free-for-all style. As an uninformed minority, they lack team coordination and pursue diverse objectives;some helpful, some not."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Compliance",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Compliance"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Compliance.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "A coalition of Neutral Killers and Neophytes. Combines lethal power with conversion abilities, forming a formidable threat. Members coordinate to overwhelm other factions."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Pandorica",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Pandorica"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Pandorica.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "An alliance between Intruders and Syndicate. Leverages sabotage, swift kills, and the enhanced \"Chaos Drive\" to dominate the ship. Focuses on coordinated strikes and resource control."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Illuminati",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Illuminati"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Illuminati.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "A joint force of Compliance and Pandorica factions. Boasts a vast arsenal of abilities to overpower the Crew. Represents the ultimate challenge for survival-oriented roles."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.GameMode",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "GameMode"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.GameMode.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Exclusive to special game modes. These roles feature unique mechanics and objectives not found in standard factions. Examples include Hide & Seek variants and task-based competitions."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Altruist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Revives dead players by extracting mana from bodies, cleaning them in the process."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Bastion",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Booby traps vents to kill anyone interacting with them."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Chameleon",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Turns invisible to secretly observe other players' actions."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Coroner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Autopsies bodies to identify killers and generate death reports."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Crewmate",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Basic role with no special abilities - completes tasks to help Crew win."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Democrat",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Campaigns players to gain electoral votes and transform into Mayor."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Detective",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Investigates bloody hands/footprints to identify recent killers."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Dictator",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Calls tribunals to eject extra players, risks suicide if wrong."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Engineer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Fixes sabotages remotely and navigates via vent systems."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Escort",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Roleblocks players, but dies if blocking dangerous killers."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Mayor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Reveals themselves to gain double voting power."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Medic",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Grants Powerful defense shields to protect players."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Medium",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Communicates with dead players through ghost mediation."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Monarch",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Knights players to boost votes and gain personal defense."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Mystic",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Detects subfaction changes and converts to Seer when obsolete."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Operative",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Bugs areas to gather intel via Admin Table and Vitals."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Retributionist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mimics dead Crew roles' abilities during meetings."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Revealer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Ghost role that exposes evils upon completing all tasks."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Seer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Checks for role changes, becomes Sheriff if none exist."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Sheriff",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Identifies player alliances as Good/Evil through flashes."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Shifter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Swaps roles with others, dies if target is invalid."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Tracker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Tracks players with continuously updating arrows."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Transporter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Swaps player positions, enabling accidental team kills."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Trapper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Sets traps that log interactions or attack aggressors."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Veteran",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Kills anyone interacting with them during alert mode."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Vigilante",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Shoots players but dies if targeting innocents."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Actor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Wins by being guessed as a role from their target list; kills successful guessers."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Amnesiac",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Resurrects dead players' roles to adopt their objectives and win."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Arsonist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Douses players in gasoline to ignite later for mass elimination."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Betrayer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Emerges as the last faction member; kills enemies to secure victory."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.BountyHunter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hunts assigned target using clues; becomes Troll if unsuccessful."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Cannibal",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Consumes corpses to achieve a victory threshold."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Cryomaniac",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Douses coolant to freeze players during meetings."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Dracula",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Converts players to the Undead faction; lethal against Vampire Hunters."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Executioner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Gaslights crew to eject a specific target for victory."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Glitch",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hacks players to disable abilities while mimicking appearances."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.GuardianAngel",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Shields a target; wins if the target survives."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Guesser",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Guesses target's role to kill them; becomes Actor if unsuccessful."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Jackal",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Recruits players into the Cabal faction with opposing roles."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Jester",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Seeks ejection to haunt voters posthumously."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Juggernaut",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Gains stronger kill power with each successful murder."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Murderer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Neutral killer with basic attack/defense and no special abilities."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Necromancer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Revives dead players as Reanimated allies."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Pestilence",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Infects all players to become an unstoppable killer."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Phantom",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Ghostly role needing task completion without being clicked."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Plaguebearer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Infects players to eventually transform into Pestilence."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.SerialKiller",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Kills rapidly during bloodlust phases with short cooldowns."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Survivor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Uses vests for temporary immortality to survive."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Thief",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Steals roles by killing other killers."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Troll",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Kills whoever eliminates them to secure victory."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Werewolf",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mauls all players within a radius periodically."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Whisperer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Whispers to convert players to the Cult over time."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Ambusher",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Forces players into alert mode, causing them to attack interactors."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Blackmailer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Silences players in meetings, hiding their chat messages."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Camouflager",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Makes all players anonymous and grey to disrupt identification."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Consigliere",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Reveals target roles/factions, blocking future guesses on them."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Consort",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Roleblocks players remotely, risking death against killers."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Disguiser",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Disguises players as others, masking their true identity."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Enforcer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Plants bombs that detonate if targets fail to kill others."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Ghoul",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Marks players for delayed death; killable via ghost interaction."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Godfather",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Promotes Mafioso; inherits leadership with reduced cooldowns."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Grenadier",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Blinds players with flash grenades, disrupting vision."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Impostor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Basic Intruder role with kill/sabotage abilities."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Janitor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Cleans bodies and drags them to hide evidence."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Mafioso",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Promoted to Godfather upon leader death, gaining buffs."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Miner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Creates vents (Miner) or plants (Herbalist) for mobility."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Morphling",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Samples and morphs into other players temporarily."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Teleporter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Marks locations to teleport to later, enabling ambushes."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Wraith",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Turns invisible to evade detection and stalk targets."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Anarchist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Basic Syndicate role with early killing access and no special abilities."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Banshee",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Ghostly Syndicate role that blocks non-Syndicate players periodically."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Bomber",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Places bombs for remote detonation; Chaos Drive triggers all bombs at once."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Collider",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Charges players to collide and kill them; Chaos Drive enhances radius."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Concealer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Makes players invisible; Chaos Drive affects everyone."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Crusader",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Forces players into lethal alerts; Chaos Drive adds radial kills."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Drunkard",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Inverts player controls; Chaos Drive applies confusion globally."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Framer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Falsifies investigative results; Chaos Drive frames players in range."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Poisoner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Poisons players for delayed kills; Chaos Drive poisons remotely."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Rebel",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Promotes Sidekicks; gains buffs from Chaos Drive."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Shapeshifter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Swaps player appearances; Chaos Drive shuffles everyone."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Sidekick",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Promoted to Rebel on leader death; inherits enhanced abilities."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Silencer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mutes players' chat; Chaos Drive silences everyone except the target."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Spellslinger",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Curses players to trigger Syndicate victory; Chaos Drive removes cooldown penalties."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Stalker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Tracks players endlessly; Chaos Drive reveals through camouflage."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Timekeeper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Freezes time or rewinds players; Chaos Drive prioritizes rewinding."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Warper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Teleports players; Chaos Drive randomizes all positions."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Hunted",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Survives and completes tasks in Hide & Seek mode to win."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Hunter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Kills or converts Hunted in Hide & Seek mode with limited vision."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Runner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Races to finish tasks first in Task Race mode for instant victory."
       }
     ]
   }
