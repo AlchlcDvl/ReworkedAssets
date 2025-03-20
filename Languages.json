@@ -2946,6 +2946,16 @@
     ]
   },
   {
+    "ids": [ "CustomOption.Democrat", "CustomOption.Democrat1", "List.Democrat", "Layer.Democrat" ],
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Dictator"
+      }
+    ]
+  },
+  {
     "ids": [ "CustomOption.CrewSupportRoles", "CustomOption.CrewSupportSettings" ],
     "values":
     [
@@ -14227,6 +14237,396 @@
       {
         "name": "English",
         "value": "Races to finish tasks first in Task Race mode for instant victory."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Assassin",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Guess roles mid-meeting to kill targets; dies if wrong."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.ButtonBarry",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Call meetings from anywhere, even during sabotages."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Insider",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Reveals anonymous votes after completing tasks."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Multitasker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Performs tasks with a transparent UI overlay."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Ninja",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Kills without lunging animations for stealth."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Politician",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Votes multiple times or abstains to store votes."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Radar",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Shows arrows pointing to the nearest player."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Ruthless",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Ignores shields and protections when attacking."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Snitch",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Reveals enemies after tasks; marked to foes when near completion."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Swapper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Swaps votes between players during meetings."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Tiebreaker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Breaks vote ties by ejecting their first-voted target."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Torch",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Gains Intruder vision and sees invisible players."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Tunneler",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Gains vent access after completing all tasks."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Underdog",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Gains reduced cooldowns when last faction member alive."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Astral",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Skips meeting teleportation, staying at their original location."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Bait",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Forces killers to self-report after attacking."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Colorblind",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Sees all players as grey to mask identities."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Coward",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Cannot report bodies."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Diseased",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Increases killer cooldowns when killed."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Drunk",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Inverts controls."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Dwarf",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Moves faster but appears smaller."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Giant",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Moves slower but appears larger."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Indomitable",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Cannot be guessed."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Professional",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Survives one incorrect guess as Assassin."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Shy",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Cannot call emergency meetings."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.VIP",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Alerts everyone on death with arrows to their body."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Volatile",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Sees/hears fake events to obscure real threats."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Yeller",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Reveals location to all players continuously."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Allied",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Neutral Killer siding with a faction (Crew/Intruder/Syndicate)."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Corrupted",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Crew member turned killer with faction betrayal."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Defector",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Switches factions when last member of original team."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Fanatic",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Joins attacker's faction upon being targeted."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Linked",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Wins if linked partner survives, regardless of own fate."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Lovers",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Paired players sharing a private chat and survival goal."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Mafia",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Group requiring elimination of all non-Mafia players."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Overlord",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Auto-wins by surviving a set number of meetings."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Rivals",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Adversarial duo needing indirect elimination of each other."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Taskmaster",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Wins by completing tasks before death/game end."
+      }
+    ]
+  },
+  {
+    "id": "ShortDesc.Traitor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Crew member defecting to enemy faction after task completion."
       }
     ]
   }
