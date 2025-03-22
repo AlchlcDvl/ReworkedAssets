@@ -1214,62 +1214,6 @@
     ]
   },
   {
-    "id": "CustomOption.NeutralsCount",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#B3B3B3FF>Neutrals</color> Count"
-      },
-      {
-        "name": "SChinese",
-        "value": "<#B3B3B3FF>独立阵营</color>玩家数"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.AddArsonist",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Add <#EE7600FF>Arsonist</color>"
-      },
-      {
-        "name": "SChinese",
-        "value": "添加<#EE7600FF>纵火狂</color>"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.AddCryomaniac",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Add <#642DEAFF>Cryomaniac</color>"
-      },
-      {
-        "name": "SChinese",
-        "value": "添加<#642DEAFF>冰冻狂</color>"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.AddPlaguebearer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Add <#CFFE61FF>Plaguebearer</color>"
-      },
-      {
-        "name": "SChinese",
-        "value": "添加<#CFFE61FF>瘟疫之源</color>"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.GameModifiers",
     "values":
     [
@@ -1668,16 +1612,6 @@
       {
         "name": "English",
         "value": "Enable <#DD585BFF>Dispositions</color>"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.EnableCustomSpawns",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Enable Custom Spawn Locations"
       }
     ]
   },
@@ -5045,8 +4979,7 @@
   },
   {
     "ids": [ "CustomOption.ShowMediumToDead.Never", "CustomOption.DisableSkipButtonMeetings.Never", "CustomOption.CrewVenting.Never", "CustomOption.VigiNotif.Never",
-      "CustomOption.SyndicateVentOptions.Never", "CustomOption.JanitorOptions.Never", "CustomOption.SKVentOptions.Never", "CustomOption.WerewolfVentOptions.Never",
-      "CustomOption.NoSolo.Never" ],
+      "CustomOption.SyndicateVentOptions.Never", "CustomOption.JanitorOptions.Never", "CustomOption.SKVentOptions.Never", "CustomOption.WerewolfVentOptions.Never" ],
     "values":
     [
       {
@@ -6327,46 +6260,6 @@
     ]
   },
   {
-    "id": "CustomOption.NoSolo",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#B3B3B3FF>Neutrals</color> Together, Strong"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.NoSolo.SameNKs",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Same <#B3B3B3FF>N</color><#1D7CF2FF>Ks</color>"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.NoSolo.AllNKs",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "All <#B3B3B3FF>N</color><#1D7CF2FF>Ks</color>"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.NoSolo.AllNeutrals",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "All <#B3B3B3FF>Neutrals</color>"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.AvoidNeutralKingmakers",
     "values":
     [
@@ -6757,7 +6650,7 @@
     ]
   },
   {
-    "id": "CustomOption.NEHasImpVision",
+    "id": "CustomOption.NEHaveImpVision",
     "values":
     [
       {
@@ -6767,7 +6660,7 @@
     ]
   },
   {
-    "id": "CustomOption.NHHasImpVision",
+    "id": "CustomOption.NHHaveImpVision",
     "values":
     [
       {
@@ -7207,7 +7100,7 @@
     ]
   },
   {
-    "id": "CustomOption.NKHasImpVision",
+    "id": "CustomOption.NKHaveImpVision",
     "values":
     [
       {
@@ -7517,16 +7410,6 @@
     ]
   },
   {
-    "id": "CustomOption.MaulRadius",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Maul Radius"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.WerewolfVent",
     "values":
     [
@@ -7577,7 +7460,7 @@
     ]
   },
   {
-    "id": "CustomOption.NNHasImpVision",
+    "id": "CustomOption.NNHaveImpVision",
     "values":
     [
       {
@@ -8113,16 +7996,6 @@
       {
         "name": "English",
         "value": "Indicate Flashed Players"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.SaboFlash",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#85AA5BFF>Grenadier</color> Can Flash During Sabotages"
       }
     ]
   },
@@ -9487,12 +9360,12 @@
     ]
   },
   {
-    "id": "CustomOption.Transparancy",
+    "id": "CustomOption.Transparency",
     "values":
     [
       {
         "name": "English",
-        "value": "Task Transparancy"
+        "value": "Task Transparency"
       }
     ]
   },
@@ -14627,6 +14500,16 @@
       {
         "name": "English",
         "value": "Crew member defecting to enemy faction after task completion."
+      }
+    ]
+  },
+  {
+    "id": "ImportExport.Overwrite",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Overwrite."
       }
     ]
   }
