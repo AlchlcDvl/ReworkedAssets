@@ -4214,20 +4214,6 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Professional", "CustomOption.Professional1", "Layer.Professional" ],
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Professional"
-      },
-      {
-        "name": "SChinese",
-        "value": "专业刺客"
-      }
-    ]
-  },
-  {
     "ids": [ "CustomOption.Shy", "Layer.Shy" ],
     "values":
     [
@@ -9186,16 +9172,6 @@
       {
         "name": "English",
         "value": "<#2DE5BEFF>Indomitable</color> Knows Who They Are"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.ProfessionalKnows",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#860B7AFF>Professional</color> Knows Who They Are"
       }
     ]
   },
@@ -14340,16 +14316,6 @@
       {
         "name": "English",
         "value": "Cannot be guessed."
-      }
-    ]
-  },
-  {
-    "id": "ShortDesc.Professional",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Survives one incorrect guess as Assassin."
       }
     ]
   },
