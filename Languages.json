@@ -368,6 +368,12 @@
     }
   },
   {
+    "id": "Colors.Visor",
+    "values": {
+      "english": "Visor"
+    }
+  },
+  {
     "id": "Shade.L",
     "values": {
       "english": "L",
@@ -468,6 +474,12 @@
     "values": {
       "english": "Confirm Ejects",
       "schinese": "放逐确认"
+    }
+  },
+  {
+    "id": "CustomOption.MaxReportDistance",
+    "values": {
+      "english": "Maximum Report Distance"
     }
   },
   {
@@ -575,37 +587,37 @@
     }
   },
   {
-    "id": "CustomOption.GameMode.Classic",
+    "id": "CustomOption.Mode.Classic",
     "values": {
       "english": "<#C02A2C>Classic</color>"
     }
   },
   {
-    "id": "CustomOption.GameMode.AllAny",
+    "id": "CustomOption.Mode.AllAny",
     "values": {
       "english": "<#CBD542>All Any</color>"
     }
   },
   {
-    "id": "CustomOption.GameMode.List",
+    "id": "CustomOption.Mode.List",
     "values": {
       "english": "<#FA1C79>List</color>"
     }
   },
   {
-    "id": "CustomOption.GameMode.HideAndSeek",
+    "id": "CustomOption.Mode.HideAndSeek",
     "values": {
       "english": "<#7500AF>Hide And Seek</color>"
     }
   },
   {
-    "id": "CustomOption.GameMode.TaskRace",
+    "id": "CustomOption.Mode.TaskRace",
     "values": {
       "english": "<#1E49CF>Task Race</color>"
     }
   },
   {
-    "id": "CustomOption.GameMode.Vanilla",
+    "id": "CustomOption.Mode.Vanilla",
     "values": {
       "english": "Vanilla"
     }
@@ -1632,13 +1644,6 @@
     }
   },
   {
-    "ids": [ "CustomOption.Cannibal", "CustomOption.Cannibal1", "List.Cannibal", "Layer.Cannibal" ],
-    "values": {
-      "english": "Cannibal",
-      "schinese": "秃鹫"
-    }
-  },
-  {
     "ids": [ "CustomOption.Executioner", "CustomOption.Executioner1", "List.Executioner", "Layer.Executioner" ],
     "values": {
       "english": "Executioner",
@@ -1673,6 +1678,13 @@
     }
   },
   {
+    "ids": [ "CustomOption.Cannibal", "CustomOption.Cannibal1", "List.Cannibal", "Layer.Cannibal" ],
+    "values": {
+      "english": "Cannibal",
+      "schinese": "秃鹫"
+    }
+  },
+  {
     "ids": [ "CustomOption.Plaguebearer", "CustomOption.Plaguebearer1", "List.Plaguebearer", "Layer.Plaguebearer" ],
     "values": {
       "english": "Plaguebearer",
@@ -1701,6 +1713,12 @@
     "ids": [ "CustomOption.Void", "CustomOption.Void1", "List.Void", "Layer.Void" ],
     "values": {
       "english": "Void"
+    }
+  },
+  {
+    "ids": [ "CustomOption.Gluttony", "CustomOption.Gluttony1", "List.Gluttony", "Layer.Gluttony" ],
+    "values": {
+      "english": "Gluttony"
     }
   },
   {
@@ -1792,6 +1810,12 @@
     "values": {
       "english": "Jackal",
       "schinese": "黑老大"
+    }
+  },
+  {
+    "ids": [ "CustomOption.Zealot", "CustomOption.Zealot1", "List.Zealot", "Layer.Zealot" ],
+    "values": {
+      "english": "Zealot"
     }
   },
   {
@@ -2111,6 +2135,30 @@
     "values": {
       "english": "Timekeeper",
       "schinese": "司辰"
+    }
+  },
+  {
+    "id": "CustomOption.GameModeRoles",
+    "values": {
+      "english": "<#FFFFFF>Game Mode</color> <#FFD700>Roles</color>"
+    }
+  },
+  {
+    "ids": [ "CustomOption.Hunter", "CustomOption.Hunter1", "Layer.Hunter" ],
+    "values": {
+      "english": "Hunter"
+    }
+  },
+  {
+    "ids": [ "CustomOption.Hunted", "CustomOption.Hunted1", "Layer.Hunted" ],
+    "values": {
+      "english": "Hunted"
+    }
+  },
+  {
+    "ids": [ "CustomOption.Runner", "CustomOption.Runner1", "Layer.Runner" ],
+    "values": {
+      "english": "Runner"
     }
   },
   {
@@ -2525,13 +2573,15 @@
     }
   },
   {
-    "ids": [ "CustomOption.AlliedFaction.Intruder", "CustomOption.Faction.Intruder", "CustomOption.DisguiserTargets.Intruders", "CustomOption.IntruderSettings" ],
+    "ids": [ "CustomOption.AlliedFaction.Intruder", "CustomOption.Faction.Intruder", "CustomOption.DisguiserTargets.Intruders", "CustomOption.IntruderSettings",
+      "CustomOption.PandoricaType.Intruders", "CustomOption.IlluminatiType.Intruders" ],
     "values": {
       "english": "<#FF1919>Intruders</color>"
     }
   },
   {
-    "ids": [ "CustomOption.AlliedFaction.Apocalypse", "CustomOption.Faction.Apocalypse", "CustomOption.ApocalypseSettings" ],
+    "ids": [ "CustomOption.AlliedFaction.Apocalypse", "CustomOption.Faction.Apocalypse", "CustomOption.ApocalypseSettings", "CustomOption.PandoricaType.Apocalypse",
+      "CustomOption.IlluminatiType.Apocalypse" ],
     "values": {
       "english": "<#99007F>Apocalypse</color>"
     }
@@ -4273,7 +4323,8 @@
     }
   },
   {
-    "ids": [ "CustomOption.SyndicateSettings", "CustomOption.AlliedFaction.Syndicate", "CustomOption.Faction.Syndicate" ],
+    "ids": [ "CustomOption.SyndicateSettings", "CustomOption.AlliedFaction.Syndicate", "CustomOption.Faction.Syndicate", "CustomOption.PandoricaType.Syndicate",
+      "CustomOption.IlluminatiType.Syndicate" ],
     "values": {
       "english": "<#008000>Syndicate</color>"
     }
@@ -4345,7 +4396,7 @@
     }
   },
   {
-    "ids": [ "CustomOption.WhispersNotateB", "CustomOption.WhispersNotateS" ],
+    "ids": [ "CustomOption.WhispersNotPrivateB", "CustomOption.WhispersNotPrivateS" ],
     "values": {
       "english": "Whispers Are Not Private"
     }
@@ -5551,6 +5602,12 @@
     }
   },
   {
+    "id": "CustomOption.BanZealot",
+    "values": {
+      "english": "Ban <#7EFBC2>Zealot</color>"
+    }
+  },
+  {
     "ids": [ "CustomOption.ClientOptions", "GameSettings.Client" ],
     "values": {
       "english": "Client Settings"
@@ -6115,7 +6172,7 @@
   {
     "id": "Stats.LayerWins",
     "values": {
-      "english": "Games Won as %layer%"
+      "english": "Games Won as a(n) %layer%"
     }
   },
   {
@@ -6125,15 +6182,15 @@
     }
   },
   {
-    "id": "Achievement.TasteForDeath.Title",
+    "id": "Achievement.AppetiteForDeath.Title",
     "values": {
-      "english": "Taste For Death"
+      "english": "Appetite For Death"
     }
   },
   {
-    "id": "Achievement.TasteForDeath.Description",
+    "id": "Achievement.AppetiteForDeath.Description",
     "values": {
-      "english": "Kill For The First Time"
+      "english": "Kill for the first time"
     }
   },
   {
@@ -6151,7 +6208,7 @@
   {
     "id": "Achievement.FirstBlood.Description",
     "values": {
-      "english": "Make The First Kill Of The Game"
+      "english": "Make the first kill of the game"
     }
   },
   {
@@ -6163,13 +6220,13 @@
   {
     "id": "Achievement.LastBlood.Description",
     "values": {
-      "english": "Make The Last Kill Of The Game"
+      "english": "Make the final kill of the game"
     }
   },
   {
     "id": "Achievement.Fatality.Description",
     "values": {
-      "english": "Die For The First Time"
+      "english": "Die for the first time"
     }
   },
   {
@@ -6181,7 +6238,19 @@
   {
     "id": "Achievement.Resilient.Description",
     "values": {
-      "english": "Survive An Attack"
+      "english": "Survive an attack"
+    }
+  },
+  {
+    "id": "Achievement.SecondsAway.Title",
+    "values": {
+      "english": "Seconds Away"
+    }
+  },
+  {
+    "id": "Achievement.SecondsAway.Description",
+    "values": {
+      "english": "Be the last kill of the game"
     }
   },
   {
@@ -6205,7 +6274,7 @@
   {
     "id": "Achievement.RekindledPower.Description",
     "values": {
-      "english": "Revive A Crew Sovereign Role As Either A Necromancer Or An Altruist"
+      "english": "Revive a Crew (Sovereign) role as either a Necromancer or an Altruist"
     }
   },
   {
@@ -6217,7 +6286,7 @@
   {
     "id": "Achievement.Pacifist.Description",
     "values": {
-      "english": "Win As A Killing Role Without Actually Killing Anyone"
+      "english": "Win as someone who can kill without actually killing anyone"
     }
   },
   {
@@ -6229,7 +6298,7 @@
   {
     "id": "Achievement.Bloodthirsty.Description",
     "values": {
-      "english": "Win As A Killing Role By Killing The Most Number Of Players"
+      "english": "Win as someone who can kill by killing the most number of players"
     }
   },
   {
@@ -6761,6 +6830,18 @@
     }
   },
   {
+    "id": "Achievement.LayerWins.Gluttony.Title",
+    "values": {
+      "english": "Insatiable"
+    }
+  },
+  {
+    "id": "Achievement.LayerWins.Zealot.Title",
+    "values": {
+      "english": "Preacher"
+    }
+  },
+  {
     "id": "Achievement.LayerWins.Hunted.Title",
     "values": {
       "english": "Prey Survivor"
@@ -6962,6 +7043,12 @@
     "id": "Achievement.LayerWins.Reanimated.Title",
     "values": {
       "english": "Revenant"
+    }
+  },
+  {
+    "id": "Achievement.LayerWins.Followers.Title",
+    "values": {
+      "english": "Heretic"
     }
   },
   {
@@ -7183,7 +7270,7 @@
   {
     "id": "Achievement.WhoNeedsHorses.Description",
     "values": {
-      "english": "Win as a Harbinger without turning into an Apocalypse role"
+      "english": "Win as a Harbinger without turning into a Deity"
     }
   },
   {
@@ -7207,7 +7294,7 @@
   {
     "id": "Achievement.LastLaugh.Description",
     "values": {
-      "english": "Win as a Neutral Evil role with less than 5 players remaining"
+      "english": "Win as a Neutral (Evil) role with less than 5 players remaining"
     }
   },
   {
@@ -7220,6 +7307,18 @@
     "id": "Achievement.TotalAnnihilation.Description",
     "values": {
       "english": "Win as an Arsonist by only igniting once"
+    }
+  },
+  {
+    "id": "Achievement.EternalWinter.Title",
+    "values": {
+      "english": "Eternal Winter"
+    }
+  },
+  {
+    "id": "Achievement.EternalWinter.Description",
+    "values": {
+      "english": "Win as a Cryomaniac by only freezing once"
     }
   },
   {
@@ -7247,15 +7346,15 @@
     }
   },
   {
-    "id": "Achievement.ImTheCaptainNow.Title",
+    "id": "Achievement.ImTheLeaderNow.Title",
     "values": {
-      "english": "I'm The Captain Now"
+      "english": "I'm The Leader Now"
     }
   },
   {
-    "id": "Achievement.ImTheCaptainNow.Description",
+    "id": "Achievement.ImTheLeaderNow.Description",
     "values": {
-      "english": "Shift with a Mayor as the Shifter"
+      "english": "Shift with a Mayor"
     }
   },
   {
@@ -9365,9 +9464,39 @@
     }
   },
   {
+    "id": "CustomOption.HungerCd",
+    "values": {
+      "english": "Hunger Cooldown"
+    }
+  },
+  {
+    "id": "CustomOption.PreachCd",
+    "values": {
+      "english": "Preach Cooldown"
+    }
+  },
+  {
+    "id": "CustomOption.GlutVent",
+    "values": {
+      "english": "<#A7C596>Gluttony</color> Can Vent"
+    }
+  },
+  {
+    "id": "CustomOption.ZealVent",
+    "values": {
+      "english": "<#7EFBC2>Zealot</color> Can Vent"
+    }
+  },
+  {
+    "id": "CustomOption.FollowersVent",
+    "values": {
+      "english": "<#917AC0>Followers</color> Can Vent"
+    }
+  },
+  {
     "id": "CustomOption.VoidVent",
     "values": {
-      "english": "The Void Can Vent"
+      "english": "The <#E1E4E4>Void</color> Can Vent"
     }
   },
   {
@@ -9398,6 +9527,12 @@
     "id": "CustomOption.TeleportDur",
     "values": {
       "english": "Teleport Duration"
+    }
+  },
+  {
+    "id": "CustomOption.HungerDur",
+    "values": {
+      "english": "Hunger Duration"
     }
   },
   {
@@ -9569,21 +9704,33 @@
     }
   },
   {
-    "id": "CustomOption.ComplianceType",
+    "id": "CustomOption.ComplianceMembers",
     "values": {
-      "english": "<#5A27CC>Compliance</color> Type"
+      "english": "<#5A27CC>Compliance</color> Members"
     }
   },
   {
-    "id": "CustomOption.ComplianceType.Killers",
+    "ids": [ "CustomOption.ComplianceType.Killers", "CustomOption.IlluminatiType.Killers" ],
     "values": {
-      "english": "Killers"
+      "english": "<#1D7CF2>Killers</color>"
     }
   },
   {
-    "id": "CustomOption.ComplianceType.Neophytes",
+    "ids": [ "CustomOption.ComplianceType.Neophytes", "CustomOption.IlluminatiType.Neophytes" ],
     "values": {
-      "english": "Neophytes"
+      "english": "<#1D7CF2>Neophytes</color>"
+    }
+  },
+  {
+    "id": "CustomOption.IlluminatiMembers",
+    "values": {
+      "english": "<#A39389>Illuminati</color> Members"
+    }
+  },
+  {
+    "id": "CustomOption.PandoricaMembers",
+    "values": {
+      "english": "<#ECFF45>Pandorica</color> Members"
     }
   },
   {
@@ -9626,6 +9773,132 @@
     "id": "CustomOption.ApocalypseVent",
     "values": {
       "english": "<#99007F>Apocalypse</color> Can Vent"
+    }
+  },
+  {
+    "id": "CustomOption.ComplianceSettings",
+    "values": {
+      "english": "<#5A27CC>Compliance</color>"
+    }
+  },
+  {
+    "id": "CustomOption.ComplianceCount",
+    "values": {
+      "english": "<#5A27CC>Compliance</color> Count"
+    }
+  },
+  {
+    "id": "CustomOption.ComplianceVision",
+    "values": {
+      "english": "<#5A27CC>Compliance</color> Vision"
+    }
+  },
+  {
+    "id": "CustomOption.ComplianceFlashlight",
+    "values": {
+      "english": "<#5A27CC>Compliance</color> Uses A Flashlight"
+    }
+  },
+  {
+    "id": "CustomOption.ComplianceMin",
+    "values": {
+      "english": "Min <#5A27CC>Compliance</color>"
+    }
+  },
+  {
+    "id": "CustomOption.ComplianceMax",
+    "values": {
+      "english": "Max <#5A27CC>Compliance</color>"
+    }
+  },
+  {
+    "id": "CustomOption.ComplianceVent",
+    "values": {
+      "english": "<#5A27CC>Compliance</color> Can Vent"
+    }
+  },
+  {
+    "id": "CustomOption.PandoricaSettings",
+    "values": {
+      "english": "<#ECFF45>Pandorica</color>"
+    }
+  },
+  {
+    "id": "CustomOption.PandoricaCount",
+    "values": {
+      "english": "<#ECFF45>Pandorica</color> Count"
+    }
+  },
+  {
+    "id": "CustomOption.PandoricaVision",
+    "values": {
+      "english": "<#ECFF45>Pandorica</color> Vision"
+    }
+  },
+  {
+    "id": "CustomOption.PandoricaFlashlight",
+    "values": {
+      "english": "<#ECFF45>Pandorica</color> Uses A Flashlight"
+    }
+  },
+  {
+    "id": "CustomOption.PandoricaMin",
+    "values": {
+      "english": "Min <#ECFF45>Pandorica</color>"
+    }
+  },
+  {
+    "id": "CustomOption.PandoricaMax",
+    "values": {
+      "english": "Max <#ECFF45>Pandorica</color>"
+    }
+  },
+  {
+    "id": "CustomOption.PandoricaVent",
+    "values": {
+      "english": "<#ECFF45>Pandorica</color> Can Vent"
+    }
+  },
+  {
+    "id": "CustomOption.IlluminatiSettings",
+    "values": {
+      "english": "<#A39389>Illuminati</color>"
+    }
+  },
+  {
+    "id": "CustomOption.IlluminatiCount",
+    "values": {
+      "english": "<#A39389>Illuminati</color> Count"
+    }
+  },
+  {
+    "id": "CustomOption.IlluminatiVision",
+    "values": {
+      "english": "<#A39389>Illuminati</color> Vision"
+    }
+  },
+  {
+    "id": "CustomOption.IlluminatiFlashlight",
+    "values": {
+      "english": "<#A39389>Illuminati</color> Uses A Flashlight"
+    }
+  },
+  {
+    "id": "CustomOption.IlluminatiMin",
+    "values": {
+      "english": "Min <#A39389>Illuminati</color>"
+    }
+  },
+  {
+    "id": "CustomOption.IlluminatiMax",
+    "values": {
+      "english": "Max <#A39389>Illuminati</color>"
+    }
+  },
+  {
+    "id": "CustomOption.IlluminatiVent",
+    "values": {
+      "english": "<#A39389>Illuminati</color> Can Vent"
     }
   },
   {
@@ -9860,6 +10133,12 @@
     "id": "List.NonIlluminati",
     "values": {
       "english": "Non-<#A39389>Illuminati</color>"
+    }
+  },
+  {
+    "id": "List.NonIllNeutral",
+    "values": {
+      "english": "Non-<#A39389>Illuminati</color> <#B3B3B3>Neutral</color>"
     }
   }
 ]

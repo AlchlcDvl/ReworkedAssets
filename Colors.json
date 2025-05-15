@@ -20,6 +20,11 @@
     "lighter": true
   },
   {
+    "name": "Visor",
+    "mainColorValues": [ "#95CADC" ],
+    "lighter": true
+  },
+  {
     "name": "Teal",
     "mainColorValues": [ "#25B8BF" ],
     "shadowColorValues": [ "#128986" ],
