@@ -1,386 +1,386 @@
 [
   {
     "artist": "Pigoletto",
-    "mainhash": "735ba2aae03417aa61ef85bdd00c6f3c",
+    "mainHash": "735ba2aae03417aa61ef85bdd00c6f3c",
     "name": "aphex",
     "id": "visor0000"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "9dadee4d7446bf4851a88f47133e6699",
+    "mainHash": "9dadee4d7446bf4851a88f47133e6699",
     "name": "aplatypuss",
     "id": "visor0001"
   },
   {
     "artist": "TheLastShaymin",
-    "mainhash": "1d20b1d93a95f1478f35be1b7399f6e9",
+    "mainHash": "1d20b1d93a95f1478f35be1b7399f6e9",
     "name": "axilla",
     "id": "visor0002"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "286deffd1e891e3005c39dbe2ed7f3ce",
+    "mainHash": "286deffd1e891e3005c39dbe2ed7f3ce",
     "name": "platty halloween",
     "id": "visor0003"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "b09a27da8b5c6bf4bac04607e652cf34",
+    "mainHash": "b09a27da8b5c6bf4bac04607e652cf34",
     "name": "cheesy halloween",
     "id": "visor0004"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "2988828b488750dbeafb534cd981a042",
+    "mainHash": "2988828b488750dbeafb534cd981a042",
     "name": "chilled halloween",
     "id": "visor0005"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "b7ac286aa784aeadb86e53fed2796539",
+    "mainHash": "b7ac286aa784aeadb86e53fed2796539",
     "name": "zeroyalviking halloween",
     "id": "visor0006"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "a7f65648f976fb0f4e5f02ac2b8ec284",
+    "mainHash": "a7f65648f976fb0f4e5f02ac2b8ec284",
     "name": "witch",
     "id": "visor0007"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "63ee1e84d5013be72fdcb5adbfa84806",
+    "mainHash": "63ee1e84d5013be72fdcb5adbfa84806",
     "name": "goldfish",
     "id": "visor0008"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "898959c6bee27eec637768fa112796ee",
+    "mainHash": "898959c6bee27eec637768fa112796ee",
     "name": "ctulhu",
     "id": "visor0009"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "1cde682a9ed1665bfc27208c6536596d",
+    "mainHash": "1cde682a9ed1665bfc27208c6536596d",
     "name": "spider",
     "id": "visor0010"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "f4b5c64ab54153f0961eaed76fe4687f",
+    "mainHash": "f4b5c64ab54153f0961eaed76fe4687f",
     "name": "crocodile",
     "id": "visor0011"
   },
   {
     "artist": "Sugawara",
-    "mainhash": "7331b62081871b05081d82d4f1cb2ba1",
+    "mainHash": "7331b62081871b05081d82d4f1cb2ba1",
     "name": "Blush-stache",
     "id": "visor0012"
   },
   {
     "artist": "Sugawara",
-    "mainhash": "6b01b9430a50266326eabffece439547",
+    "mainHash": "6b01b9430a50266326eabffece439547",
     "name": "Overgrown",
     "id": "visor0013"
   },
   {
     "artist": "Sugawara",
-    "mainhash": "4187e1285f2f3dca68c5d37d2d23b6a7",
+    "mainHash": "4187e1285f2f3dca68c5d37d2d23b6a7",
     "name": "Press X",
     "id": "visor0014"
   },
   {
     "artist": "LayZ",
-    "mainhash": "53de340864bc2192c73456ba31bd9e6d",
+    "mainHash": "53de340864bc2192c73456ba31bd9e6d",
     "name": "sans",
     "id": "visor0015"
   },
   {
     "artist": "LayZ",
-    "mainhash": "038481cfca3bfc8a2ab2d63128fd4072",
+    "mainHash": "038481cfca3bfc8a2ab2d63128fd4072",
     "name": "Gleam",
     "id": "visor0016"
   },
   {
     "artist": "Sugawara",
-    "mainhash": "ac3aaa2f5cd0aa9b7cc3eb5269d6685d",
+    "mainHash": "ac3aaa2f5cd0aa9b7cc3eb5269d6685d",
     "name": "Marionette",
     "id": "visor0017"
   },
   {
     "artist": "Sugawara",
-    "mainhash": "ef89a102dd72f08f75c39300695737a4",
+    "mainHash": "ef89a102dd72f08f75c39300695737a4",
     "name": "Random Ronnie",
     "id": "visor0018"
   },
   {
     "artist": "Ophidian",
-    "mainhash": "e52ae4b5dac96eca8a2bcb5f5983298a",
+    "mainHash": "e52ae4b5dac96eca8a2bcb5f5983298a",
     "name": "Amcam",
     "id": "visor0019"
   },
   {
     "artist": "Ophidian",
-    "mainhash": "74c1f22cdd13a5a45a54c827b304a4e3",
+    "mainHash": "74c1f22cdd13a5a45a54c827b304a4e3",
     "name": "DrunkyPoo",
     "id": "visor0020"
   },
   {
     "artist": "Ophidian",
-    "mainhash": "b1336afda929a8c718001bd98d9a3762",
+    "mainHash": "b1336afda929a8c718001bd98d9a3762",
     "name": "Sheriff",
     "id": "visor0021"
   },
   {
     "artist": "Ophidian",
-    "mainhash": "a7fdefc672a5e884cbcda58b0492f700",
+    "mainHash": "a7fdefc672a5e884cbcda58b0492f700",
     "name": "Koji",
     "id": "visor0022"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "aeed9e36550c169145bb1c99d31da8a2",
+    "mainHash": "aeed9e36550c169145bb1c99d31da8a2",
     "name": "Monkeh",
     "id": "visor0023"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "9188e90e635e314e154476b993899ece",
+    "mainHash": "9188e90e635e314e154476b993899ece",
     "name": "Sugarcat",
     "id": "visor0024"
   },
   {
     "artist": "Sweetrolled",
-    "mainhash": "697a10be0518de1b5f5c890f46c2cb0c",
+    "mainHash": "697a10be0518de1b5f5c890f46c2cb0c",
     "name": "Demogorgan",
     "id": "visor0025"
   },
   {
     "artist": "Sweetrolled",
-    "mainhash": "3d8743368791fe8aff77fc351eb74754",
+    "mainHash": "3d8743368791fe8aff77fc351eb74754",
     "name": "Huntress",
     "id": "visor0026"
   },
   {
     "artist": "Ressnie",
-    "mainhash": "c315050662db27ce095b43d6788b0bc4",
+    "mainHash": "c315050662db27ce095b43d6788b0bc4",
     "name": "jose",
     "id": "visor0027"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "e0a2145c14eee2bd5fab9eac973574fd",
+    "mainHash": "e0a2145c14eee2bd5fab9eac973574fd",
     "name": "junkyard",
     "id": "visor0028"
   },
   {
     "artist": "Kara",
-    "mainhash": "512189bf371eec24ce46b4939ddf7755",
+    "mainHash": "512189bf371eec24ce46b4939ddf7755",
     "name": "Clickbait",
     "id": "visor0029"
   },
   {
     "artist": "Kara",
-    "mainhash": "1eda0ae104a9d6bfab86ce3bd2e9c523",
+    "mainHash": "1eda0ae104a9d6bfab86ce3bd2e9c523",
     "name": "TROLLED",
     "id": "visor0030"
   },
   {
     "artist": "Kara",
-    "mainhash": "34882467ee6b5123cfdfae684fd0ff0e",
+    "mainHash": "34882467ee6b5123cfdfae684fd0ff0e",
     "name": "You",
     "id": "visor0031"
   },
   {
     "artist": "Gun",
-    "mainhash": "bd3871d70e383c6b854e2d4dcc5efcf3",
+    "mainHash": "bd3871d70e383c6b854e2d4dcc5efcf3",
     "name": "Static",
     "id": "visor0032"
   },
   {
     "artist": "Gun",
-    "mainhash": "82a6d15a33e1c9e541ac7ddc76acbb1d",
+    "mainHash": "82a6d15a33e1c9e541ac7ddc76acbb1d",
     "name": "Heart",
     "id": "visor0033"
   },
   {
     "artist": "Gun",
-    "mainhash": "f283a828e3fcfb473f03ae2bbf0a9377",
+    "mainHash": "f283a828e3fcfb473f03ae2bbf0a9377",
     "name": "Hi Moon",
     "id": "visor0034"
   },
   {
     "artist": "TheLastShaymin",
-    "mainhash": "ce91c28a6cd8cbcef9bbaa164f7f26ac",
+    "mainHash": "ce91c28a6cd8cbcef9bbaa164f7f26ac",
     "name": "zylus",
     "id": "visor0035"
   },
   {
     "artist": "LayZ",
-    "mainhash": "1567a2b313bd566a8859fe10d2bb9b04",
+    "mainHash": "1567a2b313bd566a8859fe10d2bb9b04",
     "name": "Big Shot",
     "id": "visor0036"
   },
   {
     "artist": "Sugawara",
-    "mainhash": "c87fa37ab29ca9a73f76da4ec3ea0e99",
+    "mainHash": "c87fa37ab29ca9a73f76da4ec3ea0e99",
     "name": "Disconnected",
     "id": "visor0037"
   },
   {
     "artist": "Ophidian",
-    "mainhash": "d79fe0cced0cf43b412cf87fe45f5c5b",
+    "mainHash": "d79fe0cced0cf43b412cf87fe45f5c5b",
     "name": "Milky Joe",
     "id": "visor0038"
   },
   {
     "artist": "Ophidian",
-    "mainhash": "4281d555c04b85eb8b3619b350d0cd7b",
+    "mainHash": "4281d555c04b85eb8b3619b350d0cd7b",
     "name": "Dell",
     "id": "visor0039"
   },
   {
     "artist": "Sarinjin",
-    "mainhash": "9c98be06df89a211b184eef891539fcc",
+    "mainHash": "9c98be06df89a211b184eef891539fcc",
     "name": "Wildcat",
     "id": "visor0040"
   },
   {
     "artist": "Ophidian",
-    "mainhash": "6b49e7da2d8e1d00e2771635888fc948",
+    "mainHash": "6b49e7da2d8e1d00e2771635888fc948",
     "name": "Quonk Gun",
     "id": "visor0041"
   },
   {
     "artist": "Kara",
-    "mainhash": "a8436bbb187277bf7eda9a188f1a325d",
+    "mainHash": "a8436bbb187277bf7eda9a188f1a325d",
     "name": "Stoned",
     "id": "visor0042"
   },
   {
     "artist": "Kara",
-    "mainhash": "ff3fddfac0a6a612b36021b1d86f36f9",
+    "mainHash": "ff3fddfac0a6a612b36021b1d86f36f9",
     "name": "GUB",
     "id": "visor0043"
   },
   {
     "artist": "Kara",
-    "mainhash": "58304a9852126570afbb5d8a98d575f5",
+    "mainHash": "58304a9852126570afbb5d8a98d575f5",
     "name": "Computer-mate",
     "id": "visor0044"
   },
   {
     "artist": "Kara",
-    "mainhash": "69b089dc35d0525b31de4e066d0a4b68",
+    "mainHash": "69b089dc35d0525b31de4e066d0a4b68",
     "name": "uncle",
     "id": "visor0045"
   },
   {
     "artist": "Kara",
-    "mainhash": "debdf8f35f63c746bb0c1573ae440689",
+    "mainHash": "debdf8f35f63c746bb0c1573ae440689",
     "name": "my reaction to that information",
     "id": "visor0046"
   },
   {
     "artist": "TheLastShaymin",
-    "mainhash": "5577d6322e0bc11f0a837a251add0b19",
+    "mainHash": "5577d6322e0bc11f0a837a251add0b19",
     "name": "wrench_f",
     "id": "visor0047"
   },
   {
     "artist": "Sugawara",
-    "mainhash": "2af832ef279b684f788cf803a8fa1746",
+    "mainHash": "2af832ef279b684f788cf803a8fa1746",
     "name": "A Knoife!",
     "id": "visor0048"
   },
   {
     "artist": "Rum",
-    "mainhash": "8343ba06b67048b054cb836074cadccb",
+    "mainHash": "8343ba06b67048b054cb836074cadccb",
     "name": "Inmouth",
     "id": "visor0049"
   },
   {
     "artist": "Rum",
-    "mainhash": "69715b6699fe72ce6ebe9d530fe0db12",
+    "mainHash": "69715b6699fe72ce6ebe9d530fe0db12",
     "name": "Teeth",
     "id": "visor0050"
   },
   {
     "artist": "Rum",
-    "mainhash": "35f27dcbb631c270c69e0cefaa8ebc01",
+    "mainHash": "35f27dcbb631c270c69e0cefaa8ebc01",
     "name": "Tongue",
     "id": "visor0051"
   },
   {
     "artist": "Pigoletto",
-    "mainhash": "5a13d201b6d105866a5675458f331fb7",
+    "mainHash": "5a13d201b6d105866a5675458f331fb7",
     "name": "Boar",
     "id": "visor0052"
   },
   {
     "artist": "Ophidian",
-    "mainhash": "a5a64eae2f75d944171d20fe6e6d7857",
+    "mainHash": "a5a64eae2f75d944171d20fe6e6d7857",
     "name": "Loweye",
     "id": "visor0053"
   },
   {
-    "mainhash": "4ea4c0c9de1bdf8a914689177497315e",
+    "mainHash": "4ea4c0c9de1bdf8a914689177497315e",
     "name": "toast",
     "id": "visor0054"
   },
   {
-    "mainhash": "2f0df0f9b467d157ce77ce83cc9480b4",
+    "mainHash": "2f0df0f9b467d157ce77ce83cc9480b4",
     "name": "peter",
     "id": "visor0055"
   },
   {
-    "mainhash": "cbb83626e4a9ac1886027d6935b26ef1",
+    "mainHash": "cbb83626e4a9ac1886027d6935b26ef1",
     "name": "miyoung",
     "id": "visor0056"
   },
   {
-    "mainhash": "7c50c3b9c170f9232c2767f9c913491c",
+    "mainHash": "7c50c3b9c170f9232c2767f9c913491c",
     "name": "lily",
     "id": "visor0057"
   },
   {
-    "mainhash": "77280cfef42f718be9f09edc381be19b",
+    "mainHash": "77280cfef42f718be9f09edc381be19b",
     "name": "dream",
     "id": "visor0058"
   },
   {
     "artist": "acron",
-    "mainhash": "8549f6ff668af57ffa838940800c168e",
+    "mainHash": "8549f6ff668af57ffa838940800c168e",
     "name": "skull",
     "id": "visor0059"
   },
   {
-    "mainhash": "46ccb535402510695dc950abb2c35365",
+    "mainHash": "46ccb535402510695dc950abb2c35365",
     "name": "penguinface_front",
     "id": "visor0060"
   },
   {
-    "mainhash": "eb8673628c67045e80c1fc743318f1ab",
+    "mainHash": "eb8673628c67045e80c1fc743318f1ab",
     "name": "buffyhelmet",
     "id": "visor0061"
   },
   {
-    "mainhash": "b3ed86ee4f29e6d51e8273ca2ec1faad",
+    "mainHash": "b3ed86ee4f29e6d51e8273ca2ec1faad",
     "name": "buffyarms",
     "id": "visor0062"
   },
   {
-    "mainhash": "b8747bef92465ad9637956a23540fc42",
+    "mainHash": "b8747bef92465ad9637956a23540fc42",
     "name": "bestcrewmate",
     "id": "visor0063"
   },
   {
-    "mainhash": "6179671747ed2c36cebc854487da22ce",
+    "mainHash": "6179671747ed2c36cebc854487da22ce",
     "name": "ash",
     "id": "visor0064"
   },
   {
-    "mainhash": "4929797a4c97d340dd97cd79f9605034",
+    "mainHash": "4929797a4c97d340dd97cd79f9605034",
     "name": "Toast",
     "id": "visor0065"
   }

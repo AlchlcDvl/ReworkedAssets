@@ -7,7 +7,7 @@
   },
   {
     "name": "White",
-    "stringid": 350,
+    "stringId": 350,
     "mainColorValues": [ "#D7E1F1" ],
     "shadowColorValues": [ "#8495C0" ],
     "lighter": true,
@@ -32,7 +32,7 @@
   },
   {
     "name": "Cyan",
-    "stringid": 354,
+    "stringId": 354,
     "mainColorValues": [ "#38FFDD" ],
     "shadowColorValues": [ "#24A9BF" ],
     "lighter": true,
@@ -56,7 +56,7 @@
   },
   {
     "name": "Lime",
-    "stringid": 355,
+    "stringId": 355,
     "mainColorValues": [ "#50F039" ],
     "shadowColorValues": [ "#15A842" ],
     "lighter": true,
@@ -70,7 +70,7 @@
   },
   {
     "name": "Yellow",
-    "stringid": 351,
+    "stringId": 351,
     "mainColorValues": [ "#F6F657" ],
     "shadowColorValues": [ "#C38822" ],
     "lighter": true,
@@ -90,7 +90,7 @@
   },
   {
     "name": "Banana",
-    "stringid": 2145,
+    "stringId": 2145,
     "mainColorValues": [ "#F0E7A8" ],
     "shadowColorValues": [ "#D2BC89" ],
     "lighter": true,
@@ -98,7 +98,7 @@
   },
   {
     "name": "Rose",
-    "stringid": 2144,
+    "stringId": 2144,
     "mainColorValues": [ "#ECC0D3" ],
     "shadowColorValues": [ "#DE92B3" ],
     "lighter": true,
@@ -117,7 +117,7 @@
   },
   {
     "name": "Orange",
-    "stringid": 344,
+    "stringId": 344,
     "mainColorValues": [ "#F07D0D" ],
     "shadowColorValues": [ "#B43E15" ],
     "lighter": true,
@@ -130,7 +130,7 @@
   },
   {
     "name": "Coral",
-    "stringid": 2154,
+    "stringId": 2154,
     "mainColorValues": [ "#D76464" ],
     "shadowColorValues": [ "#B44362" ],
     "lighter": true,
@@ -155,7 +155,7 @@
   },
   {
     "name": "Pink",
-    "stringid": 349,
+    "stringId": 349,
     "mainColorValues": [ "#EE54BB" ],
     "shadowColorValues": [ "#AC2BAE" ],
     "lighter": true,
@@ -175,7 +175,7 @@
   },
   {
     "name": "Purple",
-    "stringid": 353,
+    "stringId": 353,
     "mainColorValues": [ "#6B2FBC" ],
     "shadowColorValues": [ "#3B177C" ],
     "default": true
@@ -197,7 +197,7 @@
   },
   {
     "name": "Blue",
-    "stringid": 345,
+    "stringId": 345,
     "mainColorValues": [ "#132ED2" ],
     "shadowColorValues": [ "#09158E" ],
     "default": true
@@ -226,7 +226,7 @@
   },
   {
     "name": "Green",
-    "stringid": 348,
+    "stringId": 348,
     "mainColorValues": [ "#11802D" ],
     "shadowColorValues": [ "#0A4D2E" ],
     "default": true
@@ -243,7 +243,7 @@
   },
   {
     "name": "Grey",
-    "stringid": 2146,
+    "stringId": 2146,
     "mainColorValues": [ "#758593" ],
     "shadowColorValues": [ "#465664" ],
     "default": true
@@ -254,14 +254,14 @@
   },
   {
     "name": "Tan",
-    "stringid": 2147,
+    "stringId": 2147,
     "mainColorValues": [ "#918877" ],
     "shadowColorValues": [ "#51413E" ],
     "default": true
   },
   {
     "name": "Brown",
-    "stringid": 347,
+    "stringId": 347,
     "mainColorValues": [ "#71491E" ],
     "shadowColorValues": [ "#5E2615" ],
     "default": true
@@ -273,7 +273,7 @@
   },
   {
     "name": "Red",
-    "stringid": 346,
+    "stringId": 346,
     "mainColorValues": [ "#C51111" ],
     "shadowColorValues": [ "#7A0838" ],
     "default": true
@@ -285,7 +285,7 @@
   },
   {
     "name": "Maroon",
-    "stringid": 2143,
+    "stringId": 2143,
     "mainColorValues": [ "#5F1D2E" ],
     "shadowColorValues": [ "#410F1A" ],
     "default": true
@@ -312,7 +312,7 @@
   },
   {
     "name": "Black",
-    "stringid": 352,
+    "stringId": 352,
     "mainColorValues": [ "#3F474E" ],
     "shadowColorValues": [ "#1E1F26" ],
     "default": true
