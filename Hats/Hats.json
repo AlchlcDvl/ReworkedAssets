@@ -3,31 +3,22 @@
     "artist": "Kara",
     "mainHash": "acc00b583f62c25bb1511910a98f90be",
     "name": "Pipe",
+    "chipOffset": "0,0.3",
     "id": "kara0001"
   },
   {
     "artist": "Kara",
     "mainHash": "7f2a74b01df81675637f13a3edb9816d",
     "name": "Very Expensive",
+    "chipOffset": "0.1,-0.2",
     "id": "kara0002"
   },
   {
     "artist": "Kara",
     "mainHash": "1817207f2199a12c5fdc645af8a28570",
     "name": "Folder",
+    "chipOffset": "0,0.45",
     "id": "kara0005"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "5aaee1d4913d56e9ab0302783a80f809",
-    "name": "kara lore",
-    "id": "kara0007"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "7188db189dc00e44a9d1b6055997f174",
-    "name": "Inner bean",
-    "id": "kara0008"
   },
   {
     "artist": "Kara",
@@ -38,181 +29,106 @@
   {
     "artist": "Kara",
     "mainHash": "7903cfa705bee449fda33bffee7a9557",
-    "name": "Money Circle",
+    "name": "Monkey Circle",
+    "chipOffset": "0,0.2",
     "id": "kara0010"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "33376945aa5b98009606b8c9d1b16707",
-    "name": "Realest Epicest Face in all the lands of Epicness made by Kara (Not Face Reveal), Produced by Karaesthetic. Sponsored by Det",
-    "id": "kara0011"
   },
   {
     "artist": "Kara",
     "mainHash": "2f390490e15355fbb3eb987b076d13aa",
     "name": "Magnifying Glass Tilted Right",
+    "chipOffset": "-0.45,0.15",
     "id": "kara0012"
   },
   {
     "artist": "Kara",
     "mainHash": "f946ad89187e4c99244bd8a2067a176f",
     "name": "Recycle-mate",
+    "chipOffset": "0,0.5",
     "id": "kara0013"
   },
   {
     "artist": "Kara",
     "mainHash": "e16ba9e41ddb56d6612892d8d4dcc9f8",
     "name": "Retro Book",
+    "chipOffset": "0,0.6",
     "id": "kara0014"
   },
   {
     "artist": "Kara",
     "mainHash": "595ea072d28842607c567e3aefd85425",
     "name": "Retro camera",
+    "chipOffset": "0.1,0.3",
     "id": "kara0015"
   },
   {
     "artist": "Kara",
     "mainHash": "a9c44780cdc1aa86353d562c1442c779",
     "name": "Retro Wings",
+    "chipOffset": "0.1,0",
     "id": "kara0016"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "a8565d4abf81009b3a627c786b04c842",
-    "name": "Caught in Retro 32 bits",
-    "id": "kara0017"
   },
   {
     "artist": "Kara",
     "mainHash": "10b721278b3c7a13d428cb77abefdf75",
     "name": "Retro Shady",
+    "chipOffset": "0,-0.1",
     "id": "kara0018"
   },
   {
     "artist": "Kara",
     "mainHash": "0800d3658b260139f93094f639ad47f3",
-    "name": "TEH EPIK RUBBR DUCKIE!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "name": "TEH EPIK RUBBR DUCKIE!!!!!!!!!!!",
+    "chipOffset": "0,-0.2",
     "id": "kara0019"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "3f155eb6b074cfe4b0d8d777644dbf11",
-    "name": "Pocket Kara",
-    "id": "kara0020"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "7597d364cde11078ea9d7fb7573ba2e0",
-    "name": "Secrets Revealed",
-    "id": "kara0021"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "56a11c8114f15d2be470a4568fd9efd4",
-    "name": "Pizza!",
-    "id": "kara0022"
   },
   {
     "artist": "Kara",
     "mainHash": "f56bbb23728eeed21f7143d803de5970",
     "name": "Tomorrow is another day",
+    "chipOffset": "0.07,0.25",
     "id": "kara0023"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "0989efdf014b42b294b81ef36ae43cb2",
-    "name": "Triangle Buddy",
-    "id": "kara0024"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "1e3d7da48e0bd75c9269c222fdeb1283",
-    "name": "Triangle Buddy 2",
-    "id": "kara0025"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "e90004f692b8266ea4dc877b1bea203b",
-    "name": "Triangle Buddy 3",
-    "id": "kara0026"
   },
   {
     "artist": "Kara",
     "mainHash": "a4af43d8d2699d6afb2c3ebcea4fc84a",
     "name": "Milk with Ice",
+    "chipOffset": "0.15,0.3",
     "id": "kara0027"
   },
   {
     "artist": "Kara",
     "mainHash": "2767e8142b3b57e0bad2d11339fc4945",
     "name": "Saltiest Bean in The West",
+    "chipOffset": "0.2,-0.4",
     "id": "kara0028"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "710719dbff251283432cb61bad0c898e",
-    "name": "Snowgraved",
-    "id": "kara0029"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "331ebd86ff3c0b75bcdd4680b5f11da8",
-    "name": "RGB BEAN *LIMITED EDITION*",
-    "id": "kara0030"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "23fc8d0e1c4f0caf04b2009957f2ba8c",
-    "name": "Crewmate.exe",
-    "id": "kara0031"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "2c101a1cb4d31c9420f7385913bfaa76",
-    "name": "Cheesed",
-    "id": "kara0032"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "aa2203aa0fa02f8b6642f40fa4c094da",
-    "name": "Cool Face",
-    "id": "kara0033"
   },
   {
     "artist": "Kara",
     "mainHash": "661e712892875b2f22d8df28f30eb8d1",
     "name": "yeah",
+    "chipOffset": "0.1,-0.3",
     "id": "kara0034"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "ecd425f42738bd4d93fd97d948933c81",
-    "name": "Crewmate Pop-up",
-    "id": "kara0035"
-  },
-  {
-    "artist": "Kara",
-    "mainHash": "5a72fd24ff4ce9636ad5a68d96f153dd",
-    "name": "The good :)",
-    "id": "kara0036"
   },
   {
     "artist": "Kara",
     "mainHash": "aa7033ab590071aa7117166ebbbf2265",
     "name": "BLUE LOBSTER",
+    "chipOffset": "0,-0.2",
     "id": "kara0038"
   },
   {
     "artist": "Kara",
     "mainHash": "36246d9fa8861832a76405f0ab370fc0",
     "name": "Bucket",
+    "chipOffset": "-0.05,-0.1",
     "id": "kara0039"
   },
   {
     "artist": "Kara",
     "mainHash": "7e1184b40ee4fde4eefcfbfeeb629339",
     "name": "Blahaj",
+    "chipOffset": "0,0.1",
     "id": "kara0040"
   },
   {
@@ -237,96 +153,112 @@
     "artist": "Kara",
     "mainHash": "480db4171e11ec74bd3832a041057579",
     "name": "Crewmate Stew",
+    "chipOffset": "0,0.4",
     "id": "kara0044"
   },
   {
     "artist": "Kara",
     "mainHash": "562a932ef2d0904124bb0670cbcbd80e",
     "name": "REEEEEEEEEEEEEEEEED",
+    "chipOffset": "-0.05,0",
     "id": "kara0045"
   },
   {
     "artist": "Kara",
     "mainHash": "976e720391adc80b2df6a9d2564bb53b",
     "name": "Impsockster",
+    "chipOffset": "0.1,-0.3",
     "id": "kara0047"
   },
   {
     "artist": "Kara",
     "mainHash": "3dd7e6cfc2aeba9d443bed040535576d",
     "name": "fat",
+    "chipOffset": "0,0.3",
     "id": "kara0049"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "e9624c2b03a4024dd79db817963cee39",
     "name": "annamaja",
+    "chipOffset": "0,0.1",
     "id": "hats0000"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "d70f0f820cb41f446d5e1edc771a771e",
     "name": "anniefuschia",
+    "chipOffset": "0,0.1",
     "id": "hats0002"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "78566d515aeb8715ece748fc8417326d",
-    "name": " asexual",
+    "name": "asexual",
+    "chipOffset": "0,-0.2",
     "id": "hats0005"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "1024cc4171a1128737cc536df8321432",
     "name": "ash_1",
+    "chipOffset": "-0.05,-0.25",
     "id": "hats0006"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "89e7c7be3a461ff3e268442eb1d416d5",
     "name": "ash_1 Flipped",
+    "chipOffset": "0.05,-0.25",
     "id": "hats0007"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "3fb210b50309ccd7016a5d23ea3b03fc",
     "name": "ben",
+    "chipOffset": "0.15,0.15",
     "id": "hats0009"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "ff218f59793ca5671d2527000b619ed0",
     "name": "besty",
+    "chipOffset": "-0.15,-0.2",
     "id": "hats0010"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "9bab045d21a31119cad7720114595897",
     "name": "bisexual",
+    "chipOffset": "0,-0.2",
     "id": "hats0011"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "a5bf0cf0f9b7a1ba1aa21f957b8daa8c",
     "name": "bloody",
+    "chipOffset": "0,0.1",
     "id": "hats0012"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "8b0caa1a75e9b3126a2c61fc5b318241",
     "name": "boba",
+    "chipOffset": "0,0.1",
     "id": "hats0013"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "408ca9a1b123b78039fa54c9a45e8b3d",
     "name": "breeh",
+    "chipOffset": "-0.05,-0.1",
     "id": "hats0014"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "2d8ceb3e261417b5e289b99e1c29f5d4",
     "name": "brittzey",
+    "chipOffset": "0,-0.3",
     "id": "hats0015"
   },
   {
@@ -340,12 +272,6 @@
     "mainHash": "bc28879df03bbd0be0d788423e4840cf",
     "name": "chilledchaos",
     "id": "hats0017"
-  },
-  {
-    "artist": "TheLastShaymin",
-    "mainHash": "0db6bbaab6acfe26901b265374e63af0",
-    "name": "clara",
-    "id": "hats0018"
   },
   {
     "artist": "TheLastShaymin",
@@ -363,6 +289,7 @@
     "artist": "TheLastShaymin",
     "mainHash": "c63de12f091970647a17da6472e16e19",
     "name": "duncan",
+    "chipOffset": "-0.05,0",
     "id": "hats0021"
   },
   {
@@ -375,18 +302,21 @@
     "artist": "TheLastShaymin",
     "mainHash": "d1b972afdfe21f7a553ad98d3f4285cd",
     "name": "ellum",
+    "chipOffset": "0,0.1",
     "id": "hats0023"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "8dbba50ee0c798ebfc79f5f612dc70c4",
     "name": "falcone_1",
+    "chipOffset": "0.1,-0.23",
     "id": "hats0024"
   },
   {
     "artist": "TheLastShaymin",
     "mainHash": "a8e783b89a874df6d5e4506d2038a6de",
     "name": "freyzplayz",
+    "chipOffset": "0,0.1",
     "id": "hats0025"
   },
   {

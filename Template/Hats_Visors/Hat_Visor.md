@@ -24,13 +24,17 @@ Data is handled via the use of json files. The following will provide the templa
         "behind": false, // Dictates whether the hat/visor will be behind the player or in front of them. This is optional and if left blank or not present, the hat/visor will be in front of the player
         "custom": true, // This property is used if you are replacing an existing cosmetic. This is optional and if left blank or not present, it is assumed that you are creating a new cosmetic. If set to true, it will skip the hash verification logic for the cosmetic, so that it doesn't try to update and replace your cosmetic with the existing one
 
+        // This property is used to dictate the location of the preview image in the customisation tab. Normally you wouldn't need them, but some hats/visors need to be manually adjusted to allow them to exist properly in the list of cosmetics. Best to use with UnityExplorer's feature of modifying localPosition so that you don't have to restart your game often
+        "chipOffset": "0,0",
+
         // The following properties are only used for hats.
         "backId": "backName", // The back id of the cosmetic that appears if the behind property is true. This is required if the behind property is true
         "backFlipId": "backFlipName", // Similar to the flipId property, but for the back id. This is optional and if left blank or not present, the back id will be flipped and shown
         "climbFlipId": "climbFlipName", // Similar to the climbId property, but for the back id. This is optional and if left blank or not present, the back id will not appear when the player is climbing
-        "noBounce": true // Dictates whether the hat will bounce on top of the player's head when they are running
+        "noBounce": true, // Dictates whether the hat will bounce on top of the player's head when they are running. This is optional and the default is true
+        "blocksVisors": false, // Dictates whether the hat is mutually exclusive with visors. This is optional, the default is false
 
-        // Any other properties you see are mainly for development purposes (stream/test) or for hash verification to update assets (hash properties)
+        // Any other properties you see are mainly for development purposes (stream/test) or for hash verification to update assets (hash properties), do not change them
     }
 ]
 ```
