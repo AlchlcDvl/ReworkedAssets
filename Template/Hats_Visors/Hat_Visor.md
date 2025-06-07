@@ -10,7 +10,7 @@ Your hat/visor could implement these colors to make them adaptive to the player 
 
 Data is handled via the use of json files. The following will provide the template for what what data is used for the hats/visors. When copy pasting the template, make sure to delete the text that is preceded by `//`.
 
-```json
+```jsonc
 [
     {
         // These properties are shared between hats and visors.

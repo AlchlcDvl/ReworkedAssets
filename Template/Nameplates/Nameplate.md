@@ -6,7 +6,7 @@ This folder contains the basic template for creating custom nameplates to be use
 
 Data is handled via the use of json files. The following will provide the template for what what data is used for the hats/visors. When copy pasting the template, make sure to delete the text that is preceded by `//`.
 
-```json
+```jsonc
 [
     {
         // These properties are used to create a custom nameplate
