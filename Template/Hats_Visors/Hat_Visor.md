@@ -25,7 +25,7 @@ Data is handled via the use of json files. The following will provide the templa
         "custom": true, // This property is used if you are replacing an existing cosmetic. This is optional and if left blank or not present, it is assumed that you are creating a new cosmetic. If set to true, it will skip the hash verification logic for the cosmetic, so that it doesn't try to update and replace your cosmetic with the existing one
 
         // This property is used to dictate the location of the preview image in the customisation tab. Normally you wouldn't need them, but some hats/visors need to be manually adjusted to allow them to exist properly in the list of cosmetics. Best to use with UnityExplorer's feature of modifying localPosition so that you don't have to restart your game often
-        "chipOffset": "0,0",
+        "chipOffset": "0,0", // "x,y"
 
         // The following properties are only used for hats.
         "backId": "backName", // The back id of the cosmetic that appears if the behind property is true. This is required if the behind property is true
@@ -35,6 +35,30 @@ Data is handled via the use of json files. The following will provide the templa
         "blocksVisors": false, // Dictates whether the hat is mutually exclusive with visors. This is optional, the default is false
 
         // Any other properties you see are mainly for development purposes (stream/test) or for hash verification to update assets (hash properties), do not change them
+    }
+]
+```
+
+Here is the cleaned version of the json entry without the comments:
+
+```json
+[
+    {
+        "artist": "Your Name",
+        "name": "Your Cosmetic Name",
+        "id": "fileName",
+        "adaptive": false,
+        "flipId": "flipName",
+        "climbId": "climbName",
+        "floorId": "floorName",
+        "behind": false,
+        "custom": true,
+        "chipOffset": "0,0",
+        "backId": "backName",
+        "backFlipId": "backFlipName",
+        "climbFlipId": "climbFlipName",
+        "noBounce": true
+        "blocksVisors": false
     }
 ]
 ```

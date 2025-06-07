@@ -26,5 +26,41 @@
   {
     "hash": "46b9724e9f5ce5a568e07db4f5e92825",
     "id": "UnHack"
+  },
+  {
+    "hash": "6cacfbbfcd5de9ff5a4740ed2d891274",
+    "id": "Shoot"
+  },
+  {
+    "hash": "eff9aa2ae0b3538da1fedbeb00172e5c",
+    "id": "MysticIntro"
+  },
+  {
+    "hash": "634b9b47499e2a6998ea78e482f7c6ac",
+    "id": "JesterWin"
+  },
+  {
+    "hash": "c8306f98b9d782ccff4b0e082b57417d",
+    "id": "AltruistIntro"
+  },
+  {
+    "hash": "644d20cf798dd0fe10b297737efe4b05",
+    "id": "HackEnded"
+  },
+  {
+    "hash": "28788aaa4f067b94819a062ccb603b69",
+    "id": "HackRevealed"
+  },
+  {
+    "hash": "07f364e8e6bd80b6a65ab738c5a4db8e",
+    "id": "Mimic"
+  },
+  {
+    "hash": "17ce3a91c00bb90b3481fa71bd84e7b1",
+    "id": "OperativeIntro"
+  },
+  {
+    "hash": "34b2ccb63f0429079dfe49fa25835b2a",
+    "id": "Bloodlust"
   }
 ]

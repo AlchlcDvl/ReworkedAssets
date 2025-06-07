@@ -1588,9 +1588,9 @@
     }
   },
   {
-    "ids": [ "CustomOption.NeutralBenignRoles", "CustomOption.NeutralBenignSettings" ],
+    "ids": [ "CustomOption.OutcastBenignRoles", "CustomOption.OutcastBenignSettings" ],
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Benign</color> <#FFD700>Roles</color>",
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Benign</color> <#FFD700>Roles</color>",
       "schinese": "<#1D7CF2>友好型</color><#B3B3B3>独立阵营</color><#FFD700>职业</color>"
     }
   },
@@ -1623,9 +1623,9 @@
     }
   },
   {
-    "ids": [ "CustomOption.NeutralEvilRoles", "CustomOption.NeutralEvilSettings" ],
+    "ids": [ "CustomOption.OutcastEvilRoles", "CustomOption.OutcastEvilSettings" ],
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Evil</color> <#FFD700>Roles</color>",
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Evil</color> <#FFD700>Roles</color>",
       "schinese": "<#1D7CF2>邪恶型</color><#B3B3B3>独立阵营</color><#FFD700>职业</color>"
     }
   },
@@ -1722,9 +1722,9 @@
     }
   },
   {
-    "ids": [ "CustomOption.NeutralKillingRoles", "CustomOption.NeutralKillingSettings" ],
+    "ids": [ "CustomOption.OutcastKillingRoles", "CustomOption.OutcastKillingSettings" ],
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Killing</color> <#FFD700>Roles</color>",
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Killing</color> <#FFD700>Roles</color>",
       "schinese": "<#1D7CF2>击杀型</color><#B3B3B3>独立阵营</color><#FFD700>职业</color>"
     }
   },
@@ -1778,9 +1778,9 @@
     }
   },
   {
-    "ids": [ "CustomOption.NeutralNeophyteRoles", "CustomOption.NeutralNeophyteSettings" ],
+    "ids": [ "CustomOption.OutcastNeophyteRoles", "CustomOption.OutcastNeophyteSettings" ],
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Neophyte</color> <#FFD700>Roles</color>",
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Neophyte</color> <#FFD700>Roles</color>",
       "schinese": "<#1D7CF2>宗派型</color><#B3B3B3>独立阵营</color><#FFD700>职业</color>"
     }
   },
@@ -1819,9 +1819,9 @@
     }
   },
   {
-    "id": "CustomOption.NeutralProselyteRoles",
+    "id": "CustomOption.OutcastProselyteRoles",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Proselyte</color> <#FFD700>Roles</color>"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Proselyte</color> <#FFD700>Roles</color>"
     }
   },
   {
@@ -2909,19 +2909,19 @@
   {
     "id": "CustomOption.NeutEvilRed",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Evils</color> Appear Evil"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Evils</color> Appear Evil"
     }
   },
   {
     "id": "CustomOption.NeutKillingRed",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Killers</color> Appear Evil"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Killers</color> Appear Evil"
     }
   },
   {
     "id": "CustomOption.NeutNeophyteRed",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Neophytes</color> Appear Evil"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Neophytes</color> Appear Evil"
     }
   },
   {
@@ -3315,9 +3315,9 @@
     }
   },
   {
-    "id": "CustomOption.RevealerRevealsNeutrals",
+    "id": "CustomOption.RevealerRevealsOutcasts",
     "values": {
-      "english": "<#D3D3D3>Revealer</color> Reveals <#B3B3B3>Neutrals</color>"
+      "english": "<#D3D3D3>Revealer</color> Reveals <#B3B3B3>Outcasts</color>"
     }
   },
   {
@@ -3387,51 +3387,51 @@
     }
   },
   {
-    "ids": [ "CustomOption.NeutralSettings", "CustomOption.DefectorFaction.Neutral" ],
+    "ids": [ "CustomOption.OutcastSettings", "CustomOption.DefectorFaction.Outcast" ],
     "values": {
-      "english": "<#B3B3B3>Neutrals</color>"
+      "english": "<#B3B3B3>Outcasts</color>"
     }
   },
   {
-    "id": "CustomOption.NeutralVision",
+    "id": "CustomOption.OutcastVision",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> Vision"
+      "english": "<#B3B3B3>Outcast</color> Vision"
     }
   },
   {
-    "id": "CustomOption.LightsAffectNeutrals",
+    "id": "CustomOption.LightsAffectOutcasts",
     "values": {
-      "english": "Lights Sabotage Affects <#B3B3B3>Neutral</color> Vision"
+      "english": "Lights Sabotage Affects <#B3B3B3>Outcast</color> Vision"
     }
   },
   {
-    "id": "CustomOption.NeutralFlashlight",
+    "id": "CustomOption.OutcastFlashlight",
     "values": {
-      "english": "<#B3B3B3>Neutrals</color> Use A Flashlight"
+      "english": "<#B3B3B3>Outcasts</color> Use A Flashlight"
     }
   },
   {
-    "id": "CustomOption.NeutralMax",
+    "id": "CustomOption.OutcastMax",
     "values": {
-      "english": "Max <#B3B3B3>Neutrals</color>"
+      "english": "Max <#B3B3B3>Outcasts</color>"
     }
   },
   {
-    "id": "CustomOption.NeutralMin",
+    "id": "CustomOption.OutcastMin",
     "values": {
-      "english": "Min <#B3B3B3>Neutrals</color>"
+      "english": "Min <#B3B3B3>Outcasts</color>"
     }
   },
   {
-    "id": "CustomOption.AvoidNeutralKingmakers",
+    "id": "CustomOption.AvoidOutcastKingmakers",
     "values": {
-      "english": "Avoid <#B3B3B3>Neutral</color> Kingmakers"
+      "english": "Avoid <#B3B3B3>Outcast</color> Kingmakers"
     }
   },
   {
-    "id": "CustomOption.NeutralsVent",
+    "id": "CustomOption.OutcastsVent",
     "values": {
-      "english": "<#B3B3B3>Neutrals</color> Can Vent"
+      "english": "<#B3B3B3>Outcasts</color> Can Vent"
     }
   },
   {
@@ -3467,13 +3467,13 @@
   {
     "id": "CustomOption.MaxNB",
     "values": {
-      "english": "Max <#B3B3B3>Neutral</color> <#1D7CF2>Benigns</color>"
+      "english": "Max <#B3B3B3>Outcast</color> <#1D7CF2>Benigns</color>"
     }
   },
   {
     "id": "CustomOption.VigilanteKillsBenigns",
     "values": {
-      "english": "<#FFFF00>Vigilante</color> Kills <#B3B3B3>Neutral</color> <#1D7CF2>Benigns</color>"
+      "english": "<#FFFF00>Vigilante</color> Kills <#B3B3B3>Outcast</color> <#1D7CF2>Benigns</color>"
     }
   },
   {
@@ -3635,25 +3635,25 @@
   {
     "id": "CustomOption.MaxNE",
     "values": {
-      "english": "Max <#B3B3B3>Neutral</color> <#1D7CF2>Evils</color>"
+      "english": "Max <#B3B3B3>Outcast</color> <#1D7CF2>Evils</color>"
     }
   },
   {
-    "id": "CustomOption.NeutralEvilsEndGame",
+    "id": "CustomOption.OutcastEvilsEndGame",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Evils</color> End The Game When Winning"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Evils</color> End The Game When Winning"
     }
   },
   {
     "id": "CustomOption.VigilanteKillsEvils",
     "values": {
-      "english": "<#FFFF00>Vigilante</color> Kills <#B3B3B3>Neutral</color> <#1D7CF2>Evils</color>"
+      "english": "<#FFFF00>Vigilante</color> Kills <#B3B3B3>Outcast</color> <#1D7CF2>Evils</color>"
     }
   },
   {
     "id": "CustomOption.NEHaveImpVision",
     "values": {
-      "english": " <#B3B3B3>Neutral</color> <#1D7CF2>Evils</color> Have <#FF1919>Intruder</color> Vision"
+      "english": " <#B3B3B3>Outcast</color> <#1D7CF2>Evils</color> Have <#FF1919>Intruder</color> Vision"
     }
   },
   {
@@ -3917,19 +3917,19 @@
   {
     "id": "CustomOption.MaxNK",
     "values": {
-      "english": "Max <#B3B3B3>Neutral</color> <#1D7CF2>Killers</color>"
+      "english": "Max <#B3B3B3>Outcast</color> <#1D7CF2>Killers</color>"
     }
   },
   {
     "id": "CustomOption.NKHaveImpVision",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Killers</color> Have <#FF1919>Intruder</color> Vision"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Killers</color> Have <#FF1919>Intruder</color> Vision"
     }
   },
   {
     "id": "CustomOption.KnowEachOther",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Killers</color> Know Each Other"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Killers</color> Know Each Other"
     }
   },
   {
@@ -4025,7 +4025,7 @@
   {
     "id": "CustomOption.NeutraliseCd",
     "values": {
-      "english": "Neutralise Cooldown"
+      "english": "Outcastise Cooldown"
     }
   },
   {
@@ -4133,13 +4133,13 @@
   {
     "id": "CustomOption.MaxNN",
     "values": {
-      "english": "Max <#B3B3B3>Neutral</color> <#1D7CF2>Neophytes</color>"
+      "english": "Max <#B3B3B3>Outcast</color> <#1D7CF2>Neophytes</color>"
     }
   },
   {
     "id": "CustomOption.NNHaveImpVision",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Neophytes</color> Have <#FF1919>Intruder</color> Vision"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Neophytes</color> Have <#FF1919>Intruder</color> Vision"
     }
   },
   {
@@ -5218,15 +5218,15 @@
     }
   },
   {
-    "id": "CustomOption.AssassinGuessNeutralBenign",
+    "id": "CustomOption.AssassinGuessOutcastBenign",
     "values": {
-      "english": "<#073763>Assassin</color> Can Guess <#B3B3B3>Neutral</color> <#1D7CF2>Benigns</color>"
+      "english": "<#073763>Assassin</color> Can Guess <#B3B3B3>Outcast</color> <#1D7CF2>Benigns</color>"
     }
   },
   {
-    "id": "CustomOption.AssassinGuessNeutralEvil",
+    "id": "CustomOption.AssassinGuessOutcastEvil",
     "values": {
-      "english": "<#073763>Assassin</color> Can Guess <#B3B3B3>Neutral</color> <#1D7CF2>Evils</color>"
+      "english": "<#073763>Assassin</color> Can Guess <#B3B3B3>Outcast</color> <#1D7CF2>Evils</color>"
     }
   },
   {
@@ -5302,9 +5302,9 @@
     }
   },
   {
-    "id": "CustomOption.SnitchSeesNeutrals",
+    "id": "CustomOption.SnitchSeesOutcasts",
     "values": {
-      "english": "<#D4AF37>Snitch</color> Sees <#B3B3B3>Neutrals</color>"
+      "english": "<#D4AF37>Snitch</color> Sees <#B3B3B3>Outcasts</color>"
     }
   },
   {
@@ -5416,9 +5416,9 @@
     }
   },
   {
-    "id": "CustomOption.DefectorFaction.NonNeutral",
+    "id": "CustomOption.DefectorFaction.NonOutcast",
     "values": {
-      "english": "Non-<#B3B3B3>Neutral</color>"
+      "english": "Non-<#B3B3B3>Outcast</color>"
     }
   },
   {
@@ -5652,7 +5652,7 @@
   {
     "id": "CustomOption.CustomNeutColors",
     "values": {
-      "english": "Custom Neutral Colors"
+      "english": "Custom Outcast Colors"
     }
   },
   {
@@ -5950,39 +5950,39 @@
     }
   },
   {
-    "id": "List.RandomNeutral",
+    "id": "List.RandomOutcast",
     "values": {
-      "english": "<#1D7CF2>Random</color> <#B3B3B3>Neutral</color>"
+      "english": "<#1D7CF2>Random</color> <#B3B3B3>Outcast</color>"
     }
   },
   {
-    "id": "List.NeutralKill",
+    "id": "List.OutcastKill",
     "values": {
-      "english": "<#B3B3B3>Neutral (<#1D7CF2>Killing</color>)</color>"
+      "english": "<#B3B3B3>Outcast (<#1D7CF2>Killing</color>)</color>"
     }
   },
   {
-    "id": "List.NeutralNeo",
+    "id": "List.OutcastNeo",
     "values": {
-      "english": "<#B3B3B3>Neutral (<#1D7CF2>Neophyte</color>)</color>"
+      "english": "<#B3B3B3>Outcast (<#1D7CF2>Neophyte</color>)</color>"
     }
   },
   {
-    "id": "List.NeutralEvil",
+    "id": "List.OutcastEvil",
     "values": {
-      "english": "<#B3B3B3>Neutral (<#1D7CF2>Evil</color>)</color>"
+      "english": "<#B3B3B3>Outcast (<#1D7CF2>Evil</color>)</color>"
     }
   },
   {
-    "id": "List.NeutralBen",
+    "id": "List.OutcastBen",
     "values": {
-      "english": "<#B3B3B3>Neutral (<#1D7CF2>Benign</color>)</color>"
+      "english": "<#B3B3B3>Outcast (<#1D7CF2>Benign</color>)</color>"
     }
   },
   {
-    "id": "List.NeutralPros",
+    "id": "List.OutcastPros",
     "values": {
-      "english": "<#B3B3B3>Neutral (<#1D7CF2>Proselyte</color>)</color>"
+      "english": "<#B3B3B3>Outcast (<#1D7CF2>Proselyte</color>)</color>"
     }
   },
   {
@@ -5998,15 +5998,15 @@
     }
   },
   {
-    "id": "List.RegularNeutral",
+    "id": "List.RegularOutcast",
     "values": {
-      "english": "<#1D7CF2>Regular</color> <#B3B3B3>Neutral</color>"
+      "english": "<#1D7CF2>Regular</color> <#B3B3B3>Outcast</color>"
     }
   },
   {
-    "id": "List.HarmfulNeutral",
+    "id": "List.HarmfulOutcast",
     "values": {
-      "english": "<#1D7CF2>Harmful</color> <#B3B3B3>Neutral</color>"
+      "english": "<#1D7CF2>Harmful</color> <#B3B3B3>Outcast</color>"
     }
   },
   {
@@ -6076,9 +6076,9 @@
     }
   },
   {
-    "id": "List.NonNeutral",
+    "id": "List.NonOutcast",
     "values": {
-      "english": "Non-<#B3B3B3>Neutral</color>"
+      "english": "Non-<#B3B3B3>Outcast</color>"
     }
   },
   {
@@ -6164,9 +6164,9 @@
     }
   },
   {
-    "id": "Stats.NeutralGames",
+    "id": "Stats.OutcastGames",
     "values": {
-      "english": "Neutral Games Played"
+      "english": "Outcast Games Played"
     }
   },
   {
@@ -7096,7 +7096,7 @@
   {
     "id": "Achievement.LayerWins.Slayer.Title",
     "values": {
-      "english": "Neutral Executioner"
+      "english": "Outcast Executioner"
     }
   },
   {
@@ -7294,7 +7294,7 @@
   {
     "id": "Achievement.LastLaugh.Description",
     "values": {
-      "english": "Win as a Neutral (Evil) role with less than 5 players remaining"
+      "english": "Win as an Outcast (Evil) role with less than 5 players remaining"
     }
   },
   {
@@ -7954,7 +7954,7 @@
   {
     "id": "Wiki.Null.Description",
     "values": {
-      "english": "This symbol is a placeholder for when one doesn't have a disposition or subfaction that they are part of."
+      "english": "This symbol is a placeholder for when one doesn't have a disposition."
     }
   },
   {
@@ -8030,18 +8030,6 @@
     }
   },
   {
-    "id": "Wiki.Bitten",
-    "values": {
-      "english": "Bitten"
-    }
-  },
-  {
-    "id": "Wiki.Bitten.Description",
-    "values": {
-      "english": "The symbol that means one is part of the Undead subfaction."
-    }
-  },
-  {
     "id": "Wiki.Tormented",
     "values": {
       "english": "Tormented"
@@ -8090,30 +8078,6 @@
     }
   },
   {
-    "id": "Wiki.Recruited",
-    "values": {
-      "english": "Recruited"
-    }
-  },
-  {
-    "id": "Wiki.Recruited.Description",
-    "values": {
-      "english": "The symbol that means one is part of the Cabal subfaction."
-    }
-  },
-  {
-    "id": "Wiki.Resurrected",
-    "values": {
-      "english": "Resurrected"
-    }
-  },
-  {
-    "id": "Wiki.Resurrected.Description",
-    "values": {
-      "english": "The symbol that means one is part of the Reanimated subfaction."
-    }
-  },
-  {
     "id": "Wiki.Infected",
     "values": {
       "english": "Infected"
@@ -8147,18 +8111,6 @@
     "id": "Wiki.Vested.Description",
     "values": {
       "english": "Survivors who currently have their vests active."
-    }
-  },
-  {
-    "id": "Wiki.Persuaded",
-    "values": {
-      "english": "Persuaded"
-    }
-  },
-  {
-    "id": "Wiki.Persuaded.Description",
-    "values": {
-      "english": "The symbol that means one is part of the Cult subfaction."
     }
   },
   {
@@ -8612,15 +8564,15 @@
     }
   },
   {
-    "id": "Wiki.Neutral",
+    "id": "Wiki.Outcast",
     "values": {
-      "english": "Neutral"
+      "english": "Outcast"
     }
   },
   {
-    "id": "Wiki.Neutral.Description",
+    "id": "Wiki.Outcast.Description",
     "values": {
-      "english": "Factionless roles with unique win conditions. Neutrals operate independently in a free-for-all style. As an uninformed minority, they lack team coordination and pursue diverse objectives;some helpful, some not."
+      "english": "Factionless roles with unique win conditions. Outcasts operate independently in a free-for-all style. As an uninformed minority, they lack team coordination and pursue diverse objectives;some helpful, some not."
     }
   },
   {
@@ -8632,7 +8584,7 @@
   {
     "id": "Wiki.Compliance.Description",
     "values": {
-      "english": "A coalition of Neutral Killers and Neophytes. Combines lethal power with conversion abilities, forming a formidable threat. Members coordinate to overwhelm other factions."
+      "english": "A coalition of Outcast Killers and Neophytes. Combines lethal power with conversion abilities, forming a formidable threat. Members coordinate to overwhelm other factions."
     }
   },
   {
@@ -8758,7 +8710,7 @@
   {
     "id": "ShortDesc.Mystic",
     "values": {
-      "english": "Detects subfaction changes and converts to Seer when obsolete."
+      "english": "Detects faction changes and converts to Seer when obsolete."
     }
   },
   {
@@ -8920,7 +8872,7 @@
   {
     "id": "ShortDesc.Murderer",
     "values": {
-      "english": "Neutral killer with basic attack/defense and no special abilities."
+      "english": "Outcast killer with basic attack/defense and no special abilities."
     }
   },
   {
@@ -9370,7 +9322,7 @@
   {
     "id": "ShortDesc.Allied",
     "values": {
-      "english": "Neutral Killer siding with a faction (Crew/Intruder/Syndicate)."
+      "english": "Outcast Killer siding with a faction (Crew/Intruder/Syndicate)."
     }
   },
   {
@@ -9904,7 +9856,7 @@
   {
     "id": "CustomOption.WinSolo",
     "values": {
-      "english": "<#B3B3B3>Neutral</color> <#1D7CF2>Killers</color> Win Solo"
+      "english": "<#B3B3B3>Outcast</color> <#1D7CF2>Killers</color> Win Solo"
     }
   },
   {
@@ -9914,9 +9866,9 @@
     }
   },
   {
-    "id": "List.NonCompNeutral",
+    "id": "List.NonCompOutcast",
     "values": {
-      "english": "Non-<#5A27CC>Compliance</color> <#B3B3B3>Neutral</color>"
+      "english": "Non-<#5A27CC>Compliance</color> <#B3B3B3>Outcast</color>"
     }
   },
   {
@@ -10136,9 +10088,9 @@
     }
   },
   {
-    "id": "List.NonIllNeutral",
+    "id": "List.NonIllOutcast",
     "values": {
-      "english": "Non-<#A39389>Illuminati</color> <#B3B3B3>Neutral</color>"
+      "english": "Non-<#A39389>Illuminati</color> <#B3B3B3>Outcast</color>"
     }
   }
 ]

@@ -19,3 +19,16 @@ Data is handled via the use of json files. The following will provide the templa
     }
 ]
 ```
+
+Here is the cleaned version of the json entry without the comments:
+
+```json
+[
+    {
+        "artist": "Your Name",
+        "name": "Your Cosmetic Name",
+        "id": "fileName",
+        "custom": true
+    }
+]
+```
