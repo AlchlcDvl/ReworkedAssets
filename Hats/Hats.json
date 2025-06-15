@@ -2535,6 +2535,24 @@
     "id": "standard0027"
   },
   {
+    "artist": "Szatał",
+    "mainHash": "8835765371d58a6b1aaa9116ff702595",
+    "name": "Strefa debili",
+    "id": "hats0004"
+  },
+  {
+    "artist": "Szatał",
+    "mainHash": "9972e84ca83c05574a7ebcdb56c332ce",
+    "name": "Sweatshirt",
+    "id": "hats0003"
+  },
+  {
+    "artist": "Szatał",
+    "mainHash": "63b23db284ca34ed3ded975034f870ff",
+    "name": "Smug Mini",
+    "id": "hats0001"
+  },
+  {
     "mainHash": "c45d1d894615218f0bb7a85ab22d87e0",
     "name": "bird",
     "id": "standard0031"
