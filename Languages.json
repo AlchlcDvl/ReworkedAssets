@@ -1601,7 +1601,7 @@
     "ids": [ "CustomOption.Trapper", "CustomOption.Trapper1", "List.Trapper", "Layer.Trapper" ],
     "values": {
       "english": "Trapper",
-      "schinese": "设陷者"    
+      "schinese": "设陷者"
     }
   },
   {
@@ -1636,7 +1636,7 @@
     "ids": [ "CustomOption.Democrat", "CustomOption.Democrat1", "List.Democrat", "Layer.Democrat" ],
     "values": {
       "english": "Dictator",
-      "schinese": "民主党人"      
+      "schinese": "民主党人"
     }
   },
   {
@@ -2929,7 +2929,6 @@
     "values": {
       "english": "Examine Cooldown",
       "schinese": "检查冷却时间"
-      
     }
   },
   {
@@ -5625,7 +5624,7 @@
     "id": "CustomOption.MaxSSu",
     "values": {
       "english": "Max <#008000>Syndicate</color> <#1D7CF2>Supporters</color>",
-      "schinese": "最大<#008000>无政府组织</color><#1D7CF2>援助型职业</color>数" 
+      "schinese": "最大<#008000>无政府组织</color><#1D7CF2>援助型职业</color>数"
     }
   },
   {
@@ -8849,7 +8848,7 @@
     "id": "Wiki.Miner.Quote",
     "values": {
       "english": "Boom! A hole!",
-      "schinese": "I.....am steve"
+      "schinese": "I.....am Steve"
     }
   },
   {
@@ -9016,7 +9015,7 @@
   {
     "id": "Wiki.Null.Description",
     "values": {
-      "english": "This symbol is a placeholder for when one doesn't have a disposition or subfaction that they are part of.",
+      "english": "This symbol is a placeholder for when one doesn't have a disposition that they are part of.",
       "schinese": "这个标志是个填空用的,为了某些没有天资或副阵营的人而使用"
     }
   },
@@ -9175,34 +9174,6 @@
     }
   },
   {
-    "id": "Wiki.Recruited",
-    "values": {
-      "english": "Recruited",
-      "schinese": "被招募"
-    }
-  },
-  {
-    "id": "Wiki.Recruited.Description",
-    "values": {
-      "english": "The symbol that means one is part of the Cabal subfaction.",
-      "schinese": "这标志意味着你的副阵营为豺狼阵营"
-    }
-  },
-  {
-    "id": "Wiki.Resurrected",
-    "values": {
-      "english": "Resurrected",
-      "schinese": "被复苏"
-    }
-  },
-  {
-    "id": "Wiki.Resurrected.Description",
-    "values": {
-      "english": "The symbol that means one is part of the Reanimated subfaction.",
-      "schinese": "这标志意味着你现在的副阵营是亡灵阵营"
-    }
-  },
-  {
     "id": "Wiki.Infected",
     "values": {
       "english": "Infected",
@@ -9242,20 +9213,6 @@
     "values": {
       "english": "Survivors who currently have their vests active.",
       "schinese": "求生者启用他们防弹衣时的图标"
-    }
-  },
-  {
-    "id": "Wiki.Persuaded",
-    "values": {
-      "english": "Persuaded",
-      "schinese": "被说服"
-    }
-  },
-  {
-    "id": "Wiki.Persuaded.Description",
-    "values": {
-      "english": "The symbol that means one is part of the Cult subfaction.",
-      "schinese": "这个标志意味着你现在的副阵营是邪教阵营"
     }
   },
   {
@@ -9338,7 +9295,7 @@
   {
     "id": "Wiki.Campaigned.Description",
     "values": {
-      "english": ".",
+      "english": "A player who has been campaigned towards a Democrat. When all alive Crew members have been campaigned, the Democrat can become the Mayor.",
       "schinese": "你被民主党人拉票了:)"
     }
   },
